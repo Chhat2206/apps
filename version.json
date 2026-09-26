@@ -1,0 +1,22 @@
+{
+  "stocks": {
+    "label": "Stocks",
+    "code": 111,
+    "file": "stocks.apk",
+    "sha256": "64faab26f151779d61a3174bc5b00dff4e5081d0ec62fa0c183d50cf4c6fc49b",
+    "size": 355352,
+    "commit": "8927c6d",
+    "subject": "Stocks: Earned and Analytics Details get graphs — a running total, each year as a bar, and who or what the total is made of",
+    "built": "2026-09-26T07:25:10.176Z"
+  },
+  "papa": {
+    "label": "Papa's book",
+    "code": 28,
+    "file": "papa.apk",
+    "sha256": "6e0c770d9db4b442941e98a21e6fa95592b96e81b8f22a757624925fc9abf767",
+    "size": 203415,
+    "commit": "eeb16a1",
+    "subject": "Papa: no close button, and a holding's list is a ledger with a key",
+    "built": "2026-09-25T15:04:50.242Z"
+  }
+}
