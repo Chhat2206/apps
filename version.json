@@ -1,0 +1,52 @@
+{
+  "stocks": {
+    "label": "Stocks",
+    "code": 131,
+    "file": "stocks.apk",
+    "sha256": "b03f18f80844414e11998f2a6eb7a7a933987aab68ebe72abeb1fbba66485da3",
+    "size": 419349,
+    "commit": "3017289",
+    "subject": "Stocks: Dividends → Coming, what each holding will pay in the next 12 months, announced or like last year",
+    "built": "2026-10-02T06:54:15.702Z"
+  },
+  "papa": {
+    "label": "Papa's book",
+    "code": 59,
+    "file": "papa.apk",
+    "sha256": "7593dfa57eebb56323b5d3713c202d855d97146af8b93884d7c1901cf49da1e4",
+    "size": 311517,
+    "commit": "5f732aa",
+    "subject": "papa: every stock on the Tracker gets its news too, held or not",
+    "built": "2026-10-03T16:41:55.121Z"
+  },
+  "groceries": {
+    "label": "Credit Card",
+    "code": 2,
+    "file": "groceries.apk",
+    "sha256": "ac923846135b2381909a9d399c4435354aa8d6786ea6935e96ef3a67827c10e3",
+    "size": 81716,
+    "commit": "afbe1fe",
+    "subject": "Credit Card (groceries): one question per screen, a card schedule, a paid checklist",
+    "built": "2026-09-29T10:05:53.081Z"
+  },
+  "card-tracker": {
+    "label": "Credit Card",
+    "code": 12,
+    "file": "card-tracker.apk",
+    "sha256": "fee30900d4f81f63e2e6537a185604b92c3a5bb9114ad9aae88f7e422267122a",
+    "size": 97612,
+    "commit": "7592f7b",
+    "subject": "Credit Card: \"Others\" can have bought it, and no \"What was it?\" box or name chips",
+    "built": "2026-10-03T16:29:02.498Z"
+  },
+  "musu": {
+    "label": "Musu",
+    "code": 6,
+    "file": "musu.apk",
+    "sha256": "4e06b73e358cab358d00af259202f875b5bbd23908e2622825b2b5b78391693d",
+    "size": 358939,
+    "commit": "ee76c5a",
+    "subject": "Musu: the Musuno image looks the same as the laptop's",
+    "built": "2026-10-01T13:12:59.113Z"
+  }
+}
