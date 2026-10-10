@@ -1,0 +1,82 @@
+{
+  "stocks": {
+    "label": "Stocks",
+    "code": 153,
+    "file": "stocks.apk",
+    "sha256": "7d46ac314d9b90485b007bb1614b9ca6c033ca163fe1e81fe04def8373bd4662",
+    "size": 447648,
+    "commit": "7193874",
+    "subject": "stocks: every save takes you back to the page — a Buy all for Australia, a pending order, a transfer and an Earned entry used to leave the form open and emptied",
+    "built": "2026-10-08T05:14:32.499Z"
+  },
+  "papa": {
+    "label": "Papa's book",
+    "code": 103,
+    "file": "papa.apk",
+    "sha256": "eb56a519d7f3a319bb04754d8a4a836eca7a6bdc2f62847ea37073d80aba1fef",
+    "size": 391025,
+    "commit": "d176b8d",
+    "subject": "Papa: the news round runs on the Pi, so closing the app no longer loses it",
+    "built": "2026-10-10T16:06:12.578Z"
+  },
+  "groceries": {
+    "label": "Credit Card",
+    "code": 2,
+    "file": "groceries.apk",
+    "sha256": "ac923846135b2381909a9d399c4435354aa8d6786ea6935e96ef3a67827c10e3",
+    "size": 81716,
+    "commit": "afbe1fe",
+    "subject": "Credit Card (groceries): one question per screen, a card schedule, a paid checklist",
+    "built": "2026-09-29T10:05:53.081Z"
+  },
+  "card-tracker": {
+    "label": "Credit Card",
+    "code": 40,
+    "file": "card-tracker.apk",
+    "sha256": "f2d4ee2d9d911707aaef3bf4f775bf74ed4e337fd15c917d3dd6463cb87cda69",
+    "size": 120232,
+    "commit": "974a513",
+    "subject": "Credit Card: the Gas pop-up's total and Anil's half back on the blue block",
+    "built": "2026-10-10T14:04:24.802Z"
+  },
+  "musu": {
+    "label": "Musu",
+    "code": 8,
+    "file": "musu.apk",
+    "sha256": "bb03f36180fd8354c58b2e1a11f3861ba0c287a4535af8249bb2a5945e55fa84",
+    "size": 359107,
+    "commit": "dd31c28",
+    "subject": "phones: one file sets up any app — phone-setup.json, pasted into the first box",
+    "built": "2026-10-07T14:30:17.991Z"
+  },
+  "music": {
+    "label": "Music",
+    "code": 2,
+    "file": "music.apk",
+    "sha256": "64f917b73c8a2bb64b87fb225ce5570283ec8994c711aa4744c3664302f923bc",
+    "size": 26752,
+    "commit": "caa598e",
+    "subject": "Music: no -- inside an XML comment (it broke the APK build)",
+    "built": "2026-10-10T05:46:54.631Z"
+  },
+  "manhwa": {
+    "label": "Manhwa Radar",
+    "code": 1,
+    "file": "manhwa.apk",
+    "sha256": "7f7434ba6eeaffab537de17a516a069a411d58edc6b53580584b8d8a7468f5f4",
+    "size": 37649,
+    "commit": "84ecfe9",
+    "subject": "Manhwa Radar: build the APK and send it to the phones",
+    "built": "2026-10-10T05:49:38.887Z"
+  },
+  "trip-money": {
+    "label": "Trip Money",
+    "code": 13,
+    "file": "trip-money.apk",
+    "sha256": "babd7984e2c1274178f6b660890b3dad59ef5eb6d149381eed01975c93820937",
+    "size": 38701,
+    "commit": "d21b34f",
+    "subject": "Trip Money: Android keeps the trips too, so a tap is never lost to a swipe-away",
+    "built": "2026-10-10T15:35:03.491Z"
+  }
+}
