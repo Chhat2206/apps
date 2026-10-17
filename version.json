@@ -1,0 +1,122 @@
+{
+  "stocks": {
+    "label": "Stocks",
+    "code": 161,
+    "file": "stocks.apk",
+    "sha256": "3a8c28b1ed59e3973d47f480e77cb89f806295e97273ec46237e0b919cc4e518",
+    "size": 528102,
+    "commit": "65f1aaf",
+    "subject": "Claude for every app while Codex and Gemini are off, on the account picked per app (Musuno)",
+    "built": "2026-10-17T15:11:51.246Z"
+  },
+  "papa": {
+    "label": "Papa's book",
+    "code": 120,
+    "file": "papa.apk",
+    "sha256": "459117326cad8a72fc097f912edb56818b3497c1d5f74a3f8cce7ee1aead8ca0",
+    "size": 490601,
+    "commit": "65f1aaf",
+    "subject": "Claude for every app while Codex and Gemini are off, on the account picked per app (Musuno)",
+    "built": "2026-10-17T15:12:35.855Z"
+  },
+  "groceries": {
+    "label": "Credit Card",
+    "code": 2,
+    "file": "groceries.apk",
+    "sha256": "ac923846135b2381909a9d399c4435354aa8d6786ea6935e96ef3a67827c10e3",
+    "size": 81716,
+    "commit": "afbe1fe",
+    "subject": "Credit Card (groceries): one question per screen, a card schedule, a paid checklist",
+    "built": "2026-09-29T10:05:53.081Z"
+  },
+  "card-tracker": {
+    "label": "Credit Card",
+    "code": 53,
+    "file": "card-tracker.apk",
+    "sha256": "0dec88bf54d6dc6c5dbe1447d409c9c97591cf0738f48f9ff77071d607ad681f",
+    "size": 212022,
+    "commit": "23a97d6",
+    "subject": "Credit Card: Bills up to a day in place of All months — a calendar picks the cut-off, later bills drop off",
+    "built": "2026-10-16T19:21:56.433Z"
+  },
+  "musu": {
+    "label": "Work Tracker",
+    "code": 11,
+    "file": "musu.apk",
+    "sha256": "f361e39167a3cf6e28b9e3ae50a519837a95051af2bbd3561126244a7d4495d6",
+    "size": 442484,
+    "commit": "6a48872",
+    "subject": "Work Tracker (was Musu): InsourceData's Status report on the phone",
+    "built": "2026-10-17T07:31:40.531Z"
+  },
+  "music": {
+    "label": "Music",
+    "code": 6,
+    "file": "music.apk",
+    "sha256": "c12dce56c7fc2b7cf4cf1d4e60d57cfedcb4976574867d13c48a49ec29096767",
+    "size": 105922,
+    "commit": "a1bba18",
+    "subject": "Every app with a key sets itself up from a QR; Ad Block's Games switch blocks by default",
+    "built": "2026-10-15T09:12:41.348Z"
+  },
+  "manhwa": {
+    "label": "Manhwa Radar",
+    "code": 8,
+    "file": "manhwa.apk",
+    "sha256": "dfbffaa0cdcf1b9622f9419e9eeebcf0fd79ca23b8ef327435aa32fa767b769a",
+    "size": 48135,
+    "commit": "a1bba18",
+    "subject": "Every app with a key sets itself up from a QR; Ad Block's Games switch blocks by default",
+    "built": "2026-10-15T09:12:38.648Z"
+  },
+  "trip-money": {
+    "label": "Trip Money",
+    "code": 19,
+    "file": "trip-money.apk",
+    "sha256": "1885a484fd0ab3d17e479896ff8f6f164429b4622fce32e5f2151e8b82e99f42",
+    "size": 41337,
+    "commit": "6eb9aef",
+    "subject": "Trip Money CI: drop the runner's swap file so the emulator has its 7.4 GB",
+    "built": "2026-10-14T10:34:40.908Z"
+  },
+  "climb": {
+    "label": "Climb Log",
+    "code": 5,
+    "file": "climb.apk",
+    "sha256": "ff8e3e800183482215d113f01ff7a248e4362b2b9ba279beaf7454ce1d95e045",
+    "size": 170628,
+    "commit": "a1bba18",
+    "subject": "Every app with a key sets itself up from a QR; Ad Block's Games switch blocks by default",
+    "built": "2026-10-15T09:12:35.123Z"
+  },
+  "collection": {
+    "label": "Papa's Collection",
+    "code": 64,
+    "file": "collection.apk",
+    "sha256": "9f6cef1a5cb921d1ff750f5b9fed8c3257f7b483aaa5012860c97514d49f740d",
+    "size": 214212,
+    "commit": "14284a5",
+    "subject": "AI panel design C: a column per account, M | I | Default in the toolbar, weekday/weekend/today caps",
+    "built": "2026-10-17T15:38:58.158Z"
+  },
+  "hub": {
+    "label": "Hub",
+    "code": 10,
+    "file": "hub.apk",
+    "sha256": "fac0cb92ff6f0bbd2100a174007b6569a864081009d012f8cd27132fa1b815f4",
+    "size": 106020,
+    "commit": "6a05091",
+    "subject": "Codex ledger on the Pi (:8795): who used the Codex subscription, seen from /proc; the real Codex only where CODEX_LIVE=1",
+    "built": "2026-10-16T02:16:00.083Z"
+  },
+  "adblock": {
+    "label": "Ad Block",
+    "code": 13,
+    "file": "adblock.apk",
+    "sha256": "733fc64d1f50510d2f03b1de2f97f21efc8c0d8399849410bf5d8691dafa0505",
+    "size": 205016,
+    "commit": "7680ea5",
+    "subject": "Home ad block: a Desktop shortcut too",
+    "built": "2026-10-16T17:21:32.788Z"
+  }
+}
