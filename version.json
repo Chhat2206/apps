@@ -1,0 +1,132 @@
+{
+  "stocks": {
+    "label": "Stocks",
+    "code": 178,
+    "file": "stocks.apk",
+    "sha256": "654d9e313f852f2aba2705cfea60bffc05fc9e72b6dbf831f7fc16a746dd8f2e",
+    "size": 530739,
+    "commit": "c19a0ad",
+    "subject": "Credit Card: every day picker is the app's own calendar (the phone's date box opened nothing). Apps update without asking \"Update this app?\" (the permission for it was missing), and look for an update hourly while closed",
+    "built": "2026-10-24T15:22:10.077Z"
+  },
+  "papa": {
+    "label": "Papa's book",
+    "code": 135,
+    "file": "papa.apk",
+    "sha256": "da7d227f5427b3ab8b156b3293b9c98a6453b9a30492270ef4447de01de959e2",
+    "size": 505417,
+    "commit": "c19a0ad",
+    "subject": "Credit Card: every day picker is the app's own calendar (the phone's date box opened nothing). Apps update without asking \"Update this app?\" (the permission for it was missing), and look for an update hourly while closed",
+    "built": "2026-10-24T15:23:22.240Z"
+  },
+  "groceries": {
+    "label": "Credit Card",
+    "code": 2,
+    "file": "groceries.apk",
+    "sha256": "ac923846135b2381909a9d399c4435354aa8d6786ea6935e96ef3a67827c10e3",
+    "size": 81716,
+    "commit": "afbe1fe",
+    "subject": "Credit Card (groceries): one question per screen, a card schedule, a paid checklist",
+    "built": "2026-09-29T10:05:53.081Z"
+  },
+  "card-tracker": {
+    "label": "Credit Card",
+    "code": 60,
+    "file": "card-tracker.apk",
+    "sha256": "6e702a871b4a6e1cb339906dc9e9796aad59056deab8bde4a19639800b8fa21d",
+    "size": 215234,
+    "commit": "2322d36",
+    "subject": "Credit Card: a card can be turned off (Stop using this card) and back on — it keeps its days and bills, but Add stops offering it and the day schedule skips it",
+    "built": "2026-10-24T15:29:51.251Z"
+  },
+  "musu": {
+    "label": "Work Tracker",
+    "code": 27,
+    "file": "musu.apk",
+    "sha256": "7da319f8c592f2233689b7180a572d59ae148e21bbd11c798d180aae35a0770c",
+    "size": 469793,
+    "commit": "c19a0ad",
+    "subject": "Credit Card: every day picker is the app's own calendar (the phone's date box opened nothing). Apps update without asking \"Update this app?\" (the permission for it was missing), and look for an update hourly while closed",
+    "built": "2026-10-24T15:22:12.870Z"
+  },
+  "music": {
+    "label": "Music",
+    "code": 9,
+    "file": "music.apk",
+    "sha256": "b26203fd688f9539f3e4714bd56911b3cdcdb7e0b195c5c04ee0725a0339cd3d",
+    "size": 107902,
+    "commit": "c19a0ad",
+    "subject": "Credit Card: every day picker is the app's own calendar (the phone's date box opened nothing). Apps update without asking \"Update this app?\" (the permission for it was missing), and look for an update hourly while closed",
+    "built": "2026-10-24T15:21:47.705Z"
+  },
+  "manhwa": {
+    "label": "Manhwa Radar",
+    "code": 12,
+    "file": "manhwa.apk",
+    "sha256": "26bfc1e884d1518d02d1727e440f148c21b555652dd3f840ffbcd28115da65ab",
+    "size": 56755,
+    "commit": "c19a0ad",
+    "subject": "Credit Card: every day picker is the app's own calendar (the phone's date box opened nothing). Apps update without asking \"Update this app?\" (the permission for it was missing), and look for an update hourly while closed",
+    "built": "2026-10-24T15:22:23.108Z"
+  },
+  "trip-money": {
+    "label": "Trip Money",
+    "code": 21,
+    "file": "trip-money.apk",
+    "sha256": "47c451e7e812c23f9a435b207081ee104d68af41548a874cf2dc1731e8cae8bd",
+    "size": 139642,
+    "commit": "9dc4865",
+    "subject": "Trip Money: keep Mummy's trips in the \"Mummy\" Google Sheet, sending everything on the phone the first time",
+    "built": "2026-10-18T12:27:18.211Z"
+  },
+  "collection": {
+    "label": "Papa's Collection",
+    "code": 86,
+    "file": "collection.apk",
+    "sha256": "1f9a937304f201fda62ff5d26ec3ab2c7749b6625567af790be771e578220154",
+    "size": 223424,
+    "commit": "c19a0ad",
+    "subject": "Credit Card: every day picker is the app's own calendar (the phone's date box opened nothing). Apps update without asking \"Update this app?\" (the permission for it was missing), and look for an update hourly while closed",
+    "built": "2026-10-24T15:22:07.687Z"
+  },
+  "hub": {
+    "label": "Hub",
+    "code": 20,
+    "file": "hub.apk",
+    "sha256": "1d76c324706648f5435556f9101bf7ee64c2c05cff8dfa526dcf682c26507180",
+    "size": 107996,
+    "commit": "c19a0ad",
+    "subject": "Credit Card: every day picker is the app's own calendar (the phone's date box opened nothing). Apps update without asking \"Update this app?\" (the permission for it was missing), and look for an update hourly while closed",
+    "built": "2026-10-24T15:21:54.679Z"
+  },
+  "adblock": {
+    "label": "Ad Block",
+    "code": 38,
+    "file": "adblock.apk",
+    "sha256": "3b581edbae19ea9131797a8458d07056a39055852448dd9aa3fbabea07cbb9b6",
+    "size": 207904,
+    "commit": "c19a0ad",
+    "subject": "Credit Card: every day picker is the app's own calendar (the phone's date box opened nothing). Apps update without asking \"Update this app?\" (the permission for it was missing), and look for an update hourly while closed",
+    "built": "2026-10-24T15:22:03.863Z"
+  },
+  "packing": {
+    "label": "Vacation",
+    "code": 60,
+    "file": "packing.apk",
+    "sha256": "e42a221171b67fd3552cae70e0b128beebb73e5e824b6c0b6de6a6557bebd5a3",
+    "size": 805893,
+    "commit": "c19a0ad",
+    "subject": "Credit Card: every day picker is the app's own calendar (the phone's date box opened nothing). Apps update without asking \"Update this app?\" (the permission for it was missing), and look for an update hourly while closed",
+    "built": "2026-10-24T15:34:17.386Z"
+  },
+  "control": {
+    "label": "Control",
+    "code": 23,
+    "file": "control.apk",
+    "sha256": "fa04716c369ddfa9e2a22f5948b85e030554e04300ee8060c1bcc9670ce356d4",
+    "size": 149367,
+    "commit": "c19a0ad",
+    "subject": "Credit Card: every day picker is the app's own calendar (the phone's date box opened nothing). Apps update without asking \"Update this app?\" (the permission for it was missing), and look for an update hourly while closed",
+    "built": "2026-10-24T15:27:58.308Z"
+  }
+}
