@@ -1,0 +1,142 @@
+{
+  "stocks": {
+    "label": "Stocks",
+    "code": 183,
+    "file": "stocks.apk",
+    "sha256": "514569e3f7eb4355e764ee9033b80216620e3aa2c6800f67b82676f0d783ab09",
+    "size": 540291,
+    "commit": "604aa3b",
+    "subject": "Better Deal: what the phone's own reader said about the two real Tops tags, kept as tests of the tag rules (read on the emulator: Coke 4.00 per 100 ml, the minis 46% more at 5.83)",
+    "built": "2026-10-31T14:37:06.295Z"
+  },
+  "papa": {
+    "label": "Papa's book",
+    "code": 146,
+    "file": "papa.apk",
+    "sha256": "11b969015f2b8596f0e76564cbc17b2c82b087da4007a630555ad683d7edbd78",
+    "size": 518193,
+    "commit": "604aa3b",
+    "subject": "Better Deal: what the phone's own reader said about the two real Tops tags, kept as tests of the tag rules (read on the emulator: Coke 4.00 per 100 ml, the minis 46% more at 5.83)",
+    "built": "2026-10-31T14:38:32.421Z"
+  },
+  "groceries": {
+    "label": "Credit Card",
+    "code": 2,
+    "file": "groceries.apk",
+    "sha256": "ac923846135b2381909a9d399c4435354aa8d6786ea6935e96ef3a67827c10e3",
+    "size": 81716,
+    "commit": "afbe1fe",
+    "subject": "Credit Card (groceries): one question per screen, a card schedule, a paid checklist",
+    "built": "2026-09-29T10:05:53.081Z"
+  },
+  "card-tracker": {
+    "label": "Credit Card",
+    "code": 69,
+    "file": "card-tracker.apk",
+    "sha256": "c082984c92ee5167c9489d1826264b7310a54d5197bc24076a0ed38a55dc57c8",
+    "size": 223350,
+    "commit": "604aa3b",
+    "subject": "Better Deal: what the phone's own reader said about the two real Tops tags, kept as tests of the tag rules (read on the emulator: Coke 4.00 per 100 ml, the minis 46% more at 5.83)",
+    "built": "2026-10-31T14:37:25.225Z"
+  },
+  "musu": {
+    "label": "Work Tracker",
+    "code": 37,
+    "file": "musu.apk",
+    "sha256": "475ec92f7f802196bc670fd6e9409b83adea9429778e877a3f067eb9609ddc22",
+    "size": 483005,
+    "commit": "a7e74a9",
+    "subject": "Better Deal: icon B, the mint % badge on black (the user's pick from the canvas), and Labels stays the photo band (A); the zoomed label says \"Pinch or double-tap to zoom\" until the first zoom; the shutter pressed before the camera is up waits for it instead of opening the pictures",
+    "built": "2026-10-31T15:41:06.500Z"
+  },
+  "music": {
+    "label": "Music",
+    "code": 12,
+    "file": "music.apk",
+    "sha256": "8266271b4bccc874e1d27dd3953e059743879b3f3f1a1dbbf2a2daf48b8c6abd",
+    "size": 112174,
+    "commit": "604aa3b",
+    "subject": "Better Deal: what the phone's own reader said about the two real Tops tags, kept as tests of the tag rules (read on the emulator: Coke 4.00 per 100 ml, the minis 46% more at 5.83)",
+    "built": "2026-10-31T14:37:34.607Z"
+  },
+  "manhwa": {
+    "label": "Manhwa Radar",
+    "code": 15,
+    "file": "manhwa.apk",
+    "sha256": "6b78b83b41ba52c97c0d8aff16e3d43f00ca1d9477a42d359546888a722d1471",
+    "size": 60651,
+    "commit": "604aa3b",
+    "subject": "Better Deal: what the phone's own reader said about the two real Tops tags, kept as tests of the tag rules (read on the emulator: Coke 4.00 per 100 ml, the minis 46% more at 5.83)",
+    "built": "2026-10-31T14:37:22.483Z"
+  },
+  "trip-money": {
+    "label": "Trip Money",
+    "code": 27,
+    "file": "trip-money.apk",
+    "sha256": "9452343d9e3dd33d5f9a1b2d6d38f37b12bf01b7aca75fda30b057b9d2ccf115",
+    "size": 146002,
+    "commit": "604aa3b",
+    "subject": "Better Deal: what the phone's own reader said about the two real Tops tags, kept as tests of the tag rules (read on the emulator: Coke 4.00 per 100 ml, the minis 46% more at 5.83)",
+    "built": "2026-10-31T14:42:17.270Z"
+  },
+  "collection": {
+    "label": "Papa's Collection",
+    "code": 112,
+    "file": "collection.apk",
+    "sha256": "6dd6729d41470ddbe2929b67d9a35877e4b7410524f06b02ee53ba24d1e24721",
+    "size": 246332,
+    "commit": "604aa3b",
+    "subject": "Better Deal: what the phone's own reader said about the two real Tops tags, kept as tests of the tag rules (read on the emulator: Coke 4.00 per 100 ml, the minis 46% more at 5.83)",
+    "built": "2026-10-31T14:37:27.911Z"
+  },
+  "hub": {
+    "label": "Hub",
+    "code": 24,
+    "file": "hub.apk",
+    "sha256": "044877469c41cdcd5c2291ca97677cd41113b7e4ad68b01e1a865d92aebd508f",
+    "size": 112684,
+    "commit": "604aa3b",
+    "subject": "Better Deal: what the phone's own reader said about the two real Tops tags, kept as tests of the tag rules (read on the emulator: Coke 4.00 per 100 ml, the minis 46% more at 5.83)",
+    "built": "2026-10-31T14:37:18.895Z"
+  },
+  "adblock": {
+    "label": "Ad Block",
+    "code": 45,
+    "file": "adblock.apk",
+    "sha256": "08673794fde432304b94c7d3e9fa7ef85c59ebc84c2d64cffcc6b25d03a153d9",
+    "size": 213228,
+    "commit": "a7e74a9",
+    "subject": "Better Deal: icon B, the mint % badge on black (the user's pick from the canvas), and Labels stays the photo band (A); the zoomed label says \"Pinch or double-tap to zoom\" until the first zoom; the shutter pressed before the camera is up waits for it instead of opening the pictures",
+    "built": "2026-10-31T15:40:59.172Z"
+  },
+  "packing": {
+    "label": "Vacation",
+    "code": 84,
+    "file": "packing.apk",
+    "sha256": "116c2cb228dc303df8af718922b4273f7819e90e4e0e4dfa84ba5f3033907bcd",
+    "size": 860069,
+    "commit": "604aa3b",
+    "subject": "Better Deal: what the phone's own reader said about the two real Tops tags, kept as tests of the tag rules (read on the emulator: Coke 4.00 per 100 ml, the minis 46% more at 5.83)",
+    "built": "2026-10-31T14:51:36.544Z"
+  },
+  "control": {
+    "label": "Control",
+    "code": 33,
+    "file": "control.apk",
+    "sha256": "62fe8c0ef1a41f589a6e3af9b7dc99aaaef9509740a057db07f67cde51e0c28f",
+    "size": 164259,
+    "commit": "a7e74a9",
+    "subject": "Better Deal: icon B, the mint % badge on black (the user's pick from the canvas), and Labels stays the photo band (A); the zoomed label says \"Pinch or double-tap to zoom\" until the first zoom; the shutter pressed before the camera is up waits for it instead of opening the pictures",
+    "built": "2026-10-31T15:45:56.772Z"
+  },
+  "deal": {
+    "label": "Better Deal",
+    "code": 7,
+    "file": "deal.apk",
+    "sha256": "5fef21b11efb85679d9ab0a0c63c36497e391497f0ae3763b207791b7cbaaac9",
+    "size": 14971427,
+    "commit": "a7e74a9",
+    "subject": "Better Deal: icon B, the mint % badge on black (the user's pick from the canvas), and Labels stays the photo band (A); the zoomed label says \"Pinch or double-tap to zoom\" until the first zoom; the shutter pressed before the camera is up waits for it instead of opening the pictures",
+    "built": "2026-10-31T15:47:23.816Z"
+  }
+}

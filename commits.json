@@ -1,0 +1,100 @@
+{
+ "total": 1256,
+ "week": 165,
+ "since": "2026-08-19",
+ "last": "2026-10-31",
+ "head": "a7e74a9",
+ "built": "2026-10-31T15:40:08.565Z",
+ "apps": [
+  {
+   "name": "Worktracker",
+   "version": 202,
+   "share": 0.160828025477707,
+   "last": "2026-10-31"
+  },
+  {
+   "name": "Games",
+   "version": 178,
+   "share": 0.14171974522292993,
+   "last": "2026-10-31"
+  },
+  {
+   "name": "Papa",
+   "version": 168,
+   "share": 0.1337579617834395,
+   "last": "2026-10-30"
+  },
+  {
+   "name": "Stocks",
+   "version": 157,
+   "share": 0.125,
+   "last": "2026-10-29"
+  },
+  {
+   "name": "Papa's Collection",
+   "version": 119,
+   "share": 0.09474522292993631,
+   "last": "2026-10-31"
+  },
+  {
+   "name": "Vacation",
+   "version": 82,
+   "share": 0.06528662420382166,
+   "last": "2026-10-31"
+  },
+  {
+   "name": "Credit Card",
+   "version": 66,
+   "share": 0.052547770700636945,
+   "last": "2026-10-31"
+  },
+  {
+   "name": "Control",
+   "version": 62,
+   "share": 0.04936305732484077,
+   "last": "2026-10-31"
+  },
+  {
+   "name": "Ad Block",
+   "version": 41,
+   "share": 0.03264331210191083,
+   "last": "2026-10-31"
+  },
+  {
+   "name": "Work Tracker phone",
+   "version": 23,
+   "share": 0.018312101910828025,
+   "last": "2026-10-31"
+  },
+  {
+   "name": "Hub on the phone",
+   "version": 21,
+   "share": 0.016719745222929936,
+   "last": "2026-10-31"
+  },
+  {
+   "name": "Trip Money",
+   "version": 14,
+   "share": 0.011146496815286623,
+   "last": "2026-10-25"
+  },
+  {
+   "name": "Manhwa Radar",
+   "version": 10,
+   "share": 0.007961783439490446,
+   "last": "2026-10-25"
+  },
+  {
+   "name": "Music",
+   "version": 9,
+   "share": 0.007165605095541401,
+   "last": "2026-10-25"
+  },
+  {
+   "name": "Better Deal",
+   "version": 8,
+   "share": 0.006369426751592357,
+   "last": "2026-10-31"
+  }
+ ]
+}
