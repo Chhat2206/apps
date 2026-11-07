@@ -1,0 +1,112 @@
+{
+ "total": 1629,
+ "week": 360,
+ "since": "2026-08-19",
+ "last": "2026-11-07",
+ "head": "b1e242c",
+ "built": "2026-11-07T16:02:20.538Z",
+ "apps": [
+  {
+   "name": "Worktracker",
+   "version": 282,
+   "share": 0.1731123388581952,
+   "last": "2026-11-07"
+  },
+  {
+   "name": "Games",
+   "version": 252,
+   "share": 0.15469613259668508,
+   "last": "2026-11-07"
+  },
+  {
+   "name": "Papa",
+   "version": 173,
+   "share": 0.10620012277470842,
+   "last": "2026-11-07"
+  },
+  {
+   "name": "Stocks",
+   "version": 163,
+   "share": 0.10006138735420503,
+   "last": "2026-11-04"
+  },
+  {
+   "name": "Papa's Collection",
+   "version": 127,
+   "share": 0.07796193984039287,
+   "last": "2026-11-03"
+  },
+  {
+   "name": "Vacation",
+   "version": 83,
+   "share": 0.050951503990178025,
+   "last": "2026-11-01"
+  },
+  {
+   "name": "Control",
+   "version": 76,
+   "share": 0.04665438919582566,
+   "last": "2026-11-05"
+  },
+  {
+   "name": "Credit Card",
+   "version": 72,
+   "share": 0.04419889502762431,
+   "last": "2026-11-03"
+  },
+  {
+   "name": "Planner",
+   "version": 51,
+   "share": 0.03130755064456722,
+   "last": "2026-11-07"
+  },
+  {
+   "name": "Ad Block",
+   "version": 47,
+   "share": 0.028852056476365868,
+   "last": "2026-11-04"
+  },
+  {
+   "name": "Better Deal",
+   "version": 37,
+   "share": 0.022713321055862493,
+   "last": "2026-11-07"
+  },
+  {
+   "name": "Hub on the phone",
+   "version": 29,
+   "share": 0.01780233271945979,
+   "last": "2026-11-05"
+  },
+  {
+   "name": "Work Tracker phone",
+   "version": 26,
+   "share": 0.01596071209330878,
+   "last": "2026-11-05"
+  },
+  {
+   "name": "Trip Money",
+   "version": 14,
+   "share": 0.008594229588704727,
+   "last": "2026-10-25"
+  },
+  {
+   "name": "Manhwa Radar",
+   "version": 10,
+   "share": 0.006138735420503376,
+   "last": "2026-10-25"
+  },
+  {
+   "name": "Music",
+   "version": 9,
+   "share": 0.0055248618784530384,
+   "last": "2026-10-25"
+  },
+  {
+   "name": "Birthdays",
+   "version": 1,
+   "share": 0.0006138735420503376,
+   "last": "2026-11-01"
+  }
+ ]
+}

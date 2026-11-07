@@ -1,0 +1,201 @@
+{
+  "stocks": {
+    "label": "Stocks",
+    "code": 200,
+    "file": "stocks.apk",
+    "sha256": "3f12eb81fd7d46e518fe96249636daf23f5e988f11b572294cbac9c56548ff76",
+    "size": 7051351,
+    "commit": "dbe680a",
+    "subject": "Stocks: the screenshot reader's English model ships unzipped (eng.traineddata) — the APK build unzips any .gz asset and drops the ending, so the phone would have asked for a file it did not have",
+    "built": "2026-11-04T04:39:23.005Z",
+    "src": "74cd37d974ac145481f65665a585702fc63917a5a947a77285b51e55e18e55e8"
+  },
+  "papa": {
+    "label": "Papa's book",
+    "code": 162,
+    "file": "papa.apk",
+    "sha256": "a0b73b75f2b1264dbac6579c4f594b02b34af85eb436effd971138c82b6d8690",
+    "size": 522021,
+    "commit": "26f7273",
+    "subject": "papa: every stock on the home list shows what one share paid in dividends last year (\"Dividend in 2025 ฿0.60 a share ›\"); a tap opens the last 10 years — one share's dividend and yield each year, this year so far, the average, and last year on papa's shares after the 10% tax. Checked headless on the live sheet (AP 2026 ฿0.52 × 2,000 × 0.9 = the ฿936 on the book); papa tests 525/525",
+    "built": "2026-11-06T04:54:13.874Z",
+    "src": "18235b50930210c62777e15e66ea9c93fc1cba9269e9ebc97baba6878268ec2d"
+  },
+  "groceries": {
+    "label": "Credit Card",
+    "code": 2,
+    "file": "groceries.apk",
+    "sha256": "ac923846135b2381909a9d399c4435354aa8d6786ea6935e96ef3a67827c10e3",
+    "size": 81716,
+    "commit": "afbe1fe",
+    "subject": "Credit Card (groceries): one question per screen, a card schedule, a paid checklist",
+    "built": "2026-09-29T10:05:53.081Z"
+  },
+  "card-tracker": {
+    "label": "Credit Card",
+    "code": 85,
+    "file": "card-tracker.apk",
+    "sha256": "cb82d22a02d532d693b9eeca92dc1ea3e081816cd7f4e941ba8b6c19c794184a",
+    "size": 232514,
+    "commit": "f4f5567",
+    "subject": "Credit Card: a save can't be sent twice. Pressing Add to Cashew while a save was running brought back a working Save, and the second press put the same bill on the sheet again; now nothing on Add can be pressed until the save answers. Add to Cashew is on by default for Chhat's bills; the e2e replays Save, Add to Cashew, Save",
+    "built": "2026-11-03T11:40:07.897Z"
+  },
+  "musu": {
+    "label": "Work Tracker",
+    "code": 59,
+    "file": "musu.apk",
+    "sha256": "49a0c8bf194388261eeb104938beb368858209c51757951485041a8fe86eef8a",
+    "size": 493549,
+    "commit": "bc67c3d",
+    "subject": "AI priority: the 48 h rule reads settings saved without soon; an unlocked line (Priyanka till her reset) skips the apps' caps too",
+    "built": "2026-11-07T08:29:07.060Z",
+    "src": "18ce3808de79ed03f6588ec497f6e16bd561fa6b0f565687f13f3547fcd16698"
+  },
+  "music": {
+    "label": "Music",
+    "code": 22,
+    "file": "music.apk",
+    "sha256": "84c7bdb44812f02b52fd900fcee54bdf96c6e7a41cc6130f90a1f9c2618e24df",
+    "size": 112174,
+    "commit": "036c4a7",
+    "subject": "Thai: the emulator run grades the first card it already opened instead of opening it again",
+    "built": "2026-11-03T04:21:38.024Z"
+  },
+  "manhwa": {
+    "label": "Manhwa Radar",
+    "code": 25,
+    "file": "manhwa.apk",
+    "sha256": "95d3f966621774d49e580f16cc0d274e98a20fa587ad5938cf48911bdc6110d7",
+    "size": 60647,
+    "commit": "036c4a7",
+    "subject": "Thai: the emulator run grades the first card it already opened instead of opening it again",
+    "built": "2026-11-03T04:21:54.251Z"
+  },
+  "trip-money": {
+    "label": "Trip Money",
+    "code": 37,
+    "file": "trip-money.apk",
+    "sha256": "09156b08a368a3ad14663cd7cb8f240ce9bd087afa3004ae6e71f34052142d65",
+    "size": 146002,
+    "commit": "036c4a7",
+    "subject": "Thai: the emulator run grades the first card it already opened instead of opening it again",
+    "built": "2026-11-03T04:26:57.214Z"
+  },
+  "collection": {
+    "label": "Papa's Collection",
+    "code": 129,
+    "file": "collection.apk",
+    "sha256": "adc7637fd4c01223feabad73966023ed97c97b3adeb562a7c2de85812b811018",
+    "size": 247392,
+    "commit": "036c4a7",
+    "subject": "Thai: the emulator run grades the first card it already opened instead of opening it again",
+    "built": "2026-11-03T04:21:50.450Z"
+  },
+  "hub": {
+    "label": "Hub",
+    "code": 39,
+    "file": "hub.apk",
+    "sha256": "0076b9bbf1ff902f9b8891c0c7231753cba58624aafff2ecefe1e0b391fd045c",
+    "size": 117476,
+    "commit": "ea42fbe",
+    "subject": "Phone icons: Hub, Control, Better Deal and Weight each get their own colour tile (red, teal, yellow, violet) instead of four black tiles with a mint line (direction B)",
+    "built": "2026-11-03T13:16:19.776Z",
+    "src": "891824ff572aaf4589e9d2fdc4d26fa1f2adfe2cfc910014a5d317893bc20a1d"
+  },
+  "adblock": {
+    "label": "Ad Block",
+    "code": 54,
+    "file": "adblock.apk",
+    "sha256": "3fb10f44b429342d1ec3cc3d37938d2660c9f9ee5680cb387e3c321afc11cd49",
+    "size": 213360,
+    "commit": "036c4a7",
+    "subject": "Thai: the emulator run grades the first card it already opened instead of opening it again",
+    "built": "2026-11-03T04:22:06.155Z"
+  },
+  "packing": {
+    "label": "Vacation",
+    "code": 95,
+    "file": "packing.apk",
+    "sha256": "66232a7d5f787df68c6d1ee6a4875d32f2b21331e5df1982a5845a935da4737d",
+    "size": 865381,
+    "commit": "036c4a7",
+    "subject": "Thai: the emulator run grades the first card it already opened instead of opening it again",
+    "built": "2026-11-03T04:37:21.146Z"
+  },
+  "control": {
+    "label": "Control",
+    "code": 47,
+    "file": "control.apk",
+    "sha256": "18e251a014c5ef245dfd70d39425fcc270d4f506d59dfeff0ffa558048f5c3c6",
+    "size": 165651,
+    "commit": "227962b",
+    "subject": "Control phone: Thai in the setup-QR app list, matching adblock/lib/setup.mjs (the Control APK build was red on it)",
+    "built": "2026-11-03T13:34:03.535Z",
+    "src": "e9e36013d0ae1350dc64b7c7ca7c6171fbbf8d5560d9c719d221bfe1ef5cb84c"
+  },
+  "deal": {
+    "label": "Better Deal",
+    "code": 46,
+    "file": "deal.apk",
+    "sha256": "09d04225d1c3e312c515ac1b09f26f937821fb5e4433ca2f27d6891193829166",
+    "size": 14984227,
+    "commit": "e1c6fc3",
+    "subject": "Better Deal sheet: photo pieces written as words (a piece starting with + was taken for a formula)",
+    "built": "2026-11-07T11:09:05.955Z",
+    "src": "8dd77840b2bf0f74933cefd6759577b5fdad00c764bacd3a19d812cf62ca503d"
+  },
+  "birthdays": {
+    "label": "Birthdays",
+    "code": 3,
+    "file": "birthdays.apk",
+    "sha256": "c5774ec2e0db9ece286d298207559494e4b0807a76ccec6fed4fe582a287b988",
+    "size": 235698,
+    "commit": "573fe60",
+    "subject": "Weight: someone else stepping on straight after a weighing is a new one even when the frames between were missed; the page forgets the frames it has seen after 20 s of quiet; adverts are decoded one at a time in the order heard; the emulator run presses Back again when the emulator drops one (fourth review)",
+    "built": "2026-11-01T11:20:00.184Z"
+  },
+  "weight": {
+    "label": "Weight",
+    "code": 33,
+    "file": "weight.apk",
+    "sha256": "8c220b642436284368b863a2f2f835dfa638c74b9d161c7180f56a715cfc757b",
+    "size": 199584,
+    "commit": "d46e24a",
+    "subject": "Weight: Xiaomi's six figures as Estimates — body score, body type, visceral fat, bone mass, protein and body age, on home and on each weigh-in's details. A line-for-line port of lolouk44/xiaomi_mi_scale (MIT, Mi Fit's reverse-engineered sums), checked against its Python for 15 people; the standard body fat, water and muscle stay as they were",
+    "built": "2026-11-04T05:05:42.737Z",
+    "src": "417a9fa5f6c686b236084899d513341c321e657a5cf5c0dfb1561aadc9e7d004"
+  },
+  "planner": {
+    "label": "Planner",
+    "code": 60,
+    "file": "planner.apk",
+    "sha256": "97d53c18c065f29e060ba22e366e56b8c40e14293cacf2b4fd640111dd695a16",
+    "size": 343251,
+    "commit": "33bdca8",
+    "subject": "Planner e2e: the Checklist headings now end Super priority | Since",
+    "built": "2026-11-07T10:41:40.773Z",
+    "src": "e06f0639931643174fabf3bcbb315f7c22011547d2e961fa0e1e4aecbca1d4f8"
+  },
+  "thai": {
+    "label": "Thai",
+    "code": 6,
+    "file": "thai.apk",
+    "sha256": "9e1740ed35eaf2063574fcc3f06903d58439a6ccb700e50c6781c45e2f363ef1",
+    "size": 286290,
+    "commit": "1580138",
+    "subject": "Thai: the emulator run presses Wait on the emulator's own not-responding box before a Back key (Pixel Launcher's came up over Settings and ate it)",
+    "built": "2026-11-03T12:08:11.554Z"
+  },
+  "warranty": {
+    "label": "Warranty",
+    "code": 14,
+    "file": "warranty.apk",
+    "sha256": "1010551943b3d651cf203a206b54d97b66c0e4d36ef07a949f21e8e47b643d42",
+    "size": 182111,
+    "commit": "e2075d7",
+    "subject": "Warranty: icon B, the slip in white on near-black with an amber tick",
+    "built": "2026-11-05T02:44:03.311Z",
+    "src": "39c7528f41365ec866d8018964249bfca1d8d5801d4656754a0081ea8f66ba80"
+  }
+}
