@@ -1,0 +1,106 @@
+{
+ "total": 1768,
+ "week": 365,
+ "since": "2026-08-19",
+ "last": "2026-11-09",
+ "head": "ae1152b",
+ "built": "2026-11-09T14:43:32.052Z",
+ "apps": [
+  {
+   "name": "Games",
+   "version": 304,
+   "share": 0.17194570135746606,
+   "last": "2026-11-09"
+  },
+  {
+   "name": "Worktracker",
+   "version": 293,
+   "share": 0.16572398190045248,
+   "last": "2026-11-09"
+  },
+  {
+   "name": "Papa",
+   "version": 175,
+   "share": 0.09898190045248868,
+   "last": "2026-11-08"
+  },
+  {
+   "name": "Stocks",
+   "version": 166,
+   "share": 0.09389140271493213,
+   "last": "2026-11-09"
+  },
+  {
+   "name": "Papa's Collection",
+   "version": 128,
+   "share": 0.07239819004524888,
+   "last": "2026-11-08"
+  },
+  {
+   "name": "Vacation",
+   "version": 86,
+   "share": 0.048642533936651584,
+   "last": "2026-11-09"
+  },
+  {
+   "name": "Control",
+   "version": 82,
+   "share": 0.04638009049773756,
+   "last": "2026-11-09"
+  },
+  {
+   "name": "Planner",
+   "version": 74,
+   "share": 0.0418552036199095,
+   "last": "2026-11-09"
+  },
+  {
+   "name": "Credit Card",
+   "version": 73,
+   "share": 0.041289592760180995,
+   "last": "2026-11-08"
+  },
+  {
+   "name": "Ad Block",
+   "version": 52,
+   "share": 0.029411764705882353,
+   "last": "2026-11-09"
+  },
+  {
+   "name": "Better Deal",
+   "version": 39,
+   "share": 0.022058823529411766,
+   "last": "2026-11-09"
+  },
+  {
+   "name": "Hub on the phone",
+   "version": 34,
+   "share": 0.019230769230769232,
+   "last": "2026-11-08"
+  },
+  {
+   "name": "Work Tracker phone",
+   "version": 28,
+   "share": 0.01583710407239819,
+   "last": "2026-11-09"
+  },
+  {
+   "name": "Trip Money",
+   "version": 15,
+   "share": 0.008484162895927601,
+   "last": "2026-11-08"
+  },
+  {
+   "name": "Mumma",
+   "version": 8,
+   "share": 0.004524886877828055,
+   "last": "2026-11-08"
+  },
+  {
+   "name": "Birthdays",
+   "version": 7,
+   "share": 0.003959276018099547,
+   "last": "2026-11-09"
+  }
+ ]
+}
