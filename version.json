@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 75,
+    "code": 76,
     "file": "planner.apk",
-    "sha256": "642c1f3a0b431bf84cfa6be30199aab95f631494631fe3d41032e42f882c68ee",
-    "size": 353579,
-    "commit": "3ae58be",
-    "subject": "Planner e2e: a tap that survives the keyboard, and the widget asked for again",
-    "built": "2026-11-09T12:08:23.933Z",
-    "src": "ddc1f67ca7ba1668ff53d7602b7701256f2dc29ad72c6e97570ca68690cf7bc6"
+    "sha256": "b46b1200647089ff5747aa83e946e87d8332d3473231a2c8de10db603acc680f",
+    "size": 376014,
+    "commit": "ff71c6e",
+    "subject": "The Pi builds and publishes phone APKs: node android/tools/pi-publish.mjs <slug>. Asked: \"best build it on the pi … let's find a better solution than gh\" (the month's free Actions minutes are gone, and no spending).",
+    "built": "2026-11-09T15:45:10.434Z",
+    "src": "03938e73efc5a88651048b4dbca3f487f4dc732b48d99e5e9f81f2436538efad"
   },
   "warranty": {
     "label": "Warranty",
