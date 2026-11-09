@@ -1,0 +1,177 @@
+{
+  "stocks": {
+    "label": "Stocks",
+    "code": 211,
+    "file": "stocks.apk",
+    "sha256": "752fe4bb860587e3eb84d107d2e86a140fd764e4a59b5fd2dc879e890aad8864",
+    "size": 7058319,
+    "commit": "4951dad",
+    "subject": "Music and Manhwa Radar deleted on request (\"delete music and manhwa radar\"): music/ and manhwa/, their CI builds and slugs, Music's entry on the setup QR (repo + the Pi's live copy and phone-setup.json) and the Control phone's QR list, the Pi's music-mix service (disabled, out of pi-selfheal), the music.chhat.net tunnel route and DNS record, and both APKs on the public apps page. /opt/music-mix and /var/lib/music-mix are left on the Pi. The notes say so, so neither is rebuilt.",
+    "built": "2026-11-09T14:36:20.605Z",
+    "src": "16fcbc6cbb89fa0c92d418e3f39ac820287a37ed001bd7a7cc4795d259ae7315"
+  },
+  "papa": {
+    "label": "Papa's book",
+    "code": 172,
+    "file": "papa.apk",
+    "sha256": "2e3bad196c40fdbe97db4d2bd27baf66335a399ab61779eb9f7fdad67556be12",
+    "size": 525465,
+    "commit": "4951dad",
+    "subject": "Music and Manhwa Radar deleted on request (\"delete music and manhwa radar\"): music/ and manhwa/, their CI builds and slugs, Music's entry on the setup QR (repo + the Pi's live copy and phone-setup.json) and the Control phone's QR list, the Pi's music-mix service (disabled, out of pi-selfheal), the music.chhat.net tunnel route and DNS record, and both APKs on the public apps page. /opt/music-mix and /var/lib/music-mix are left on the Pi. The notes say so, so neither is rebuilt.",
+    "built": "2026-11-09T14:37:32.987Z",
+    "src": "9511e450d4e8d96951014e284ac27047ad585c6847331caa8951a57890bcb75e"
+  },
+  "groceries": {
+    "label": "Credit Card",
+    "code": 2,
+    "file": "groceries.apk",
+    "sha256": "ac923846135b2381909a9d399c4435354aa8d6786ea6935e96ef3a67827c10e3",
+    "size": 81716,
+    "commit": "afbe1fe",
+    "subject": "Credit Card (groceries): one question per screen, a card schedule, a paid checklist",
+    "built": "2026-09-29T10:05:53.081Z"
+  },
+  "card-tracker": {
+    "label": "Credit Card",
+    "code": 89,
+    "file": "card-tracker.apk",
+    "sha256": "6dc3ade96b2ab005c935842c0963986d5a7d0576aa81ee278ec0dce45a9142cd",
+    "size": 235166,
+    "commit": "4951dad",
+    "subject": "Music and Manhwa Radar deleted on request (\"delete music and manhwa radar\"): music/ and manhwa/, their CI builds and slugs, Music's entry on the setup QR (repo + the Pi's live copy and phone-setup.json) and the Control phone's QR list, the Pi's music-mix service (disabled, out of pi-selfheal), the music.chhat.net tunnel route and DNS record, and both APKs on the public apps page. /opt/music-mix and /var/lib/music-mix are left on the Pi. The notes say so, so neither is rebuilt.",
+    "built": "2026-11-09T14:35:59.523Z",
+    "src": "5c221cd644d9f74028a6d8797531971000acab50d0c016779a597413e43adf0e"
+  },
+  "musu": {
+    "label": "Work Tracker",
+    "code": 62,
+    "file": "musu.apk",
+    "sha256": "a130e86c32ead3bc0ef8e6e0c1b25d222878da27e56eb6bc8b5a59a302264d55",
+    "size": 496157,
+    "commit": "4951dad",
+    "subject": "Music and Manhwa Radar deleted on request (\"delete music and manhwa radar\"): music/ and manhwa/, their CI builds and slugs, Music's entry on the setup QR (repo + the Pi's live copy and phone-setup.json) and the Control phone's QR list, the Pi's music-mix service (disabled, out of pi-selfheal), the music.chhat.net tunnel route and DNS record, and both APKs on the public apps page. /opt/music-mix and /var/lib/music-mix are left on the Pi. The notes say so, so neither is rebuilt.",
+    "built": "2026-11-09T14:36:15.605Z",
+    "src": "59d11456fe8ce202ed1dd700f07528aeb9fbe9bbad405ea4b0a5665955a266d8"
+  },
+  "trip-money": {
+    "label": "Trip Money",
+    "code": 41,
+    "file": "trip-money.apk",
+    "sha256": "3900bf30fb2f92d47996215adf9cf72899d9d85faeea6f6fede0f7ad5c75f090",
+    "size": 148622,
+    "commit": "4951dad",
+    "subject": "Music and Manhwa Radar deleted on request (\"delete music and manhwa radar\"): music/ and manhwa/, their CI builds and slugs, Music's entry on the setup QR (repo + the Pi's live copy and phone-setup.json) and the Control phone's QR list, the Pi's music-mix service (disabled, out of pi-selfheal), the music.chhat.net tunnel route and DNS record, and both APKs on the public apps page. /opt/music-mix and /var/lib/music-mix are left on the Pi. The notes say so, so neither is rebuilt.",
+    "built": "2026-11-09T14:41:34.877Z",
+    "src": "7c2866522fe78709240fca7c31f0e852a5154552800f1191027f8d1dd66e23c5"
+  },
+  "collection": {
+    "label": "Papa's Collection",
+    "code": 134,
+    "file": "collection.apk",
+    "sha256": "2e0b83c23fafeef46c598d450ff1cfbb2319ce5236cf12cc6f818017674385ce",
+    "size": 250088,
+    "commit": "4951dad",
+    "subject": "Music and Manhwa Radar deleted on request (\"delete music and manhwa radar\"): music/ and manhwa/, their CI builds and slugs, Music's entry on the setup QR (repo + the Pi's live copy and phone-setup.json) and the Control phone's QR list, the Pi's music-mix service (disabled, out of pi-selfheal), the music.chhat.net tunnel route and DNS record, and both APKs on the public apps page. /opt/music-mix and /var/lib/music-mix are left on the Pi. The notes say so, so neither is rebuilt.",
+    "built": "2026-11-09T14:36:09.222Z",
+    "src": "bd287b15fad5620e46dd018d9c1af3bf37f1a965c332de3594ab5031bfc1f7fe"
+  },
+  "hub": {
+    "label": "Hub",
+    "code": 50,
+    "file": "hub.apk",
+    "sha256": "4575b4604fab50abfdea93267c5211a87b503b50629709fdcd0e993138569959",
+    "size": 120380,
+    "commit": "4951dad",
+    "subject": "Music and Manhwa Radar deleted on request (\"delete music and manhwa radar\"): music/ and manhwa/, their CI builds and slugs, Music's entry on the setup QR (repo + the Pi's live copy and phone-setup.json) and the Control phone's QR list, the Pi's music-mix service (disabled, out of pi-selfheal), the music.chhat.net tunnel route and DNS record, and both APKs on the public apps page. /opt/music-mix and /var/lib/music-mix are left on the Pi. The notes say so, so neither is rebuilt.",
+    "built": "2026-11-09T14:36:04.951Z",
+    "src": "67868d0fd794924026b56b41cd88aacc0718cf8e85406d69e58c49c43d0b2942"
+  },
+  "adblock": {
+    "label": "Ad Block",
+    "code": 63,
+    "file": "adblock.apk",
+    "sha256": "ecd02e7947f1551be964e17627cbdc61d361f375cb38912af9adfd6d3ced64a0",
+    "size": 214968,
+    "commit": "4951dad",
+    "subject": "Music and Manhwa Radar deleted on request (\"delete music and manhwa radar\"): music/ and manhwa/, their CI builds and slugs, Music's entry on the setup QR (repo + the Pi's live copy and phone-setup.json) and the Control phone's QR list, the Pi's music-mix service (disabled, out of pi-selfheal), the music.chhat.net tunnel route and DNS record, and both APKs on the public apps page. /opt/music-mix and /var/lib/music-mix are left on the Pi. The notes say so, so neither is rebuilt.",
+    "built": "2026-11-09T14:36:34.238Z",
+    "src": "7711abe71bab0f348bcd5de987cb260e8ad4dd08a3480cc48a285c7edd9eac4f"
+  },
+  "packing": {
+    "label": "Vacation",
+    "code": 101,
+    "file": "packing.apk",
+    "sha256": "95051719a8e776e3220f6eb8cf5813b2e3391719737115a7e18f6ab44ad38d11",
+    "size": 867873,
+    "commit": "4951dad",
+    "subject": "Music and Manhwa Radar deleted on request (\"delete music and manhwa radar\"): music/ and manhwa/, their CI builds and slugs, Music's entry on the setup QR (repo + the Pi's live copy and phone-setup.json) and the Control phone's QR list, the Pi's music-mix service (disabled, out of pi-selfheal), the music.chhat.net tunnel route and DNS record, and both APKs on the public apps page. /opt/music-mix and /var/lib/music-mix are left on the Pi. The notes say so, so neither is rebuilt.",
+    "built": "2026-11-09T14:50:33.082Z",
+    "src": "75dbf97236d3160c094d79cf3eaf6be41bd7bb90e78585a1c7b41d9cafe5526a"
+  },
+  "control": {
+    "label": "Control",
+    "code": 54,
+    "file": "control.apk",
+    "sha256": "c891b87166a9e81517a7a465ce9775abc334e85af3747607bac74b4c708647d3",
+    "size": 168663,
+    "commit": "8ab102d",
+    "subject": "Weight deleted on request (\"delete the weight app\"): weight/, its CI build and slug, its entry on the setup QR (repo + the Pi's live copy and phone-setup.json), the Control phone's QR list, and weight.apk on the public apps page. The Weight sheet and the Pi's scale key are left as they were. The note says so, so the app isn't rebuilt.",
+    "built": "2026-11-09T06:00:35.559Z",
+    "src": "4186ab6732f8bd071e7246e620a94dd22f175ea0052fc9de596e34a2b29d79c7"
+  },
+  "deal": {
+    "label": "Better Deal",
+    "code": 50,
+    "file": "deal.apk",
+    "sha256": "9cac020e3ef8e91f3e82b64e986ea9db26bdcad5878ea47794c87b1d88b885db",
+    "size": 14986863,
+    "commit": "4951dad",
+    "subject": "Music and Manhwa Radar deleted on request (\"delete music and manhwa radar\"): music/ and manhwa/, their CI builds and slugs, Music's entry on the setup QR (repo + the Pi's live copy and phone-setup.json) and the Control phone's QR list, the Pi's music-mix service (disabled, out of pi-selfheal), the music.chhat.net tunnel route and DNS record, and both APKs on the public apps page. /opt/music-mix and /var/lib/music-mix are left on the Pi. The notes say so, so neither is rebuilt.",
+    "built": "2026-11-09T14:45:25.373Z",
+    "src": "1e0f6b30f8e9a9f0ae1418ea4f678f66e3a6ffd135779f1caaada2e9ffb1c995"
+  },
+  "birthdays": {
+    "label": "Birthdays",
+    "code": 17,
+    "file": "birthdays.apk",
+    "sha256": "38d50353b4bd470de218c4acb182b6799f4724dbba54a155ef3e61750024919c",
+    "size": 238494,
+    "commit": "4951dad",
+    "subject": "Music and Manhwa Radar deleted on request (\"delete music and manhwa radar\"): music/ and manhwa/, their CI builds and slugs, Music's entry on the setup QR (repo + the Pi's live copy and phone-setup.json) and the Control phone's QR list, the Pi's music-mix service (disabled, out of pi-selfheal), the music.chhat.net tunnel route and DNS record, and both APKs on the public apps page. /opt/music-mix and /var/lib/music-mix are left on the Pi. The notes say so, so neither is rebuilt.",
+    "built": "2026-11-09T14:41:08.344Z",
+    "src": "500cf247bba8cedaa0ed6f8552b9cf53827ce236794393a44c986db4672ca1c4"
+  },
+  "planner": {
+    "label": "Planner",
+    "code": 75,
+    "file": "planner.apk",
+    "sha256": "642c1f3a0b431bf84cfa6be30199aab95f631494631fe3d41032e42f882c68ee",
+    "size": 353579,
+    "commit": "3ae58be",
+    "subject": "Planner e2e: a tap that survives the keyboard, and the widget asked for again",
+    "built": "2026-11-09T12:08:23.933Z",
+    "src": "ddc1f67ca7ba1668ff53d7602b7701256f2dc29ad72c6e97570ca68690cf7bc6"
+  },
+  "warranty": {
+    "label": "Warranty",
+    "code": 17,
+    "file": "warranty.apk",
+    "sha256": "41047da21790b786cb8112e25a2d7038d3dc48dfaad94cb32c898f7f57d03347",
+    "size": 184747,
+    "commit": "7742570",
+    "subject": "Merge Sign in with Google into master",
+    "built": "2026-11-08T14:35:35.732Z",
+    "src": "8842c42f1a876ebf0e6c154bcd65405f56c3cb9f942b6f07b0ceaa57eff97b34"
+  },
+  "mumma": {
+    "label": "Mumma",
+    "code": 12,
+    "file": "mumma.apk",
+    "sha256": "1419887a4737cbfd594a8338fc8f9b5bd0e515ec7caf6be98369ed2cef355e07",
+    "size": 229273,
+    "commit": "4951dad",
+    "subject": "Music and Manhwa Radar deleted on request (\"delete music and manhwa radar\"): music/ and manhwa/, their CI builds and slugs, Music's entry on the setup QR (repo + the Pi's live copy and phone-setup.json) and the Control phone's QR list, the Pi's music-mix service (disabled, out of pi-selfheal), the music.chhat.net tunnel route and DNS record, and both APKs on the public apps page. /opt/music-mix and /var/lib/music-mix are left on the Pi. The notes say so, so neither is rebuilt.",
+    "built": "2026-11-09T14:40:16.301Z",
+    "src": "a7780cc2d525001cda6fee9573d476228b6d47d96c5114b5bddcbf0a011381c9"
+  }
+}
