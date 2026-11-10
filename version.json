@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 217,
+    "code": 218,
     "file": "stocks.apk",
-    "sha256": "ac8e88ea32d8858fe2c33ff1cc31b583a75cfb9a21e2bc287d53b448e62d4aa1",
-    "size": 7104000,
-    "commit": "e7b2ca8",
-    "subject": "Ledger: net worth's line and page, Upcoming and Overdue, Cashew's goals, categories and accounts edited in sheets",
-    "built": "2026-11-10T07:50:28.863Z",
-    "src": "7455c73aa272ff8b3072214f17acd683119e5f99b076ab9695e4f53fc3d8eec5"
+    "sha256": "bf098a19c60274172e2049499fe800aac3f78866aa73e357547cdf5cbbfe1614",
+    "size": 7106160,
+    "commit": "bce0b50",
+    "subject": "Ledger: the five card loans (Cashew's goals) with what is owed on them all, on Home and Cards; Home's month chart with its figures",
+    "built": "2026-11-10T07:56:37.218Z",
+    "src": "6360c07e5c5bd6d9f58dc5d3fa9b48f8a9659b62eee957b1d6d7e556a615b444"
   },
   "papa": {
     "label": "Papa's book",
