@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 219,
+    "code": 220,
     "file": "stocks.apk",
-    "sha256": "67ac4b13aa64f9d3707778c93d8bf448f429dd3f0092b50ef58cdaeef722b2c6",
-    "size": 7112756,
-    "commit": "274cf13",
-    "subject": "Ledger: Transactions drawn as Cashew draws it: months to swipe, out / in / net, what is still to come, chips under each line",
-    "built": "2026-11-10T08:41:17.520Z",
-    "src": "052d9ccee6caac634cc26e4c600dd5af51f544efa423239d5b55e861f8f09a7e"
+    "sha256": "25ccde9a221745ead8c1a37f332a7bd8df68be42bf4ee2b6520cc3b39930b9c1",
+    "size": 7116340,
+    "commit": "15e87c9",
+    "subject": "Ledger: swipe left or right: a month on Earned, the next tab everywhere else",
+    "built": "2026-11-10T09:05:46.743Z",
+    "src": "d3bd7b231dfd256f455ad81c7624e4786e7a30fd300fdb8b9a4c11c7c742454d"
   },
   "papa": {
     "label": "Papa's book",
