@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 232,
+    "code": 233,
     "file": "stocks.apk",
-    "sha256": "3457b5a2d2920c691455a289862eb43918ec430e1ff930ab1096cfdf086112f7",
-    "size": 7154956,
-    "commit": "67232e8",
-    "subject": "Ledger: Upcoming is design B (each bank's cover, overdue first, a week at a time, centred headings) with Skip, move, change and Delete; Lent and borrowed behind a switch there; a picked day's figure shown in full",
-    "built": "2026-11-10T12:51:53.858Z",
-    "src": "d0a0e01b18d1c00084901068eb92eb67db43d13945845d6100ec51fe9c8a87cf"
+    "sha256": "add63e8c4ccc0da60a43ee5b1f5cfec3e045c3747a7766343d29b0934106bbf8",
+    "size": 7154880,
+    "commit": "e3e5e2d",
+    "subject": "Ledger: a picked point shows Cashew's pop-up on the chart (day and figure), the big number stays today's, on Home and Net worth",
+    "built": "2026-11-10T12:54:30.920Z",
+    "src": "1ffc02eedc3d57b835e5b1e2ddc50c888cb50addf7199b7a2a36d70f02af728b"
   },
   "papa": {
     "label": "Papa's book",
