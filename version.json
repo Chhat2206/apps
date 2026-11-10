@@ -33,14 +33,14 @@
   },
   "card-tracker": {
     "label": "Credit Card",
-    "code": 89,
+    "code": 90,
     "file": "card-tracker.apk",
-    "sha256": "6dc3ade96b2ab005c935842c0963986d5a7d0576aa81ee278ec0dce45a9142cd",
-    "size": 235166,
-    "commit": "4951dad",
-    "subject": "Music and Manhwa Radar deleted on request (\"delete music and manhwa radar\"): music/ and manhwa/, their CI builds and slugs, Music's entry on the setup QR (repo + the Pi's live copy and phone-setup.json) and the Control phone's QR list, the Pi's music-mix service (disabled, out of pi-selfheal), the music.chhat.net tunnel route and DNS record, and both APKs on the public apps page. /opt/music-mix and /var/lib/music-mix are left on the Pi. The notes say so, so neither is rebuilt.",
-    "built": "2026-11-09T14:35:59.523Z",
-    "src": "5c221cd644d9f74028a6d8797531971000acab50d0c016779a597413e43adf0e"
+    "sha256": "7ac13fc592edf19795f073787d80c9bc060225311fc23f519dacb83134539432",
+    "size": 236446,
+    "commit": "f2237e8",
+    "subject": "Credit Card: History has a circle on every row, a green tick once the bill is ticked, so an unpaid bill never looks paid",
+    "built": "2026-11-10T12:02:44.197Z",
+    "src": "7a9ce237e49b3288181b7970b83b78fcbc93151c1bf8d4403167b28bd0f5ce68"
   },
   "musu": {
     "label": "Work Tracker",
