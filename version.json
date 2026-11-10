@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 258,
+    "code": 259,
     "file": "stocks.apk",
-    "sha256": "26cbdc34e43d394ccd06043c1df7e438f8a6f565fcf55af1ed637da10fee7379",
-    "size": 7350662,
-    "commit": "027deb3",
-    "subject": "Ledger: the Stocks button always opens Portfolio (asked: \"When I go to stocks it should open portfolio by default\")",
-    "built": "2026-11-10T17:33:11.953Z",
-    "src": "34d51c817035d8476711f69704913b8e83cde5e555dd99ba6b137cd7cc50648f"
+    "sha256": "9efa0b601302596b69bdd9b306e2eb90db8dc13d0cf2274c02146c93ddc4d767",
+    "size": 7351210,
+    "commit": "0d2b979",
+    "subject": "Ledger: an Upcoming payment's sheet lines its date and amount up with the other values (no inner padding, no calendar mark; a tap opens the picker) and Delete / Skip are one even pair",
+    "built": "2026-11-10T17:53:20.748Z",
+    "src": "95fe503c532a7adb027501f0e233eb8927abf95740a06388c7af5f3fc0ce4fe6"
   },
   "papa": {
     "label": "Papa's book",

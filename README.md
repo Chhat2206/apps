@@ -16,7 +16,7 @@ shows "can't display". After that the app updates itself from here.
 - **Vacation** — [packing.apk](https://chhat2206.github.io/apps/packing.apk), build 103, 2026-11-10: Stocks: Fill from screenshot at the foot of Record, Saving and Swap to dollars, just above Save (asked: "put fill from screenshot at the bottom above save")
 - **Papa's book** — [papa.apk](https://chhat2206.github.io/apps/papa.apk), build 173, 2026-11-10: Ledger: Upcoming says which credit card each payment is on: a tile per card under From each bank, a chip on each line (design B)
 - **Planner** — [planner.apk](https://chhat2206.github.io/apps/planner.apk), build 77, 2026-11-10: Ledger: Upcoming says which credit card each payment is on: a tile per card under From each bank, a chip on each line (design B)
-- **Ledger** — [stocks.apk](https://chhat2206.github.io/apps/stocks.apk), build 258, 2026-11-10: Ledger: the Stocks button always opens Portfolio (asked: "When I go to stocks it should open portfolio by default")
+- **Ledger** — [stocks.apk](https://chhat2206.github.io/apps/stocks.apk), build 259, 2026-11-10: Ledger: an Upcoming payment's sheet lines its date and amount up with the other values (no inner padding, no calendar mark; a tap opens the picker) and Delete / Skip are one even pair
 - **Trip Money** — [trip-money.apk](https://chhat2206.github.io/apps/trip-money.apk), build 42, 2026-11-10: Ledger: Upcoming says which credit card each payment is on: a tile per card under From each bank, a chip on each line (design B)
 - **Warranty** — [warranty.apk](https://chhat2206.github.io/apps/warranty.apk), build 19, 2026-11-10: Ledger: Upcoming says which credit card each payment is on: a tile per card under From each bank, a chip on each line (design B)
 
