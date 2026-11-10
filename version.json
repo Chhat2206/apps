@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 213,
+    "code": 214,
     "file": "stocks.apk",
-    "sha256": "fdbdbfeec0ebb7780578cbc96a20207727d189e8d57fbb0ce84be741abef386a",
-    "size": 7085300,
-    "commit": "602bdcc",
-    "subject": "Ledger: its APK named Ledger on the download page, and the Stocks and money tests run before it is built",
-    "built": "2026-11-10T06:57:46.224Z",
-    "src": "d71605f4b332585d5ac28c5ceb0103518753598349fd16669f24b3ae4c21ed2f"
+    "sha256": "9f8356a45bd273a23f39452d7ff9c863b2f9879aa4843f42ed979ff9783f0b99",
+    "size": 7085580,
+    "commit": "8a2f0ad",
+    "subject": "Ledger: Cards offers Scan the setup QR on a phone set up before the Credit Card sheet was part of its setup",
+    "built": "2026-11-10T07:00:07.454Z",
+    "src": "6f82bdfd513db3fa5e29b21e2d32b61e424ff07dd6b4a6a834b8217429d2d85a"
   },
   "papa": {
     "label": "Papa's book",
