@@ -132,14 +132,14 @@
   },
   "birthdays": {
     "label": "Birthdays",
-    "code": 17,
+    "code": 18,
     "file": "birthdays.apk",
-    "sha256": "38d50353b4bd470de218c4acb182b6799f4724dbba54a155ef3e61750024919c",
-    "size": 238494,
-    "commit": "4951dad",
-    "subject": "Music and Manhwa Radar deleted on request (\"delete music and manhwa radar\"): music/ and manhwa/, their CI builds and slugs, Music's entry on the setup QR (repo + the Pi's live copy and phone-setup.json) and the Control phone's QR list, the Pi's music-mix service (disabled, out of pi-selfheal), the music.chhat.net tunnel route and DNS record, and both APKs on the public apps page. /opt/music-mix and /var/lib/music-mix are left on the Pi. The notes say so, so neither is rebuilt.",
-    "built": "2026-11-09T14:41:08.344Z",
-    "src": "500cf247bba8cedaa0ed6f8552b9cf53827ce236794393a44c986db4672ca1c4"
+    "sha256": "48224ce46a162983598c41b3bbfb5f3e62382d4f884fe746946e97d1fa448773",
+    "size": 241018,
+    "commit": "0a434bc",
+    "subject": "Ledger: the net worth line is after what is owed, the same as the big figure; a point says when what is owed moved it",
+    "built": "2026-11-10T14:19:10.009Z",
+    "src": "2abd4a2ec84cf8ab9008ce887ff63cd7a9552f1b625f15a98f752ae71717ebe4"
   },
   "planner": {
     "label": "Planner",
