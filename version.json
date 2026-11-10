@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 239,
+    "code": 240,
     "file": "stocks.apk",
-    "sha256": "39da58b93014f573fff652a90c18154c8aa2520e0922e839a6549d02eadc4fc0",
-    "size": 7157184,
-    "commit": "e7b7622",
-    "subject": "Ledger: one hero on every tab: the same heading, the number in one face and size, centred at the same height, written the same way",
-    "built": "2026-11-10T13:11:04.072Z",
-    "src": "ff682e7ec6da8203c869eea9b168bf700ef52d4d939dd73730b43e242229f55e"
+    "sha256": "e8275f22707bc65f54033d5a4a194a1497c6836a63233a67508241b1b0ef4734",
+    "size": 7341200,
+    "commit": "cf860b0",
+    "subject": "Ledger: every Lucide icon (2,350) in the category sheet's picker, a group at a time with a search",
+    "built": "2026-11-10T13:17:04.778Z",
+    "src": "d1d0a169a44a6f8af0159cfa92a8600fa95d31d42f3de122a8812fe2491b3629"
   },
   "papa": {
     "label": "Papa's book",
