@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 245,
+    "code": 246,
     "file": "stocks.apk",
-    "sha256": "3a6cb61218b433969c3cee2830670e817a03e534c5e4842ffa140f9d151a8624",
-    "size": 7351569,
-    "commit": "5985dd3",
-    "subject": "Ledger: Earned shows the newest Xavier/Pravin payment's split as steps (Bangkok Bank's half written by itself, spending to send, Australia to put in), ticked from the history; clients from ฿5,000",
-    "built": "2026-11-10T15:13:44.637Z",
-    "src": "e52aade74137ef2a633dbae96d0afc76fb4253987a540afd9b6f9496870b5852"
+    "sha256": "010a6d1f3d00f754dc99c8350e89ec5809fa634d9024cf558287d93b3c0c840c",
+    "size": 7351525,
+    "commit": "3d87b4a",
+    "subject": "Ledger: Earned's payment steps without the line under each; opening or closing the card redraws only the card (the whole page's fade-in replayed and the figure blinked out)",
+    "built": "2026-11-10T15:20:59.682Z",
+    "src": "914a2015492b7d05a575b7450810c3f5d5ed088ddea29fa41ea3dc282ba4afb7"
   },
   "papa": {
     "label": "Papa's book",
