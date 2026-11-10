@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 257,
+    "code": 258,
     "file": "stocks.apk",
-    "sha256": "0e08ec9cca833a6a3dc7e2bf84f37b7ee44eb1d12b9513bf0fad0546e2098502",
-    "size": 7350602,
-    "commit": "0a03d15",
-    "subject": "Ledger: no arrow under a tab's number (the number opens what it did), Earned's big figure counts up like the others, and Earned keeps cents on every amount (฿50,000.00 beside ฿13,566.93)",
-    "built": "2026-11-10T17:30:08.249Z",
-    "src": "d40a17d75585f6e5c27f09168aba16bc6e273392c19435971eae85d03ce9f898"
+    "sha256": "26cbdc34e43d394ccd06043c1df7e438f8a6f565fcf55af1ed637da10fee7379",
+    "size": 7350662,
+    "commit": "027deb3",
+    "subject": "Ledger: the Stocks button always opens Portfolio (asked: \"When I go to stocks it should open portfolio by default\")",
+    "built": "2026-11-10T17:33:11.953Z",
+    "src": "34d51c817035d8476711f69704913b8e83cde5e555dd99ba6b137cd7cc50648f"
   },
   "papa": {
     "label": "Papa's book",
