@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 223,
+    "code": 224,
     "file": "stocks.apk",
-    "sha256": "9954f7988efb4b5074b4032cbc4b351f975828e901da66ca72570f40363be623",
-    "size": 7143760,
-    "commit": "27eb398",
-    "subject": "Ledger: the Stocks row drops its Transactions pill; the movements still open from Portfolio's All movements",
-    "built": "2026-11-10T11:30:36.420Z",
-    "src": "8b14820eb314c8fe592380bed3635d8fc84ad126583b47e99b7fa797bd4f442a"
+    "sha256": "782ad9b3ad79051af684f2452a6f1941592f68f3deffe27fcf97413b29dca408",
+    "size": 7146460,
+    "commit": "27a8008",
+    "subject": "Ledger: the line leaves out card bills and loans (the figure keeps them); Earned's month says what is left on its own row; no dead space at the foot",
+    "built": "2026-11-10T11:59:30.402Z",
+    "src": "fc8b83208c056f105140e2cfe5be4ff666323e3e8c68428d6f885337e66c33d5"
   },
   "papa": {
     "label": "Papa's book",
