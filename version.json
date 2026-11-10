@@ -44,14 +44,14 @@
   },
   "musu": {
     "label": "Work Tracker",
-    "code": 63,
+    "code": 64,
     "file": "musu.apk",
-    "sha256": "eff68534641cc8e020e02a101a195fb2f9f256448f47f42c16df3f3463663959",
-    "size": 191605,
-    "commit": "8c43c12",
-    "subject": "Every phone app built and published from the Pi; GitHub builds them only by hand or on a tag. Asked: \"maybe move all of them locally\".",
-    "built": "2026-11-10T04:29:48.790Z",
-    "src": "944800623b4ff4d986f9ae7b15186560cb07e4434f667f4c077e79ad8cccb0c8"
+    "sha256": "49813a6a1d3774585048382b35be4f8590982962631ec61538cb2f791827c1a2",
+    "size": 193993,
+    "commit": "0a434bc",
+    "subject": "Ledger: the big figure counts up every time a tab opens, Stocks tabs too; ×N beside Upcoming and Overdue",
+    "built": "2026-11-10T14:26:04.083Z",
+    "src": "25404e7dd619c9eb2d8e32d5fd75baf0dd542f274f73428720ecbe396ea9a49f"
   },
   "trip-money": {
     "label": "Trip Money",
