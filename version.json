@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 255,
+    "code": 256,
     "file": "stocks.apk",
-    "sha256": "9b19604dc8e25be35d8b4bf7bf95f232c076eb334c445d895cf94d1f2930f249",
-    "size": 7348482,
-    "commit": "280117b",
-    "subject": "Stocks: Fill from screenshot reads a Bualuang order whose I came out as [ (\"[VL\" = IVL), and a buy whose total is far off shares × price is refused instead of saving the gap as a fee (NVDA 2.8 on a $50.58 row saved a $421.61 fee)",
-    "built": "2026-11-10T17:13:52.332Z",
-    "src": "872effb73fb24e7cb03da1e9f053dc9acb7608ddce95733f67fea36f9f60adc2"
+    "sha256": "f3820be3d3d8e4e8e36a59af311a72f715d1e52988b7a01eb658220ca49af582",
+    "size": 7349806,
+    "commit": "d3cbf9f",
+    "subject": "Stocks: Analytics counts Australia's shares in each holding, its part in orange under the shares, with an Include Australia switch above Sold (design A, picked: \"This is good\")",
+    "built": "2026-11-10T17:26:07.230Z",
+    "src": "8739e10566fd8d3614f13c62e1f759c8ec1d4e5b5592a6a806014de453af47a2"
   },
   "papa": {
     "label": "Papa's book",
