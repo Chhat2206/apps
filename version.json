@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 244,
+    "code": 245,
     "file": "stocks.apk",
-    "sha256": "59adfa9e6ae1631c3e6cd203889f8d53908cdf30e2cab584cec844be3ec32fa1",
-    "size": 7346324,
-    "commit": "88ab0f3",
-    "subject": "Ledger: Upcoming says which credit card each payment is on: a tile per card under From each bank, a chip on each line (design B)",
-    "built": "2026-11-10T14:42:12.522Z",
-    "src": "07ea4834b60fc725568e3b5f81c16e4cbb47db87d3a347b3dc356652ff04ef6d"
+    "sha256": "3a6cb61218b433969c3cee2830670e817a03e534c5e4842ffa140f9d151a8624",
+    "size": 7351569,
+    "commit": "5985dd3",
+    "subject": "Ledger: Earned shows the newest Xavier/Pravin payment's split as steps (Bangkok Bank's half written by itself, spending to send, Australia to put in), ticked from the history; clients from ฿5,000",
+    "built": "2026-11-10T15:13:44.637Z",
+    "src": "e52aade74137ef2a633dbae96d0afc76fb4253987a540afd9b6f9496870b5852"
   },
   "papa": {
     "label": "Papa's book",
