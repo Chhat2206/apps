@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 225,
+    "code": 226,
     "file": "stocks.apk",
-    "sha256": "db645023b2cd4483c5dd68facfc3c9f4ba6207aece14e3d20d654bf228ca9906",
-    "size": 7148348,
-    "commit": "daa84f8",
-    "subject": "Credit Card: History has a circle on every row, a green tick once the bill is ticked, so an unpaid bill never looks paid",
-    "built": "2026-11-10T12:02:35.474Z",
-    "src": "d57ec72ef3c1d3e1ee376392fe48b05641623b604bb7f5312fb6f4f40018ecd4"
+    "sha256": "eb07eceba2f5457c05bcdbd423fb607675133f471ede8379a175fce62c1ad075",
+    "size": 7150800,
+    "commit": "5ceb328",
+    "subject": "Ledger: Home's top reads as the Net worth tab (heading, picked day, Week/Month/Year/All from All); the account page opens on All; loan cards one line; a held bank card is never taken by text selection",
+    "built": "2026-11-10T12:09:32.726Z",
+    "src": "e929ba94d1e0d44dbb1d87292b84cd8fc17d8c73958cbc16010bba44ff0dbe76"
   },
   "papa": {
     "label": "Papa's book",
