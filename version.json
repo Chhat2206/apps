@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 241,
+    "code": 242,
     "file": "stocks.apk",
-    "sha256": "b4c93881a8743a579ab705263c9ad33f0cfa279504b947fca6f85ff119e7a155",
-    "size": 7344032,
-    "commit": "5ffdce4",
-    "subject": "Ledger opens at once and saves faster: the saved copy first, one token, reads batched per spreadsheet",
-    "built": "2026-11-10T13:55:36.395Z",
-    "src": "680aabaa0ce7778e9246ea66d3d3736a4277927a6234d0db7718b689cb265d40"
+    "sha256": "4e3b2cbdd1ce513947129cbc896c3a84e5135e61a1498ad616961f50968fc7bb",
+    "size": 7344028,
+    "commit": "9b7bcd7",
+    "subject": "Ledger: no Month / Year / All on an account page (switching flashed); it always shows All",
+    "built": "2026-11-10T13:57:38.289Z",
+    "src": "8fa54c50304da07e2fda2d2af03ee349c3e4ef16e578560b8f18132dec0041ea"
   },
   "papa": {
     "label": "Papa's book",
