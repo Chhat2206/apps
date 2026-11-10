@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 237,
+    "code": 238,
     "file": "stocks.apk",
-    "sha256": "22c56fe9e3bf0febc07fee14418e3134d246901e49e88dbf6c4877b6cfb28cbc",
-    "size": 7156524,
-    "commit": "8c68fb5",
-    "subject": "Ledger: on Add, the picked category's subcategories as a second row of rounds (the four used most, More), one tap to pick",
-    "built": "2026-11-10T13:03:38.322Z",
-    "src": "bd12c6183ad541a7049685165b31bc3f210f73ac9b8fc779e1a0d5175d89b83f"
+    "sha256": "5abda100e334bad9bf16746c0abcd211acc32a4a883af0b9391dcadcde66f25c",
+    "size": 7156868,
+    "commit": "25c7b24",
+    "subject": "Ledger: account cards centred; the + page's pickers open at once",
+    "built": "2026-11-10T13:06:21.528Z",
+    "src": "49dc35520e5d8cf15a6a90300e89f167306f2dbe4990ee271f9979e286d6ea34"
   },
   "papa": {
     "label": "Papa's book",
