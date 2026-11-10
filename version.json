@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 236,
+    "code": 237,
     "file": "stocks.apk",
-    "sha256": "a5db628c41d659b79842c4f644bf553e0f6464204f5f83534b27c6d68cd3b7b2",
-    "size": 7155904,
-    "commit": "b315384",
-    "subject": "Ledger: the account page has a + that adds to it, its number centred with no label, Cashew's pop-up on its chart; Add shows a quiet spinner while it saves",
-    "built": "2026-11-10T13:00:09.067Z",
-    "src": "dd5a5a9080d2e0e043f75cfe1a09b2cce3e583b4f5545b0a56e33f45e4c30c2a"
+    "sha256": "22c56fe9e3bf0febc07fee14418e3134d246901e49e88dbf6c4877b6cfb28cbc",
+    "size": 7156524,
+    "commit": "8c68fb5",
+    "subject": "Ledger: on Add, the picked category's subcategories as a second row of rounds (the four used most, More), one tap to pick",
+    "built": "2026-11-10T13:03:38.322Z",
+    "src": "bd12c6183ad541a7049685165b31bc3f210f73ac9b8fc779e1a0d5175d89b83f"
   },
   "papa": {
     "label": "Papa's book",
