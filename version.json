@@ -173,5 +173,15 @@
     "subject": "Music and Manhwa Radar deleted on request (\"delete music and manhwa radar\"): music/ and manhwa/, their CI builds and slugs, Music's entry on the setup QR (repo + the Pi's live copy and phone-setup.json) and the Control phone's QR list, the Pi's music-mix service (disabled, out of pi-selfheal), the music.chhat.net tunnel route and DNS record, and both APKs on the public apps page. /opt/music-mix and /var/lib/music-mix are left on the Pi. The notes say so, so neither is rebuilt.",
     "built": "2026-11-09T14:40:16.301Z",
     "src": "a7780cc2d525001cda6fee9573d476228b6d47d96c5114b5bddcbf0a011381c9"
+  },
+  "money": {
+    "label": "Money",
+    "code": 1,
+    "file": "money.apk",
+    "sha256": "899392be3fbc3415c68147b116a5b1368dfe39cc4a7b27141f1042793f85f670",
+    "size": 905200,
+    "commit": "da77364",
+    "subject": "Money: its APK workflow (built and published from the Pi, like every app)",
+    "built": "2026-11-10T04:56:15.979Z"
   }
 }
