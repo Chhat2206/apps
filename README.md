@@ -18,6 +18,6 @@ shows "can't display". After that the app updates itself from here.
 - **Planner** — [planner.apk](https://chhat2206.github.io/apps/planner.apk), build 77, 2026-11-10: Ledger: Upcoming says which credit card each payment is on: a tile per card under From each bank, a chip on each line (design B)
 - **Ledger** — [stocks.apk](https://chhat2206.github.io/apps/stocks.apk), build 243, 2026-11-10: Ledger: the net worth line is after what is owed, the same as the big figure; a point says when what is owed moved it
 - **Trip Money** — [trip-money.apk](https://chhat2206.github.io/apps/trip-money.apk), build 42, 2026-11-10: Ledger: Upcoming says which credit card each payment is on: a tile per card under From each bank, a chip on each line (design B)
-- **Warranty** — [warranty.apk](https://chhat2206.github.io/apps/warranty.apk), build 18, 2026-11-10: Every phone app built and published from the Pi; GitHub builds them only by hand or on a tag. Asked: "maybe move all of them locally".
+- **Warranty** — [warranty.apk](https://chhat2206.github.io/apps/warranty.apk), build 19, 2026-11-10: Ledger: Upcoming says which credit card each payment is on: a tile per card under From each bank, a chip on each line (design B)
 
 Written by CI. Nothing here is edited by hand, and every publish replaces the whole history.
