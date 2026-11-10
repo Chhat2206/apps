@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 247,
+    "code": 248,
     "file": "stocks.apk",
-    "sha256": "7a5382b073fc86ea6143e6257b46512729a9b0110ed79be7ee07bc4f4d89f32d",
-    "size": 7351617,
-    "commit": "745edf2",
-    "subject": "Ledger: Earned's month is its name between two plain arrows instead of the sideways strip",
-    "built": "2026-11-10T15:24:25.727Z",
-    "src": "332880c4c6e2cf7f40fe3cad6f7a80b69ad1dcba1ca173c78493efa80c21a5b7"
+    "sha256": "7c55f534d4291d207ca7c41a46c05162ed9eccb3f528594f3a68b08d4330dc98",
+    "size": 7351721,
+    "commit": "70da98b",
+    "subject": "Ledger: Earned's clients and the month's Spent / Earned / Left as three columns each, no grey card behind them (design Q)",
+    "built": "2026-11-10T15:33:54.023Z",
+    "src": "33b5d75d3f5e8b973ee64580ab4f1be755e972a416595ca196f9e2813972f1b7"
   },
   "papa": {
     "label": "Papa's book",
