@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 250,
+    "code": 251,
     "file": "stocks.apk",
-    "sha256": "91f4bf2bc6166fff48f720de0256461244642b0ba90896a3bdb07abf3fa3004e",
-    "size": 7351965,
-    "commit": "64d62fc",
-    "subject": "Ledger: Earned's done split and what is still to come as two chips under the month (design U); the steps open in a sheet",
-    "built": "2026-11-10T15:44:33.581Z",
-    "src": "489b18972cabc141bbaead27f69181ec1d2f90e42d184c00a720e09576d8bb6e"
+    "sha256": "2aedced890e0d1b3f1c1c77d50b29209adbdc4a046addaee39959900627af575",
+    "size": 7352037,
+    "commit": "9d84194",
+    "subject": "Ledger: the month's Left on Earned in white, not mint (red when down)",
+    "built": "2026-11-10T15:46:01.093Z",
+    "src": "e7992f8295447c0f263327a8792e0388a535087f8797e1842516116e53262401"
   },
   "papa": {
     "label": "Papa's book",
