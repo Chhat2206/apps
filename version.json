@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 224,
+    "code": 225,
     "file": "stocks.apk",
-    "sha256": "782ad9b3ad79051af684f2452a6f1941592f68f3deffe27fcf97413b29dca408",
-    "size": 7146460,
-    "commit": "27a8008",
-    "subject": "Ledger: the line leaves out card bills and loans (the figure keeps them); Earned's month says what is left on its own row; no dead space at the foot",
-    "built": "2026-11-10T11:59:30.402Z",
-    "src": "fc8b83208c056f105140e2cfe5be4ff666323e3e8c68428d6f885337e66c33d5"
+    "sha256": "db645023b2cd4483c5dd68facfc3c9f4ba6207aece14e3d20d654bf228ca9906",
+    "size": 7148348,
+    "commit": "daa84f8",
+    "subject": "Credit Card: History has a circle on every row, a green tick once the bill is ticked, so an unpaid bill never looks paid",
+    "built": "2026-11-10T12:02:35.474Z",
+    "src": "d57ec72ef3c1d3e1ee376392fe48b05641623b604bb7f5312fb6f4f40018ecd4"
   },
   "papa": {
     "label": "Papa's book",
