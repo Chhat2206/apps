@@ -16,7 +16,7 @@ shows "can't display". After that the app updates itself from here.
 - **Vacation** — [packing.apk](https://chhat2206.github.io/apps/packing.apk), build 102, 2026-11-10: Ledger: Upcoming says which credit card each payment is on: a tile per card under From each bank, a chip on each line (design B)
 - **Papa's book** — [papa.apk](https://chhat2206.github.io/apps/papa.apk), build 173, 2026-11-10: Ledger: Upcoming says which credit card each payment is on: a tile per card under From each bank, a chip on each line (design B)
 - **Planner** — [planner.apk](https://chhat2206.github.io/apps/planner.apk), build 77, 2026-11-10: Ledger: Upcoming says which credit card each payment is on: a tile per card under From each bank, a chip on each line (design B)
-- **Ledger** — [stocks.apk](https://chhat2206.github.io/apps/stocks.apk), build 251, 2026-11-10: Ledger: the month's Left on Earned in white, not mint (red when down)
+- **Ledger** — [stocks.apk](https://chhat2206.github.io/apps/stocks.apk), build 252, 2026-11-10: Ledger: Home's Upcoming / Overdue tiles in whole baht with a smaller title, clear of the tile's edges
 - **Trip Money** — [trip-money.apk](https://chhat2206.github.io/apps/trip-money.apk), build 42, 2026-11-10: Ledger: Upcoming says which credit card each payment is on: a tile per card under From each bank, a chip on each line (design B)
 - **Warranty** — [warranty.apk](https://chhat2206.github.io/apps/warranty.apk), build 19, 2026-11-10: Ledger: Upcoming says which credit card each payment is on: a tile per card under From each bank, a chip on each line (design B)
 

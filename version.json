@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 251,
+    "code": 252,
     "file": "stocks.apk",
-    "sha256": "2aedced890e0d1b3f1c1c77d50b29209adbdc4a046addaee39959900627af575",
-    "size": 7352037,
-    "commit": "9d84194",
-    "subject": "Ledger: the month's Left on Earned in white, not mint (red when down)",
-    "built": "2026-11-10T15:46:01.093Z",
-    "src": "e7992f8295447c0f263327a8792e0388a535087f8797e1842516116e53262401"
+    "sha256": "16743356e359ad6e5689404b73a7c0397170466db6676999deb0020974aca96c",
+    "size": 7352125,
+    "commit": "c7e6fce",
+    "subject": "Ledger: Home's Upcoming / Overdue tiles in whole baht with a smaller title, clear of the tile's edges",
+    "built": "2026-11-10T16:19:30.532Z",
+    "src": "1ad4ce7d523cccd6fca1da4a2dc85187668a3f2b72d6e0f694fec249905d7a7b"
   },
   "papa": {
     "label": "Papa's book",
