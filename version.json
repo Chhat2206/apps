@@ -176,13 +176,13 @@
   },
   "money": {
     "label": "Money",
-    "code": 2,
+    "code": 3,
     "file": "money.apk",
-    "sha256": "899a6e2b5fcf182bdebcf5dcac0a47924653004a2d2479e438df6494b9426165",
-    "size": 908032,
-    "commit": "3795947",
-    "subject": "Money: Settings says Signed in, a tick per sheet, the sign-in buttons only behind Set up again",
-    "built": "2026-11-10T05:16:44.028Z",
+    "sha256": "e5707739556fd243500054b6d90c583fe7dab1827c07f76a19c00a6b0059d735",
+    "size": 908036,
+    "commit": "35549b3",
+    "subject": "Pi publish: --force sends a build even when nothing changed, for a build number that went out twice",
+    "built": "2026-11-10T05:19:33.443Z",
     "src": "21a726a957935f0a837feb13e8efa37df67c3990a025b37d890bd88404bfe301"
   }
 }
