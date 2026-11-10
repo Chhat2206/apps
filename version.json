@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 229,
+    "code": 230,
     "file": "stocks.apk",
-    "sha256": "2458bb72467f3deff3190aac6991b65d40a7bd0fb9e9ed0a6c2d9a752024b2b2",
-    "size": 7151204,
-    "commit": "5e0e3d8",
-    "subject": "Ledger: a picked day's figure is net worth after debt; the Add form no longer flashes on a category tap; hold a category icon to edit it",
-    "built": "2026-11-10T12:29:58.164Z",
-    "src": "7272e863022a77892e7975bf3cf505105d5e831083f1462034b92751e9198724"
+    "sha256": "75090aba4d0a88cbc0502180c2b460edf5f6df8b35960a24a07cc2d0d109928f",
+    "size": 7151404,
+    "commit": "9b41d60",
+    "subject": "Ledger: the since line centred when it is alone; All reads since 1 Jan 2025",
+    "built": "2026-11-10T12:33:37.750Z",
+    "src": "d22b3d1e100b6922e89fb56bbdc4b537c9e212fba8c74e705edc3801f661fd19"
   },
   "papa": {
     "label": "Papa's book",
