@@ -110,14 +110,14 @@
   },
   "control": {
     "label": "Control",
-    "code": 54,
+    "code": 55,
     "file": "control.apk",
-    "sha256": "c891b87166a9e81517a7a465ce9775abc334e85af3747607bac74b4c708647d3",
-    "size": 168663,
-    "commit": "8ab102d",
-    "subject": "Weight deleted on request (\"delete the weight app\"): weight/, its CI build and slug, its entry on the setup QR (repo + the Pi's live copy and phone-setup.json), the Control phone's QR list, and weight.apk on the public apps page. The Weight sheet and the Pi's scale key are left as they were. The note says so, so the app isn't rebuilt.",
-    "built": "2026-11-09T06:00:35.559Z",
-    "src": "4186ab6732f8bd071e7246e620a94dd22f175ea0052fc9de596e34a2b29d79c7"
+    "sha256": "96a15d595351473038d1c1bddb1623cd5a93617ce0e5aad32bc99a6b77cc3cbf",
+    "size": 168751,
+    "commit": "8c43c12",
+    "subject": "Every phone app built and published from the Pi; GitHub builds them only by hand or on a tag. Asked: \"maybe move all of them locally\".",
+    "built": "2026-11-10T04:26:38.327Z",
+    "src": "1897892b9b1bab2ac1f9c22f84e32b89af90db2f904fca28c45887fd2d4a0b13"
   },
   "deal": {
     "label": "Better Deal",
