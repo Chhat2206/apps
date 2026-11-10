@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 235,
+    "code": 236,
     "file": "stocks.apk",
-    "sha256": "0b9a90eeb2cb18f4db813d6857c4fce63c75b5cd0ee9ca911ee2b678a47311a5",
-    "size": 7155408,
-    "commit": "53a55fe",
-    "subject": "Ledger: after Add, Home with the new line lit in Recent",
-    "built": "2026-11-10T12:57:47.744Z",
-    "src": "9d60764100b94c3d352eaf8d16888b4121b767c6ddc55bc619d28c20637e69ea"
+    "sha256": "a5db628c41d659b79842c4f644bf553e0f6464204f5f83534b27c6d68cd3b7b2",
+    "size": 7155904,
+    "commit": "b315384",
+    "subject": "Ledger: the account page has a + that adds to it, its number centred with no label, Cashew's pop-up on its chart; Add shows a quiet spinner while it saves",
+    "built": "2026-11-10T13:00:09.067Z",
+    "src": "dd5a5a9080d2e0e043f75cfe1a09b2cce3e583b4f5545b0a56e33f45e4c30c2a"
   },
   "papa": {
     "label": "Papa's book",
