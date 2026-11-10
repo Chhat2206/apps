@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 227,
+    "code": 228,
     "file": "stocks.apk",
-    "sha256": "4f99d9e6d285551942bb225289fa42feb5fe72d987bb3596b9692fc081d4a885",
-    "size": 7150584,
-    "commit": "71f69c5",
-    "subject": "Ledger: Home's chart is the last 30 days again, no selector, no since/that day lines; heading, picked day and figure stay as the Net worth tab's",
-    "built": "2026-11-10T12:19:42.580Z",
-    "src": "bdfa6970d8f7d9520e1a2af5ba6487167003a68a3ea39a8a9295eb6a41dd6272"
+    "sha256": "91d8534a96eecb471db470c2f322235f6d465130ca48e47c2ad3d29b99c7f4c2",
+    "size": 7150796,
+    "commit": "6557e6e",
+    "subject": "Ledger: the Net worth tab's figures centred, since at the left edge and that day at the right",
+    "built": "2026-11-10T12:28:04.098Z",
+    "src": "c3acdb29a547952fcfe5873863cd0a41c1e7e9c2fdd53abc500ae5a5fcb0352f"
   },
   "papa": {
     "label": "Papa's book",
