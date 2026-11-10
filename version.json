@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 234,
+    "code": 235,
     "file": "stocks.apk",
-    "sha256": "255f3816865fbae1dbdaab4e2f51afcf4021b87e16b688701c22de13d09ed875",
-    "size": 7154848,
-    "commit": "0e11c05",
-    "subject": "Ledger: Home has no this-month line or Live under its number",
-    "built": "2026-11-10T12:55:25.725Z",
-    "src": "eb4622027454c66e180558e21869a9044f27ff3d8970549ae131bd751a8473ad"
+    "sha256": "0b9a90eeb2cb18f4db813d6857c4fce63c75b5cd0ee9ca911ee2b678a47311a5",
+    "size": 7155408,
+    "commit": "53a55fe",
+    "subject": "Ledger: after Add, Home with the new line lit in Recent",
+    "built": "2026-11-10T12:57:47.744Z",
+    "src": "9d60764100b94c3d352eaf8d16888b4121b767c6ddc55bc619d28c20637e69ea"
   },
   "papa": {
     "label": "Papa's book",
