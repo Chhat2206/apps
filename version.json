@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 222,
+    "code": 223,
     "file": "stocks.apk",
-    "sha256": "0cb8e58d8eb1d0c485d9d4d407ceda5eace56bc9d9d5dabda9d16c0d04041e8d",
-    "size": 7143668,
-    "commit": "a44a593",
-    "subject": "Ledger: Net worth spaced out, opens on All, today's figure stays big beside a picked day, Lent and borrowed at the foot; Home's chart reads by touch; Recent has 10 lines and a Full ledger",
-    "built": "2026-11-10T11:29:07.247Z",
-    "src": "ae7be12be7a1b67b2be97e553caff4f2cb7114c7d7409655c566a9ca82a53fd9"
+    "sha256": "9954f7988efb4b5074b4032cbc4b351f975828e901da66ca72570f40363be623",
+    "size": 7143760,
+    "commit": "27eb398",
+    "subject": "Ledger: the Stocks row drops its Transactions pill; the movements still open from Portfolio's All movements",
+    "built": "2026-11-10T11:30:36.420Z",
+    "src": "8b14820eb314c8fe592380bed3635d8fc84ad126583b47e99b7fa797bd4f442a"
   },
   "papa": {
     "label": "Papa's book",
