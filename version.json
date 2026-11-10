@@ -178,11 +178,11 @@
     "label": "Money",
     "code": 2,
     "file": "money.apk",
-    "sha256": "f68b810bff0aac25ca0e4d3e01800ef99ef196c8ea29a2cb7fc4fd0bfa7d1700",
-    "size": 907456,
-    "commit": "c11f3ee",
-    "subject": "Money note: one fact a line",
-    "built": "2026-11-10T05:11:44.388Z",
-    "src": "d84c51fc5dc03610c72d56aeeb43aaf14abfe58bba4de20bb5cee8ad828d20ed"
+    "sha256": "899a6e2b5fcf182bdebcf5dcac0a47924653004a2d2479e438df6494b9426165",
+    "size": 908032,
+    "commit": "3795947",
+    "subject": "Money: Settings says Signed in, a tick per sheet, the sign-in buttons only behind Set up again",
+    "built": "2026-11-10T05:16:44.028Z",
+    "src": "21a726a957935f0a837feb13e8efa37df67c3990a025b37d890bd88404bfe301"
   }
 }
