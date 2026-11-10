@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 233,
+    "code": 234,
     "file": "stocks.apk",
-    "sha256": "add63e8c4ccc0da60a43ee5b1f5cfec3e045c3747a7766343d29b0934106bbf8",
-    "size": 7154880,
-    "commit": "e3e5e2d",
-    "subject": "Ledger: a picked point shows Cashew's pop-up on the chart (day and figure), the big number stays today's, on Home and Net worth",
-    "built": "2026-11-10T12:54:30.920Z",
-    "src": "1ffc02eedc3d57b835e5b1e2ddc50c888cb50addf7199b7a2a36d70f02af728b"
+    "sha256": "255f3816865fbae1dbdaab4e2f51afcf4021b87e16b688701c22de13d09ed875",
+    "size": 7154848,
+    "commit": "0e11c05",
+    "subject": "Ledger: Home has no this-month line or Live under its number",
+    "built": "2026-11-10T12:55:25.725Z",
+    "src": "eb4622027454c66e180558e21869a9044f27ff3d8970549ae131bd751a8473ad"
   },
   "papa": {
     "label": "Papa's book",
