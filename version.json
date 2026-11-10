@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 214,
+    "code": 215,
     "file": "stocks.apk",
-    "sha256": "9f8356a45bd273a23f39452d7ff9c863b2f9879aa4843f42ed979ff9783f0b99",
-    "size": 7085580,
-    "commit": "8a2f0ad",
-    "subject": "Ledger: Cards offers Scan the setup QR on a phone set up before the Credit Card sheet was part of its setup",
-    "built": "2026-11-10T07:00:07.454Z",
-    "src": "6f82bdfd513db3fa5e29b21e2d32b61e424ff07dd6b4a6a834b8217429d2d85a"
+    "sha256": "75dbaa278964eade89bb1030c5179bcfa7a2c1c997990ebccf42cd6b4316ceab",
+    "size": 7086084,
+    "commit": "7ff995f",
+    "subject": "Ledger: Australia's savings count in net worth and have their own card on Home; Cashew's Webull USD is shown as Webull",
+    "built": "2026-11-10T07:04:51.737Z",
+    "src": "60defd77ecb1ffb583ab1c1c5cf91d4b42e14cfae296789207d80b839d40fbb7"
   },
   "papa": {
     "label": "Papa's book",
