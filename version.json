@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 102,
+    "code": 103,
     "file": "packing.apk",
-    "sha256": "70ab24dd0943b951fc07ab5bab0d0e6163c0527e5fd2391d3a5838e628acbf2a",
-    "size": 870409,
-    "commit": "88ab0f3",
-    "subject": "Ledger: Upcoming says which credit card each payment is on: a tile per card under From each bank, a chip on each line (design B)",
-    "built": "2026-11-10T14:36:42.774Z",
-    "src": "baa92d8a3337ff69d68e85bc87826086795b3d0de550678bf0fc9eb3c2485815"
+    "sha256": "c1d5da21e09adc2d8206f570f4ce2a83cd3ecdf731709228bda870234466b3b5",
+    "size": 866405,
+    "commit": "e932fe6",
+    "subject": "Stocks: Fill from screenshot at the foot of Record, Saving and Swap to dollars, just above Save (asked: \"put fill from screenshot at the bottom above save\")",
+    "built": "2026-11-10T16:43:51.882Z",
+    "src": "a2ee725f0d5336831450f0dfabed892e72f0d12523f737b08a1581e4e444e38e"
   },
   "control": {
     "label": "Control",
