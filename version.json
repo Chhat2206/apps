@@ -44,14 +44,14 @@
   },
   "musu": {
     "label": "Work Tracker",
-    "code": 62,
+    "code": 63,
     "file": "musu.apk",
-    "sha256": "a130e86c32ead3bc0ef8e6e0c1b25d222878da27e56eb6bc8b5a59a302264d55",
-    "size": 496157,
-    "commit": "4951dad",
-    "subject": "Music and Manhwa Radar deleted on request (\"delete music and manhwa radar\"): music/ and manhwa/, their CI builds and slugs, Music's entry on the setup QR (repo + the Pi's live copy and phone-setup.json) and the Control phone's QR list, the Pi's music-mix service (disabled, out of pi-selfheal), the music.chhat.net tunnel route and DNS record, and both APKs on the public apps page. /opt/music-mix and /var/lib/music-mix are left on the Pi. The notes say so, so neither is rebuilt.",
-    "built": "2026-11-09T14:36:15.605Z",
-    "src": "59d11456fe8ce202ed1dd700f07528aeb9fbe9bbad405ea4b0a5665955a266d8"
+    "sha256": "eff68534641cc8e020e02a101a195fb2f9f256448f47f42c16df3f3463663959",
+    "size": 191605,
+    "commit": "8c43c12",
+    "subject": "Every phone app built and published from the Pi; GitHub builds them only by hand or on a tag. Asked: \"maybe move all of them locally\".",
+    "built": "2026-11-10T04:29:48.790Z",
+    "src": "944800623b4ff4d986f9ae7b15186560cb07e4434f667f4c077e79ad8cccb0c8"
   },
   "trip-money": {
     "label": "Trip Money",
