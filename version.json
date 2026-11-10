@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 238,
+    "code": 239,
     "file": "stocks.apk",
-    "sha256": "5abda100e334bad9bf16746c0abcd211acc32a4a883af0b9391dcadcde66f25c",
-    "size": 7156868,
-    "commit": "25c7b24",
-    "subject": "Ledger: account cards centred; the + page's pickers open at once",
-    "built": "2026-11-10T13:06:21.528Z",
-    "src": "49dc35520e5d8cf15a6a90300e89f167306f2dbe4990ee271f9979e286d6ea34"
+    "sha256": "39da58b93014f573fff652a90c18154c8aa2520e0922e839a6549d02eadc4fc0",
+    "size": 7157184,
+    "commit": "e7b7622",
+    "subject": "Ledger: one hero on every tab: the same heading, the number in one face and size, centred at the same height, written the same way",
+    "built": "2026-11-10T13:11:04.072Z",
+    "src": "ff682e7ec6da8203c869eea9b168bf700ef52d4d939dd73730b43e242229f55e"
   },
   "papa": {
     "label": "Papa's book",
