@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 215,
+    "code": 216,
     "file": "stocks.apk",
-    "sha256": "75dbaa278964eade89bb1030c5179bcfa7a2c1c997990ebccf42cd6b4316ceab",
-    "size": 7086084,
-    "commit": "7ff995f",
-    "subject": "Ledger: Australia's savings count in net worth and have their own card on Home; Cashew's Webull USD is shown as Webull",
-    "built": "2026-11-10T07:04:51.737Z",
-    "src": "60defd77ecb1ffb583ab1c1c5cf91d4b42e14cfae296789207d80b839d40fbb7"
+    "sha256": "a641c574f4b8729f0784176e1ed812aa31ca955368bacf55185e73dbb52a88c9",
+    "size": 7086656,
+    "commit": "b284122",
+    "subject": "Ledger: investments only from the Stocks sheet; Cashew's SET, Webull and Bitkub lines taken off the Money tab",
+    "built": "2026-11-10T07:07:48.712Z",
+    "src": "cf1d5eef73a738e9c4a4415b5ebb14db75f2adea349e6d39a0a8c174fb32ecb4"
   },
   "papa": {
     "label": "Papa's book",
