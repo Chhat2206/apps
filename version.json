@@ -33,14 +33,14 @@
   },
   "card-tracker": {
     "label": "Credit Card",
-    "code": 90,
+    "code": 91,
     "file": "card-tracker.apk",
-    "sha256": "7ac13fc592edf19795f073787d80c9bc060225311fc23f519dacb83134539432",
-    "size": 236446,
-    "commit": "f2237e8",
-    "subject": "Credit Card: History has a circle on every row, a green tick once the bill is ticked, so an unpaid bill never looks paid",
-    "built": "2026-11-10T12:02:44.197Z",
-    "src": "7a9ce237e49b3288181b7970b83b78fcbc93151c1bf8d4403167b28bd0f5ce68"
+    "sha256": "0aaed81fb40dc6470a2f209c69bdaa2343c5c7bdf6f1bb9b30ee9a5d12b4c5d4",
+    "size": 238042,
+    "commit": "0a434bc",
+    "subject": "Ledger: the net worth line is after what is owed, the same as the big figure; a point says when what is owed moved it",
+    "built": "2026-11-10T14:19:39.730Z",
+    "src": "7c2448fb32241a4230c339b98f92efd1e50bc0ecf9c3100e90384af330d7be8f"
   },
   "musu": {
     "label": "Work Tracker",
