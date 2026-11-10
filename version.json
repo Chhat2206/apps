@@ -1,14 +1,14 @@
 {
   "stocks": {
-    "label": "Stocks",
-    "code": 212,
+    "label": "Ledger",
+    "code": 213,
     "file": "stocks.apk",
-    "sha256": "69adfde608fa0be8ad81bfa328fc5ff96a0178e82fc412f72e3faa4e1ef91857",
-    "size": 7061575,
-    "commit": "8c43c12",
-    "subject": "Every phone app built and published from the Pi; GitHub builds them only by hand or on a tag. Asked: \"maybe move all of them locally\".",
-    "built": "2026-11-10T04:23:45.447Z",
-    "src": "15598776255a78f40a4116151a4b559ac11c82194d9377846ce5981ad5b1e4a4"
+    "sha256": "fdbdbfeec0ebb7780578cbc96a20207727d189e8d57fbb0ce84be741abef386a",
+    "size": 7085300,
+    "commit": "602bdcc",
+    "subject": "Ledger: its APK named Ledger on the download page, and the Stocks and money tests run before it is built",
+    "built": "2026-11-10T06:57:46.224Z",
+    "src": "d71605f4b332585d5ac28c5ceb0103518753598349fd16669f24b3ae4c21ed2f"
   },
   "papa": {
     "label": "Papa's book",
