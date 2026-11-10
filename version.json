@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 253,
+    "code": 254,
     "file": "stocks.apk",
-    "sha256": "ca19f8e96d1add934c6b4c50b78d6b055645487619abd8d3e185b375056c403a",
-    "size": 7353433,
-    "commit": "e932fe6",
-    "subject": "Stocks: Analytics' holdings say how many shares under each name instead of the % of the portfolio beside it (design B, picked)",
-    "built": "2026-11-10T16:45:08.014Z",
-    "src": "c067cfef73cf202aadf29c5fe56f38adf0c2466be56dd952bdcb3952dd722149"
+    "sha256": "37e1112850ca9407db0d217c81349a4d5628931a691b05a171a106dfe222a91b",
+    "size": 7348034,
+    "commit": "e9e83a2",
+    "subject": "Ledger + Credit Card: no Cashew — saves write only Ledger's Money tab (no Cashew queue, line, Again sheet or /api/cashew); Credit Card's Add to Cashew button, Cards switch, Add-page button and History tick are gone (asked: \"remove cashew from the worktracker apps\")",
+    "built": "2026-11-10T16:51:46.413Z",
+    "src": "055d0bb59eff69e29176f0b163527e429229665afeba0cd5c102c6502f4e6991"
   },
   "papa": {
     "label": "Papa's book",
