@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 256,
+    "code": 257,
     "file": "stocks.apk",
-    "sha256": "f3820be3d3d8e4e8e36a59af311a72f715d1e52988b7a01eb658220ca49af582",
-    "size": 7349806,
-    "commit": "d3cbf9f",
-    "subject": "Stocks: Analytics counts Australia's shares in each holding, its part in orange under the shares, with an Include Australia switch above Sold (design A, picked: \"This is good\")",
-    "built": "2026-11-10T17:26:07.230Z",
-    "src": "8739e10566fd8d3614f13c62e1f759c8ec1d4e5b5592a6a806014de453af47a2"
+    "sha256": "0e08ec9cca833a6a3dc7e2bf84f37b7ee44eb1d12b9513bf0fad0546e2098502",
+    "size": 7350602,
+    "commit": "0a03d15",
+    "subject": "Ledger: no arrow under a tab's number (the number opens what it did), Earned's big figure counts up like the others, and Earned keeps cents on every amount (฿50,000.00 beside ฿13,566.93)",
+    "built": "2026-11-10T17:30:08.249Z",
+    "src": "d40a17d75585f6e5c27f09168aba16bc6e273392c19435971eae85d03ce9f898"
   },
   "papa": {
     "label": "Papa's book",
