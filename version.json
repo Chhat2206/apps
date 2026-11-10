@@ -110,14 +110,14 @@
   },
   "control": {
     "label": "Control",
-    "code": 55,
+    "code": 56,
     "file": "control.apk",
-    "sha256": "96a15d595351473038d1c1bddb1623cd5a93617ce0e5aad32bc99a6b77cc3cbf",
-    "size": 168751,
-    "commit": "8c43c12",
-    "subject": "Every phone app built and published from the Pi; GitHub builds them only by hand or on a tag. Asked: \"maybe move all of them locally\".",
-    "built": "2026-11-10T04:26:38.327Z",
-    "src": "1897892b9b1bab2ac1f9c22f84e32b89af90db2f904fca28c45887fd2d4a0b13"
+    "sha256": "f9dff1cf56bb9e48c4f54f6d61fe4ee0119321527ae5c28f03a56250ef16f136",
+    "size": 169223,
+    "commit": "0a434bc",
+    "subject": "Ledger: the net worth line is after what is owed, the same as the big figure; a point says when what is owed moved it",
+    "built": "2026-11-10T14:21:42.959Z",
+    "src": "3bb1b6f723a6c64ce8faa1137f73c08bb0741fb60b28bed5681d93d0b19d2087"
   },
   "deal": {
     "label": "Better Deal",
