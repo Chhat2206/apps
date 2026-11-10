@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Stocks",
-    "code": 211,
+    "code": 212,
     "file": "stocks.apk",
-    "sha256": "752fe4bb860587e3eb84d107d2e86a140fd764e4a59b5fd2dc879e890aad8864",
-    "size": 7058319,
-    "commit": "4951dad",
-    "subject": "Music and Manhwa Radar deleted on request (\"delete music and manhwa radar\"): music/ and manhwa/, their CI builds and slugs, Music's entry on the setup QR (repo + the Pi's live copy and phone-setup.json) and the Control phone's QR list, the Pi's music-mix service (disabled, out of pi-selfheal), the music.chhat.net tunnel route and DNS record, and both APKs on the public apps page. /opt/music-mix and /var/lib/music-mix are left on the Pi. The notes say so, so neither is rebuilt.",
-    "built": "2026-11-09T14:36:20.605Z",
-    "src": "16fcbc6cbb89fa0c92d418e3f39ac820287a37ed001bd7a7cc4795d259ae7315"
+    "sha256": "69adfde608fa0be8ad81bfa328fc5ff96a0178e82fc412f72e3faa4e1ef91857",
+    "size": 7061575,
+    "commit": "8c43c12",
+    "subject": "Every phone app built and published from the Pi; GitHub builds them only by hand or on a tag. Asked: \"maybe move all of them locally\".",
+    "built": "2026-11-10T04:23:45.447Z",
+    "src": "15598776255a78f40a4116151a4b559ac11c82194d9377846ce5981ad5b1e4a4"
   },
   "papa": {
     "label": "Papa's book",
