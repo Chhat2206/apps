@@ -55,14 +55,14 @@
   },
   "trip-money": {
     "label": "Trip Money",
-    "code": 41,
+    "code": 42,
     "file": "trip-money.apk",
-    "sha256": "3900bf30fb2f92d47996215adf9cf72899d9d85faeea6f6fede0f7ad5c75f090",
-    "size": 148622,
-    "commit": "4951dad",
-    "subject": "Music and Manhwa Radar deleted on request (\"delete music and manhwa radar\"): music/ and manhwa/, their CI builds and slugs, Music's entry on the setup QR (repo + the Pi's live copy and phone-setup.json) and the Control phone's QR list, the Pi's music-mix service (disabled, out of pi-selfheal), the music.chhat.net tunnel route and DNS record, and both APKs on the public apps page. /opt/music-mix and /var/lib/music-mix are left on the Pi. The notes say so, so neither is rebuilt.",
-    "built": "2026-11-09T14:41:34.877Z",
-    "src": "7c2866522fe78709240fca7c31f0e852a5154552800f1191027f8d1dd66e23c5"
+    "sha256": "dfcaacc0232d24c6ceea33c6ba10825ae24f1c75d2f5b913668f6f01156d72b9",
+    "size": 151134,
+    "commit": "88ab0f3",
+    "subject": "Ledger: Upcoming says which credit card each payment is on: a tile per card under From each bank, a chip on each line (design B)",
+    "built": "2026-11-10T14:40:29.925Z",
+    "src": "4bb11b47e1b7351fba10dbe1119a25b1123b1958448ac49e08e97b0bf3742654"
   },
   "collection": {
     "label": "Papa's Collection",
