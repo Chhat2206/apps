@@ -33,14 +33,14 @@
   },
   "card-tracker": {
     "label": "Credit Card",
-    "code": 91,
+    "code": 92,
     "file": "card-tracker.apk",
-    "sha256": "0aaed81fb40dc6470a2f209c69bdaa2343c5c7bdf6f1bb9b30ee9a5d12b4c5d4",
-    "size": 238042,
-    "commit": "0a434bc",
-    "subject": "Ledger: the net worth line is after what is owed, the same as the big figure; a point says when what is owed moved it",
-    "built": "2026-11-10T14:19:39.730Z",
-    "src": "7c2448fb32241a4230c339b98f92efd1e50bc0ecf9c3100e90384af330d7be8f"
+    "sha256": "e6118fc6ffc5d602e6f67b5201c2ad4715eff0c651833e7d583fe884061aa508",
+    "size": 235574,
+    "commit": "e9e83a2",
+    "subject": "Ledger + Credit Card: no Cashew — saves write only Ledger's Money tab (no Cashew queue, line, Again sheet or /api/cashew); Credit Card's Add to Cashew button, Cards switch, Add-page button and History tick are gone (asked: \"remove cashew from the worktracker apps\")",
+    "built": "2026-11-10T16:52:27.622Z",
+    "src": "25f97f3d4c613e649ce3065af45b46853bc045ce8c52cf82fb425f43851cc9a1"
   },
   "musu": {
     "label": "Work Tracker",
