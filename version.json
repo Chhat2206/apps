@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 221,
+    "code": 222,
     "file": "stocks.apk",
-    "sha256": "5967ba712d25dd2bc1057498eed95c63fdbfe7287495f4916c28c859e3c5cf76",
-    "size": 7141248,
-    "commit": "b47af2b",
-    "subject": "stocks tests: the card-purchase tests run with module mocks however node --test is started (the CI step and the Pi build run it without the flag)",
-    "built": "2026-11-10T11:00:11.653Z",
-    "src": "e39a09cc4e7de457592eb71dbb7abaf92779f65adcf4f045f39b1c85a81eec6e"
+    "sha256": "0cb8e58d8eb1d0c485d9d4d407ceda5eace56bc9d9d5dabda9d16c0d04041e8d",
+    "size": 7143668,
+    "commit": "a44a593",
+    "subject": "Ledger: Net worth spaced out, opens on All, today's figure stays big beside a picked day, Lent and borrowed at the foot; Home's chart reads by touch; Recent has 10 lines and a Full ledger",
+    "built": "2026-11-10T11:29:07.247Z",
+    "src": "ae7be12be7a1b67b2be97e553caff4f2cb7114c7d7409655c566a9ca82a53fd9"
   },
   "papa": {
     "label": "Papa's book",
