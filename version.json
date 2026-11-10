@@ -154,14 +154,14 @@
   },
   "warranty": {
     "label": "Warranty",
-    "code": 17,
+    "code": 18,
     "file": "warranty.apk",
-    "sha256": "41047da21790b786cb8112e25a2d7038d3dc48dfaad94cb32c898f7f57d03347",
-    "size": 184747,
-    "commit": "7742570",
-    "subject": "Merge Sign in with Google into master",
-    "built": "2026-11-08T14:35:35.732Z",
-    "src": "8842c42f1a876ebf0e6c154bcd65405f56c3cb9f942b6f07b0ceaa57eff97b34"
+    "sha256": "6f7578bf5d02481a2dd749ad8bbc1318f7e022ca8b6b30e082890708e7e798bb",
+    "size": 184851,
+    "commit": "8c43c12",
+    "subject": "Every phone app built and published from the Pi; GitHub builds them only by hand or on a tag. Asked: \"maybe move all of them locally\".",
+    "built": "2026-11-10T04:44:25.999Z",
+    "src": "9c94d3f70c9bc0c4dbadbc9c2291e855ed1821f1ec7340e54ec60cb7a37c4442"
   },
   "mumma": {
     "label": "Mumma",
