@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 252,
+    "code": 253,
     "file": "stocks.apk",
-    "sha256": "16743356e359ad6e5689404b73a7c0397170466db6676999deb0020974aca96c",
-    "size": 7352125,
-    "commit": "c7e6fce",
-    "subject": "Ledger: Home's Upcoming / Overdue tiles in whole baht with a smaller title, clear of the tile's edges",
-    "built": "2026-11-10T16:19:30.532Z",
-    "src": "1ad4ce7d523cccd6fca1da4a2dc85187668a3f2b72d6e0f694fec249905d7a7b"
+    "sha256": "ca19f8e96d1add934c6b4c50b78d6b055645487619abd8d3e185b375056c403a",
+    "size": 7353433,
+    "commit": "e932fe6",
+    "subject": "Stocks: Analytics' holdings say how many shares under each name instead of the % of the portfolio beside it (design B, picked)",
+    "built": "2026-11-10T16:45:08.014Z",
+    "src": "c067cfef73cf202aadf29c5fe56f38adf0c2466be56dd952bdcb3952dd722149"
   },
   "papa": {
     "label": "Papa's book",
