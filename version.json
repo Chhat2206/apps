@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 231,
+    "code": 232,
     "file": "stocks.apk",
-    "sha256": "91c422f8c9ec13d3744bb0ee3b8f0a9cbb5f43a644b3e249e9050e09e35f9307",
-    "size": 7152172,
-    "commit": "3619fc6",
-    "subject": "Ledger: one top for every tab (name, the number centred, one line, then what switches); Home's heading says Home; the Stocks pills under the number; since 2025; hold SET or Webull to see its history",
-    "built": "2026-11-10T12:46:44.804Z",
-    "src": "5321cb8faabcaabaa61750e3e17eeee907cad31ad5c4c5576b4a3f2d9aec3347"
+    "sha256": "3457b5a2d2920c691455a289862eb43918ec430e1ff930ab1096cfdf086112f7",
+    "size": 7154956,
+    "commit": "67232e8",
+    "subject": "Ledger: Upcoming is design B (each bank's cover, overdue first, a week at a time, centred headings) with Skip, move, change and Delete; Lent and borrowed behind a switch there; a picked day's figure shown in full",
+    "built": "2026-11-10T12:51:53.858Z",
+    "src": "d0a0e01b18d1c00084901068eb92eb67db43d13945845d6100ec51fe9c8a87cf"
   },
   "papa": {
     "label": "Papa's book",
