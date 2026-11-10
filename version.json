@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 76,
+    "code": 77,
     "file": "planner.apk",
-    "sha256": "b46b1200647089ff5747aa83e946e87d8332d3473231a2c8de10db603acc680f",
-    "size": 376014,
-    "commit": "ff71c6e",
-    "subject": "The Pi builds and publishes phone APKs: node android/tools/pi-publish.mjs <slug>. Asked: \"best build it on the pi … let's find a better solution than gh\" (the month's free Actions minutes are gone, and no spending).",
-    "built": "2026-11-09T15:45:10.434Z",
-    "src": "03938e73efc5a88651048b4dbca3f487f4dc732b48d99e5e9f81f2436538efad"
+    "sha256": "09a8e4e004ca6230857ec69e822fb9c8b63695ca5d47cd5538fd732382c5f8b5",
+    "size": 376850,
+    "commit": "88ab0f3",
+    "subject": "Ledger: Upcoming says which credit card each payment is on: a tile per card under From each bank, a chip on each line (design B)",
+    "built": "2026-11-10T14:39:51.776Z",
+    "src": "d856b4c1b4a55e758a79bbbde7ab8b88b7ff3bfd05524ef43c5787644e5bc890"
   },
   "warranty": {
     "label": "Warranty",
