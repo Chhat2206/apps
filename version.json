@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 254,
+    "code": 255,
     "file": "stocks.apk",
-    "sha256": "37e1112850ca9407db0d217c81349a4d5628931a691b05a171a106dfe222a91b",
-    "size": 7348034,
-    "commit": "e9e83a2",
-    "subject": "Ledger + Credit Card: no Cashew — saves write only Ledger's Money tab (no Cashew queue, line, Again sheet or /api/cashew); Credit Card's Add to Cashew button, Cards switch, Add-page button and History tick are gone (asked: \"remove cashew from the worktracker apps\")",
-    "built": "2026-11-10T16:51:46.413Z",
-    "src": "055d0bb59eff69e29176f0b163527e429229665afeba0cd5c102c6502f4e6991"
+    "sha256": "9b19604dc8e25be35d8b4bf7bf95f232c076eb334c445d895cf94d1f2930f249",
+    "size": 7348482,
+    "commit": "280117b",
+    "subject": "Stocks: Fill from screenshot reads a Bualuang order whose I came out as [ (\"[VL\" = IVL), and a buy whose total is far off shares × price is refused instead of saving the gap as a fee (NVDA 2.8 on a $50.58 row saved a $421.61 fee)",
+    "built": "2026-11-10T17:13:52.332Z",
+    "src": "872effb73fb24e7cb03da1e9f053dc9acb7608ddce95733f67fea36f9f60adc2"
   },
   "papa": {
     "label": "Papa's book",
