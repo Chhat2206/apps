@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 249,
+    "code": 250,
     "file": "stocks.apk",
-    "sha256": "4f98be18b388c81bfb48a854917978e91b795a16a447ad081690fdafe2a50b76",
-    "size": 7351881,
-    "commit": "cb59117",
-    "subject": "Ledger: Earned's clients as coloured circles and the month's Left big and centred with spent / earned under it (design R, not Q)",
-    "built": "2026-11-10T15:38:31.569Z",
-    "src": "376236ec8506d2ca375683a8be74b963a677443bd8d0b7e8ef7ea01df5087217"
+    "sha256": "91f4bf2bc6166fff48f720de0256461244642b0ba90896a3bdb07abf3fa3004e",
+    "size": 7351965,
+    "commit": "64d62fc",
+    "subject": "Ledger: Earned's done split and what is still to come as two chips under the month (design U); the steps open in a sheet",
+    "built": "2026-11-10T15:44:33.581Z",
+    "src": "489b18972cabc141bbaead27f69181ec1d2f90e42d184c00a720e09576d8bb6e"
   },
   "papa": {
     "label": "Papa's book",
