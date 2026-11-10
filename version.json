@@ -154,14 +154,14 @@
   },
   "warranty": {
     "label": "Warranty",
-    "code": 18,
+    "code": 19,
     "file": "warranty.apk",
-    "sha256": "6f7578bf5d02481a2dd749ad8bbc1318f7e022ca8b6b30e082890708e7e798bb",
-    "size": 184851,
-    "commit": "8c43c12",
-    "subject": "Every phone app built and published from the Pi; GitHub builds them only by hand or on a tag. Asked: \"maybe move all of them locally\".",
-    "built": "2026-11-10T04:44:25.999Z",
-    "src": "9c94d3f70c9bc0c4dbadbc9c2291e855ed1821f1ec7340e54ec60cb7a37c4442"
+    "sha256": "f41fbf59001051485afa544c26189ac0530c20e8d910ce4755144320af7bf627",
+    "size": 187235,
+    "commit": "88ab0f3",
+    "subject": "Ledger: Upcoming says which credit card each payment is on: a tile per card under From each bank, a chip on each line (design B)",
+    "built": "2026-11-10T14:41:20.438Z",
+    "src": "145abb59bcd036ccca3144ef513dd3305a39d348e288205141f0b06070c914c0"
   },
   "mumma": {
     "label": "Mumma",
