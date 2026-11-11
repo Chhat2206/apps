@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 259,
+    "code": 260,
     "file": "stocks.apk",
-    "sha256": "9efa0b601302596b69bdd9b306e2eb90db8dc13d0cf2274c02146c93ddc4d767",
-    "size": 7351210,
-    "commit": "0d2b979",
-    "subject": "Ledger: an Upcoming payment's sheet lines its date and amount up with the other values (no inner padding, no calendar mark; a tap opens the picker) and Delete / Skip are one even pair",
-    "built": "2026-11-10T17:53:20.748Z",
-    "src": "95fe503c532a7adb027501f0e233eb8927abf95740a06388c7af5f3fc0ce4fe6"
+    "sha256": "f54552b013fd05d7fcfce15e566e2b760028523d213cb22cee3da4114fe4ead2",
+    "size": 7352258,
+    "commit": "1c7ce5b",
+    "subject": "Ledger: a refund coming back (an Upcoming line with a plus amount) has its own sheet: green +amount, a Refund tag, what it is → the wallet and what that holds after, Refund came / Not coming (design B, picked: \"Do this\")",
+    "built": "2026-11-11T03:41:42.654Z",
+    "src": "a7600e7ccd359cb4412f08081450cddf5661ebea7792112daea2a1492bcef56b"
   },
   "papa": {
     "label": "Papa's book",
