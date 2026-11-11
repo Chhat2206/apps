@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 80,
+    "code": 81,
     "file": "planner.apk",
-    "sha256": "91be4d353188468639f951e2e6870bcb85408a85f735667385990730089247f6",
-    "size": 381070,
-    "commit": "33ff3de",
-    "subject": "Planner: an all-day event keeps an Ends day (a trip of several days); only the end time is gone",
-    "built": "2026-11-11T15:02:11.112Z",
-    "src": "595c35ac5a9ee644b1af703a9e618ff77f58d8c74c65f69a571758c2514cb148"
+    "sha256": "5f5c31a205435155d963bfdc1cd08488b885b5b23fd5a78bcfb757af98ae85dc",
+    "size": 384153,
+    "commit": "c5a9c07",
+    "subject": "Planner: a flight is a plane, its city and its number small under it (design C); the widget's spare room is shared evenly between the weeks, so a flight's week no longer stands half empty",
+    "built": "2026-11-11T15:54:23.441Z",
+    "src": "f2aad098d7eb8cd03acb12b3c50e7054ab0e16c92b9874c565922bfcf84e76a3"
   },
   "warranty": {
     "label": "Warranty",
