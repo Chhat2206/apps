@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 82,
+    "code": 83,
     "file": "planner.apk",
-    "sha256": "ca24966063616297f192a701ef95823a9c4cfc018aca87e468e925f72cb4a9a5",
-    "size": 385267,
-    "commit": "8718d27",
-    "subject": "Notes: Planner's to-dos two to a row (M2)",
-    "built": "2026-11-11T15:55:50.329Z",
-    "src": "46c29a0c3611608785960f9faa753e324d76132b7e7a9dc77888dab499bd3392"
+    "sha256": "9d2f38f8b7c4f131cd1cd4ab985064d427664bb39890a08572d02bc0fb8bf4b2",
+    "size": 385022,
+    "commit": "fca645e",
+    "subject": "Planner widget: no scroll, the four weeks from the top (no sliver of last week over this one); a flight is the city, then the plane beside its number, in the widget (Bangkok was cut \"Bangko / k\" beside the plane) and the app's month",
+    "built": "2026-11-11T16:06:15.206Z",
+    "src": "3fba0b8f353bf06aa4dbc1bd89e08bc6a0d81a7969febb188ce0516d978c7639"
   },
   "warranty": {
     "label": "Warranty",
