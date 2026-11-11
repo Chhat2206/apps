@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 269,
+    "code": 270,
     "file": "stocks.apk",
-    "sha256": "2b79c115c8fa3e798c32a5559025d972029c4a39d0d1e3423d6b674fd03cd2fd",
-    "size": 8268349,
-    "commit": "0484e94",
-    "subject": "Stocks: Fill from screenshot names the orders it could not read once, in one line, instead of 'its figures do not add up' for each; a 0 read as O counts, and a count not read at all is 0 when the other two already make the Volume",
-    "built": "2026-11-11T15:19:28.208Z",
-    "src": "f206abb33db2971f61211fb3adde92d45eca0d085f0bb36fffbc4feb152498e7"
+    "sha256": "7adf5f6846919eb747c33744603f1c3e954ee8f4a42ccba2485bac753de75e2a",
+    "size": 8269137,
+    "commit": "7e14434",
+    "subject": "Stocks: Fill from screenshot reads Bualuang's folded order rows (OF = waiting, nothing matched; E = yesterday's, left alone when placed again), a price read without its point (4400 = 44.00) and VL as IVL when IVL is one of mine; messages name each order once",
+    "built": "2026-11-11T15:37:39.954Z",
+    "src": "301b4d86731526654d95fb6a6ff2148832cef86a8f4badc91b3c7270d44c17d0"
   },
   "papa": {
     "label": "Papa's book",
