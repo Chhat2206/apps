@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 260,
+    "code": 261,
     "file": "stocks.apk",
-    "sha256": "f54552b013fd05d7fcfce15e566e2b760028523d213cb22cee3da4114fe4ead2",
-    "size": 7352258,
-    "commit": "1c7ce5b",
-    "subject": "Ledger: a refund coming back (an Upcoming line with a plus amount) has its own sheet: green +amount, a Refund tag, what it is → the wallet and what that holds after, Refund came / Not coming (design B, picked: \"Do this\")",
-    "built": "2026-11-11T03:41:42.654Z",
-    "src": "a7600e7ccd359cb4412f08081450cddf5661ebea7792112daea2a1492bcef56b"
+    "sha256": "15cec0416ae2c841fd846b5dc700804bbcc37bc6a2e48ae069c725cc77ace4ba",
+    "size": 7352698,
+    "commit": "b54c7be",
+    "subject": "Ledger: Portfolio's big number wears Earned's arrow at its right (same chevron, size, grey and place); a press on it opens Details",
+    "built": "2026-11-11T04:29:37.847Z",
+    "src": "29d498906d1ddef17d7ea58872f93115e6e9e3e3db078bdc0c5c1ff61c6b4fbc"
   },
   "papa": {
     "label": "Papa's book",
