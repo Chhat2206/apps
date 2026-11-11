@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 77,
+    "code": 78,
     "file": "planner.apk",
-    "sha256": "09a8e4e004ca6230857ec69e822fb9c8b63695ca5d47cd5538fd732382c5f8b5",
-    "size": 376850,
-    "commit": "88ab0f3",
-    "subject": "Ledger: Upcoming says which credit card each payment is on: a tile per card under From each bank, a chip on each line (design B)",
-    "built": "2026-11-10T14:39:51.776Z",
-    "src": "d856b4c1b4a55e758a79bbbde7ab8b88b7ff3bfd05524ef43c5787644e5bc890"
+    "sha256": "2e2ffd1d17171c5ce1a007f8ddfddf2a67e61fb5fce661a443df9860e99fba8f",
+    "size": 375934,
+    "commit": "ab594c9",
+    "subject": "Planner: this month opens on this week, the next month's weeks under it",
+    "built": "2026-11-11T12:40:10.652Z",
+    "src": "9e86ae00aade4a9d53b7aeb311a1af9b54a88b5ddf661fc49f6969d6b6a3b8ab"
   },
   "warranty": {
     "label": "Warranty",
