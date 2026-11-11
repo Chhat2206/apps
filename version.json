@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 78,
+    "code": 79,
     "file": "planner.apk",
-    "sha256": "2e2ffd1d17171c5ce1a007f8ddfddf2a67e61fb5fce661a443df9860e99fba8f",
-    "size": 375934,
-    "commit": "ab594c9",
-    "subject": "Planner: this month opens on this week, the next month's weeks under it",
-    "built": "2026-11-11T12:40:10.652Z",
-    "src": "9e86ae00aade4a9d53b7aeb311a1af9b54a88b5ddf661fc49f6969d6b6a3b8ab"
+    "sha256": "f56b37b8786142f32eb064a8007411baf2297e357d47d33bfd8a392e3b190239",
+    "size": 380778,
+    "commit": "cf83054",
+    "subject": "Planner: no Ends on an event and the time typed, Remind me says it notifies before it starts; the month before runs on to this week (Nov 2-8 was on neither page); a day's events stack close under its bars, app and widget",
+    "built": "2026-11-11T14:57:09.618Z",
+    "src": "622e51e9187583edba279a993c5db0c92484c7577677d93eb27955464eaf937f"
   },
   "warranty": {
     "label": "Warranty",
