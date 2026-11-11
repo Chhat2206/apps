@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 261,
+    "code": 262,
     "file": "stocks.apk",
-    "sha256": "15cec0416ae2c841fd846b5dc700804bbcc37bc6a2e48ae069c725cc77ace4ba",
-    "size": 7352698,
-    "commit": "b54c7be",
-    "subject": "Ledger: Portfolio's big number wears Earned's arrow at its right (same chevron, size, grey and place); a press on it opens Details",
-    "built": "2026-11-11T04:29:37.847Z",
-    "src": "29d498906d1ddef17d7ea58872f93115e6e9e3e3db078bdc0c5c1ff61c6b4fbc"
+    "sha256": "feee3996fa3e36b506a2a9d541bb6f37efee696f9e085771f1dcf0cc906cf01b",
+    "size": 8253205,
+    "commit": "0b4fc13",
+    "subject": "Ledger: a shop order screenshot on a card purchase fills the name, what was paid, the day and when it arrives (read on the phone, English + Thai, no AI); card tags (Lazada, Phone Card) in the picker; Home's Arriving card, where an order is marked come and, apart from that, paid from the bank picked; the photo row centred",
+    "built": "2026-11-11T08:55:59.565Z",
+    "src": "750fddb0f3746b074fe5b8d9862127f7ce1b06e82fa035d266cbc612efdfc1b3"
   },
   "papa": {
     "label": "Papa's book",
