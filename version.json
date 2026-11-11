@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 104,
+    "code": 105,
     "file": "packing.apk",
-    "sha256": "156c00bbbba9e4f3cfec43d8cce90f45825a77af02c48087037aec7c9dd97d10",
-    "size": 866941,
-    "commit": "6448882",
-    "subject": "Vacation: Things to do as tiles like Places, and each tab's map shows only its own pins (design A of packing/design/split-2026-11-11)",
-    "built": "2026-11-11T13:47:20.753Z",
-    "src": "8cd7ba6a9c5fcd92174c15bfdfc7e07f54afd52c85306d7430a33846ddf8bbf6"
+    "sha256": "1a396f5c5691cbbd081d6f87fe7eb9e2583ea551caa0876f96fa49327395517d",
+    "size": 868593,
+    "commit": "450a459",
+    "subject": "Vacation: Remember is for the next trip or every trip (design A of packing/design/remember-2026-11-11), shown on the trip's Going step; sheet Remember gains Trip (ID) | Trip",
+    "built": "2026-11-11T14:24:14.622Z",
+    "src": "d24cfbc01056d753e55c0392580d02a983e7d6db42570dc22ba6789f97eba409"
   },
   "control": {
     "label": "Control",
