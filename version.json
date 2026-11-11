@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 79,
+    "code": 80,
     "file": "planner.apk",
-    "sha256": "f56b37b8786142f32eb064a8007411baf2297e357d47d33bfd8a392e3b190239",
-    "size": 380778,
-    "commit": "cf83054",
-    "subject": "Planner: no Ends on an event and the time typed, Remind me says it notifies before it starts; the month before runs on to this week (Nov 2-8 was on neither page); a day's events stack close under its bars, app and widget",
-    "built": "2026-11-11T14:57:09.618Z",
-    "src": "622e51e9187583edba279a993c5db0c92484c7577677d93eb27955464eaf937f"
+    "sha256": "91be4d353188468639f951e2e6870bcb85408a85f735667385990730089247f6",
+    "size": 381070,
+    "commit": "33ff3de",
+    "subject": "Planner: an all-day event keeps an Ends day (a trip of several days); only the end time is gone",
+    "built": "2026-11-11T15:02:11.112Z",
+    "src": "595c35ac5a9ee644b1af703a9e618ff77f58d8c74c65f69a571758c2514cb148"
   },
   "warranty": {
     "label": "Warranty",
