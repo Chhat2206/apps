@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 271,
+    "code": 272,
     "file": "stocks.apk",
-    "sha256": "60ba5f7f602a9d298112d926c6713c6b4e718130defc6cac7e7a9d2b71b53377",
-    "size": 8268889,
-    "commit": "36b4ca3",
-    "subject": "Ledger design: three directions for Owed on Net worth with the total to pay it all off and the yearly cost of repeating payments",
-    "built": "2026-11-11T16:02:28.396Z",
-    "src": "8c3e2783d3581cbe2645ad9df026fc443cc919cd097f4910421f8a6a0cfb5717"
+    "sha256": "029bbd291ae8cdda685792b017b8fac549b1427447ce7b17dbf2b4eb757052a9",
+    "size": 8269817,
+    "commit": "469ee9f",
+    "subject": "Ledger (design A): the Owed card on Net worth has Pay it all off on top (card bills and loans) and A year at the foot (the repeating payments over the next 12 months, loans capped at what is left); a tap on A year opens Upcoming",
+    "built": "2026-11-11T16:14:48.966Z",
+    "src": "821366040695865950ed9fcf8fe5cd31d0cc548d2acea7ffec96918318f7c874"
   },
   "papa": {
     "label": "Papa's book",
