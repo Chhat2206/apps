@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 264,
+    "code": 265,
     "file": "stocks.apk",
-    "sha256": "5b585d6d50cf0945dfc0debd101f3db7fe867f47a827763afb15e954f371ce45",
-    "size": 8258413,
-    "commit": "292ae77",
-    "subject": "Ledger: a card purchase goes on Upcoming (its card's due day, the bank that pays that card, linked to its bill), an order can be edited (name, amount, day bought, arrival; the bill and its Upcoming line follow), Pay from is bank chips instead of Android's pop-up list, and no scroll bars",
-    "built": "2026-11-11T13:17:41.691Z",
-    "src": "d7fb3a67ff23e0d74f4fd6ca3fd13d034b485b9dc5dbd4586fcef9f6d992e773"
+    "sha256": "eb07e1fe03920bc6a9cb049968043bb7d526f513b00e3a75712503d12f9938b7",
+    "size": 8258745,
+    "commit": "e3d599b",
+    "subject": "Ledger: Pay from is design C, two-by-two bank tiles with the name centred and what is in the bank under it (Not enough when it cannot cover the bill)",
+    "built": "2026-11-11T13:26:17.644Z",
+    "src": "d8c633c2199d89d861ed231e81fdf3bf8d03619d13f5d19302c552928f52e11e"
   },
   "papa": {
     "label": "Papa's book",
