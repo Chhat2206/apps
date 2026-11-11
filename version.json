@@ -33,14 +33,14 @@
   },
   "card-tracker": {
     "label": "Credit Card",
-    "code": 92,
+    "code": 93,
     "file": "card-tracker.apk",
-    "sha256": "e6118fc6ffc5d602e6f67b5201c2ad4715eff0c651833e7d583fe884061aa508",
-    "size": 235574,
-    "commit": "e9e83a2",
-    "subject": "Ledger + Credit Card: no Cashew — saves write only Ledger's Money tab (no Cashew queue, line, Again sheet or /api/cashew); Credit Card's Add to Cashew button, Cards switch, Add-page button and History tick are gone (asked: \"remove cashew from the worktracker apps\")",
-    "built": "2026-11-10T16:52:27.622Z",
-    "src": "25f97f3d4c613e649ce3065af45b46853bc045ce8c52cf82fb425f43851cc9a1"
+    "sha256": "b8c3f746daf713c6600ea8b2479a0a5d6e73f6800cffa2d183c5cfd620f2a113",
+    "size": 236822,
+    "commit": "7e69613",
+    "subject": "Ledger: a card purchase can be for anyone (Family, Mummy, Papa, the Others names or a typed one); only bills with me in them go on my Upcoming, at my share. Your part of a bill is written to the Credit Card sheet's Parts, and the Credit Card app shows it: a ringed circle, a 'Chhat paid' strip under the bill and the split on its page. The demo no longer reaches the real Credit Card sheet.",
+    "built": "2026-11-11T14:06:12.115Z",
+    "src": "87f0cf82b91483e520718bb916cbb4814436c8fdcbee71df525bc09f68725ba5"
   },
   "musu": {
     "label": "Work Tracker",
