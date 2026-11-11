@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 265,
+    "code": 266,
     "file": "stocks.apk",
-    "sha256": "eb07e1fe03920bc6a9cb049968043bb7d526f513b00e3a75712503d12f9938b7",
-    "size": 8258745,
-    "commit": "e3d599b",
-    "subject": "Ledger: Pay from is design C, two-by-two bank tiles with the name centred and what is in the bank under it (Not enough when it cannot cover the bill)",
-    "built": "2026-11-11T13:26:17.644Z",
-    "src": "d8c633c2199d89d861ed231e81fdf3bf8d03619d13f5d19302c552928f52e11e"
+    "sha256": "c4b5b15773eb623c0295be6da8675225f6e9c5c1abe304ac9a4883f2c8ad7288",
+    "size": 8262673,
+    "commit": "c0906b9",
+    "subject": "Ledger Add (design A): Repeats makes a subscription on Upcoming, every week, month or year from the day picked, with an optional end day (Upcoming!K Ends); Card bill puts your part toward one of the Credit Card app's bills, picked from a list, with a bar of your part and the rest",
+    "built": "2026-11-11T13:57:30.422Z",
+    "src": "e0a15ca36a938a5de7f252aa7767a2418b96d72ef996dd74aa72bd12958bdb0a"
   },
   "papa": {
     "label": "Papa's book",
