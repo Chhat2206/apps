@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 81,
+    "code": 82,
     "file": "planner.apk",
-    "sha256": "5f5c31a205435155d963bfdc1cd08488b885b5b23fd5a78bcfb757af98ae85dc",
-    "size": 384153,
-    "commit": "c5a9c07",
-    "subject": "Planner: a flight is a plane, its city and its number small under it (design C); the widget's spare room is shared evenly between the weeks, so a flight's week no longer stands half empty",
-    "built": "2026-11-11T15:54:23.441Z",
-    "src": "f2aad098d7eb8cd03acb12b3c50e7054ab0e16c92b9874c565922bfcf84e76a3"
+    "sha256": "ca24966063616297f192a701ef95823a9c4cfc018aca87e468e925f72cb4a9a5",
+    "size": 385267,
+    "commit": "8718d27",
+    "subject": "Notes: Planner's to-dos two to a row (M2)",
+    "built": "2026-11-11T15:55:50.329Z",
+    "src": "46c29a0c3611608785960f9faa753e324d76132b7e7a9dc77888dab499bd3392"
   },
   "warranty": {
     "label": "Warranty",
