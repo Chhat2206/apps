@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 263,
+    "code": 264,
     "file": "stocks.apk",
-    "sha256": "0d6a465b3b6e06e8b61f3f3cc1dfef1bcb1f26a8efb61b8821f7722fed9d751f",
-    "size": 8254641,
-    "commit": "ab594c9",
-    "subject": "Planner: this month opens on this week, the next month's weeks under it",
-    "built": "2026-11-11T12:42:35.660Z",
-    "src": "c53ace1a8a94a37a177f4e908fe1daae99fbaf88891e23924da30842f3c333ec"
+    "sha256": "5b585d6d50cf0945dfc0debd101f3db7fe867f47a827763afb15e954f371ce45",
+    "size": 8258413,
+    "commit": "292ae77",
+    "subject": "Ledger: a card purchase goes on Upcoming (its card's due day, the bank that pays that card, linked to its bill), an order can be edited (name, amount, day bought, arrival; the bill and its Upcoming line follow), Pay from is bank chips instead of Android's pop-up list, and no scroll bars",
+    "built": "2026-11-11T13:17:41.691Z",
+    "src": "d7fb3a67ff23e0d74f4fd6ca3fd13d034b485b9dc5dbd4586fcef9f6d992e773"
   },
   "papa": {
     "label": "Papa's book",
