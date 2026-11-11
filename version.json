@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 270,
+    "code": 271,
     "file": "stocks.apk",
-    "sha256": "7adf5f6846919eb747c33744603f1c3e954ee8f4a42ccba2485bac753de75e2a",
-    "size": 8269137,
-    "commit": "7e14434",
-    "subject": "Stocks: Fill from screenshot reads Bualuang's folded order rows (OF = waiting, nothing matched; E = yesterday's, left alone when placed again), a price read without its point (4400 = 44.00) and VL as IVL when IVL is one of mine; messages name each order once",
-    "built": "2026-11-11T15:37:39.954Z",
-    "src": "301b4d86731526654d95fb6a6ff2148832cef86a8f4badc91b3c7270d44c17d0"
+    "sha256": "60ba5f7f602a9d298112d926c6713c6b4e718130defc6cac7e7a9d2b71b53377",
+    "size": 8268889,
+    "commit": "36b4ca3",
+    "subject": "Ledger design: three directions for Owed on Net worth with the total to pay it all off and the yearly cost of repeating payments",
+    "built": "2026-11-11T16:02:28.396Z",
+    "src": "8c3e2783d3581cbe2645ad9df026fc443cc919cd097f4910421f8a6a0cfb5717"
   },
   "papa": {
     "label": "Papa's book",
