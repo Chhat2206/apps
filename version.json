@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 266,
+    "code": 267,
     "file": "stocks.apk",
-    "sha256": "c4b5b15773eb623c0295be6da8675225f6e9c5c1abe304ac9a4883f2c8ad7288",
-    "size": 8262673,
-    "commit": "c0906b9",
-    "subject": "Ledger Add (design A): Repeats makes a subscription on Upcoming, every week, month or year from the day picked, with an optional end day (Upcoming!K Ends); Card bill puts your part toward one of the Credit Card app's bills, picked from a list, with a bar of your part and the rest",
-    "built": "2026-11-11T13:57:30.422Z",
-    "src": "e0a15ca36a938a5de7f252aa7767a2418b96d72ef996dd74aa72bd12958bdb0a"
+    "sha256": "912e85fca80f166642b88491076bfe7d3007d9b65bae8037f76c7d4e34e4da20",
+    "size": 8266421,
+    "commit": "7e69613",
+    "subject": "Ledger: a card purchase can be for anyone (Family, Mummy, Papa, the Others names or a typed one); only bills with me in them go on my Upcoming, at my share. Your part of a bill is written to the Credit Card sheet's Parts, and the Credit Card app shows it: a ringed circle, a 'Chhat paid' strip under the bill and the split on its page. The demo no longer reaches the real Credit Card sheet.",
+    "built": "2026-11-11T14:05:27.144Z",
+    "src": "a77adb628b3517c24f7103d0c8530ffaf46d082cc5c6da148003d6ca13808a16"
   },
   "papa": {
     "label": "Papa's book",
