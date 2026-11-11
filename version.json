@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 267,
+    "code": 268,
     "file": "stocks.apk",
-    "sha256": "912e85fca80f166642b88491076bfe7d3007d9b65bae8037f76c7d4e34e4da20",
-    "size": 8266421,
-    "commit": "7e69613",
-    "subject": "Ledger: a card purchase can be for anyone (Family, Mummy, Papa, the Others names or a typed one); only bills with me in them go on my Upcoming, at my share. Your part of a bill is written to the Credit Card sheet's Parts, and the Credit Card app shows it: a ringed circle, a 'Chhat paid' strip under the bill and the split on its page. The demo no longer reaches the real Credit Card sheet.",
-    "built": "2026-11-11T14:05:27.144Z",
-    "src": "a77adb628b3517c24f7103d0c8530ffaf46d082cc5c6da148003d6ca13808a16"
+    "sha256": "bc39ed56ef826761095d992b81795f2fa32634e02e2e707930083d47c47bbbfe",
+    "size": 8267749,
+    "commit": "ce852ec",
+    "subject": "Ledger (design B): your part of a card bill can be paid now or put on Upcoming for the bill's due day, from two buttons at the foot; the category comes from the bill (Groceries → Meals, Groceries), so Add is no longer greyed out. Parts on the Credit Card sheet count both.",
+    "built": "2026-11-11T15:11:43.156Z",
+    "src": "b0c7df67197a50bfad5d35f4fb910a6a62e6630e023ad8a42844eed6ab561ab1"
   },
   "papa": {
     "label": "Papa's book",
