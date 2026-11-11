@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 106,
+    "code": 107,
     "file": "packing.apk",
-    "sha256": "9c8883da2431398ed20cf94150edb4006c59cf814dcf66407dbf8349ba548155",
-    "size": 868697,
-    "commit": "4a4fdde",
-    "subject": "Vacation: a stay's \"? of 5\" stub shows only once the trip has begun (or it is rated)",
-    "built": "2026-11-11T15:10:52.596Z",
-    "src": "e69470fa9dc739268e3400fde10b05dd19ee7d306422750dc4ffe7e9f853d1e6"
+    "sha256": "53297da20c69a280fd99190578ebc2f1fa2ac6f2bead3f863f8970e48a4e7e2a",
+    "size": 869813,
+    "commit": "995f554",
+    "subject": "Vacation: bags drawn as a backpack or a suitcase, each its own colour (design A of packing/design/bags-2026-11-11)",
+    "built": "2026-11-11T15:52:46.982Z",
+    "src": "0a8457dedc887eb3feb0a70f93496ea7a2c1ae35a7b4b2ab3c283eca7923b367"
   },
   "control": {
     "label": "Control",
