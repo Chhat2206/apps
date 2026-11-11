@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 105,
+    "code": 106,
     "file": "packing.apk",
-    "sha256": "1a396f5c5691cbbd081d6f87fe7eb9e2583ea551caa0876f96fa49327395517d",
-    "size": 868593,
-    "commit": "450a459",
-    "subject": "Vacation: Remember is for the next trip or every trip (design A of packing/design/remember-2026-11-11), shown on the trip's Going step; sheet Remember gains Trip (ID) | Trip",
-    "built": "2026-11-11T14:24:14.622Z",
-    "src": "d24cfbc01056d753e55c0392580d02a983e7d6db42570dc22ba6789f97eba409"
+    "sha256": "9c8883da2431398ed20cf94150edb4006c59cf814dcf66407dbf8349ba548155",
+    "size": 868697,
+    "commit": "4a4fdde",
+    "subject": "Vacation: a stay's \"? of 5\" stub shows only once the trip has begun (or it is rated)",
+    "built": "2026-11-11T15:10:52.596Z",
+    "src": "e69470fa9dc739268e3400fde10b05dd19ee7d306422750dc4ffe7e9f853d1e6"
   },
   "control": {
     "label": "Control",
