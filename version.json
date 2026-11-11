@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 262,
+    "code": 263,
     "file": "stocks.apk",
-    "sha256": "feee3996fa3e36b506a2a9d541bb6f37efee696f9e085771f1dcf0cc906cf01b",
-    "size": 8253205,
-    "commit": "0b4fc13",
-    "subject": "Ledger: a shop order screenshot on a card purchase fills the name, what was paid, the day and when it arrives (read on the phone, English + Thai, no AI); card tags (Lazada, Phone Card) in the picker; Home's Arriving card, where an order is marked come and, apart from that, paid from the bank picked; the photo row centred",
-    "built": "2026-11-11T08:55:59.565Z",
-    "src": "750fddb0f3746b074fe5b8d9862127f7ce1b06e82fa035d266cbc612efdfc1b3"
+    "sha256": "0d6a465b3b6e06e8b61f3f3cc1dfef1bcb1f26a8efb61b8821f7722fed9d751f",
+    "size": 8254641,
+    "commit": "ab594c9",
+    "subject": "Planner: this month opens on this week, the next month's weeks under it",
+    "built": "2026-11-11T12:42:35.660Z",
+    "src": "c53ace1a8a94a37a177f4e908fe1daae99fbaf88891e23924da30842f3c333ec"
   },
   "papa": {
     "label": "Papa's book",
