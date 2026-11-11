@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 103,
+    "code": 104,
     "file": "packing.apk",
-    "sha256": "c1d5da21e09adc2d8206f570f4ce2a83cd3ecdf731709228bda870234466b3b5",
-    "size": 866405,
-    "commit": "e932fe6",
-    "subject": "Stocks: Fill from screenshot at the foot of Record, Saving and Swap to dollars, just above Save (asked: \"put fill from screenshot at the bottom above save\")",
-    "built": "2026-11-10T16:43:51.882Z",
-    "src": "a2ee725f0d5336831450f0dfabed892e72f0d12523f737b08a1581e4e444e38e"
+    "sha256": "156c00bbbba9e4f3cfec43d8cce90f45825a77af02c48087037aec7c9dd97d10",
+    "size": 866941,
+    "commit": "6448882",
+    "subject": "Vacation: Things to do as tiles like Places, and each tab's map shows only its own pins (design A of packing/design/split-2026-11-11)",
+    "built": "2026-11-11T13:47:20.753Z",
+    "src": "8cd7ba6a9c5fcd92174c15bfdfc7e07f54afd52c85306d7430a33846ddf8bbf6"
   },
   "control": {
     "label": "Control",
