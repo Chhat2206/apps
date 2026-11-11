@@ -16,7 +16,7 @@ shows "can't display". After that the app updates itself from here.
 - **Vacation** — [packing.apk](https://chhat2206.github.io/apps/packing.apk), build 107, 2026-11-11: Vacation: bags drawn as a backpack or a suitcase, each its own colour (design A of packing/design/bags-2026-11-11)
 - **Papa's book** — [papa.apk](https://chhat2206.github.io/apps/papa.apk), build 173, 2026-11-10: Ledger: Upcoming says which credit card each payment is on: a tile per card under From each bank, a chip on each line (design B)
 - **Planner** — [planner.apk](https://chhat2206.github.io/apps/planner.apk), build 82, 2026-11-11: Notes: Planner's to-dos two to a row (M2)
-- **Ledger** — [stocks.apk](https://chhat2206.github.io/apps/stocks.apk), build 270, 2026-11-11: Stocks: Fill from screenshot reads Bualuang's folded order rows (OF = waiting, nothing matched; E = yesterday's, left alone when placed again), a price read without its point (4400 = 44.00) and VL as IVL when IVL is one of mine; messages name each order once
+- **Ledger** — [stocks.apk](https://chhat2206.github.io/apps/stocks.apk), build 271, 2026-11-11: Ledger design: three directions for Owed on Net worth with the total to pay it all off and the yearly cost of repeating payments
 - **Trip Money** — [trip-money.apk](https://chhat2206.github.io/apps/trip-money.apk), build 42, 2026-11-10: Ledger: Upcoming says which credit card each payment is on: a tile per card under From each bank, a chip on each line (design B)
 - **Warranty** — [warranty.apk](https://chhat2206.github.io/apps/warranty.apk), build 19, 2026-11-10: Ledger: Upcoming says which credit card each payment is on: a tile per card under From each bank, a chip on each line (design B)
 
