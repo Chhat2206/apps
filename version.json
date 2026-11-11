@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 268,
+    "code": 269,
     "file": "stocks.apk",
-    "sha256": "bc39ed56ef826761095d992b81795f2fa32634e02e2e707930083d47c47bbbfe",
-    "size": 8267749,
-    "commit": "ce852ec",
-    "subject": "Ledger (design B): your part of a card bill can be paid now or put on Upcoming for the bill's due day, from two buttons at the foot; the category comes from the bill (Groceries → Meals, Groceries), so Add is no longer greyed out. Parts on the Credit Card sheet count both.",
-    "built": "2026-11-11T15:11:43.156Z",
-    "src": "b0c7df67197a50bfad5d35f4fb910a6a62e6630e023ad8a42844eed6ab561ab1"
+    "sha256": "2b79c115c8fa3e798c32a5559025d972029c4a39d0d1e3423d6b674fd03cd2fd",
+    "size": 8268349,
+    "commit": "0484e94",
+    "subject": "Stocks: Fill from screenshot names the orders it could not read once, in one line, instead of 'its figures do not add up' for each; a 0 read as O counts, and a count not read at all is 0 when the other two already make the Volume",
+    "built": "2026-11-11T15:19:28.208Z",
+    "src": "f206abb33db2971f61211fb3adde92d45eca0d085f0bb36fffbc4feb152498e7"
   },
   "papa": {
     "label": "Papa's book",
