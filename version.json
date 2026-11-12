@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 274,
+    "code": 275,
     "file": "stocks.apk",
-    "sha256": "c0baed6da6d2b48e3fe3e8758db9bbf8fe0028c7af9d526e49e79c4fa90fa433",
-    "size": 8270941,
-    "commit": "e183ffe",
-    "subject": "Stocks: a dollar stock's page in baht keeps its dollar price beside each baht price, in brackets (current price, Average cost, What you did's line slot, Price, Price now). e2e: stocks/test/stock-usd-e2e.mjs, red with the brackets taken out",
-    "built": "2026-11-12T04:34:58.551Z",
-    "src": "2839a87dff6f9da4b17315863a31384b4709a6b63c7ad4942048672375c877f0"
+    "sha256": "7329fd23ce7a94fee6d54819e0e65be6004da6027607b2a8398fb0e7601599bc",
+    "size": 8271661,
+    "commit": "5e9cf58",
+    "subject": "Ledger: Arriving shows an order's card as a card (design A: card icon, BBL •• 0134, its Lazada tag); What you did never cuts a trade's price to \"($201….\", the dollars go under the baht; a stock's current price has its word above the figure and small dollars beside it, so only the % shares the line. e2e: stock-usd-e2e + ledger-orders-e2e, each fix red when taken out",
+    "built": "2026-11-12T08:25:48.231Z",
+    "src": "bb1accf060aa255d7fbae7985d689bc31ca5d791829f6d7bab15f3e327979b6c"
   },
   "papa": {
     "label": "Papa's book",
