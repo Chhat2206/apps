@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 276,
+    "code": 277,
     "file": "stocks.apk",
-    "sha256": "12be76dbd4bb96bfc950929d83735d93023867e028bebe1f6718853e01495e5a",
-    "size": 8271997,
-    "commit": "3543173",
-    "subject": "stocks: Arriving's date reads \"13 – 16\" with the month under it, so the card's Lazada tag never runs into it (ledger-orders-e2e checks days/month lines and the gap; red on the one-line date)",
-    "built": "2026-11-12T10:32:06.301Z",
-    "src": "414a021ca672778a3f5e24e9a8eabdf80bb13f5740c8a4a58c0197a4bd939d1c"
+    "sha256": "477cab8df12c67b06d83a65a4d5cb744c22abeca29439773dcdaf6fb71d9b794",
+    "size": 8275073,
+    "commit": "f705079",
+    "subject": "Ledger: Lent and My account on Add (design B), grey day totals on Recent (design A)",
+    "built": "2026-11-12T16:52:44.397Z",
+    "src": "de367d10daa4ce252c0c9b21fe93ed45473461515fd1cc31f9c3c2d23081d9fe"
   },
   "papa": {
     "label": "Papa's book",
