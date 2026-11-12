@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 272,
+    "code": 273,
     "file": "stocks.apk",
-    "sha256": "029bbd291ae8cdda685792b017b8fac549b1427447ce7b17dbf2b4eb757052a9",
-    "size": 8269817,
-    "commit": "469ee9f",
-    "subject": "Ledger (design A): the Owed card on Net worth has Pay it all off on top (card bills and loans) and A year at the foot (the repeating payments over the next 12 months, loans capped at what is left); a tap on A year opens Upcoming",
-    "built": "2026-11-11T16:14:48.966Z",
-    "src": "821366040695865950ed9fcf8fe5cd31d0cc548d2acea7ffec96918318f7c874"
+    "sha256": "7fe8a4ee65c78b4ed4f608f2ef96774ef83410f2170d647eb5162af1e551ba2d",
+    "size": 8270577,
+    "commit": "a21fc07",
+    "subject": "Ledger: Pending orders card on Home right under Arriving (order, account, price, Now price; tap opens it in Record). e2e: stocks/test/ledger-orders-e2e.mjs, red with the card taken out",
+    "built": "2026-11-12T04:33:29.372Z",
+    "src": "629a6f7b896ff811d0dca30c373c67a5c482a49cf44af222689c7129eb01a8d6"
   },
   "papa": {
     "label": "Papa's book",
