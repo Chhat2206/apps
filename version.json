@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 275,
+    "code": 276,
     "file": "stocks.apk",
-    "sha256": "7329fd23ce7a94fee6d54819e0e65be6004da6027607b2a8398fb0e7601599bc",
-    "size": 8271661,
-    "commit": "5e9cf58",
-    "subject": "Ledger: Arriving shows an order's card as a card (design A: card icon, BBL •• 0134, its Lazada tag); What you did never cuts a trade's price to \"($201….\", the dollars go under the baht; a stock's current price has its word above the figure and small dollars beside it, so only the % shares the line. e2e: stock-usd-e2e + ledger-orders-e2e, each fix red when taken out",
-    "built": "2026-11-12T08:25:48.231Z",
-    "src": "bb1accf060aa255d7fbae7985d689bc31ca5d791829f6d7bab15f3e327979b6c"
+    "sha256": "12be76dbd4bb96bfc950929d83735d93023867e028bebe1f6718853e01495e5a",
+    "size": 8271997,
+    "commit": "3543173",
+    "subject": "stocks: Arriving's date reads \"13 – 16\" with the month under it, so the card's Lazada tag never runs into it (ledger-orders-e2e checks days/month lines and the gap; red on the one-line date)",
+    "built": "2026-11-12T10:32:06.301Z",
+    "src": "414a021ca672778a3f5e24e9a8eabdf80bb13f5740c8a4a58c0197a4bd939d1c"
   },
   "papa": {
     "label": "Papa's book",
