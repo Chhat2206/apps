@@ -12,14 +12,14 @@
   },
   "papa": {
     "label": "Papa's book",
-    "code": 173,
+    "code": 174,
     "file": "papa.apk",
-    "sha256": "e7ed7b1f29f7354e86edfffbc2b626f83a6555d0b2e22b03e6e9d700efd08a78",
-    "size": 528053,
-    "commit": "88ab0f3",
-    "subject": "Ledger: Upcoming says which credit card each payment is on: a tile per card under From each bank, a chip on each line (design B)",
-    "built": "2026-11-10T14:37:53.881Z",
-    "src": "0e2b0eb9ac58de3da20b0cb42400f0886e5ddba5a12cc7f0219ab8c1f529cb39"
+    "sha256": "639c32445d8c171fdc6fae67d089abaf41a7eabf7515bd95b3f95b9fb5db572e",
+    "size": 526965,
+    "commit": "e4268e1",
+    "subject": "papa: a Tracker stock's dividend line opens its dividends, the last ten years, as \"Dividend in 2025\" does on Home (held or not; the rest of the row still opens the holding). e2e: papa/test/tracker-div-e2e.mjs, red with the tap taken out",
+    "built": "2026-11-12T04:28:32.077Z",
+    "src": "7fb00a8e9fec13df00fca39283b53fbe9aafb126b2919162e9e4deeeb9b9f5f5"
   },
   "groceries": {
     "label": "Credit Card",
