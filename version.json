@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 273,
+    "code": 274,
     "file": "stocks.apk",
-    "sha256": "7fe8a4ee65c78b4ed4f608f2ef96774ef83410f2170d647eb5162af1e551ba2d",
-    "size": 8270577,
-    "commit": "a21fc07",
-    "subject": "Ledger: Pending orders card on Home right under Arriving (order, account, price, Now price; tap opens it in Record). e2e: stocks/test/ledger-orders-e2e.mjs, red with the card taken out",
-    "built": "2026-11-12T04:33:29.372Z",
-    "src": "629a6f7b896ff811d0dca30c373c67a5c482a49cf44af222689c7129eb01a8d6"
+    "sha256": "c0baed6da6d2b48e3fe3e8758db9bbf8fe0028c7af9d526e49e79c4fa90fa433",
+    "size": 8270941,
+    "commit": "e183ffe",
+    "subject": "Stocks: a dollar stock's page in baht keeps its dollar price beside each baht price, in brackets (current price, Average cost, What you did's line slot, Price, Price now). e2e: stocks/test/stock-usd-e2e.mjs, red with the brackets taken out",
+    "built": "2026-11-12T04:34:58.551Z",
+    "src": "2839a87dff6f9da4b17315863a31384b4709a6b63c7ad4942048672375c877f0"
   },
   "papa": {
     "label": "Papa's book",
