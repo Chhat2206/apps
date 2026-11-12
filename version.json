@@ -12,14 +12,14 @@
   },
   "papa": {
     "label": "Papa's book",
-    "code": 175,
+    "code": 176,
     "file": "papa.apk",
-    "sha256": "86ffb2c76d779f9b5e11be96692373c2d35f8408d2ee46451d371882310eb327",
-    "size": 527117,
-    "commit": "c0c5f53",
-    "subject": "notes: Collection sort pill",
-    "built": "2026-11-12T10:03:56.336Z",
-    "src": "d5c599f9786ccfc46d391e896d7d6ca85959280811163b039c2df3a8f563a721"
+    "sha256": "39d62fc5d2efda71f1aff628af471e5853e5f5194665ccd7ce0196d79f3b7fe4",
+    "size": 528057,
+    "commit": "c4ba070",
+    "subject": "papa: a stock's dividend years no longer stick on one failed read. BDMS on papa's phone said \"No years: network request failed: UnknownHostException ... query1.finance.yahoo.com\" until the app was closed, while the Pi-hole answered Yahoo every time (one missed lookup on the phone). The read is asked once more after 1.5 s when the network fails outright, a failure is kept 10 s (was 60), the page asks again when a failed read is 10 s old, and says \"Could not get the years just now\" with Try again instead of the Java error. years-retry.test 3/3 (red with no retry / the 60 s keep), tracker-div-e2e green (red with no re-ask / the old line); papa 527/527 (the two e2e's --import now a file URL, so they run on Windows)",
+    "built": "2026-11-12T14:22:47.951Z",
+    "src": "be9f149c4e387e0edd7a0eb06ce035cc9f9ab172fc991f341e19156fcf27a623"
   },
   "groceries": {
     "label": "Credit Card",
