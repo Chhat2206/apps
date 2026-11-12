@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 85,
+    "code": 86,
     "file": "planner.apk",
-    "sha256": "7e1a29eb6fc5a299b09b62c1f1cc5d77709bfb69f0c0ef0a88b0eaab4ce89327",
-    "size": 386143,
-    "commit": "204dc22",
-    "subject": "planner: widget back to four weeks (five cut too many names); the head on top, equal weeks, grey other month and six to-dos stay. javacheck 67, WEEKS=5 red",
-    "built": "2026-11-12T12:06:50.800Z",
-    "src": "762786c1044dc73748edcf4a2d1a0b6cc55304494e52f97a9056157f85e184c0"
+    "sha256": "1ea4a969283e769a72fc41998a24b98c8e218d9ccb7870d66e62c7c159d092f3",
+    "size": 386159,
+    "commit": "1b437a8",
+    "subject": "planner: \"Couldn't add widget\": the head's spacer was a plain <View>, which a widget may not hold; a FrameLayout now. javacheck fails any widget layout with a view RemoteViews refuses (red on the broken layout, green fixed); it found the same <View> in the Stocks widget, fixed too",
+    "built": "2026-11-12T13:17:54.301Z",
+    "src": "902eb0a8ee350f54094801645b0fef170400aeb0182ac00e5fa0d04922d19321"
   },
   "warranty": {
     "label": "Warranty",
