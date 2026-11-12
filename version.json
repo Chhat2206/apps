@@ -12,14 +12,14 @@
   },
   "papa": {
     "label": "Papa's book",
-    "code": 174,
+    "code": 175,
     "file": "papa.apk",
-    "sha256": "639c32445d8c171fdc6fae67d089abaf41a7eabf7515bd95b3f95b9fb5db572e",
-    "size": 526965,
-    "commit": "e4268e1",
-    "subject": "papa: a Tracker stock's dividend line opens its dividends, the last ten years, as \"Dividend in 2025\" does on Home (held or not; the rest of the row still opens the holding). e2e: papa/test/tracker-div-e2e.mjs, red with the tap taken out",
-    "built": "2026-11-12T04:28:32.077Z",
-    "src": "7fb00a8e9fec13df00fca39283b53fbe9aafb126b2919162e9e4deeeb9b9f5f5"
+    "sha256": "86ffb2c76d779f9b5e11be96692373c2d35f8408d2ee46451d371882310eb327",
+    "size": 527117,
+    "commit": "c0c5f53",
+    "subject": "notes: Collection sort pill",
+    "built": "2026-11-12T10:03:56.336Z",
+    "src": "d5c599f9786ccfc46d391e896d7d6ca85959280811163b039c2df3a8f563a721"
   },
   "groceries": {
     "label": "Credit Card",
