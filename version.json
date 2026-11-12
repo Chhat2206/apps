@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 83,
+    "code": 84,
     "file": "planner.apk",
-    "sha256": "9d2f38f8b7c4f131cd1cd4ab985064d427664bb39890a08572d02bc0fb8bf4b2",
-    "size": 385022,
-    "commit": "fca645e",
-    "subject": "Planner widget: no scroll, the four weeks from the top (no sliver of last week over this one); a flight is the city, then the plane beside its number, in the widget (Bangkok was cut \"Bangko / k\" beside the plane) and the app's month",
-    "built": "2026-11-11T16:06:15.206Z",
-    "src": "3fba0b8f353bf06aa4dbc1bd89e08bc6a0d81a7969febb188ce0516d978c7639"
+    "sha256": "a19b245a85bb4a95c83a9aa6376428b9ed96bc0f888eb842b9079e5aefa7e268",
+    "size": 386111,
+    "commit": "78d935a",
+    "subject": "planner: widget design R B. The head (‹ month ›, Today, +) on top, five weeks each the same height with names on as many lines as fit (Cal.linesFor), another month's days grey (Cal.mainMonth, Cal.grey), at most six to-dos two a row with '+ N more' sixth (Tasks.widgetSlots), ticked ones inline, no TICKED line. javacheck 67 tests; mutants red: slots, ticked cap, WEEKS, mainMonth, grey, linesFor",
+    "built": "2026-11-12T12:04:29.011Z",
+    "src": "f9ef52a7cc8ec8b6413584ab1555cb1f8cd59c497a6587d3e888b312c746524e"
   },
   "warranty": {
     "label": "Warranty",
