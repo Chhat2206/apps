@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 278,
+    "code": 279,
     "file": "stocks.apk",
-    "sha256": "b6ef5fa3c88a226967b8d54ea9f8e5f940e50f3668a0ae2d7477bc3822eda133",
-    "size": 8324064,
-    "commit": "a424b7e",
-    "subject": "Ledger: category picker = design B. The + page's All shows categories only, a tap opens the category's own page (X only, its subcategories, Add); Usual = the subcategories used most over 90 days, one tap picks both; hold a round to edit. A new category's icon is guessed from its name (emoji words from emojibase/CLDR in icons/emoji.js, then Lucide), big over the name, follows the typing, a swap button for the next guess, a hand pick stays. ledger-catpick-e2e passes on the real sheet (read-only); five mutants red",
-    "built": "2026-11-13T09:27:56.543Z",
-    "src": "88e868645dfac16347526aa24b76cf78a2dcef0e43a0c54600551f5137548a27"
+    "sha256": "441feab14036dcda6521b00140cd29a6f23f9169a8d74a55da9cd256fadc7532",
+    "size": 8325352,
+    "commit": "28e2a1a",
+    "subject": "Ledger: names typed before are listed under the + form's name box as you type (up to four, starting the name first, most used first), each with its subcategory; a tap fills the name, category, subcategory and Expense/Income. e2e on the real sheet (read-only); two mutants red",
+    "built": "2026-11-13T11:02:00.651Z",
+    "src": "8ba2d01a6a6c8d7e04ecec13b9feabf9628c1f1f541cdec1f71f464b1f9772c5"
   },
   "papa": {
     "label": "Papa's book",
