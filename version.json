@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 93,
+    "code": 94,
     "file": "planner.apk",
-    "sha256": "a5bdc23abc99608815b50cb64eedcf11b56ea70555bec9075dea317afae3f8d3",
-    "size": 412211,
-    "commit": "9374c89",
-    "subject": "planner: the event form is always look B (Google's icon rows); A, C and the A B C switch removed. What a tap opens no longer flies out of the tapped box: the day sheet springs up from the foot, a little past its place and back, its lines coming in one after another, and the event form zooms up from the middle. page e2e + month-scroll pass; mutants red: no overshoot, lines not staggered, look A back",
-    "built": "2026-11-13T11:36:43.544Z",
-    "src": "5f432f7993b4891753c04de749f444d9004f9ed1d5e00023f096ac70b0927b7e"
+    "sha256": "ccc5165bdb9dd8e5efb714c369d6f074db05a005f8129e21e61b00bfe94e13b1",
+    "size": 413331,
+    "commit": "9ff4b16",
+    "subject": "planner: the month swipe is faster. The weeks follow the finger, a 40px drag or a quick short flick is enough, and the new month comes in right beside the old one going out, both moved in 110-220 ms by the flick's speed (it used to sit still until the finger left, then fade in over 220 ms); a short slow drag goes back. The weeks are touch-action pan-y so Chrome leaves the sideways drag to the page. ‹ › slide in 160 ms. month-scroll + page e2e pass; mutants red: no follow, no flick, no outgoing month, slow",
+    "built": "2026-11-13T11:42:35.617Z",
+    "src": "a6bb651c49a7e5dd8540c5b36b7c3afd363d5197251867e7547eabb60347d03e"
   },
   "warranty": {
     "label": "Warranty",
