@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 92,
+    "code": 93,
     "file": "planner.apk",
-    "sha256": "c3636b85927640815a48283bbbd918bc4fd3171cd358f58657ee21f936ad0b28",
-    "size": 414123,
-    "commit": "4991d90",
-    "subject": "planner: the widget's top as Google Calendar's: ‹ NOV ›, pencil (its settings), plain +, today's number in a box; big M T W letters with a line under them, numbers in the middle of their day, today a white box with its day outlined. The checklist keeps room for every place set (six = three rows) so the weeks never jump; weeks set to 4 once. javacheck 75; mutants red: room rows, none set, NOV upper case and short",
-    "built": "2026-11-13T10:57:19.153Z",
-    "src": "10e5637515a046f0b03bf9515d1b1ad46e68ddb9b02e1b3d63fef05b01318260"
+    "sha256": "a5bdc23abc99608815b50cb64eedcf11b56ea70555bec9075dea317afae3f8d3",
+    "size": 412211,
+    "commit": "9374c89",
+    "subject": "planner: the event form is always look B (Google's icon rows); A, C and the A B C switch removed. What a tap opens no longer flies out of the tapped box: the day sheet springs up from the foot, a little past its place and back, its lines coming in one after another, and the event form zooms up from the middle. page e2e + month-scroll pass; mutants red: no overshoot, lines not staggered, look A back",
+    "built": "2026-11-13T11:36:43.544Z",
+    "src": "5f432f7993b4891753c04de749f444d9004f9ed1d5e00023f096ac70b0927b7e"
   },
   "warranty": {
     "label": "Warranty",
