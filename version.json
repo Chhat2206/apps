@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 91,
+    "code": 92,
     "file": "planner.apk",
-    "sha256": "9acf523ffc0926d1da85d4f10680194726b111f1930eb11b7d2fef77c3e630d0",
-    "size": 412141,
-    "commit": "38b9be4",
-    "subject": "planner: the widget's Today is a box with today's number, more room round it; a week fewer than set while the to-dos take two rows or more (Look.fit, Tasks.widgetRows). javacheck 76; mutants red: the row threshold, + more counted as a place, rounding up",
-    "built": "2026-11-13T10:42:58.598Z",
-    "src": "12850fdac7a31657d537162d37d3cdb12662432973443b7b3a4bf5e1595c5392"
+    "sha256": "c3636b85927640815a48283bbbd918bc4fd3171cd358f58657ee21f936ad0b28",
+    "size": 414123,
+    "commit": "4991d90",
+    "subject": "planner: the widget's top as Google Calendar's: ‹ NOV ›, pencil (its settings), plain +, today's number in a box; big M T W letters with a line under them, numbers in the middle of their day, today a white box with its day outlined. The checklist keeps room for every place set (six = three rows) so the weeks never jump; weeks set to 4 once. javacheck 75; mutants red: room rows, none set, NOV upper case and short",
+    "built": "2026-11-13T10:57:19.153Z",
+    "src": "10e5637515a046f0b03bf9515d1b1ad46e68ddb9b02e1b3d63fef05b01318260"
   },
   "warranty": {
     "label": "Warranty",
