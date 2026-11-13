@@ -165,13 +165,13 @@
   },
   "mumma": {
     "label": "Mumma",
-    "code": 13,
+    "code": 14,
     "file": "mumma.apk",
-    "sha256": "75ef9941a9bd89a48a7a566eedc3265c2c349cf10240d1d05a44d0dc79a35dad",
-    "size": 231805,
-    "commit": "0a434bc",
-    "subject": "Ledger: the net worth line is after what is owed, the same as the big figure; a point says when what is owed moved it",
-    "built": "2026-11-10T14:25:08.382Z",
-    "src": "6ea5f09c99514bd2e6ede6e840b2c3c08373e6a385bad35e929bda33a16f3d02"
+    "sha256": "48afa06511deed9ba9d4d39af4c5b6c7adc61dc7691c8f3a7a78bc7d0edcc104",
+    "size": 236721,
+    "commit": "38e90a1",
+    "subject": "Mumma: a Lydia tab beside Mumma. Asked: \"a tab next to mumma called Lydia… received, paid to… papa should be able to add houses himself and in received he should be able to select which house… keep this separate\", then \"a button that shows the ledger… owed you − paid to and the total left… all figures in one go\". Mumma | Lydia switch on top (look A), Lydia in deep blue: \"Lydia owes you\", Received (picks one of papa's houses, + New house adds and picks it) and Paid to papa (with a note), each with its day, changeable; Change/Delete/Undo as Mumma's. Her houses at the foot with what each brought in, then a Ledger button: every Received and every Paid to papa added up, then Received − Paid to papa = Left (look B). Kept apart on the phone and on two new tabs of the same sheet, Lydia and Lydia houses. Unit 16/16, the jsdom drive passes (Mumma's steps unchanged), 7 mutants red.",
+    "built": "2026-11-13T15:13:40.713Z",
+    "src": "7e790f86469db3f447078dd545a1f99408f50a0f42f962419a4dca50ecb1d324"
   }
 }
