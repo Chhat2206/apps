@@ -165,13 +165,13 @@
   },
   "mumma": {
     "label": "Mumma",
-    "code": 14,
+    "code": 15,
     "file": "mumma.apk",
-    "sha256": "48afa06511deed9ba9d4d39af4c5b6c7adc61dc7691c8f3a7a78bc7d0edcc104",
-    "size": 236721,
-    "commit": "38e90a1",
-    "subject": "Mumma: a Lydia tab beside Mumma. Asked: \"a tab next to mumma called Lydia… received, paid to… papa should be able to add houses himself and in received he should be able to select which house… keep this separate\", then \"a button that shows the ledger… owed you − paid to and the total left… all figures in one go\". Mumma | Lydia switch on top (look A), Lydia in deep blue: \"Lydia owes you\", Received (picks one of papa's houses, + New house adds and picks it) and Paid to papa (with a note), each with its day, changeable; Change/Delete/Undo as Mumma's. Her houses at the foot with what each brought in, then a Ledger button: every Received and every Paid to papa added up, then Received − Paid to papa = Left (look B). Kept apart on the phone and on two new tabs of the same sheet, Lydia and Lydia houses. Unit 16/16, the jsdom drive passes (Mumma's steps unchanged), 7 mutants red.",
-    "built": "2026-11-13T15:13:40.713Z",
-    "src": "7e790f86469db3f447078dd545a1f99408f50a0f42f962419a4dca50ecb1d324"
+    "sha256": "82abbac9cca16e6cdb0f0ee276870ed92c724d1011aa3a07aca4fbbcaa3069eb",
+    "size": 236733,
+    "commit": "3363e43",
+    "subject": "Mumma: Lydia's \"Paid to papa\" is now \"Paid to\" everywhere (button, form, card, ledger, sheet), on request; rows already on the sheet as \"Paid to papa\" still count as Paid to and are rewritten at the next sync. Unit 16/16, drive passes",
+    "built": "2026-11-13T15:26:58.802Z",
+    "src": "38b57fb947c51b4d87acd32cdaa9efc63d72c5fdd737dee26fd1fcb4211d60bc"
   }
 }
