@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 89,
+    "code": 90,
     "file": "planner.apk",
-    "sha256": "58318c514ccf22c022dc927c25bec6f6c0ca8dc793aee67a5381ac82b86531e9",
-    "size": 410613,
-    "commit": "430b98c",
-    "subject": "planner: the app greys other months' days and events (before and after, 42% like the widget); an event in the month tapped once is ringed and again opens (mine the form, Google's its page); what opens grows out of the tapped box in its colour (Google Calendar's motion); the event form bigger in three looks A/B/C switched at its top to try on the phone; the widget's title is the month most of its days are in and opens Planner on it. page e2e + month-scroll pass, javacheck 75; mutants red: no grey days, no grey chips, open on the first tap, title from the first week",
-    "built": "2026-11-13T10:11:32.880Z",
-    "src": "0446d8dc205604f595d6c58902693a2b41fd7af5e53d3a3a77e50ef42d6c80a7"
+    "sha256": "ffee1c36e41065d964a477747b1beade7797def17a1dd04a98e2449831063ac7",
+    "size": 411049,
+    "commit": "7a3bb98",
+    "subject": "planner: a day's opening refined. A shape flies from the tapped day to the sheet and the sheet fades in through it, moving only transform and opacity (clip-path and colour were redrawn every frame and stuttered); the sheet is measured after its slide-up is taken off, so the shape lands on it instead of flying below the screen. month-scroll checks only transform/opacity move, the shape lands on the sheet, and is gone after; mutants red: a clip-path back, the shape never removed, measured before the slide-up is off",
+    "built": "2026-11-13T10:39:24.277Z",
+    "src": "f2ebf148ea9198e526292fe01875964c9fafb695f917f03980abc7fea173294e"
   },
   "warranty": {
     "label": "Warranty",
