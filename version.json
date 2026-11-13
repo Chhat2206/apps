@@ -165,13 +165,13 @@
   },
   "mumma": {
     "label": "Mumma",
-    "code": 16,
+    "code": 17,
     "file": "mumma.apk",
-    "sha256": "8b90821e07b065564ee34016e026f07177f937181f42f0f1b9bc257496acd864",
-    "size": 236853,
-    "commit": "76a4510",
-    "subject": "Mumma: Lydia's card says \"Money left\" (Received − Paid to), not \"Lydia owes you\": Paid to is money going out, an expense (\"functionally expenses money that leaves\"). More out than in reads \"Spent more than received\" on the card and in the ledger. Drive passes; mutants red: old words, no overspend line",
-    "built": "2026-11-13T15:28:49.132Z",
-    "src": "a3a51b376e33cccd9bb853993eed71839122e1bda91102444878d574e0e497a0"
+    "sha256": "5e69ffd4d341e8b79780a6f685f413e4a12b323e7d75efc2203ed558ed104478",
+    "size": 237193,
+    "commit": "0cb4cb5",
+    "subject": "Mumma: on Lydia's screens Received is green and Paid to is red (both buttons filled, the form, the lines, the ledger), on request; Mumma keeps amber and green. Drive passes; mutants red: no colours, Mumma coloured too",
+    "built": "2026-11-13T15:30:41.994Z",
+    "src": "75289d41e83d98001a5e3f5663b47fa667d3b516fa4e027457649340e685025b"
   }
 }
