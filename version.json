@@ -165,13 +165,13 @@
   },
   "mumma": {
     "label": "Mumma",
-    "code": 17,
+    "code": 18,
     "file": "mumma.apk",
-    "sha256": "5e69ffd4d341e8b79780a6f685f413e4a12b323e7d75efc2203ed558ed104478",
-    "size": 237193,
-    "commit": "0cb4cb5",
-    "subject": "Mumma: on Lydia's screens Received is green and Paid to is red (both buttons filled, the form, the lines, the ledger), on request; Mumma keeps amber and green. Drive passes; mutants red: no colours, Mumma coloured too",
-    "built": "2026-11-13T15:30:41.994Z",
-    "src": "75289d41e83d98001a5e3f5663b47fa667d3b516fa4e027457649340e685025b"
+    "sha256": "a7a8667f1cbb71e0cae8ea8835ed2b0a077bcf75b6535ce38e55c83bf0da8274",
+    "size": 237225,
+    "commit": "9eb6861",
+    "subject": "Mumma: Lydia's card and ledger say \"Balance\" (Received − Paid to), with a minus when more went out than came in; asked: received money \"already came in\". Drive passes; mutant red: no minus",
+    "built": "2026-11-13T15:32:06.083Z",
+    "src": "69ce26f87fcc426e6ddb87704efd71ee38b44c4812d263bfd2b14229c62804ff"
   }
 }
