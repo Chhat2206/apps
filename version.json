@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 86,
+    "code": 87,
     "file": "planner.apk",
-    "sha256": "1ea4a969283e769a72fc41998a24b98c8e218d9ccb7870d66e62c7c159d092f3",
-    "size": 386159,
-    "commit": "1b437a8",
-    "subject": "planner: \"Couldn't add widget\": the head's spacer was a plain <View>, which a widget may not hold; a FrameLayout now. javacheck fails any widget layout with a view RemoteViews refuses (red on the broken layout, green fixed); it found the same <View> in the Stocks widget, fixed too",
-    "built": "2026-11-12T13:17:54.301Z",
-    "src": "902eb0a8ee350f54094801645b0fef170400aeb0182ac00e5fa0d04922d19321"
+    "sha256": "173127c98ead8d90c44e75771a88e23cbf8129500f900e5968acb6e7de2a8b50",
+    "size": 400858,
+    "commit": "e52cf0f",
+    "subject": "planner: the widget's own settings, design S B. A sheet over the home screen (not dimmed, the widget changes above it at each tap), from the widget's long-press and right after it is added: Weeks 3-6, Starts on Mon/Sun/Sat, First week Last/This/1st (a whole month, paged by month), To-dos 0-6. Look.page says which days a page shows and Sync reads that range; ‹ › move a page. javacheck 73 tests; mutants red: week start, last week, page step, month weeks, month paging, to-do cap, no to-dos",
+    "built": "2026-11-13T09:16:21.001Z",
+    "src": "d0cd38c4ad1943ebdd7935532c89d07fca1fe0fcd8ce00a47f1893053c7ac7ea"
   },
   "warranty": {
     "label": "Warranty",
