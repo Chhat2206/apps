@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 90,
+    "code": 91,
     "file": "planner.apk",
-    "sha256": "ffee1c36e41065d964a477747b1beade7797def17a1dd04a98e2449831063ac7",
-    "size": 411049,
-    "commit": "7a3bb98",
-    "subject": "planner: a day's opening refined. A shape flies from the tapped day to the sheet and the sheet fades in through it, moving only transform and opacity (clip-path and colour were redrawn every frame and stuttered); the sheet is measured after its slide-up is taken off, so the shape lands on it instead of flying below the screen. month-scroll checks only transform/opacity move, the shape lands on the sheet, and is gone after; mutants red: a clip-path back, the shape never removed, measured before the slide-up is off",
-    "built": "2026-11-13T10:39:24.277Z",
-    "src": "f2ebf148ea9198e526292fe01875964c9fafb695f917f03980abc7fea173294e"
+    "sha256": "9acf523ffc0926d1da85d4f10680194726b111f1930eb11b7d2fef77c3e630d0",
+    "size": 412141,
+    "commit": "38b9be4",
+    "subject": "planner: the widget's Today is a box with today's number, more room round it; a week fewer than set while the to-dos take two rows or more (Look.fit, Tasks.widgetRows). javacheck 76; mutants red: the row threshold, + more counted as a place, rounding up",
+    "built": "2026-11-13T10:42:58.598Z",
+    "src": "12850fdac7a31657d537162d37d3cdb12662432973443b7b3a4bf5e1595c5392"
   },
   "warranty": {
     "label": "Warranty",
