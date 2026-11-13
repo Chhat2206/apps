@@ -165,13 +165,13 @@
   },
   "mumma": {
     "label": "Mumma",
-    "code": 15,
+    "code": 16,
     "file": "mumma.apk",
-    "sha256": "82abbac9cca16e6cdb0f0ee276870ed92c724d1011aa3a07aca4fbbcaa3069eb",
-    "size": 236733,
-    "commit": "3363e43",
-    "subject": "Mumma: Lydia's \"Paid to papa\" is now \"Paid to\" everywhere (button, form, card, ledger, sheet), on request; rows already on the sheet as \"Paid to papa\" still count as Paid to and are rewritten at the next sync. Unit 16/16, drive passes",
-    "built": "2026-11-13T15:26:58.802Z",
-    "src": "38b57fb947c51b4d87acd32cdaa9efc63d72c5fdd737dee26fd1fcb4211d60bc"
+    "sha256": "8b90821e07b065564ee34016e026f07177f937181f42f0f1b9bc257496acd864",
+    "size": 236853,
+    "commit": "76a4510",
+    "subject": "Mumma: Lydia's card says \"Money left\" (Received − Paid to), not \"Lydia owes you\": Paid to is money going out, an expense (\"functionally expenses money that leaves\"). More out than in reads \"Spent more than received\" on the card and in the ledger. Drive passes; mutants red: old words, no overspend line",
+    "built": "2026-11-13T15:28:49.132Z",
+    "src": "a3a51b376e33cccd9bb853993eed71839122e1bda91102444878d574e0e497a0"
   }
 }
