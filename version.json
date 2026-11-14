@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 284,
+    "code": 285,
     "file": "stocks.apk",
-    "sha256": "87ba0178452c309a608c0b6e9acace4486a2ee77c86b6fe4789d2da97d525e56",
-    "size": 8354227,
-    "commit": "d82e850",
-    "subject": "Ledger: bosses. What a boss pays back, his payment's Got − owed = left, and what each pays a month. Asked: \"connect certain payments to 'bosses' who will have to pay me back… cash… if its actually paid back\", \"musuno bills correct\", \"2\", \"how much each boss pays me per month… shows visually if it's short… Allow me to edit\", \"A looks good\". Musuno Bills stays the record: a Bosses tab on the Projects sheet points Xavier at it. Pays me back on a saved expense or an Upcoming line adds a Bills row (tickbox, ฿ and $ at the day's rate, no doubles); Home's Boss tile (×2, ฿1,813 today) opens what he owes, tick by hand or add a cash one. Saving his payment on Earned opens Got − owed = left (menu 2): his open bills ticked, a gift box, THB | USD, the month's pay and Short when more than 1% under; Save writes the pay, \"Paid back: …\" and \"Gift\" rows (gift out of the split, still earned, lands in Bangkok Bank), ticks Paid off and logs Monthly pay. A tap on Xavier or Pravin on Earned shows the rate, each month paid or short, the raises and Raise (a new Main row from a month). Monthly pay backfilled from May 2026 at each payday's close (13 lines, none short under 1%). Tests: bosses unit + mocked writes (Bills row, tickbox, refusals, three Received rows, raise rows), e2e on the real sheets with every save caught; 11 mutants red (no tile, menu skipped, gift not taken off, never short, no 1% slack, gift left in pay, gift split as pay, tick without checking the row, no tickbox, Paid off blank, month always this month). Stocks suite as before (shadow.test Windows-only); lent, handoff and part e2e pass.",
-    "built": "2026-11-14T10:18:08.216Z",
-    "src": "e516fe88082f8d6b7fcf9537a2a953950757ccf48e520aa38e5ea6b3de230b72"
+    "sha256": "600c20ba1002689dac188b6519c0c515f074c5711a9199a26485d02c7b56adb3",
+    "size": 8352631,
+    "commit": "2130e29",
+    "subject": "Ledger: a line a boss pays back carries his tag. Asked: \"if I connect then in ledger below it should have a Xavier tag or Pravin tag… so I know that my boss has to pay it and it follows the same upcoming\", picked A. An orange \"Xavier\" chip with a briefcase under the line's name on Recent, an account's lines, the full ledger, Earned's month lines and Upcoming, green \"Xavier paid\" with a tick once Paid off is ticked on his Bills tab. Only money out is tagged. Nothing pays itself: the line stays on Upcoming and is paid from the bank as before. e2e (real sheets, saves caught) checks the chip on a real Recent line and the green one on Upcoming; 4 mutants red: no tag on Recent, none on Upcoming, paid never green, money in tagged too.",
+    "built": "2026-11-14T10:30:51.956Z",
+    "src": "95643bdfb46a08ee9f5bc38701771c60afa208f1a082802304cc353fd4403c29"
   },
   "papa": {
     "label": "Papa's book",
