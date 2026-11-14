@@ -33,14 +33,14 @@
   },
   "card-tracker": {
     "label": "Credit Card",
-    "code": 96,
+    "code": 97,
     "file": "card-tracker.apk",
-    "sha256": "7ec062ed7171f1878934fb9221cdc8484b87df0380906e43df99b2bd03f20e24",
-    "size": 248426,
-    "commit": "0e846f5",
-    "subject": "Every app: New version and No Wi-Fi as small dark pills at the top. Asked: \"Put it at the top not bottom and all apps pls\".",
-    "built": "2026-11-14T14:54:00.900Z",
-    "src": "b2475b1881a90a5cde5ee164a3dd5dcf3377870830768e6f4c90f2257461d264"
+    "sha256": "8e9d44bf303a2601eb45ce422fc178cd54fbd6710a55cc5f531a6a3aac7db0e4",
+    "size": 249326,
+    "commit": "2febdba",
+    "subject": "No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: \"Add pls\".",
+    "built": "2026-11-14T16:20:20.322Z",
+    "src": "f09dec3b03da60826972ab57e201a2e26ba9791d76acdf0cc39516d3783fe12c"
   },
   "musu": {
     "label": "Work Tracker",
