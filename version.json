@@ -154,14 +154,14 @@
   },
   "warranty": {
     "label": "Warranty",
-    "code": 19,
+    "code": 20,
     "file": "warranty.apk",
-    "sha256": "f41fbf59001051485afa544c26189ac0530c20e8d910ce4755144320af7bf627",
-    "size": 187235,
-    "commit": "88ab0f3",
-    "subject": "Ledger: Upcoming says which credit card each payment is on: a tile per card under From each bank, a chip on each line (design B)",
-    "built": "2026-11-10T14:41:20.438Z",
-    "src": "145abb59bcd036ccca3144ef513dd3305a39d348e288205141f0b06070c914c0"
+    "sha256": "1385d5f42b9fab3cf9fb87483ecd36aaf014e2033618b7c24e00c5f66c3d10cb",
+    "size": 188463,
+    "commit": "2dbdbab",
+    "subject": "Offline sync: the review's fixes. Appends to one tab take turns inside a process (a save and the outbox sending a kept one at once had picked the same row, the second over the first); a write counts once Google answers 2xx even if reading the answer fails; papa's reads run one after another (an older read had landed on a newer one); every uncertain failure says \"It may have saved: check\" and the page reads again (no answer from the app's own server, an unreadable answer, wrote: true); no Delete on a save that is sending; a kept bill/line that lands without its photo or second write says so; Stocks puts no-internet on Main/Holdings/Received reads on the line too. Test: two appends at once land on two rows in every app (mutant red); e2e and every suite as before.",
+    "built": "2026-11-14T08:03:19.164Z",
+    "src": "e8e9d07c5bce5ee7f4b8a9b06a2953c5403a2425c6a9537fc950da561da7cdad"
   },
   "mumma": {
     "label": "Mumma",
