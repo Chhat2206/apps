@@ -132,14 +132,14 @@
   },
   "birthdays": {
     "label": "Birthdays",
-    "code": 23,
+    "code": 24,
     "file": "birthdays.apk",
-    "sha256": "ae53c40d68b9d551811c61da26680503e1c0b21075c2371fdbc712f64d5261ed",
-    "size": 244582,
-    "commit": "80805e3",
-    "subject": "No Wi-Fi only where it matters. Asked: \"Only if relevant ofc\".",
-    "built": "2026-11-14T17:00:43.826Z",
-    "src": "992e4ff20883d8867a2d2030e069179913b07553b39daeaecace43162856b95c"
+    "sha256": "763a654b1e4c98bdc065234e289ac3ef70f8a3406ae46af003ed0c5ab3c3059b",
+    "size": 246834,
+    "commit": "5d27429",
+    "subject": "Vacation e2e: People is followed by Trip details",
+    "built": "2026-11-14T23:57:46.797Z",
+    "src": "ac99d9fd6df3d1bfe4af7e4b1c7e3b48d6fce6ebfbb9906da4c72a1a5e6b08df"
   },
   "planner": {
     "label": "Planner",
