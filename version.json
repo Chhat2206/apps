@@ -165,13 +165,13 @@
   },
   "mumma": {
     "label": "Mumma",
-    "code": 22,
+    "code": 23,
     "file": "mumma.apk",
-    "sha256": "704615c3ce31cc98d22fc39a34dcf3dc171bf6825ffc0e94a6df364a240babfa",
-    "size": 240449,
-    "commit": "3386f45",
-    "subject": "Mumma: a point on the keypad where 00 was, so satang can be typed. Asked: \"add a . or point as well claude design then implement it. replace the 00 button with it\". Keypad 1-9, \".\", 0, rub out; one point, at most two digits after it, \".\" first makes \"0.\"; the big amount shows the point the moment it is pressed (\"฿1,250.\"); amounts show two places only when there are satang (฿1,250.50, whole ones unchanged); totals are added in satang so they never drift; the sheet keeps two decimals (it rounded to whole baht). Both Mumma and Lydia. Unit tests + drive pass; 6 mutants red: 00 back, whole-baht display, sheet rounding, two points, whole-baht totals, point not shown while typing",
-    "built": "2026-11-14T08:42:55.141Z",
-    "src": "0907b5c6dffedc2fb4789decc9e38ddfc22fa3c274b6db7ce2baaad159ebbb78"
+    "sha256": "b7e01c5eb6be47af7b0be3dca2ac70d638308daa1dfbda7282c8c87fd5937d2f",
+    "size": 241189,
+    "commit": "0e846f5",
+    "subject": "Every app: New version and No Wi-Fi as small dark pills at the top. Asked: \"Put it at the top not bottom and all apps pls\".",
+    "built": "2026-11-14T14:59:51.828Z",
+    "src": "8b5f4769b2ba8aaf03cd7f9bd4852d8b3dc27c11e3dcb15e8ea4576da2f7e414"
   }
 }
