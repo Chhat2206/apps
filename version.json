@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 286,
+    "code": 287,
     "file": "stocks.apk",
-    "sha256": "40738bceceb786da6d92d850a33aa45f5dce09b6d3216c671ed46dc9244f0486",
-    "size": 8357875,
-    "commit": "4407bab",
-    "subject": "Ledger: hold a payment or one of his bills to edit or connect it. Asked: \"I wanna be able to hold to edit or connect it to wallet etc cause this flow is confusing\", then \"Do it\" (designs A + B). Hold any line on Recent, an account, the ledger or Upcoming: who pays it back as chips (No one / Xavier / Pravin; a tap adds or takes the row on his Bills tab at once, a paid-back one is refused), Edit, Delete; a tap still opens it. Hold a bill on Xavier's sheet: Edit (name, amount, dollars at its own rate), Connect to a payment (same amount first, Ledger and Upcoming lines, then recent, then paid in cash), Delete (two taps, never a paid-back bill). Each bill says what paid it (\"Central 8273, Upcoming\", \"Kasikorn, 12 Nov\", \"Not connected\"). Links live on a Boss links tab on the Projects sheet, follow an edit and go with the bill. The Pays me back rows inside the line sheets are gone. Tests: mocked writes (link add/replace/remove, edit with dollars and link, remove refusing paid, Pays me back links its line); e2e with real holds on the real sheets, saves caught; 10 mutants red (click after hold opens the line, one tap deletes, No one leaves the bill, hand links ignored, nothing picked first, Upcoming source lost, paid bill deleted, link left behind, Pays me back unlinked, link not following an edit). Stocks suite as before (shadow.test Windows-only).",
-    "built": "2026-11-14T12:01:14.353Z",
-    "src": "e8b58cbb1c0242f7c36c4386ad7bbf0b1b991a7efb1dbbd7c46eb66017c08e9f"
+    "sha256": "4c4b64b31c05153c130bbdb4096e455d315237a4fe363fbb18390cb7ee52a2f4",
+    "size": 8381925,
+    "commit": "891b7e7",
+    "subject": "Ledger: vacation Home stays design A (the band), picked; the trips e2e prints page errors when it fails",
+    "built": "2026-11-14T13:19:37.182Z",
+    "src": "b067ca197f6b624cda10ab4a47c8473fa05d8e84803f2e9c06da7c5e8406ea2a"
   },
   "papa": {
     "label": "Papa's book",
