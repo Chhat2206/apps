@@ -132,14 +132,14 @@
   },
   "birthdays": {
     "label": "Birthdays",
-    "code": 22,
+    "code": 23,
     "file": "birthdays.apk",
-    "sha256": "012d48696ffb0379cca9e195edc6288e71b1aa0f4945d8eb950218d835daf4e1",
-    "size": 244454,
-    "commit": "2febdba",
-    "subject": "No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: \"Add pls\".",
-    "built": "2026-11-14T16:19:45.829Z",
-    "src": "4bfd5f5088e4dab1857547bf74918e78601f86d3c7d79279f5c4b92fb029945a"
+    "sha256": "ae53c40d68b9d551811c61da26680503e1c0b21075c2371fdbc712f64d5261ed",
+    "size": 244582,
+    "commit": "80805e3",
+    "subject": "No Wi-Fi only where it matters. Asked: \"Only if relevant ofc\".",
+    "built": "2026-11-14T17:00:43.826Z",
+    "src": "992e4ff20883d8867a2d2030e069179913b07553b39daeaecace43162856b95c"
   },
   "planner": {
     "label": "Planner",
