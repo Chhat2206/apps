@@ -132,14 +132,14 @@
   },
   "birthdays": {
     "label": "Birthdays",
-    "code": 19,
+    "code": 20,
     "file": "birthdays.apk",
-    "sha256": "2e633d1aba201e0922265a77bb37b604d556ac2faea33f3944f0957a2c2d9d59",
-    "size": 242262,
-    "commit": "2dbdbab",
-    "subject": "Offline sync: the review's fixes. Appends to one tab take turns inside a process (a save and the outbox sending a kept one at once had picked the same row, the second over the first); a write counts once Google answers 2xx even if reading the answer fails; papa's reads run one after another (an older read had landed on a newer one); every uncertain failure says \"It may have saved: check\" and the page reads again (no answer from the app's own server, an unreadable answer, wrote: true); no Delete on a save that is sending; a kept bill/line that lands without its photo or second write says so; Stocks puts no-internet on Main/Holdings/Received reads on the line too. Test: two appends at once land on two rows in every app (mutant red); e2e and every suite as before.",
-    "built": "2026-11-14T07:39:54.759Z",
-    "src": "618749bf32f39a5203888304047802e7297d37c9249d33e8f9ab29e900bb91db"
+    "sha256": "b3628645dc2280977e79a0a15f0da8bb91ebddf1937b975abd8fb6b4bc0d85c2",
+    "size": 242798,
+    "commit": "87c2448",
+    "subject": "Mumma: Lydia's houses can be renamed. Asked: \"for lydia papa wants to be able to edit the house name\". A house's card has Change name above Delete: the box opens with the name, Save renames the house and every Received line naming it (lines keep a house by its name, so its totals follow), another house's name is refused, Undo puts the old name back on all of them; the sheet's Lydia and Lydia houses tabs get the new name. Drive passes; 4 mutants red: lines not following, no refusal, Undo leaving lines, Save adding a house",
+    "built": "2026-11-14T08:18:38.202Z",
+    "src": "b17e5023fbea83f98682b4be5c4f0ba423e774efffb1ffbdcbf57dae68952afb"
   },
   "planner": {
     "label": "Planner",
