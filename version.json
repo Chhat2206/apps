@@ -12,14 +12,14 @@
   },
   "papa": {
     "label": "Papa's book",
-    "code": 177,
+    "code": 178,
     "file": "papa.apk",
-    "sha256": "68a593710e29f32432ced71b03f72440a231e0270a99d2745e7613b75f6d1c2f",
-    "size": 529157,
-    "commit": "7708f44",
-    "subject": "papa: how many times a year each stock pays and the months the money comes, on Home under \"Dividend in 2025\" and on the Tracker under the next payment (\"Pays twice a year\" / \"Paid in Apr and Sep\"). From Settrade's next twelve months (announced, or last year's a year on), months by pay day. upcoming.schedule + /api/upcoming schedule for held and Tracker stocks. Unit test (TTB moved month, ADVANC) and e2e on Home + Tracker; mutants red: plusYear, the Tracker line, the two-line CSS, the refill when Settrade answers",
-    "built": "2026-11-13T09:03:42.812Z",
-    "src": "c67a95502247fe2759aeb24d8bbf3d408ea0ceed11df00834c2f7da5ccb4c37b"
+    "sha256": "6e987c8d0cd8e0b0e1a49937198efcbf73e0381f0d3e7e793d79a59cacf37ef3",
+    "size": 538165,
+    "commit": "2dbdbab",
+    "subject": "Offline sync: the review's fixes. Appends to one tab take turns inside a process (a save and the outbox sending a kept one at once had picked the same row, the second over the first); a write counts once Google answers 2xx even if reading the answer fails; papa's reads run one after another (an older read had landed on a newer one); every uncertain failure says \"It may have saved: check\" and the page reads again (no answer from the app's own server, an unreadable answer, wrote: true); no Delete on a save that is sending; a kept bill/line that lands without its photo or second write says so; Stocks puts no-internet on Main/Holdings/Received reads on the line too. Test: two appends at once land on two rows in every app (mutant red); e2e and every suite as before.",
+    "built": "2026-11-14T08:00:14.842Z",
+    "src": "8af98d487b8d0177bed4268a25cdfeb0d92b4aa38d52ea66914eebeeb413c792"
   },
   "groceries": {
     "label": "Credit Card",
