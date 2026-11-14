@@ -55,14 +55,14 @@
   },
   "trip-money": {
     "label": "Trip Money",
-    "code": 44,
+    "code": 45,
     "file": "trip-money.apk",
-    "sha256": "d52d5d9b695b3d6911bb469419d5a8aadb6b6686e989240e4b5f8b10a7985a5b",
-    "size": 152938,
-    "commit": "8f16db3",
-    "subject": "Mumma: Lydia's houses sit above the months, and each month is one row that opens. Asked: \"put the houses on top of november 2026. make a button to see the speadsheet instead of putting it all for the november 2026 or maybe click to open\". Card, buttons, Houses, then each month folded to its name, how many lines and its +฿ net with a chevron; a tap opens its lines, a second folds them; every open starts folded; a line just saved opens its month so papa sees it. Mumma's side unchanged. Drive passes; 4 mutants red: houses under months, never folds, opens unfolded, save leaves its month folded",
-    "built": "2026-11-14T08:37:15.672Z",
-    "src": "f61b07aae75ab07fb7ce1f482ebddd8c52014f96f4458750cb62fa439303b33e"
+    "sha256": "ffd93b4b856606ed1f7811c62eda9aa66498186bad2359eb172e79e21f822236",
+    "size": 153758,
+    "commit": "0e846f5",
+    "subject": "Every app: New version and No Wi-Fi as small dark pills at the top. Asked: \"Put it at the top not bottom and all apps pls\".",
+    "built": "2026-11-14T15:12:55.958Z",
+    "src": "04af4a6bafd362ac4e76b8788a4e16ace6747a4909d460011ca40c95ad1e4bf1"
   },
   "collection": {
     "label": "Papa's Collection",
