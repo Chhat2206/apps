@@ -66,14 +66,14 @@
   },
   "collection": {
     "label": "Papa's Collection",
-    "code": 136,
+    "code": 137,
     "file": "collection.apk",
-    "sha256": "06025b98234b10fe6f2261fc6c289f56bd29389cb30182904122792511ab4378",
-    "size": 253712,
-    "commit": "c0c5f53",
-    "subject": "notes: Collection sort pill",
-    "built": "2026-11-12T10:09:10.910Z",
-    "src": "a7ac96662df0072ea87a0abab0947e3410cb42d8ddc8aad033cc6e3e19bdc0dd"
+    "sha256": "afb9a9d4551c49dd41c9ddd1278e8089c96de80a0df92a949e770818d0928210",
+    "size": 262300,
+    "commit": "2dbdbab",
+    "subject": "Offline sync: the review's fixes. Appends to one tab take turns inside a process (a save and the outbox sending a kept one at once had picked the same row, the second over the first); a write counts once Google answers 2xx even if reading the answer fails; papa's reads run one after another (an older read had landed on a newer one); every uncertain failure says \"It may have saved: check\" and the page reads again (no answer from the app's own server, an unreadable answer, wrote: true); no Delete on a save that is sending; a kept bill/line that lands without its photo or second write says so; Stocks puts no-internet on Main/Holdings/Received reads on the line too. Test: two appends at once land on two rows in every app (mutant red); e2e and every suite as before.",
+    "built": "2026-11-14T07:43:08.767Z",
+    "src": "2620c5956e3d5cdb3950e29241d04925a3cd153ee2b5009e779a0051e0082f42"
   },
   "hub": {
     "label": "Hub",
