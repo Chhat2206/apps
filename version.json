@@ -55,14 +55,14 @@
   },
   "trip-money": {
     "label": "Trip Money",
-    "code": 43,
+    "code": 44,
     "file": "trip-money.apk",
-    "sha256": "41185ff3c9c39cf5f10c7cd8a6b964b35326c9acd71de09efa9964126138fbcb",
-    "size": 152402,
-    "commit": "2dbdbab",
-    "subject": "Offline sync: the review's fixes. Appends to one tab take turns inside a process (a save and the outbox sending a kept one at once had picked the same row, the second over the first); a write counts once Google answers 2xx even if reading the answer fails; papa's reads run one after another (an older read had landed on a newer one); every uncertain failure says \"It may have saved: check\" and the page reads again (no answer from the app's own server, an unreadable answer, wrote: true); no Delete on a save that is sending; a kept bill/line that lands without its photo or second write says so; Stocks puts no-internet on Main/Holdings/Received reads on the line too. Test: two appends at once land on two rows in every app (mutant red); e2e and every suite as before.",
-    "built": "2026-11-14T08:02:21.096Z",
-    "src": "b3813de3110879a51fe3173f9995cbfb5b07b770ddeae7496f07509e23a0106c"
+    "sha256": "d52d5d9b695b3d6911bb469419d5a8aadb6b6686e989240e4b5f8b10a7985a5b",
+    "size": 152938,
+    "commit": "8f16db3",
+    "subject": "Mumma: Lydia's houses sit above the months, and each month is one row that opens. Asked: \"put the houses on top of november 2026. make a button to see the speadsheet instead of putting it all for the november 2026 or maybe click to open\". Card, buttons, Houses, then each month folded to its name, how many lines and its +฿ net with a chevron; a tap opens its lines, a second folds them; every open starts folded; a line just saved opens its month so papa sees it. Mumma's side unchanged. Drive passes; 4 mutants red: houses under months, never folds, opens unfolded, save leaves its month folded",
+    "built": "2026-11-14T08:37:15.672Z",
+    "src": "f61b07aae75ab07fb7ce1f482ebddd8c52014f96f4458750cb62fa439303b33e"
   },
   "collection": {
     "label": "Papa's Collection",
