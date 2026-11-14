@@ -88,14 +88,14 @@
   },
   "adblock": {
     "label": "Ad Block",
-    "code": 64,
+    "code": 65,
     "file": "adblock.apk",
-    "sha256": "6deca5febd37ddd35a6431093d3149426fb7f0e8f01149ff64ebbd771ad2806f",
-    "size": 215672,
-    "commit": "0a434bc",
-    "subject": "Ledger: the net worth line is after what is owed, the same as the big figure; a point says when what is owed moved it",
-    "built": "2026-11-10T14:17:59.883Z",
-    "src": "e8e3f1befcc71f4e01468bee081e9522016133271d1f924c9ecf30d306d5a15b"
+    "sha256": "505ff180d854ca9ec73cd8cc595016077a437b82029e17b1333d377efffeaa18",
+    "size": 215876,
+    "commit": "0e846f5",
+    "subject": "Every app: New version and No Wi-Fi as small dark pills at the top. Asked: \"Put it at the top not bottom and all apps pls\".",
+    "built": "2026-11-14T14:51:52.096Z",
+    "src": "8c4a46c201b2730f488f65196c8c91d7e4bd4ced39b01940df9d005b715859e6"
   },
   "packing": {
     "label": "Vacation",
