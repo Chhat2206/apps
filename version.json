@@ -154,14 +154,14 @@
   },
   "warranty": {
     "label": "Warranty",
-    "code": 22,
+    "code": 23,
     "file": "warranty.apk",
-    "sha256": "286cbb565367c108853fee9bb10565545115cd6f70709cac42ebadde4e0893ae",
-    "size": 189811,
-    "commit": "0e846f5",
-    "subject": "Every app: New version and No Wi-Fi as small dark pills at the top. Asked: \"Put it at the top not bottom and all apps pls\".",
-    "built": "2026-11-14T15:13:51.242Z",
-    "src": "0841e3f069a412fcdb42ba7ed692417b1ceb55a12a4860c2404a9f5ba73e6241"
+    "sha256": "718ce3d25a27114a80e4c0bca39755c609842ee2fbf50d92281a9d04c4198a42",
+    "size": 190711,
+    "commit": "2febdba",
+    "subject": "No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: \"Add pls\".",
+    "built": "2026-11-14T16:32:23.172Z",
+    "src": "bfac824f80fcc69636ec643812bc4b44041f9c6c67edf86c74fed41406c11aa6"
   },
   "mumma": {
     "label": "Mumma",
