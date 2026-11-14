@@ -88,14 +88,14 @@
   },
   "adblock": {
     "label": "Ad Block",
-    "code": 67,
+    "code": 68,
     "file": "adblock.apk",
-    "sha256": "4ba4a77fbccb1b1d8c63e7a727a332c109394ecd408ddf8cb3e4105af3be54ff",
-    "size": 217012,
-    "commit": "80805e3",
-    "subject": "No Wi-Fi only where it matters. Asked: \"Only if relevant ofc\".",
-    "built": "2026-11-14T16:59:12.884Z",
-    "src": "e4fd36c2811c005de2624e02bb599941ad1aa8d52a165129a57b9ee9d77c56d1"
+    "sha256": "a9dbc61b9a6edaa2a008a0424a4683d483c77bd8631d5ae851395d8cf7528c04",
+    "size": 219068,
+    "commit": "5d27429",
+    "subject": "Vacation e2e: People is followed by Trip details",
+    "built": "2026-11-14T23:55:57.848Z",
+    "src": "d55e59ba80170c874fdad0b4ac2293dadf71453d2a2c60a298915930e9896995"
   },
   "packing": {
     "label": "Vacation",
