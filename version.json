@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 117,
+    "code": 118,
     "file": "packing.apk",
-    "sha256": "dd30607ffa7092111ffc788833586669510d0bee43afad280f07bd9586f1f3fc",
-    "size": 892450,
-    "commit": "f794d52",
-    "subject": "Vacation: no ticks on Going; hold a bag in a list to rename or delete it",
-    "built": "2026-11-14T22:39:42.875Z",
-    "src": "a3519a467ae51bd97a8c897aed24035e3dc71f4a06e127aec2c3ed62dba3a73b"
+    "sha256": "9acb9458dba100a632d617ea842e75a2ae34a2a4a10b962a57bb08903a01f6e6",
+    "size": 894230,
+    "commit": "0b02c66",
+    "subject": "Vacation e2e: the group photo check waits for the sync on a busy Pi instead of a fixed 3.5 s",
+    "built": "2026-11-14T23:47:09.520Z",
+    "src": "61d81c2b29913f1c4312ce557b73d98a9a888cde729ddb5167024251c7d94200"
   },
   "control": {
     "label": "Control",
