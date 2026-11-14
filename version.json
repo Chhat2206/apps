@@ -44,14 +44,14 @@
   },
   "musu": {
     "label": "Work Tracker",
-    "code": 64,
+    "code": 65,
     "file": "musu.apk",
-    "sha256": "49813a6a1d3774585048382b35be4f8590982962631ec61538cb2f791827c1a2",
-    "size": 193993,
-    "commit": "0a434bc",
-    "subject": "Ledger: the big figure counts up every time a tab opens, Stocks tabs too; ×N beside Upcoming and Overdue",
-    "built": "2026-11-10T14:26:04.083Z",
-    "src": "25404e7dd619c9eb2d8e32d5fd75baf0dd542f274f73428720ecbe396ea9a49f"
+    "sha256": "f33f342553b82f0dea3092012293ce132c61ef9d2e0ecc332d9cb2479961b005",
+    "size": 194641,
+    "commit": "2dbdbab",
+    "subject": "Offline sync: the review's fixes. Appends to one tab take turns inside a process (a save and the outbox sending a kept one at once had picked the same row, the second over the first); a write counts once Google answers 2xx even if reading the answer fails; papa's reads run one after another (an older read had landed on a newer one); every uncertain failure says \"It may have saved: check\" and the page reads again (no answer from the app's own server, an unreadable answer, wrote: true); no Delete on a save that is sending; a kept bill/line that lands without its photo or second write says so; Stocks puts no-internet on Main/Holdings/Received reads on the line too. Test: two appends at once land on two rows in every app (mutant red); e2e and every suite as before.",
+    "built": "2026-11-14T07:49:24.784Z",
+    "src": "bf091e350653a9f1892c930f74d73558112323d692ba2b4d001ed1dc86bd98bc"
   },
   "trip-money": {
     "label": "Trip Money",
