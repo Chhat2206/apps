@@ -66,14 +66,14 @@
   },
   "collection": {
     "label": "Papa's Collection",
-    "code": 141,
+    "code": 142,
     "file": "collection.apk",
-    "sha256": "790f24befe66089aa3875c377be30ef63342fdd2c4cf275dba9aceb60684d1fc",
-    "size": 265380,
-    "commit": "80805e3",
-    "subject": "No Wi-Fi only where it matters. Asked: \"Only if relevant ofc\".",
-    "built": "2026-11-14T17:02:03.554Z",
-    "src": "529d1264aa6a17271312c4f374630df1d9d06e92e61819facc6763b5ac5b0e35"
+    "sha256": "7e3d390bff9e566b0886d48db69a63fd40a0989db893d09e1086d51fe45ce8d0",
+    "size": 269048,
+    "commit": "5d27429",
+    "subject": "Vacation e2e: People is followed by Trip details",
+    "built": "2026-11-14T23:59:17.797Z",
+    "src": "3b163e3f597375dd8b9dad40a7d85523e6358b33e9ac8b0604815f74065dc275"
   },
   "hub": {
     "label": "Hub",
