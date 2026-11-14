@@ -66,14 +66,14 @@
   },
   "collection": {
     "label": "Papa's Collection",
-    "code": 139,
+    "code": 140,
     "file": "collection.apk",
-    "sha256": "52d8a33b1f2d4b0c730a2e747868556ff1343a38bd940bf6a51392558c406395",
-    "size": 264352,
-    "commit": "0e846f5",
-    "subject": "Every app: New version and No Wi-Fi as small dark pills at the top. Asked: \"Put it at the top not bottom and all apps pls\".",
-    "built": "2026-11-14T14:54:44.873Z",
-    "src": "9416b5ab4248f426c4f4f4447985c609ce4970727335b302ef612cbfe4bb313c"
+    "sha256": "eb1409d81f676872d97c2f58cd7a60912e99feab95c38fa3cf23005675ab48ff",
+    "size": 265244,
+    "commit": "2febdba",
+    "subject": "No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: \"Add pls\".",
+    "built": "2026-11-14T16:21:03.125Z",
+    "src": "c444a9eb6a7400ff7dd02ddd9355a94ef2c88e21ae39011e8186ace5699d0220"
   },
   "hub": {
     "label": "Hub",
