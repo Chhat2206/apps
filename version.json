@@ -33,14 +33,14 @@
   },
   "card-tracker": {
     "label": "Credit Card",
-    "code": 98,
+    "code": 99,
     "file": "card-tracker.apk",
-    "sha256": "e02667926bd9d5113342a99966e77f592eb5cccc1111a77c3aac60d3ed25bb3d",
-    "size": 249458,
-    "commit": "80805e3",
-    "subject": "No Wi-Fi only where it matters. Asked: \"Only if relevant ofc\".",
-    "built": "2026-11-14T17:01:20.661Z",
-    "src": "6f54b027de89a88530909cdf56d61d5379ab825a20cfec28b293c474da7541bd"
+    "sha256": "b5b2b8a0168e65caece41f7f153a27a1cfe2dc0a8e753bc627a6e990aa4e6936",
+    "size": 253110,
+    "commit": "5d27429",
+    "subject": "Vacation e2e: People is followed by Trip details",
+    "built": "2026-11-14T23:58:28.404Z",
+    "src": "b929166b568371efe978318497e547ebbffed46f5393ed9d78a67c40b168615e"
   },
   "musu": {
     "label": "Work Tracker",
