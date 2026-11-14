@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 288,
+    "code": 289,
     "file": "stocks.apk",
-    "sha256": "7d6e5bca17a1405c71b9dbe15b4ccb8189f7b7be0264ca919780478f7b353f82",
-    "size": 8382785,
-    "commit": "7155356",
-    "subject": "Ledger: a held bill on the boss sheet is its own sheet, sheets no longer slide up again, Connect lists Upcoming. Asked: \"Connect to a payment should also include upcoming. Holding a 'boss pays back' has a weird ui that pops over on top so please fix animation wise it feels inconsistant\". Holding a bill on Xavier's sheet now opens a sheet laid out like a held payment (name, what paid it, amount, then Edit / Connect to a payment / Delete) in place of the box over his list; a tap outside goes one step back (Connect, the bill, his list). An open sheet never replays its slide from the bottom: a redraw (tick, pick) stays still with its scroll kept, a different sheet in its place keeps the sheet where it is while its contents rise in. Connect lists every Upcoming line, soonest first (6, then N more), between Same amount and Recent. Name editing on an Upcoming line: directions A/B/C in stocks/design/due-name-2026-11-14, not picked. e2e on the real sheets (saves caught) PASS; 6 mutants red on their assertions (no Upcoming, latest first, slide replayed, redraw rising, box over the list, outside closing everything).",
-    "built": "2026-11-14T13:37:40.618Z",
-    "src": "9d11731e2211101410e866eb58d64d387ba3465f6fb6eb1f0e50f4a52a5ce600"
+    "sha256": "1a41bcfc1d8c4a71c21ec4d99c2419afbb264ac593d70357016475b351763325",
+    "size": 8383413,
+    "commit": "7b55b5d",
+    "subject": "Ledger: an Upcoming line's name can be changed on its sheet (design A). Asked: \"Allow me to edit the name here\", then \"A\". The name at the top of the line's sheet is the box itself, with a dashed line and a pencil; Save the change shows as it does for Due and Amount, only when the name really changed (an empty box is no change), and only then is the name sent. It is written to the line's Title on Upcoming, and a card bill's name on the Credit Card sheet follows, as its amount already did. Tests: unit (typed text, spaces tidied, same name writes nothing, blank refused, with day and amount); e2e on the real sheets with saves caught (name in the box, pencil, Save only on a change, the sent title, back to the old name or empty = nothing, an amount change with the name as it was sends no name); 5 mutants red (name always sent, typing not showing Save, empty counted as a change, title ignored, blank allowed). Stocks suite 269 pass.",
+    "built": "2026-11-14T14:30:40.339Z",
+    "src": "979b3aadb2f9e423aa4f5bcda6fc0af24c8e122490d5393d903d6301b32bf634"
   },
   "papa": {
     "label": "Papa's book",
