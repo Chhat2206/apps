@@ -15,7 +15,7 @@ shows "can't display". After that the app updates itself from here.
 - **Work Tracker** — [musu.apk](https://chhat2206.github.io/apps/musu.apk), build 69, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
 - **Vacation** — [packing.apk](https://chhat2206.github.io/apps/packing.apk), build 114, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
 - **Papa's book** — [papa.apk](https://chhat2206.github.io/apps/papa.apk), build 181, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
-- **Planner** — [planner.apk](https://chhat2206.github.io/apps/planner.apk), build 96, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
+- **Planner** — [planner.apk](https://chhat2206.github.io/apps/planner.apk), build 97, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
 - **Ledger** — [stocks.apk](https://chhat2206.github.io/apps/stocks.apk), build 293, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
 - **Trip Money** — [trip-money.apk](https://chhat2206.github.io/apps/trip-money.apk), build 46, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
 - **Warranty** — [warranty.apk](https://chhat2206.github.io/apps/warranty.apk), build 23, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
