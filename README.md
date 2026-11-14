@@ -3,7 +3,7 @@
 **To install, open https://chhat2206.github.io/apps/ on the phone and tap the app.** Tapping an .apk in the file list above only
 shows "can't display". After that the app updates itself from here.
 
-- **Ad Block** — [adblock.apk](https://chhat2206.github.io/apps/adblock.apk), build 66, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
+- **Ad Block** — [adblock.apk](https://chhat2206.github.io/apps/adblock.apk), build 67, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
 - **Birthdays** — [birthdays.apk](https://chhat2206.github.io/apps/birthdays.apk), build 22, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
 - **Credit Card** — [card-tracker.apk](https://chhat2206.github.io/apps/card-tracker.apk), build 97, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
 - **Papa's Collection** — [collection.apk](https://chhat2206.github.io/apps/collection.apk), build 140, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
