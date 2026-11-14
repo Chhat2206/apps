@@ -12,14 +12,14 @@
   },
   "papa": {
     "label": "Papa's book",
-    "code": 178,
+    "code": 179,
     "file": "papa.apk",
-    "sha256": "6e987c8d0cd8e0b0e1a49937198efcbf73e0381f0d3e7e793d79a59cacf37ef3",
-    "size": 538165,
-    "commit": "2dbdbab",
-    "subject": "Offline sync: the review's fixes. Appends to one tab take turns inside a process (a save and the outbox sending a kept one at once had picked the same row, the second over the first); a write counts once Google answers 2xx even if reading the answer fails; papa's reads run one after another (an older read had landed on a newer one); every uncertain failure says \"It may have saved: check\" and the page reads again (no answer from the app's own server, an unreadable answer, wrote: true); no Delete on a save that is sending; a kept bill/line that lands without its photo or second write says so; Stocks puts no-internet on Main/Holdings/Received reads on the line too. Test: two appends at once land on two rows in every app (mutant red); e2e and every suite as before.",
-    "built": "2026-11-14T08:00:14.842Z",
-    "src": "8af98d487b8d0177bed4268a25cdfeb0d92b4aa38d52ea66914eebeeb413c792"
+    "sha256": "fb5c915c6f5944613712154ad2b497191e6f38964acd9e4273f97fa456be5d18",
+    "size": 540245,
+    "commit": "0e846f5",
+    "subject": "Every app: New version and No Wi-Fi as small dark pills at the top. Asked: \"Put it at the top not bottom and all apps pls\".",
+    "built": "2026-11-14T15:10:53.207Z",
+    "src": "cb23182157348e14810831121571336f79c4b53deb858c85180f2e85e6883686"
   },
   "groceries": {
     "label": "Credit Card",
