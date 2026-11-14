@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 112,
+    "code": 113,
     "file": "packing.apk",
-    "sha256": "54b529ca17b36cb4454e7fd4c65793e0ec4df4acbd2bb96904cc05a108ea22d9",
-    "size": 879978,
-    "commit": "0e846f5",
-    "subject": "Every app: New version and No Wi-Fi as small dark pills at the top. Asked: \"Put it at the top not bottom and all apps pls\".",
-    "built": "2026-11-14T15:09:38.636Z",
-    "src": "8237bf6effd5af1773f5c795aede0a220cf5373fde31049662226e39ec0385bc"
+    "sha256": "69e631c53cf12128e7304ab9f3912c0363dea365815b070676478ee281114461",
+    "size": 888238,
+    "commit": "3796834",
+    "subject": "Vacation e2e: a bag's name opens its pop-up, its page is a row there; a second check-in asks how many",
+    "built": "2026-11-14T16:51:12.006Z",
+    "src": "673dd38889ef2f52b5b482086df9839c8c51a34d6753923a28eeb5616c0dba72"
   },
   "control": {
     "label": "Control",
