@@ -44,14 +44,14 @@
   },
   "musu": {
     "label": "Work Tracker",
-    "code": 68,
+    "code": 69,
     "file": "musu.apk",
-    "sha256": "eea55f2bb3ff155a81148a8cc0480e17eedb171824e7036ce488b7ac70b07517",
-    "size": 196281,
-    "commit": "2febdba",
-    "subject": "No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: \"Add pls\".",
-    "built": "2026-11-14T16:28:14.466Z",
-    "src": "b6062b02415a7ae6d7bda5ebafee7c6132157aae335c4c720697fbce6996dfa9"
+    "sha256": "29a978770d189e2b2ead9dac80f2ec56f203d27cd0d43e460216a2a8baa229f0",
+    "size": 196413,
+    "commit": "80805e3",
+    "subject": "No Wi-Fi only where it matters. Asked: \"Only if relevant ofc\".",
+    "built": "2026-11-14T17:07:48.844Z",
+    "src": "45d63ffb6d020d7163c5cc9c818eecede2537fc02d4af4868c760baf8648753e"
   },
   "trip-money": {
     "label": "Trip Money",
