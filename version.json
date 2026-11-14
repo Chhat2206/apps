@@ -154,14 +154,14 @@
   },
   "warranty": {
     "label": "Warranty",
-    "code": 21,
+    "code": 22,
     "file": "warranty.apk",
-    "sha256": "c8a426e0f10fc214da35c933643310eafdac605f0e524b2315c0888d4641f556",
-    "size": 189003,
-    "commit": "8f16db3",
-    "subject": "Mumma: Lydia's houses sit above the months, and each month is one row that opens. Asked: \"put the houses on top of november 2026. make a button to see the speadsheet instead of putting it all for the november 2026 or maybe click to open\". Card, buttons, Houses, then each month folded to its name, how many lines and its +฿ net with a chevron; a tap opens its lines, a second folds them; every open starts folded; a line just saved opens its month so papa sees it. Mumma's side unchanged. Drive passes; 4 mutants red: houses under months, never folds, opens unfolded, save leaves its month folded",
-    "built": "2026-11-14T08:38:11.214Z",
-    "src": "7829c4862b00a5f91106be189f054bcb1fda70cf9e801ee0f0002d7a467e6a6d"
+    "sha256": "286cbb565367c108853fee9bb10565545115cd6f70709cac42ebadde4e0893ae",
+    "size": 189811,
+    "commit": "0e846f5",
+    "subject": "Every app: New version and No Wi-Fi as small dark pills at the top. Asked: \"Put it at the top not bottom and all apps pls\".",
+    "built": "2026-11-14T15:13:51.242Z",
+    "src": "0841e3f069a412fcdb42ba7ed692417b1ceb55a12a4860c2404a9f5ba73e6241"
   },
   "mumma": {
     "label": "Mumma",
