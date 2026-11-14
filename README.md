@@ -7,7 +7,7 @@ shows "can't display". After that the app updates itself from here.
 - **Birthdays** — [birthdays.apk](https://chhat2206.github.io/apps/birthdays.apk), build 22, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
 - **Credit Card** — [card-tracker.apk](https://chhat2206.github.io/apps/card-tracker.apk), build 97, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
 - **Papa's Collection** — [collection.apk](https://chhat2206.github.io/apps/collection.apk), build 140, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
-- **Control** — [control.apk](https://chhat2206.github.io/apps/control.apk), build 57, 2026-11-14: Every app: New version and No Wi-Fi as small dark pills at the top. Asked: "Put it at the top not bottom and all apps pls".
+- **Control** — [control.apk](https://chhat2206.github.io/apps/control.apk), build 58, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
 - **Better Deal** — [deal.apk](https://chhat2206.github.io/apps/deal.apk), build 52, 2026-11-14: Every app: New version and No Wi-Fi as small dark pills at the top. Asked: "Put it at the top not bottom and all apps pls".
 - **Credit Card** — [groceries.apk](https://chhat2206.github.io/apps/groceries.apk), build 2, 2026-09-29: Credit Card (groceries): one question per screen, a card schedule, a paid checklist
 - **Hub** — [hub.apk](https://chhat2206.github.io/apps/hub.apk), build 52, 2026-11-14: Every app: New version and No Wi-Fi as small dark pills at the top. Asked: "Put it at the top not bottom and all apps pls".
