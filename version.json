@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 283,
+    "code": 284,
     "file": "stocks.apk",
-    "sha256": "159359af55e118e5ae5bb19671562f5a1b65700e3609f80b0afae14ae7fe279d",
-    "size": 8337016,
-    "commit": "64d26b9",
-    "subject": "Ledger: bills typed in the Credit Card app go on Upcoming by themselves. Asked: \"i just added 353.10 to the credit card under 8273 it should have syncd immediately\". Only a card purchase saved in Ledger got an Upcoming line; one typed in the Credit Card app showed only under the card's bills. Now every pull (after syncTicks) brings in each bill of mine added from 2026-11-14 on (the sheet's Added column, else its date) at my share: due on the card's due day, from the bank that pays that card, noted card:<bill id> so Pay, Paid and ticks work as for Ledger's own. Never twice: not when a line already names it (card:/part:), an Upcoming line of the same amount is due near it (Cashew's copy), or the new Card bills in tab lists it (a deleted line stays deleted); re-read before writing, as the phone and laptop both pull. The 353.10 on Central 8273 is on Upcoming (17 Dec, Kasikorn). Unit tests; 4 mutants red: brought ignored, Cashew copy ignored, no cut-off, Added not read. Stocks suite as before (shadow.test Windows-only fail).",
-    "built": "2026-11-14T09:31:42.148Z",
-    "src": "ce0d712e38819500f2838fe1d75cf4895bf025f72354d7267827e63632328f0c"
+    "sha256": "87ba0178452c309a608c0b6e9acace4486a2ee77c86b6fe4789d2da97d525e56",
+    "size": 8354227,
+    "commit": "d82e850",
+    "subject": "Ledger: bosses. What a boss pays back, his payment's Got − owed = left, and what each pays a month. Asked: \"connect certain payments to 'bosses' who will have to pay me back… cash… if its actually paid back\", \"musuno bills correct\", \"2\", \"how much each boss pays me per month… shows visually if it's short… Allow me to edit\", \"A looks good\". Musuno Bills stays the record: a Bosses tab on the Projects sheet points Xavier at it. Pays me back on a saved expense or an Upcoming line adds a Bills row (tickbox, ฿ and $ at the day's rate, no doubles); Home's Boss tile (×2, ฿1,813 today) opens what he owes, tick by hand or add a cash one. Saving his payment on Earned opens Got − owed = left (menu 2): his open bills ticked, a gift box, THB | USD, the month's pay and Short when more than 1% under; Save writes the pay, \"Paid back: …\" and \"Gift\" rows (gift out of the split, still earned, lands in Bangkok Bank), ticks Paid off and logs Monthly pay. A tap on Xavier or Pravin on Earned shows the rate, each month paid or short, the raises and Raise (a new Main row from a month). Monthly pay backfilled from May 2026 at each payday's close (13 lines, none short under 1%). Tests: bosses unit + mocked writes (Bills row, tickbox, refusals, three Received rows, raise rows), e2e on the real sheets with every save caught; 11 mutants red (no tile, menu skipped, gift not taken off, never short, no 1% slack, gift left in pay, gift split as pay, tick without checking the row, no tickbox, Paid off blank, month always this month). Stocks suite as before (shadow.test Windows-only); lent, handoff and part e2e pass.",
+    "built": "2026-11-14T10:18:08.216Z",
+    "src": "e516fe88082f8d6b7fcf9537a2a953950757ccf48e520aa38e5ea6b3de230b72"
   },
   "papa": {
     "label": "Papa's book",
