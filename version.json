@@ -33,14 +33,14 @@
   },
   "card-tracker": {
     "label": "Credit Card",
-    "code": 93,
+    "code": 94,
     "file": "card-tracker.apk",
-    "sha256": "b8c3f746daf713c6600ea8b2479a0a5d6e73f6800cffa2d183c5cfd620f2a113",
-    "size": 236822,
-    "commit": "7e69613",
-    "subject": "Ledger: a card purchase can be for anyone (Family, Mummy, Papa, the Others names or a typed one); only bills with me in them go on my Upcoming, at my share. Your part of a bill is written to the Credit Card sheet's Parts, and the Credit Card app shows it: a ringed circle, a 'Chhat paid' strip under the bill and the split on its page. The demo no longer reaches the real Credit Card sheet.",
-    "built": "2026-11-11T14:06:12.115Z",
-    "src": "87f0cf82b91483e520718bb916cbb4814436c8fdcbee71df525bc09f68725ba5"
+    "sha256": "8e95444f2b0c6eeebe59e00d0e74cef5417133231382ea13174f52a851334c4b",
+    "size": 246350,
+    "commit": "2dbdbab",
+    "subject": "Offline sync: the review's fixes. Appends to one tab take turns inside a process (a save and the outbox sending a kept one at once had picked the same row, the second over the first); a write counts once Google answers 2xx even if reading the answer fails; papa's reads run one after another (an older read had landed on a newer one); every uncertain failure says \"It may have saved: check\" and the page reads again (no answer from the app's own server, an unreadable answer, wrote: true); no Delete on a save that is sending; a kept bill/line that lands without its photo or second write says so; Stocks puts no-internet on Main/Holdings/Received reads on the line too. Test: two appends at once land on two rows in every app (mutant red); e2e and every suite as before.",
+    "built": "2026-11-14T07:40:32.367Z",
+    "src": "063c50904134959d2e29d068b2f2926e762f7a35992793770d2f63369e0560d1"
   },
   "musu": {
     "label": "Work Tracker",
