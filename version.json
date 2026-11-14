@@ -77,14 +77,14 @@
   },
   "hub": {
     "label": "Hub",
-    "code": 52,
+    "code": 53,
     "file": "hub.apk",
-    "sha256": "0b1d246560e3833854e947ff44f1db93f83a89635eb4c2d768d3d20bb9b943a8",
-    "size": 121164,
-    "commit": "0e846f5",
-    "subject": "Every app: New version and No Wi-Fi as small dark pills at the top. Asked: \"Put it at the top not bottom and all apps pls\".",
-    "built": "2026-11-14T14:59:03.443Z",
-    "src": "45be6bae32fee3bbea57acba4b5df3ad295b13e3fa04010008f1585fd126245f"
+    "sha256": "f5f0d7ebd18f9af439fb197d5d74c1446c41ce1f3e84ac343d59dbae2c232fee",
+    "size": 122064,
+    "commit": "2febdba",
+    "subject": "No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: \"Add pls\".",
+    "built": "2026-11-14T16:26:48.403Z",
+    "src": "f1b1df0faadca76d73705a9592870b92eca20075917f85edc3dc3469fc75e667"
   },
   "adblock": {
     "label": "Ad Block",
