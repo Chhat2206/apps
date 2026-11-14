@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 280,
+    "code": 281,
     "file": "stocks.apk",
-    "sha256": "822acc5090c95037e45d13c0b95b78db6bdc4ffced11fd1d2d231868041d2c2d",
-    "size": 8325976,
-    "commit": "09edcfc",
-    "subject": "Ledger: the name list no longer stutters. Past names indexed once, the list drawn once a frame and only when its matches change, no scrolling on every letter; the box rises to the top once when tapped so four names fit over the keyboard. ~70 ms a letter → ~30 ms (6x CPU on the Pi), e2e passes",
-    "built": "2026-11-13T11:40:59.358Z",
-    "src": "558e11a31099d685ddc21412043b0669accc72a24a1a5742c6f9b2cd28c08ec3"
+    "sha256": "c03e1e4ccd062950f5747b1ee78053d588b662b53ef7b021508f3a881f40c14e",
+    "size": 8335224,
+    "commit": "2dbdbab",
+    "subject": "Offline sync: the review's fixes. Appends to one tab take turns inside a process (a save and the outbox sending a kept one at once had picked the same row, the second over the first); a write counts once Google answers 2xx even if reading the answer fails; papa's reads run one after another (an older read had landed on a newer one); every uncertain failure says \"It may have saved: check\" and the page reads again (no answer from the app's own server, an unreadable answer, wrote: true); no Delete on a save that is sending; a kept bill/line that lands without its photo or second write says so; Stocks puts no-internet on Main/Holdings/Received reads on the line too. Test: two appends at once land on two rows in every app (mutant red); e2e and every suite as before.",
+    "built": "2026-11-14T07:39:06.640Z",
+    "src": "e0229dd6978edf7c48c68c37970d114a122245dbccbafbbfbc0eb98d7fd29f97"
   },
   "papa": {
     "label": "Papa's book",
