@@ -77,14 +77,14 @@
   },
   "hub": {
     "label": "Hub",
-    "code": 51,
+    "code": 52,
     "file": "hub.apk",
-    "sha256": "1b76b776daf74bf33cd3823eff4389bd49751e817a52865b88a4cc7f4b1d8c93",
-    "size": 120964,
-    "commit": "0a434bc",
-    "subject": "Ledger: the net worth line is after what is owed, the same as the big figure; a point says when what is owed moved it",
-    "built": "2026-11-10T14:24:07.874Z",
-    "src": "4edc59942dfc1209148164ba1bf73ea2ec532ce58a768972f5c3a158d6cbd9bd"
+    "sha256": "0b1d246560e3833854e947ff44f1db93f83a89635eb4c2d768d3d20bb9b943a8",
+    "size": 121164,
+    "commit": "0e846f5",
+    "subject": "Every app: New version and No Wi-Fi as small dark pills at the top. Asked: \"Put it at the top not bottom and all apps pls\".",
+    "built": "2026-11-14T14:59:03.443Z",
+    "src": "45be6bae32fee3bbea57acba4b5df3ad295b13e3fa04010008f1585fd126245f"
   },
   "adblock": {
     "label": "Ad Block",
