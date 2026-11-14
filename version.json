@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 116,
+    "code": 117,
     "file": "packing.apk",
-    "sha256": "e712354f8e2eb76802391d5211563c0e2ead69273de052ab57481e22929e339c",
-    "size": 892058,
-    "commit": "e73e070",
-    "subject": "Vacation e2e: the voice note's timer counts, with room for a busy Pi",
-    "built": "2026-11-14T20:19:17.796Z",
-    "src": "eb11e15022fbc1c822a9de827516e9fd88a55fd21a5771492c5e33b791f490dd"
+    "sha256": "dd30607ffa7092111ffc788833586669510d0bee43afad280f07bd9586f1f3fc",
+    "size": 892450,
+    "commit": "f794d52",
+    "subject": "Vacation: no ticks on Going; hold a bag in a list to rename or delete it",
+    "built": "2026-11-14T22:39:42.875Z",
+    "src": "a3519a467ae51bd97a8c897aed24035e3dc71f4a06e127aec2c3ed62dba3a73b"
   },
   "control": {
     "label": "Control",
