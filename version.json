@@ -12,14 +12,14 @@
   },
   "papa": {
     "label": "Papa's book",
-    "code": 180,
+    "code": 181,
     "file": "papa.apk",
-    "sha256": "7b7722e811777968e6b3051c5fb6ba0b027489a8a3732815c33c0e9e831c7003",
-    "size": 541137,
-    "commit": "2febdba",
-    "subject": "No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: \"Add pls\".",
-    "built": "2026-11-14T16:29:32.186Z",
-    "src": "f7ffb602e5986f99e5f101b3809cbf6db021cb08f691fadbee331890248e503f"
+    "sha256": "edab4454334ae553c61ebca2d1698ad8c4fef512950e3144c7334a563a8e3248",
+    "size": 541277,
+    "commit": "80805e3",
+    "subject": "No Wi-Fi only where it matters. Asked: \"Only if relevant ofc\".",
+    "built": "2026-11-14T17:18:28.445Z",
+    "src": "e2931b2a56c303503ed09a90f8dd2fca9b0d3382f4834091b47c3bebd5fcb5c8"
   },
   "groceries": {
     "label": "Credit Card",
