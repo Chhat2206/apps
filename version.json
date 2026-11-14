@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 292,
+    "code": 293,
     "file": "stocks.apk",
-    "sha256": "654ec4b0ab017a0b7cfb8b124341b9391c5380b032f74d747efea2979e459419",
-    "size": 8385901,
-    "commit": "2febdba",
-    "subject": "No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: \"Add pls\".",
-    "built": "2026-11-14T16:18:56.615Z",
-    "src": "2fe4d41929e678c7ad7720e0902cdc2847f94985f9b0d95bf554f6d7c1957d25"
+    "sha256": "3077224d8772f1640a6338499be801e0a8e2cf56d88521db1152431acef03bc7",
+    "size": 8386053,
+    "commit": "80805e3",
+    "subject": "No Wi-Fi only where it matters. Asked: \"Only if relevant ofc\".",
+    "built": "2026-11-14T16:59:53.632Z",
+    "src": "75a0308071779d9538e099c22834b986f2242133573ff5f594d8babefa03a2a1"
   },
   "papa": {
     "label": "Papa's book",
