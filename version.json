@@ -165,13 +165,13 @@
   },
   "mumma": {
     "label": "Mumma",
-    "code": 20,
+    "code": 21,
     "file": "mumma.apk",
-    "sha256": "a904b506f908804459c00903cd52b7415d5bb506a703df009cfc47b67c49a861",
-    "size": 239297,
-    "commit": "87c2448",
-    "subject": "Mumma: Lydia's houses can be renamed. Asked: \"for lydia papa wants to be able to edit the house name\". A house's card has Change name above Delete: the box opens with the name, Save renames the house and every Received line naming it (lines keep a house by its name, so its totals follow), another house's name is refused, Undo puts the old name back on all of them; the sheet's Lydia and Lydia houses tabs get the new name. Drive passes; 4 mutants red: lines not following, no refusal, Undo leaving lines, Save adding a house",
-    "built": "2026-11-14T08:16:36.721Z",
-    "src": "a141f221f4376eb3e125735b26929ab3fbe2e2557fff787b4237741b8632345f"
+    "sha256": "0e75513d00626a57c3e5180f549dbdafab71daa5a48d68521a82a5cf4c2f8c86",
+    "size": 239877,
+    "commit": "8f16db3",
+    "subject": "Mumma: Lydia's houses sit above the months, and each month is one row that opens. Asked: \"put the houses on top of november 2026. make a button to see the speadsheet instead of putting it all for the november 2026 or maybe click to open\". Card, buttons, Houses, then each month folded to its name, how many lines and its +฿ net with a chevron; a tap opens its lines, a second folds them; every open starts folded; a line just saved opens its month so papa sees it. Mumma's side unchanged. Drive passes; 4 mutants red: houses under months, never folds, opens unfolded, save leaves its month folded",
+    "built": "2026-11-14T08:38:56.809Z",
+    "src": "1e9c01af35f77f11f334bb04b02fafb99b48bf3764cacbdc2976847eca6a2d4a"
   }
 }
