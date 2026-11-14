@@ -165,13 +165,13 @@
   },
   "mumma": {
     "label": "Mumma",
-    "code": 23,
+    "code": 24,
     "file": "mumma.apk",
-    "sha256": "b7e01c5eb6be47af7b0be3dca2ac70d638308daa1dfbda7282c8c87fd5937d2f",
-    "size": 241189,
-    "commit": "0e846f5",
-    "subject": "Every app: New version and No Wi-Fi as small dark pills at the top. Asked: \"Put it at the top not bottom and all apps pls\".",
-    "built": "2026-11-14T14:59:51.828Z",
-    "src": "8b5f4769b2ba8aaf03cd7f9bd4852d8b3dc27c11e3dcb15e8ea4576da2f7e414"
+    "sha256": "c74239cb8afb1beb0e3a2a3da01a5f2056c4ce27fed32ab9957b7ee7ffcc4f98",
+    "size": 242085,
+    "commit": "2febdba",
+    "subject": "No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: \"Add pls\".",
+    "built": "2026-11-14T16:27:37.380Z",
+    "src": "689e3a449654fef6e0ef492c7d6cfff91c2b1b49bf512a692a28137b93edcc2a"
   }
 }
