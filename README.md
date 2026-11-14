@@ -10,7 +10,7 @@ shows "can't display". After that the app updates itself from here.
 - **Control** — [control.apk](https://chhat2206.github.io/apps/control.apk), build 59, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
 - **Better Deal** — [deal.apk](https://chhat2206.github.io/apps/deal.apk), build 54, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
 - **Credit Card** — [groceries.apk](https://chhat2206.github.io/apps/groceries.apk), build 2, 2026-09-29: Credit Card (groceries): one question per screen, a card schedule, a paid checklist
-- **Hub** — [hub.apk](https://chhat2206.github.io/apps/hub.apk), build 53, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
+- **Hub** — [hub.apk](https://chhat2206.github.io/apps/hub.apk), build 54, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
 - **Mumma** — [mumma.apk](https://chhat2206.github.io/apps/mumma.apk), build 24, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
 - **Work Tracker** — [musu.apk](https://chhat2206.github.io/apps/musu.apk), build 68, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
 - **Vacation** — [packing.apk](https://chhat2206.github.io/apps/packing.apk), build 113, 2026-11-14: Vacation e2e: a bag's name opens its pop-up, its page is a row there; a second check-in asks how many
