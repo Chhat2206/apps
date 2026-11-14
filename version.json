@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 113,
+    "code": 114,
     "file": "packing.apk",
-    "sha256": "69e631c53cf12128e7304ab9f3912c0363dea365815b070676478ee281114461",
-    "size": 888238,
-    "commit": "3796834",
-    "subject": "Vacation e2e: a bag's name opens its pop-up, its page is a row there; a second check-in asks how many",
-    "built": "2026-11-14T16:51:12.006Z",
-    "src": "673dd38889ef2f52b5b482086df9839c8c51a34d6753923a28eeb5616c0dba72"
+    "sha256": "034c74a0d77bf0477152eb8f4f39df518a8a469d981fb7b5b601c6c41ee57d08",
+    "size": 888378,
+    "commit": "80805e3",
+    "subject": "No Wi-Fi only where it matters. Asked: \"Only if relevant ofc\".",
+    "built": "2026-11-14T17:17:11.556Z",
+    "src": "26760242fcfe52ec0f4a3afe0663292cc806923e48f3feb6e5768e047c19afd3"
   },
   "control": {
     "label": "Control",
