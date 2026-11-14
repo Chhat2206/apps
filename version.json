@@ -44,14 +44,14 @@
   },
   "musu": {
     "label": "Work Tracker",
-    "code": 67,
+    "code": 68,
     "file": "musu.apk",
-    "sha256": "3268e6a2f4fdf0062d9dc0c42d8ae459753e63acac682e773dc7998c92df0ace",
-    "size": 195381,
-    "commit": "0e846f5",
-    "subject": "Every app: New version and No Wi-Fi as small dark pills at the top. Asked: \"Put it at the top not bottom and all apps pls\".",
-    "built": "2026-11-14T15:00:29.035Z",
-    "src": "bb054cdb6ceb91940e34298efe9a3040b08d0754703ec9b1f74e2d56faf4dd95"
+    "sha256": "eea55f2bb3ff155a81148a8cc0480e17eedb171824e7036ce488b7ac70b07517",
+    "size": 196281,
+    "commit": "2febdba",
+    "subject": "No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: \"Add pls\".",
+    "built": "2026-11-14T16:28:14.466Z",
+    "src": "b6062b02415a7ae6d7bda5ebafee7c6132157aae335c4c720697fbce6996dfa9"
   },
   "trip-money": {
     "label": "Trip Money",
