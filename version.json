@@ -165,13 +165,13 @@
   },
   "mumma": {
     "label": "Mumma",
-    "code": 24,
+    "code": 25,
     "file": "mumma.apk",
-    "sha256": "c74239cb8afb1beb0e3a2a3da01a5f2056c4ce27fed32ab9957b7ee7ffcc4f98",
-    "size": 242085,
-    "commit": "2febdba",
-    "subject": "No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: \"Add pls\".",
-    "built": "2026-11-14T16:27:37.380Z",
-    "src": "689e3a449654fef6e0ef492c7d6cfff91c2b1b49bf512a692a28137b93edcc2a"
+    "sha256": "8e9c30f57d3686608b05cc5dfe2a02f6a9a9cffd0edbcc7848637574b4a2ae5f",
+    "size": 242225,
+    "commit": "80805e3",
+    "subject": "No Wi-Fi only where it matters. Asked: \"Only if relevant ofc\".",
+    "built": "2026-11-14T17:07:12.207Z",
+    "src": "c77350a8b6b6464c86297083a2f09277600ac14291c73055dc6de8137257c01e"
   }
 }
