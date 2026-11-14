@@ -88,14 +88,14 @@
   },
   "adblock": {
     "label": "Ad Block",
-    "code": 66,
+    "code": 67,
     "file": "adblock.apk",
-    "sha256": "1d66131dbce0d845d3f58b65d3a28e32f3c7e74eee9316e17c4f59e3b3be3a45",
-    "size": 216776,
-    "commit": "2febdba",
-    "subject": "No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: \"Add pls\".",
-    "built": "2026-11-14T16:18:12.769Z",
-    "src": "338b22e542b0da12aa7b5888186b09edb97add9c1846a2adfa51f99910eb4391"
+    "sha256": "4ba4a77fbccb1b1d8c63e7a727a332c109394ecd408ddf8cb3e4105af3be54ff",
+    "size": 217012,
+    "commit": "80805e3",
+    "subject": "No Wi-Fi only where it matters. Asked: \"Only if relevant ofc\".",
+    "built": "2026-11-14T16:59:12.884Z",
+    "src": "e4fd36c2811c005de2624e02bb599941ad1aa8d52a165129a57b9ee9d77c56d1"
   },
   "packing": {
     "label": "Vacation",
