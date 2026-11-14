@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 108,
+    "code": 109,
     "file": "packing.apk",
-    "sha256": "d829629b13d3260450ea97f4394a527ea0f799e43925ce1400d4d065068cde51",
-    "size": 870053,
-    "commit": "e5104a5",
-    "subject": "Vacation: the hotel card's stub counts the days to check-in, then the stars (design A of packing/design/stay-2026-11-11)",
-    "built": "2026-11-11T16:31:09.473Z",
-    "src": "b3844fbdc6fc821379915964547291ec5aea0f183bb5250dd496ad8595b89fe7"
+    "sha256": "5ea996b6a227bef45212002723ca78d6946e561d06a7a8ffdc08d08ab8ce7725",
+    "size": 871149,
+    "commit": "2dbdbab",
+    "subject": "Offline sync: the review's fixes. Appends to one tab take turns inside a process (a save and the outbox sending a kept one at once had picked the same row, the second over the first); a write counts once Google answers 2xx even if reading the answer fails; papa's reads run one after another (an older read had landed on a newer one); every uncertain failure says \"It may have saved: check\" and the page reads again (no answer from the app's own server, an unreadable answer, wrote: true); no Delete on a save that is sending; a kept bill/line that lands without its photo or second write says so; Stocks puts no-internet on Main/Holdings/Received reads on the line too. Test: two appends at once land on two rows in every app (mutant red); e2e and every suite as before.",
+    "built": "2026-11-14T07:58:58.854Z",
+    "src": "5762bba36b826ca502716fe94d68360da36dd300aa29c22b9e08330a613126c3"
   },
   "control": {
     "label": "Control",
