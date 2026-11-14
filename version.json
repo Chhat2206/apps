@@ -154,14 +154,14 @@
   },
   "warranty": {
     "label": "Warranty",
-    "code": 23,
+    "code": 24,
     "file": "warranty.apk",
-    "sha256": "718ce3d25a27114a80e4c0bca39755c609842ee2fbf50d92281a9d04c4198a42",
-    "size": 190711,
-    "commit": "2febdba",
-    "subject": "No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: \"Add pls\".",
-    "built": "2026-11-14T16:32:23.172Z",
-    "src": "bfac824f80fcc69636ec643812bc4b44041f9c6c67edf86c74fed41406c11aa6"
+    "sha256": "cf965ffeed8c2fe4b5a567686a87449a9402b5ee5787b407dfa6762af91027ed",
+    "size": 190847,
+    "commit": "80805e3",
+    "subject": "No Wi-Fi only where it matters. Asked: \"Only if relevant ofc\".",
+    "built": "2026-11-14T17:21:23.635Z",
+    "src": "94f9e5d0aa2280d607fb3a04fa7281b25771876856862401365afa178f3449f0"
   },
   "mumma": {
     "label": "Mumma",
