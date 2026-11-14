@@ -66,14 +66,14 @@
   },
   "collection": {
     "label": "Papa's Collection",
-    "code": 138,
+    "code": 139,
     "file": "collection.apk",
-    "sha256": "e301f6992dbf176e40575954f440e5bdc034c31a099d3e06b1880706533de8cb",
-    "size": 262836,
-    "commit": "87c2448",
-    "subject": "Mumma: Lydia's houses can be renamed. Asked: \"for lydia papa wants to be able to edit the house name\". A house's card has Change name above Delete: the box opens with the name, Save renames the house and every Received line naming it (lines keep a house by its name, so its totals follow), another house's name is refused, Undo puts the old name back on all of them; the sheet's Lydia and Lydia houses tabs get the new name. Drive passes; 4 mutants red: lines not following, no refusal, Undo leaving lines, Save adding a house",
-    "built": "2026-11-14T08:21:41.374Z",
-    "src": "3dc534899f57be3af80798f3d9fa1fc3d2e97abf618a9c10c439b4bd83385482"
+    "sha256": "52d8a33b1f2d4b0c730a2e747868556ff1343a38bd940bf6a51392558c406395",
+    "size": 264352,
+    "commit": "0e846f5",
+    "subject": "Every app: New version and No Wi-Fi as small dark pills at the top. Asked: \"Put it at the top not bottom and all apps pls\".",
+    "built": "2026-11-14T14:54:44.873Z",
+    "src": "9416b5ab4248f426c4f4f4447985c609ce4970727335b302ef612cbfe4bb313c"
   },
   "hub": {
     "label": "Hub",
