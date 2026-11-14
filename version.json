@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 285,
+    "code": 286,
     "file": "stocks.apk",
-    "sha256": "600c20ba1002689dac188b6519c0c515f074c5711a9199a26485d02c7b56adb3",
-    "size": 8352631,
-    "commit": "2130e29",
-    "subject": "Ledger: a line a boss pays back carries his tag. Asked: \"if I connect then in ledger below it should have a Xavier tag or Pravin tag… so I know that my boss has to pay it and it follows the same upcoming\", picked A. An orange \"Xavier\" chip with a briefcase under the line's name on Recent, an account's lines, the full ledger, Earned's month lines and Upcoming, green \"Xavier paid\" with a tick once Paid off is ticked on his Bills tab. Only money out is tagged. Nothing pays itself: the line stays on Upcoming and is paid from the bank as before. e2e (real sheets, saves caught) checks the chip on a real Recent line and the green one on Upcoming; 4 mutants red: no tag on Recent, none on Upcoming, paid never green, money in tagged too.",
-    "built": "2026-11-14T10:30:51.956Z",
-    "src": "95643bdfb46a08ee9f5bc38701771c60afa208f1a082802304cc353fd4403c29"
+    "sha256": "40738bceceb786da6d92d850a33aa45f5dce09b6d3216c671ed46dc9244f0486",
+    "size": 8357875,
+    "commit": "4407bab",
+    "subject": "Ledger: hold a payment or one of his bills to edit or connect it. Asked: \"I wanna be able to hold to edit or connect it to wallet etc cause this flow is confusing\", then \"Do it\" (designs A + B). Hold any line on Recent, an account, the ledger or Upcoming: who pays it back as chips (No one / Xavier / Pravin; a tap adds or takes the row on his Bills tab at once, a paid-back one is refused), Edit, Delete; a tap still opens it. Hold a bill on Xavier's sheet: Edit (name, amount, dollars at its own rate), Connect to a payment (same amount first, Ledger and Upcoming lines, then recent, then paid in cash), Delete (two taps, never a paid-back bill). Each bill says what paid it (\"Central 8273, Upcoming\", \"Kasikorn, 12 Nov\", \"Not connected\"). Links live on a Boss links tab on the Projects sheet, follow an edit and go with the bill. The Pays me back rows inside the line sheets are gone. Tests: mocked writes (link add/replace/remove, edit with dollars and link, remove refusing paid, Pays me back links its line); e2e with real holds on the real sheets, saves caught; 10 mutants red (click after hold opens the line, one tap deletes, No one leaves the bill, hand links ignored, nothing picked first, Upcoming source lost, paid bill deleted, link left behind, Pays me back unlinked, link not following an edit). Stocks suite as before (shadow.test Windows-only).",
+    "built": "2026-11-14T12:01:14.353Z",
+    "src": "e8b58cbb1c0242f7c36c4386ad7bbf0b1b991a7efb1dbbd7c46eb66017c08e9f"
   },
   "papa": {
     "label": "Papa's book",
