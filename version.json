@@ -12,14 +12,14 @@
   },
   "papa": {
     "label": "Papa's book",
-    "code": 179,
+    "code": 180,
     "file": "papa.apk",
-    "sha256": "fb5c915c6f5944613712154ad2b497191e6f38964acd9e4273f97fa456be5d18",
-    "size": 540245,
-    "commit": "0e846f5",
-    "subject": "Every app: New version and No Wi-Fi as small dark pills at the top. Asked: \"Put it at the top not bottom and all apps pls\".",
-    "built": "2026-11-14T15:10:53.207Z",
-    "src": "cb23182157348e14810831121571336f79c4b53deb858c85180f2e85e6883686"
+    "sha256": "7b7722e811777968e6b3051c5fb6ba0b027489a8a3732815c33c0e9e831c7003",
+    "size": 541137,
+    "commit": "2febdba",
+    "subject": "No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: \"Add pls\".",
+    "built": "2026-11-14T16:29:32.186Z",
+    "src": "f7ffb602e5986f99e5f101b3809cbf6db021cb08f691fadbee331890248e503f"
   },
   "groceries": {
     "label": "Credit Card",
