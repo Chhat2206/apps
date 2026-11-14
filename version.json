@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 114,
+    "code": 115,
     "file": "packing.apk",
-    "sha256": "034c74a0d77bf0477152eb8f4f39df518a8a469d981fb7b5b601c6c41ee57d08",
-    "size": 888378,
-    "commit": "80805e3",
-    "subject": "No Wi-Fi only where it matters. Asked: \"Only if relevant ofc\".",
-    "built": "2026-11-14T17:17:11.556Z",
-    "src": "26760242fcfe52ec0f4a3afe0663292cc806923e48f3feb6e5768e047c19afd3"
+    "sha256": "d094bbac5025bf156d8fb7bd85b5fe15a12be4d5f542e9339f522c4e3f14e7f5",
+    "size": 888674,
+    "commit": "d034b22",
+    "subject": "Ledger: Card asks New on a card or Already in the Credit Card app; No Wi-Fi small in the top right of Ledger and Vacation. Asked: \"I accidentally clicked paid today instead of pay via the card… it wasn't clear if it was in the wallet app already or if I'm creating a new thing… confirm, make it obvious… choose yourself\", \"fix the weird line below Philips grooming\", \"just show it in the top right\".",
+    "built": "2026-11-14T19:54:06.625Z",
+    "src": "df83b42e82645437d13ba023aaabc7d8b2bca07202b5e6ae614b19a7ddf1778b"
   },
   "control": {
     "label": "Control",
