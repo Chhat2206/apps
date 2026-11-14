@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 111,
+    "code": 112,
     "file": "packing.apk",
-    "sha256": "4367fd945e4d95b4f078f4d6362131b116bfc0d200c4e7d4aa7acaa2b63f3a0c",
-    "size": 879194,
-    "commit": "e221260",
-    "subject": "Vacation e2e: a phone's Chromium gets five minutes to come up on the Pi, and says why when it does not",
-    "built": "2026-11-14T13:46:34.124Z",
-    "src": "9226290e1283dce986d26276885f8ae70ad70cae8d39d65abc757f9cf7379f72"
+    "sha256": "54b529ca17b36cb4454e7fd4c65793e0ec4df4acbd2bb96904cc05a108ea22d9",
+    "size": 879978,
+    "commit": "0e846f5",
+    "subject": "Every app: New version and No Wi-Fi as small dark pills at the top. Asked: \"Put it at the top not bottom and all apps pls\".",
+    "built": "2026-11-14T15:09:38.636Z",
+    "src": "8237bf6effd5af1773f5c795aede0a220cf5373fde31049662226e39ec0385bc"
   },
   "control": {
     "label": "Control",
