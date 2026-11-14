@@ -55,14 +55,14 @@
   },
   "trip-money": {
     "label": "Trip Money",
-    "code": 45,
+    "code": 46,
     "file": "trip-money.apk",
-    "sha256": "ffd93b4b856606ed1f7811c62eda9aa66498186bad2359eb172e79e21f822236",
-    "size": 153758,
-    "commit": "0e846f5",
-    "subject": "Every app: New version and No Wi-Fi as small dark pills at the top. Asked: \"Put it at the top not bottom and all apps pls\".",
-    "built": "2026-11-14T15:12:55.958Z",
-    "src": "04af4a6bafd362ac4e76b8788a4e16ace6747a4909d460011ca40c95ad1e4bf1"
+    "sha256": "cf1d17ca07bd5348bce0798927ae1f4984bc58539e447ef76b740a8219dec63a",
+    "size": 154658,
+    "commit": "2febdba",
+    "subject": "No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: \"Add pls\".",
+    "built": "2026-11-14T16:31:27.750Z",
+    "src": "04088c1c6d75b93bb2d3b6c0311d58b35faec3cca9b8730b90956c03a672f34b"
   },
   "collection": {
     "label": "Papa's Collection",
