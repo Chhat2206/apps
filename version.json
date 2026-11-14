@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 290,
+    "code": 291,
     "file": "stocks.apk",
-    "sha256": "f880b2c172fcc59c26944eb60863c8e546ab815b6416819a091f5cbc607f14cf",
-    "size": 8386573,
-    "commit": "d0a93f5",
-    "subject": "Ledger: New version and No Wi-Fi as one pill over the bottom bar (design B). Asked: \"Claude design the 'download new version' and 'no WiFi' button for the app\", picked \"B\".",
-    "built": "2026-11-14T14:36:37.847Z",
-    "src": "43b20e6f76da2f01bc8763266b0d139f4afe0b878f130edc1fd4472b792cc0ca"
+    "sha256": "555188ca789d8ab06d9edd10ffa00b4c97fa020b9c06909eff586504d3c60b0d",
+    "size": 8384961,
+    "commit": "0e846f5",
+    "subject": "Every app: New version and No Wi-Fi as small dark pills at the top. Asked: \"Put it at the top not bottom and all apps pls\".",
+    "built": "2026-11-14T14:52:32.859Z",
+    "src": "04ab6ca104b83f81e41bbb0727e59fe1779172970e031a4b3639ae4a64e0ddf6"
   },
   "papa": {
     "label": "Papa's book",
