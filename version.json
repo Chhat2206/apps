@@ -110,14 +110,14 @@
   },
   "control": {
     "label": "Control",
-    "code": 58,
+    "code": 59,
     "file": "control.apk",
-    "sha256": "e7cb30b83ef81c7b03ba0b16ca1128f10f679e60b8218390a7e28f41eead3520",
-    "size": 170319,
-    "commit": "2febdba",
-    "subject": "No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: \"Add pls\".",
-    "built": "2026-11-14T16:23:04.105Z",
-    "src": "e87f4ba84487a2aec646ac404c1ac0a2da1a22b644b5acbb25b58b709b0da4c7"
+    "sha256": "d08280eb7a60acec281298f1982b72834f60bb46cd9a86d4d09321d75f40f7f5",
+    "size": 170463,
+    "commit": "80805e3",
+    "subject": "No Wi-Fi only where it matters. Asked: \"Only if relevant ofc\".",
+    "built": "2026-11-14T17:03:40.577Z",
+    "src": "74fc207eb6be0e524c9dd80dfb693b7ca710575f88ff32366231d48bdf1c4735"
   },
   "deal": {
     "label": "Better Deal",
