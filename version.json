@@ -44,14 +44,14 @@
   },
   "musu": {
     "label": "Work Tracker",
-    "code": 65,
+    "code": 66,
     "file": "musu.apk",
-    "sha256": "f33f342553b82f0dea3092012293ce132c61ef9d2e0ecc332d9cb2479961b005",
-    "size": 194641,
-    "commit": "2dbdbab",
-    "subject": "Offline sync: the review's fixes. Appends to one tab take turns inside a process (a save and the outbox sending a kept one at once had picked the same row, the second over the first); a write counts once Google answers 2xx even if reading the answer fails; papa's reads run one after another (an older read had landed on a newer one); every uncertain failure says \"It may have saved: check\" and the page reads again (no answer from the app's own server, an unreadable answer, wrote: true); no Delete on a save that is sending; a kept bill/line that lands without its photo or second write says so; Stocks puts no-internet on Main/Holdings/Received reads on the line too. Test: two appends at once land on two rows in every app (mutant red); e2e and every suite as before.",
-    "built": "2026-11-14T07:49:24.784Z",
-    "src": "bf091e350653a9f1892c930f74d73558112323d692ba2b4d001ed1dc86bd98bc"
+    "sha256": "060e9b8b7b38728ec114173681550e18893c8bc10822e1c2f7fef5ba649c36ba",
+    "size": 195177,
+    "commit": "87c2448",
+    "subject": "Mumma: Lydia's houses can be renamed. Asked: \"for lydia papa wants to be able to edit the house name\". A house's card has Change name above Delete: the box opens with the name, Save renames the house and every Received line naming it (lines keep a house by its name, so its totals follow), another house's name is refused, Undo puts the old name back on all of them; the sheet's Lydia and Lydia houses tabs get the new name. Drive passes; 4 mutants red: lines not following, no refusal, Undo leaving lines, Save adding a house",
+    "built": "2026-11-14T08:25:39.672Z",
+    "src": "11fccf67346677359b1fdfa9503c2a1a13323471d610381b963d2cf7d77be567"
   },
   "trip-money": {
     "label": "Trip Money",
