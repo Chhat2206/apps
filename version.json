@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 293,
+    "code": 294,
     "file": "stocks.apk",
-    "sha256": "3077224d8772f1640a6338499be801e0a8e2cf56d88521db1152431acef03bc7",
-    "size": 8386053,
-    "commit": "80805e3",
-    "subject": "No Wi-Fi only where it matters. Asked: \"Only if relevant ofc\".",
-    "built": "2026-11-14T16:59:53.632Z",
-    "src": "75a0308071779d9538e099c22834b986f2242133573ff5f594d8babefa03a2a1"
+    "sha256": "6095353a0e2c331267c6d3fb5613fbaa81c733148516507a6e0c77e53c02d06a",
+    "size": 8388717,
+    "commit": "d034b22",
+    "subject": "Ledger: Card asks New on a card or Already in the Credit Card app; No Wi-Fi small in the top right of Ledger and Vacation. Asked: \"I accidentally clicked paid today instead of pay via the card… it wasn't clear if it was in the wallet app already or if I'm creating a new thing… confirm, make it obvious… choose yourself\", \"fix the weird line below Philips grooming\", \"just show it in the top right\".",
+    "built": "2026-11-14T18:48:05.456Z",
+    "src": "c579730b9fe168cacd6620134aa0b5e9f53081a205af02b29a248fef786b75f9"
   },
   "papa": {
     "label": "Papa's book",

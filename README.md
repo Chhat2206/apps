@@ -16,7 +16,7 @@ shows "can't display". After that the app updates itself from here.
 - **Vacation** — [packing.apk](https://chhat2206.github.io/apps/packing.apk), build 114, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
 - **Papa's book** — [papa.apk](https://chhat2206.github.io/apps/papa.apk), build 181, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
 - **Planner** — [planner.apk](https://chhat2206.github.io/apps/planner.apk), build 97, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
-- **Ledger** — [stocks.apk](https://chhat2206.github.io/apps/stocks.apk), build 293, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
+- **Ledger** — [stocks.apk](https://chhat2206.github.io/apps/stocks.apk), build 294, 2026-11-14: Ledger: Card asks New on a card or Already in the Credit Card app; No Wi-Fi small in the top right of Ledger and Vacation. Asked: "I accidentally clicked paid today instead of pay via the card… it wasn't clear if it was in the wallet app already or if I'm creating a new thing… confirm, make it obvious… choose yourself", "fix the weird line below Philips grooming", "just show it in the top right".
 - **Trip Money** — [trip-money.apk](https://chhat2206.github.io/apps/trip-money.apk), build 47, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
 - **Warranty** — [warranty.apk](https://chhat2206.github.io/apps/warranty.apk), build 24, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
 
