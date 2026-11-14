@@ -10,7 +10,7 @@ shows "can't display". After that the app updates itself from here.
 - **Control** — [control.apk](https://chhat2206.github.io/apps/control.apk), build 58, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
 - **Better Deal** — [deal.apk](https://chhat2206.github.io/apps/deal.apk), build 53, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
 - **Credit Card** — [groceries.apk](https://chhat2206.github.io/apps/groceries.apk), build 2, 2026-09-29: Credit Card (groceries): one question per screen, a card schedule, a paid checklist
-- **Hub** — [hub.apk](https://chhat2206.github.io/apps/hub.apk), build 52, 2026-11-14: Every app: New version and No Wi-Fi as small dark pills at the top. Asked: "Put it at the top not bottom and all apps pls".
+- **Hub** — [hub.apk](https://chhat2206.github.io/apps/hub.apk), build 53, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
 - **Mumma** — [mumma.apk](https://chhat2206.github.io/apps/mumma.apk), build 23, 2026-11-14: Every app: New version and No Wi-Fi as small dark pills at the top. Asked: "Put it at the top not bottom and all apps pls".
 - **Work Tracker** — [musu.apk](https://chhat2206.github.io/apps/musu.apk), build 67, 2026-11-14: Every app: New version and No Wi-Fi as small dark pills at the top. Asked: "Put it at the top not bottom and all apps pls".
 - **Vacation** — [packing.apk](https://chhat2206.github.io/apps/packing.apk), build 112, 2026-11-14: Every app: New version and No Wi-Fi as small dark pills at the top. Asked: "Put it at the top not bottom and all apps pls".
