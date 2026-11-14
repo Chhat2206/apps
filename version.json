@@ -110,14 +110,14 @@
   },
   "control": {
     "label": "Control",
-    "code": 56,
+    "code": 57,
     "file": "control.apk",
-    "sha256": "f9dff1cf56bb9e48c4f54f6d61fe4ee0119321527ae5c28f03a56250ef16f136",
-    "size": 169223,
-    "commit": "0a434bc",
-    "subject": "Ledger: the net worth line is after what is owed, the same as the big figure; a point says when what is owed moved it",
-    "built": "2026-11-10T14:21:42.959Z",
-    "src": "3bb1b6f723a6c64ce8faa1137f73c08bb0741fb60b28bed5681d93d0b19d2087"
+    "sha256": "27b5f5ed4a3e6fbc1c02fa450c1c44616c4c2c23f79a4e4d1eab364c5c0aad25",
+    "size": 169423,
+    "commit": "0e846f5",
+    "subject": "Every app: New version and No Wi-Fi as small dark pills at the top. Asked: \"Put it at the top not bottom and all apps pls\".",
+    "built": "2026-11-14T14:56:20.744Z",
+    "src": "c9f1f2a1a280620a1ba671f323b853be3cec3956f96da45139f12c1c975089da"
   },
   "deal": {
     "label": "Better Deal",
