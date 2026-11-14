@@ -6,7 +6,7 @@ shows "can't display". After that the app updates itself from here.
 - **Ad Block** — [adblock.apk](https://chhat2206.github.io/apps/adblock.apk), build 67, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
 - **Birthdays** — [birthdays.apk](https://chhat2206.github.io/apps/birthdays.apk), build 23, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
 - **Credit Card** — [card-tracker.apk](https://chhat2206.github.io/apps/card-tracker.apk), build 98, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
-- **Papa's Collection** — [collection.apk](https://chhat2206.github.io/apps/collection.apk), build 140, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
+- **Papa's Collection** — [collection.apk](https://chhat2206.github.io/apps/collection.apk), build 141, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
 - **Control** — [control.apk](https://chhat2206.github.io/apps/control.apk), build 58, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
 - **Better Deal** — [deal.apk](https://chhat2206.github.io/apps/deal.apk), build 53, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
 - **Credit Card** — [groceries.apk](https://chhat2206.github.io/apps/groceries.apk), build 2, 2026-09-29: Credit Card (groceries): one question per screen, a card schedule, a paid checklist
