@@ -33,14 +33,14 @@
   },
   "card-tracker": {
     "label": "Credit Card",
-    "code": 95,
+    "code": 96,
     "file": "card-tracker.apk",
-    "sha256": "d91966410cbad49d9c8820bced4e2da3280391fd341f0b00318b3e6478550fd0",
-    "size": 246918,
-    "commit": "87c2448",
-    "subject": "Mumma: Lydia's houses can be renamed. Asked: \"for lydia papa wants to be able to edit the house name\". A house's card has Change name above Delete: the box opens with the name, Save renames the house and every Received line naming it (lines keep a house by its name, so its totals follow), another house's name is refused, Undo puts the old name back on all of them; the sheet's Lydia and Lydia houses tabs get the new name. Drive passes; 4 mutants red: lines not following, no refusal, Undo leaving lines, Save adding a house",
-    "built": "2026-11-14T08:19:13.839Z",
-    "src": "908e5916a5f67a27c9e832903dfae21795a2a99d51e69c493394e5311cbb7ff2"
+    "sha256": "7ec062ed7171f1878934fb9221cdc8484b87df0380906e43df99b2bd03f20e24",
+    "size": 248426,
+    "commit": "0e846f5",
+    "subject": "Every app: New version and No Wi-Fi as small dark pills at the top. Asked: \"Put it at the top not bottom and all apps pls\".",
+    "built": "2026-11-14T14:54:00.900Z",
+    "src": "b2475b1881a90a5cde5ee164a3dd5dcf3377870830768e6f4c90f2257461d264"
   },
   "musu": {
     "label": "Work Tracker",
