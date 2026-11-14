@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 94,
+    "code": 95,
     "file": "planner.apk",
-    "sha256": "ccc5165bdb9dd8e5efb714c369d6f074db05a005f8129e21e61b00bfe94e13b1",
-    "size": 413331,
-    "commit": "9ff4b16",
-    "subject": "planner: the month swipe is faster. The weeks follow the finger, a 40px drag or a quick short flick is enough, and the new month comes in right beside the old one going out, both moved in 110-220 ms by the flick's speed (it used to sit still until the finger left, then fade in over 220 ms); a short slow drag goes back. The weeks are touch-action pan-y so Chrome leaves the sideways drag to the page. ‹ › slide in 160 ms. month-scroll + page e2e pass; mutants red: no follow, no flick, no outgoing month, slow",
-    "built": "2026-11-13T11:42:35.617Z",
-    "src": "a6bb651c49a7e5dd8540c5b36b7c3afd363d5197251867e7547eabb60347d03e"
+    "sha256": "5048c671bd5027a801e3adb97413032ab641f9f3ae790616b1acb57885d1dfac",
+    "size": 413527,
+    "commit": "0e846f5",
+    "subject": "Every app: New version and No Wi-Fi as small dark pills at the top. Asked: \"Put it at the top not bottom and all apps pls\".",
+    "built": "2026-11-14T15:12:11.131Z",
+    "src": "70f4a56094e1ae88eb082b663875219991e297ae6f7007dab84dcc6168c73f7a"
   },
   "warranty": {
     "label": "Warranty",
