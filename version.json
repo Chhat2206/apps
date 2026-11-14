@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 294,
+    "code": 295,
     "file": "stocks.apk",
-    "sha256": "6095353a0e2c331267c6d3fb5613fbaa81c733148516507a6e0c77e53c02d06a",
-    "size": 8388717,
-    "commit": "d034b22",
-    "subject": "Ledger: Card asks New on a card or Already in the Credit Card app; No Wi-Fi small in the top right of Ledger and Vacation. Asked: \"I accidentally clicked paid today instead of pay via the card… it wasn't clear if it was in the wallet app already or if I'm creating a new thing… confirm, make it obvious… choose yourself\", \"fix the weird line below Philips grooming\", \"just show it in the top right\".",
-    "built": "2026-11-14T18:48:05.456Z",
-    "src": "c579730b9fe168cacd6620134aa0b5e9f53081a205af02b29a248fef786b75f9"
+    "sha256": "0e0222709651f4542f74179b2d39624f3b0f7b7f7debab6e1dd29c4e98e57b9d",
+    "size": 8391781,
+    "commit": "5d27429",
+    "subject": "Vacation e2e: People is followed by Trip details",
+    "built": "2026-11-14T23:56:49.749Z",
+    "src": "7b24f6ffe4c46854cdf086485d55308aa29a4fd8921b242e9e1db69a20a496cc"
   },
   "papa": {
     "label": "Papa's book",
