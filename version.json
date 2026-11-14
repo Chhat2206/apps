@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 282,
+    "code": 283,
     "file": "stocks.apk",
-    "sha256": "06ad3e89130dab2ffe37fee81d264ccc9316e6c40a22c606390d74187f2b7fcf",
-    "size": 8335788,
-    "commit": "87c2448",
-    "subject": "Mumma: Lydia's houses can be renamed. Asked: \"for lydia papa wants to be able to edit the house name\". A house's card has Change name above Delete: the box opens with the name, Save renames the house and every Received line naming it (lines keep a house by its name, so its totals follow), another house's name is refused, Undo puts the old name back on all of them; the sheet's Lydia and Lydia houses tabs get the new name. Drive passes; 4 mutants red: lines not following, no refusal, Undo leaving lines, Save adding a house",
-    "built": "2026-11-14T08:17:56.622Z",
-    "src": "5ea4c2e3046ee9a1031ce40d42964b423109af7a1233dd04164a5045c91103d6"
+    "sha256": "159359af55e118e5ae5bb19671562f5a1b65700e3609f80b0afae14ae7fe279d",
+    "size": 8337016,
+    "commit": "64d26b9",
+    "subject": "Ledger: bills typed in the Credit Card app go on Upcoming by themselves. Asked: \"i just added 353.10 to the credit card under 8273 it should have syncd immediately\". Only a card purchase saved in Ledger got an Upcoming line; one typed in the Credit Card app showed only under the card's bills. Now every pull (after syncTicks) brings in each bill of mine added from 2026-11-14 on (the sheet's Added column, else its date) at my share: due on the card's due day, from the bank that pays that card, noted card:<bill id> so Pay, Paid and ticks work as for Ledger's own. Never twice: not when a line already names it (card:/part:), an Upcoming line of the same amount is due near it (Cashew's copy), or the new Card bills in tab lists it (a deleted line stays deleted); re-read before writing, as the phone and laptop both pull. The 353.10 on Central 8273 is on Upcoming (17 Dec, Kasikorn). Unit tests; 4 mutants red: brought ignored, Cashew copy ignored, no cut-off, Added not read. Stocks suite as before (shadow.test Windows-only fail).",
+    "built": "2026-11-14T09:31:42.148Z",
+    "src": "ce0d712e38819500f2838fe1d75cf4895bf025f72354d7267827e63632328f0c"
   },
   "papa": {
     "label": "Papa's book",
