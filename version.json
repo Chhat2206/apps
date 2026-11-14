@@ -33,14 +33,14 @@
   },
   "card-tracker": {
     "label": "Credit Card",
-    "code": 97,
+    "code": 98,
     "file": "card-tracker.apk",
-    "sha256": "8e9d44bf303a2601eb45ce422fc178cd54fbd6710a55cc5f531a6a3aac7db0e4",
-    "size": 249326,
-    "commit": "2febdba",
-    "subject": "No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: \"Add pls\".",
-    "built": "2026-11-14T16:20:20.322Z",
-    "src": "f09dec3b03da60826972ab57e201a2e26ba9791d76acdf0cc39516d3783fe12c"
+    "sha256": "e02667926bd9d5113342a99966e77f592eb5cccc1111a77c3aac60d3ed25bb3d",
+    "size": 249458,
+    "commit": "80805e3",
+    "subject": "No Wi-Fi only where it matters. Asked: \"Only if relevant ofc\".",
+    "built": "2026-11-14T17:01:20.661Z",
+    "src": "6f54b027de89a88530909cdf56d61d5379ab825a20cfec28b293c474da7541bd"
   },
   "musu": {
     "label": "Work Tracker",
