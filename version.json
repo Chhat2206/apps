@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 287,
+    "code": 288,
     "file": "stocks.apk",
-    "sha256": "4c4b64b31c05153c130bbdb4096e455d315237a4fe363fbb18390cb7ee52a2f4",
-    "size": 8381925,
-    "commit": "891b7e7",
-    "subject": "Ledger: vacation Home stays design A (the band), picked; the trips e2e prints page errors when it fails",
-    "built": "2026-11-14T13:19:37.182Z",
-    "src": "b067ca197f6b624cda10ab4a47c8473fa05d8e84803f2e9c06da7c5e8406ea2a"
+    "sha256": "7d6e5bca17a1405c71b9dbe15b4ccb8189f7b7be0264ca919780478f7b353f82",
+    "size": 8382785,
+    "commit": "7155356",
+    "subject": "Ledger: a held bill on the boss sheet is its own sheet, sheets no longer slide up again, Connect lists Upcoming. Asked: \"Connect to a payment should also include upcoming. Holding a 'boss pays back' has a weird ui that pops over on top so please fix animation wise it feels inconsistant\". Holding a bill on Xavier's sheet now opens a sheet laid out like a held payment (name, what paid it, amount, then Edit / Connect to a payment / Delete) in place of the box over his list; a tap outside goes one step back (Connect, the bill, his list). An open sheet never replays its slide from the bottom: a redraw (tick, pick) stays still with its scroll kept, a different sheet in its place keeps the sheet where it is while its contents rise in. Connect lists every Upcoming line, soonest first (6, then N more), between Same amount and Recent. Name editing on an Upcoming line: directions A/B/C in stocks/design/due-name-2026-11-14, not picked. e2e on the real sheets (saves caught) PASS; 6 mutants red on their assertions (no Upcoming, latest first, slide replayed, redraw rising, box over the list, outside closing everything).",
+    "built": "2026-11-14T13:37:40.618Z",
+    "src": "9d11731e2211101410e866eb58d64d387ba3465f6fb6eb1f0e50f4a52a5ce600"
   },
   "papa": {
     "label": "Papa's book",
