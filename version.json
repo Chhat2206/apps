@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 110,
+    "code": 111,
     "file": "packing.apk",
-    "sha256": "07cd4662f8e2263fbccca391f99609993a6af5a8ff315cf99943d01a8755dc98",
-    "size": 871685,
-    "commit": "8f16db3",
-    "subject": "Mumma: Lydia's houses sit above the months, and each month is one row that opens. Asked: \"put the houses on top of november 2026. make a button to see the speadsheet instead of putting it all for the november 2026 or maybe click to open\". Card, buttons, Houses, then each month folded to its name, how many lines and its +฿ net with a chevron; a tap opens its lines, a second folds them; every open starts folded; a line just saved opens its month so papa sees it. Mumma's side unchanged. Drive passes; 4 mutants red: houses under months, never folds, opens unfolded, save leaves its month folded",
-    "built": "2026-11-14T08:35:06.221Z",
-    "src": "ace904b1deb0ab0d7b08848c51472f3e3c0dd996a3020b79ade2e3ad9a80bf6c"
+    "sha256": "4367fd945e4d95b4f078f4d6362131b116bfc0d200c4e7d4aa7acaa2b63f3a0c",
+    "size": 879194,
+    "commit": "e221260",
+    "subject": "Vacation e2e: a phone's Chromium gets five minutes to come up on the Pi, and says why when it does not",
+    "built": "2026-11-14T13:46:34.124Z",
+    "src": "9226290e1283dce986d26276885f8ae70ad70cae8d39d65abc757f9cf7379f72"
   },
   "control": {
     "label": "Control",
