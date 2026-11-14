@@ -14,7 +14,7 @@ shows "can't display". After that the app updates itself from here.
 - **Mumma** — [mumma.apk](https://chhat2206.github.io/apps/mumma.apk), build 24, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
 - **Work Tracker** — [musu.apk](https://chhat2206.github.io/apps/musu.apk), build 68, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
 - **Vacation** — [packing.apk](https://chhat2206.github.io/apps/packing.apk), build 112, 2026-11-14: Every app: New version and No Wi-Fi as small dark pills at the top. Asked: "Put it at the top not bottom and all apps pls".
-- **Papa's book** — [papa.apk](https://chhat2206.github.io/apps/papa.apk), build 179, 2026-11-14: Every app: New version and No Wi-Fi as small dark pills at the top. Asked: "Put it at the top not bottom and all apps pls".
+- **Papa's book** — [papa.apk](https://chhat2206.github.io/apps/papa.apk), build 180, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
 - **Planner** — [planner.apk](https://chhat2206.github.io/apps/planner.apk), build 95, 2026-11-14: Every app: New version and No Wi-Fi as small dark pills at the top. Asked: "Put it at the top not bottom and all apps pls".
 - **Ledger** — [stocks.apk](https://chhat2206.github.io/apps/stocks.apk), build 292, 2026-11-14: No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: "Add pls".
 - **Trip Money** — [trip-money.apk](https://chhat2206.github.io/apps/trip-money.apk), build 45, 2026-11-14: Every app: New version and No Wi-Fi as small dark pills at the top. Asked: "Put it at the top not bottom and all apps pls".
