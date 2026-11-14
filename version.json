@@ -121,14 +121,14 @@
   },
   "deal": {
     "label": "Better Deal",
-    "code": 52,
+    "code": 53,
     "file": "deal.apk",
-    "sha256": "721459a86eb604d3a70dcf086b24aecf766794a7ce1cbcebf02225a0834aea5f",
-    "size": 14987695,
-    "commit": "0e846f5",
-    "subject": "Every app: New version and No Wi-Fi as small dark pills at the top. Asked: \"Put it at the top not bottom and all apps pls\".",
-    "built": "2026-11-14T14:58:11.415Z",
-    "src": "bba282f7b7f7ac8c7a60805c39585a119bd3805fde5c83886c047e09e6b74cae"
+    "sha256": "587f4b06325ae578bbd6746df53c0c236e5388c9d0c6ffceb3cb819b9943ca08",
+    "size": 14988595,
+    "commit": "2febdba",
+    "subject": "No Wi-Fi pill in Planner, Control, Hub, Ad Block, Better Deal and Work Tracker. Asked: \"Add pls\".",
+    "built": "2026-11-14T16:25:34.357Z",
+    "src": "f9ac52049be001796e3d72e9029e068df8982ea84d7b589c8c1e0dbbe2a40240"
   },
   "birthdays": {
     "label": "Birthdays",
