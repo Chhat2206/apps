@@ -121,14 +121,14 @@
   },
   "deal": {
     "label": "Better Deal",
-    "code": 55,
+    "code": 56,
     "file": "deal.apk",
-    "sha256": "343098a34aba0ba3a19a78439de8fe5b2fec8c6e29a0e707dc91373aa3a70103",
-    "size": 14991071,
-    "commit": "5d27429",
-    "subject": "Vacation e2e: People is followed by Trip details",
-    "built": "2026-11-15T00:03:58.076Z",
-    "src": "7e62e6576163ae5ae0072213cf967bf6f4784908300ce948ced3c8f35684e287"
+    "sha256": "ea04b955acfafd0c16d7c9a731421bfbf8bc3b3a4c09ddb6ae534dfce292b957",
+    "size": 14992527,
+    "commit": "cb5e380",
+    "subject": "Phone apps: the update band (design A) and updates going in by themselves while the app is open",
+    "built": "2026-11-15T05:01:08.210Z",
+    "src": "777f1ce7db029aff94593705d189912c3e63a7a1a94310d02ab61232a799be45"
   },
   "birthdays": {
     "label": "Birthdays",
