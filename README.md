@@ -12,7 +12,7 @@ shows "can't display". After that the app updates itself from here.
 - **Credit Card** — [groceries.apk](https://chhat2206.github.io/apps/groceries.apk), build 2, 2026-09-29: Credit Card (groceries): one question per screen, a card schedule, a paid checklist
 - **Hub** — [hub.apk](https://chhat2206.github.io/apps/hub.apk), build 56, 2026-11-15: Phone apps: the update band (design A) and updates going in by themselves while the app is open
 - **Mumma** — [mumma.apk](https://chhat2206.github.io/apps/mumma.apk), build 27, 2026-11-15: Phone apps: the update band (design A) and updates going in by themselves while the app is open
-- **Work Tracker** — [musu.apk](https://chhat2206.github.io/apps/musu.apk), build 70, 2026-11-15: Vacation e2e: People is followed by Trip details
+- **Work Tracker** — [musu.apk](https://chhat2206.github.io/apps/musu.apk), build 71, 2026-11-15: Phone apps: the update band (design A) and updates going in by themselves while the app is open
 - **Vacation** — [packing.apk](https://chhat2206.github.io/apps/packing.apk), build 119, 2026-11-15: Vacation e2e: People is followed by Trip details
 - **Papa's book** — [papa.apk](https://chhat2206.github.io/apps/papa.apk), build 182, 2026-11-15: Vacation e2e: People is followed by Trip details
 - **Planner** — [planner.apk](https://chhat2206.github.io/apps/planner.apk), build 99, 2026-11-15: Vacation e2e: People is followed by Trip details

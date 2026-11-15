@@ -44,14 +44,14 @@
   },
   "musu": {
     "label": "Work Tracker",
-    "code": 70,
+    "code": 71,
     "file": "musu.apk",
-    "sha256": "c2d840c12e1c53722146cf4f149f50f0a4369d233ff0137a797d9b2296f3b0bf",
-    "size": 198481,
-    "commit": "5d27429",
-    "subject": "Vacation e2e: People is followed by Trip details",
-    "built": "2026-11-15T00:06:23.793Z",
-    "src": "aac050b633c0e582c3d19e5fe5a96efdcd21ebcc88b62d5b7e826dc23edb7d58"
+    "sha256": "06289a3838660e9352db54ed596d81f9e40d6242b2db5e34916e6a2a4d9f20b1",
+    "size": 199937,
+    "commit": "cb5e380",
+    "subject": "Phone apps: the update band (design A) and updates going in by themselves while the app is open",
+    "built": "2026-11-15T05:03:20.471Z",
+    "src": "3378c2982c904b4ac0b32c63bf877b38b23e71b252dd9bc93e5ce09e186495d8"
   },
   "trip-money": {
     "label": "Trip Money",
