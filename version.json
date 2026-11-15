@@ -165,13 +165,13 @@
   },
   "mumma": {
     "label": "Mumma",
-    "code": 26,
+    "code": 27,
     "file": "mumma.apk",
-    "sha256": "98bdc658739e2ac489e16626b4425ee0a501f64e742f99b5d3c0dc8f22bc29b5",
-    "size": 244461,
-    "commit": "5d27429",
-    "subject": "Vacation e2e: People is followed by Trip details",
-    "built": "2026-11-15T00:05:44.950Z",
-    "src": "cf9243e5fdb5893667c6c9a4a7b03935872e83d5a4cda7debbdb061247c33ceb"
+    "sha256": "c0d80317b873a9bd13cc1c23f86e581e6285403aae290ccab912689a9cdb27b4",
+    "size": 245909,
+    "commit": "cb5e380",
+    "subject": "Phone apps: the update band (design A) and updates going in by themselves while the app is open",
+    "built": "2026-11-15T05:02:44.839Z",
+    "src": "f79b362897d6ed4d4db472077bbdfeb5a754f13a29f84503dcd4f470de58a16f"
   }
 }
