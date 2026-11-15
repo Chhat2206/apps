@@ -12,14 +12,14 @@
   },
   "papa": {
     "label": "Papa's book",
-    "code": 181,
+    "code": 182,
     "file": "papa.apk",
-    "sha256": "edab4454334ae553c61ebca2d1698ad8c4fef512950e3144c7334a563a8e3248",
-    "size": 541277,
-    "commit": "80805e3",
-    "subject": "No Wi-Fi only where it matters. Asked: \"Only if relevant ofc\".",
-    "built": "2026-11-14T17:18:28.445Z",
-    "src": "e2931b2a56c303503ed09a90f8dd2fca9b0d3382f4834091b47c3bebd5fcb5c8"
+    "sha256": "0a8b2769ea62641ed0f0f4f393003b6e83ed41be34d5eb1cf46b30f77f41e063",
+    "size": 545069,
+    "commit": "5d27429",
+    "subject": "Vacation e2e: People is followed by Trip details",
+    "built": "2026-11-15T00:17:06.108Z",
+    "src": "595338bf579c4d62ee1e72df7f7997c53895c6755dfcd50617d6e15046d5340b"
   },
   "groceries": {
     "label": "Credit Card",

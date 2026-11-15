@@ -14,7 +14,7 @@ shows "can't display". After that the app updates itself from here.
 - **Mumma** — [mumma.apk](https://chhat2206.github.io/apps/mumma.apk), build 26, 2026-11-15: Vacation e2e: People is followed by Trip details
 - **Work Tracker** — [musu.apk](https://chhat2206.github.io/apps/musu.apk), build 70, 2026-11-15: Vacation e2e: People is followed by Trip details
 - **Vacation** — [packing.apk](https://chhat2206.github.io/apps/packing.apk), build 119, 2026-11-15: Vacation e2e: People is followed by Trip details
-- **Papa's book** — [papa.apk](https://chhat2206.github.io/apps/papa.apk), build 181, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
+- **Papa's book** — [papa.apk](https://chhat2206.github.io/apps/papa.apk), build 182, 2026-11-15: Vacation e2e: People is followed by Trip details
 - **Planner** — [planner.apk](https://chhat2206.github.io/apps/planner.apk), build 98, 2026-11-14: planner: a birthday repeats every year by itself. Its name typed sets Repeat to Every year, one saved before with no repeat opens and saves as Every year, a repeat picked by hand stays; the form's calendar row says "Planner's own, in the Birthdays sheet". page e2e + month-scroll pass; mutants red: no Every year on opening, a hand-picked repeat overwritten, no Every year on save. Asked: "Bday should auto do yearly please and the 'my calander' should say which calendar it uses".
 - **Ledger** — [stocks.apk](https://chhat2206.github.io/apps/stocks.apk), build 295, 2026-11-14: Vacation e2e: People is followed by Trip details
 - **Trip Money** — [trip-money.apk](https://chhat2206.github.io/apps/trip-money.apk), build 47, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
