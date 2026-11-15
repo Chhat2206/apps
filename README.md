@@ -17,7 +17,7 @@ shows "can't display". After that the app updates itself from here.
 - **Papa's book** — [papa.apk](https://chhat2206.github.io/apps/papa.apk), build 183, 2026-11-15: Phone apps: the update band (design A) and updates going in by themselves while the app is open
 - **Planner** — [planner.apk](https://chhat2206.github.io/apps/planner.apk), build 100, 2026-11-15: Phone apps: the update band (design A) and updates going in by themselves while the app is open
 - **Ledger** — [stocks.apk](https://chhat2206.github.io/apps/stocks.apk), build 302, 2026-11-15: Phone apps: the update band (design A) and updates going in by themselves while the app is open
-- **Trip Money** — [trip-money.apk](https://chhat2206.github.io/apps/trip-money.apk), build 48, 2026-11-15: Vacation e2e: People is followed by Trip details
+- **Trip Money** — [trip-money.apk](https://chhat2206.github.io/apps/trip-money.apk), build 49, 2026-11-15: Phone apps: the update band (design A) and updates going in by themselves while the app is open
 - **Warranty** — [warranty.apk](https://chhat2206.github.io/apps/warranty.apk), build 25, 2026-11-15: Vacation e2e: People is followed by Trip details
 
 Written by CI. Nothing here is edited by hand, and every publish replaces the whole history.

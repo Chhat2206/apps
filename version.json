@@ -55,14 +55,14 @@
   },
   "trip-money": {
     "label": "Trip Money",
-    "code": 48,
+    "code": 49,
     "file": "trip-money.apk",
-    "sha256": "f56d7a888c5f765cfd8e0739d53d557915af379d056851677fc4ab2294801d1d",
-    "size": 156930,
-    "commit": "5d27429",
-    "subject": "Vacation e2e: People is followed by Trip details",
-    "built": "2026-11-15T00:19:12.106Z",
-    "src": "40e6c85cf205cfa9ac9c1f3874538ce1883376579e72c6386263199db49d431f"
+    "sha256": "236f0cceff79374dc9c81918e8eeaf34c1499d804d0e5587c700a1c0eed17ac7",
+    "size": 158382,
+    "commit": "cb5e380",
+    "subject": "Phone apps: the update band (design A) and updates going in by themselves while the app is open",
+    "built": "2026-11-15T05:15:25.219Z",
+    "src": "6eddc66938d5313c183e0137a8bae59c010f0b90d88a43623ecfb86222f6342c"
   },
   "collection": {
     "label": "Papa's Collection",
