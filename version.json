@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 300,
+    "code": 301,
     "file": "stocks.apk",
-    "sha256": "0618ae1d55debb1262357fd22b858837f55712a1f6133881896ecde5accb3265",
-    "size": 8397765,
-    "commit": "b13dc85",
-    "subject": "Ledger Add: the card's row and For are design C (no Card word so New bill fits; Family | Others tabs of rounds)",
-    "built": "2026-11-15T04:37:33.588Z",
-    "src": "4a65637a070a758d13a6ac2d1857625dfd3d8757cfceb7c4e556fd3fc086f015"
+    "sha256": "36283753ab389d66cdcae4c81d4ed0c45232ea424a30e41b035029929117a96e",
+    "size": 8398461,
+    "commit": "71f51de",
+    "subject": "Ledger Add: the trip picker is a row a trip, grouped and in order, Now and a tick (Claude's pick)",
+    "built": "2026-11-15T04:41:54.939Z",
+    "src": "22b3be0d83115b07984af2de029ac864ecb2e79c8774a24fa0d6e18d5dc88de3"
   },
   "papa": {
     "label": "Papa's book",
