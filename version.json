@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 99,
+    "code": 100,
     "file": "planner.apk",
-    "sha256": "322fe5ade6fc073c9f02f67197ad15305992271d56e0513391ff3b85e86fc891",
-    "size": 416911,
-    "commit": "5d27429",
-    "subject": "Vacation e2e: People is followed by Trip details",
-    "built": "2026-11-15T00:18:28.273Z",
-    "src": "3ad30bb5dce037784a6dd71506356a6000f0cc1f66bf238bffd00af4bcd3f41a"
+    "sha256": "4c6b2ec52f9c5c6a4af9c3571ca6f0526a3bf5db40b49984a3d345c2939dfeb7",
+    "size": 418519,
+    "commit": "cb5e380",
+    "subject": "Phone apps: the update band (design A) and updates going in by themselves while the app is open",
+    "built": "2026-11-15T05:14:43.029Z",
+    "src": "8e824d761a28b02473886904b9117d2c8a4980d4be924bffc30f750caf77451a"
   },
   "warranty": {
     "label": "Warranty",
