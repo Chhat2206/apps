@@ -44,14 +44,14 @@
   },
   "musu": {
     "label": "Work Tracker",
-    "code": 69,
+    "code": 70,
     "file": "musu.apk",
-    "sha256": "29a978770d189e2b2ead9dac80f2ec56f203d27cd0d43e460216a2a8baa229f0",
-    "size": 196413,
-    "commit": "80805e3",
-    "subject": "No Wi-Fi only where it matters. Asked: \"Only if relevant ofc\".",
-    "built": "2026-11-14T17:07:48.844Z",
-    "src": "45d63ffb6d020d7163c5cc9c818eecede2537fc02d4af4868c760baf8648753e"
+    "sha256": "c2d840c12e1c53722146cf4f149f50f0a4369d233ff0137a797d9b2296f3b0bf",
+    "size": 198481,
+    "commit": "5d27429",
+    "subject": "Vacation e2e: People is followed by Trip details",
+    "built": "2026-11-15T00:06:23.793Z",
+    "src": "aac050b633c0e582c3d19e5fe5a96efdcd21ebcc88b62d5b7e826dc23edb7d58"
   },
   "trip-money": {
     "label": "Trip Money",
