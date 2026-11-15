@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 299,
+    "code": 300,
     "file": "stocks.apk",
-    "sha256": "ec7a78071899595e39eac2f097f669bbe93a85487b2833561fee14a03e9b7c5a",
-    "size": 8396773,
-    "commit": "870d798",
-    "subject": "Ledger Add: Done slides the number keys away and the day and Add rise back; Someone else's + is drawn (it had no stroke)",
-    "built": "2026-11-15T04:32:06.604Z",
-    "src": "075518fc6e32af5d08995728f1fddb6fabb57af888587ca3e768b76666fe702d"
+    "sha256": "0618ae1d55debb1262357fd22b858837f55712a1f6133881896ecde5accb3265",
+    "size": 8397765,
+    "commit": "b13dc85",
+    "subject": "Ledger Add: the card's row and For are design C (no Card word so New bill fits; Family | Others tabs of rounds)",
+    "built": "2026-11-15T04:37:33.588Z",
+    "src": "4a65637a070a758d13a6ac2d1857625dfd3d8757cfceb7c4e556fd3fc086f015"
   },
   "papa": {
     "label": "Papa's book",

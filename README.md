@@ -16,7 +16,7 @@ shows "can't display". After that the app updates itself from here.
 - **Vacation** — [packing.apk](https://chhat2206.github.io/apps/packing.apk), build 119, 2026-11-15: Vacation e2e: People is followed by Trip details
 - **Papa's book** — [papa.apk](https://chhat2206.github.io/apps/papa.apk), build 182, 2026-11-15: Vacation e2e: People is followed by Trip details
 - **Planner** — [planner.apk](https://chhat2206.github.io/apps/planner.apk), build 99, 2026-11-15: Vacation e2e: People is followed by Trip details
-- **Ledger** — [stocks.apk](https://chhat2206.github.io/apps/stocks.apk), build 299, 2026-11-15: Ledger Add: Done slides the number keys away and the day and Add rise back; Someone else's + is drawn (it had no stroke)
+- **Ledger** — [stocks.apk](https://chhat2206.github.io/apps/stocks.apk), build 300, 2026-11-15: Ledger Add: the card's row and For are design C (no Card word so New bill fits; Family | Others tabs of rounds)
 - **Trip Money** — [trip-money.apk](https://chhat2206.github.io/apps/trip-money.apk), build 48, 2026-11-15: Vacation e2e: People is followed by Trip details
 - **Warranty** — [warranty.apk](https://chhat2206.github.io/apps/warranty.apk), build 25, 2026-11-15: Vacation e2e: People is followed by Trip details
 
