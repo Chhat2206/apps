@@ -121,14 +121,14 @@
   },
   "deal": {
     "label": "Better Deal",
-    "code": 54,
+    "code": 55,
     "file": "deal.apk",
-    "sha256": "081ed72a71f5ed49572b3023aed3b3749d59d752d2f74b619a4585f6a1965532",
-    "size": 14988851,
-    "commit": "80805e3",
-    "subject": "No Wi-Fi only where it matters. Asked: \"Only if relevant ofc\".",
-    "built": "2026-11-14T17:05:27.023Z",
-    "src": "bb74867aef837c982a1d0fd12a528db32a5abffefac9325687d1e48fe04dec5b"
+    "sha256": "343098a34aba0ba3a19a78439de8fe5b2fec8c6e29a0e707dc91373aa3a70103",
+    "size": 14991071,
+    "commit": "5d27429",
+    "subject": "Vacation e2e: People is followed by Trip details",
+    "built": "2026-11-15T00:03:58.076Z",
+    "src": "7e62e6576163ae5ae0072213cf967bf6f4784908300ce948ced3c8f35684e287"
   },
   "birthdays": {
     "label": "Birthdays",
