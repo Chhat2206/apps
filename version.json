@@ -154,14 +154,14 @@
   },
   "warranty": {
     "label": "Warranty",
-    "code": 25,
+    "code": 26,
     "file": "warranty.apk",
-    "sha256": "38d3ebb7f10f3b1f4afb5c3c8a7b6a62db8e1e9e0c1b871b11d9510732ab0178",
-    "size": 193015,
-    "commit": "5d27429",
-    "subject": "Vacation e2e: People is followed by Trip details",
-    "built": "2026-11-15T00:20:08.459Z",
-    "src": "b971d6dc16f5aa22fff0f77cd27e753ef741bae620a163c56dcca8e1249c3132"
+    "sha256": "983fc07360c9ddf8f583d8a566a83f4038b1b6fd872ab5b5dff80a16b3f1be75",
+    "size": 194471,
+    "commit": "cb5e380",
+    "subject": "Phone apps: the update band (design A) and updates going in by themselves while the app is open",
+    "built": "2026-11-15T05:16:21.185Z",
+    "src": "7bddf9d2aa138482b2b33890d6af02fdf7a5dc144626e87a02424ece50cf9938"
   },
   "mumma": {
     "label": "Mumma",
