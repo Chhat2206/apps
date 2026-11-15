@@ -88,14 +88,14 @@
   },
   "adblock": {
     "label": "Ad Block",
-    "code": 68,
+    "code": 69,
     "file": "adblock.apk",
-    "sha256": "a9dbc61b9a6edaa2a008a0424a4683d483c77bd8631d5ae851395d8cf7528c04",
-    "size": 219068,
-    "commit": "5d27429",
-    "subject": "Vacation e2e: People is followed by Trip details",
-    "built": "2026-11-14T23:55:57.848Z",
-    "src": "d55e59ba80170c874fdad0b4ac2293dadf71453d2a2c60a298915930e9896995"
+    "sha256": "ab247df9091504c365049507c9b7631d32e439d462bcb6837aa3365bf38186d2",
+    "size": 220524,
+    "commit": "cb5e380",
+    "subject": "Phone apps: the update band (design A) and updates going in by themselves while the app is open",
+    "built": "2026-11-15T04:55:10.710Z",
+    "src": "5696d5b8c5d8753d90a71fcaedbb793ef61d12230b3e127252568298ad3b0e81"
   },
   "packing": {
     "label": "Vacation",
