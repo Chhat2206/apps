@@ -6,7 +6,7 @@ shows "can't display". After that the app updates itself from here.
 - **Ad Block** — [adblock.apk](https://chhat2206.github.io/apps/adblock.apk), build 69, 2026-11-15: Phone apps: the update band (design A) and updates going in by themselves while the app is open
 - **Birthdays** — [birthdays.apk](https://chhat2206.github.io/apps/birthdays.apk), build 25, 2026-11-15: Phone apps: the update band (design A) and updates going in by themselves while the app is open
 - **Credit Card** — [card-tracker.apk](https://chhat2206.github.io/apps/card-tracker.apk), build 100, 2026-11-15: Phone apps: the update band (design A) and updates going in by themselves while the app is open
-- **Papa's Collection** — [collection.apk](https://chhat2206.github.io/apps/collection.apk), build 142, 2026-11-14: Vacation e2e: People is followed by Trip details
+- **Papa's Collection** — [collection.apk](https://chhat2206.github.io/apps/collection.apk), build 143, 2026-11-15: Phone apps: the update band (design A) and updates going in by themselves while the app is open
 - **Control** — [control.apk](https://chhat2206.github.io/apps/control.apk), build 60, 2026-11-15: Vacation e2e: People is followed by Trip details
 - **Better Deal** — [deal.apk](https://chhat2206.github.io/apps/deal.apk), build 55, 2026-11-15: Vacation e2e: People is followed by Trip details
 - **Credit Card** — [groceries.apk](https://chhat2206.github.io/apps/groceries.apk), build 2, 2026-09-29: Credit Card (groceries): one question per screen, a card schedule, a paid checklist
