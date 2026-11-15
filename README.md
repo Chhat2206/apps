@@ -17,7 +17,7 @@ shows "can't display". After that the app updates itself from here.
 - **Papa's book** — [papa.apk](https://chhat2206.github.io/apps/papa.apk), build 182, 2026-11-15: Vacation e2e: People is followed by Trip details
 - **Planner** — [planner.apk](https://chhat2206.github.io/apps/planner.apk), build 99, 2026-11-15: Vacation e2e: People is followed by Trip details
 - **Ledger** — [stocks.apk](https://chhat2206.github.io/apps/stocks.apk), build 295, 2026-11-14: Vacation e2e: People is followed by Trip details
-- **Trip Money** — [trip-money.apk](https://chhat2206.github.io/apps/trip-money.apk), build 47, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
+- **Trip Money** — [trip-money.apk](https://chhat2206.github.io/apps/trip-money.apk), build 48, 2026-11-15: Vacation e2e: People is followed by Trip details
 - **Warranty** — [warranty.apk](https://chhat2206.github.io/apps/warranty.apk), build 24, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
 
 Written by CI. Nothing here is edited by hand, and every publish replaces the whole history.

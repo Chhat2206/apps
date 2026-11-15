@@ -55,14 +55,14 @@
   },
   "trip-money": {
     "label": "Trip Money",
-    "code": 47,
+    "code": 48,
     "file": "trip-money.apk",
-    "sha256": "dbffd814ac56eb9c1c560ebf1d5992e7d96f94b685d6fd16b42325cbebf52997",
-    "size": 154794,
-    "commit": "80805e3",
-    "subject": "No Wi-Fi only where it matters. Asked: \"Only if relevant ofc\".",
-    "built": "2026-11-14T17:20:29.004Z",
-    "src": "572d8040a44fed2ebf7904bca04254ced83009a0f2422e688b4aeefad7577a07"
+    "sha256": "f56d7a888c5f765cfd8e0739d53d557915af379d056851677fc4ab2294801d1d",
+    "size": 156930,
+    "commit": "5d27429",
+    "subject": "Vacation e2e: People is followed by Trip details",
+    "built": "2026-11-15T00:19:12.106Z",
+    "src": "40e6c85cf205cfa9ac9c1f3874538ce1883376579e72c6386263199db49d431f"
   },
   "collection": {
     "label": "Papa's Collection",
