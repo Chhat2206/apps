@@ -10,7 +10,7 @@ shows "can't display". After that the app updates itself from here.
 - **Control** — [control.apk](https://chhat2206.github.io/apps/control.apk), build 61, 2026-11-15: Phone apps: the update band (design A) and updates going in by themselves while the app is open
 - **Better Deal** — [deal.apk](https://chhat2206.github.io/apps/deal.apk), build 56, 2026-11-15: Phone apps: the update band (design A) and updates going in by themselves while the app is open
 - **Credit Card** — [groceries.apk](https://chhat2206.github.io/apps/groceries.apk), build 2, 2026-09-29: Credit Card (groceries): one question per screen, a card schedule, a paid checklist
-- **Hub** — [hub.apk](https://chhat2206.github.io/apps/hub.apk), build 55, 2026-11-15: Vacation e2e: People is followed by Trip details
+- **Hub** — [hub.apk](https://chhat2206.github.io/apps/hub.apk), build 56, 2026-11-15: Phone apps: the update band (design A) and updates going in by themselves while the app is open
 - **Mumma** — [mumma.apk](https://chhat2206.github.io/apps/mumma.apk), build 26, 2026-11-15: Vacation e2e: People is followed by Trip details
 - **Work Tracker** — [musu.apk](https://chhat2206.github.io/apps/musu.apk), build 70, 2026-11-15: Vacation e2e: People is followed by Trip details
 - **Vacation** — [packing.apk](https://chhat2206.github.io/apps/packing.apk), build 119, 2026-11-15: Vacation e2e: People is followed by Trip details
