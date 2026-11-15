@@ -110,14 +110,14 @@
   },
   "control": {
     "label": "Control",
-    "code": 60,
+    "code": 61,
     "file": "control.apk",
-    "sha256": "287403014b7be8d66fa6a8e2a1628f7ebc9a52f8b0e08564fe36ff43e0ee8bea",
-    "size": 172515,
-    "commit": "5d27429",
-    "subject": "Vacation e2e: People is followed by Trip details",
-    "built": "2026-11-15T00:01:35.036Z",
-    "src": "b72a76f10d194ea6ff02560d4dadb1207a9bf3dcec61c72d8bb6c5b9da70df53"
+    "sha256": "bce83cb76bdfa4e95d14dcdcc59d18e70211513469feed74b48a7fd7a332fbe3",
+    "size": 173967,
+    "commit": "cb5e380",
+    "subject": "Phone apps: the update band (design A) and updates going in by themselves while the app is open",
+    "built": "2026-11-15T04:59:24.012Z",
+    "src": "17b539304bd090e1946cbecc9a62e0a497511f6056ab31b7801eb91269bf627a"
   },
   "deal": {
     "label": "Better Deal",
