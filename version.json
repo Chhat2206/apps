@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 295,
+    "code": 296,
     "file": "stocks.apk",
-    "sha256": "0e0222709651f4542f74179b2d39624f3b0f7b7f7debab6e1dd29c4e98e57b9d",
-    "size": 8391781,
-    "commit": "5d27429",
-    "subject": "Vacation e2e: People is followed by Trip details",
-    "built": "2026-11-14T23:56:49.749Z",
-    "src": "7b24f6ffe4c46854cdf086485d55308aa29a4fd8921b242e9e1db69a20a496cc"
+    "sha256": "39da640882b35eb9d950810896cb20a199d15d14783ae5a385c5f9f56b5da327",
+    "size": 8392261,
+    "commit": "fd72bf3",
+    "subject": "Ledger: the trip header on Home is design A with the whole drawing",
+    "built": "2026-11-15T02:09:18.609Z",
+    "src": "845c893cebb13afb97fe6781bfee98bcdc874c3b1f344b71cc4cd1a7dadc9da9"
   },
   "papa": {
     "label": "Papa's book",
