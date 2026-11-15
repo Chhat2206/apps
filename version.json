@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 98,
+    "code": 99,
     "file": "planner.apk",
-    "sha256": "8b5cac6cf2faeec120aa25d8e14cf69f92076e2b467d4bc1cb5d16d5f5f65b9e",
-    "size": 414855,
-    "commit": "643ee79",
-    "subject": "planner: a birthday repeats every year by itself. Its name typed sets Repeat to Every year, one saved before with no repeat opens and saves as Every year, a repeat picked by hand stays; the form's calendar row says \"Planner's own, in the Birthdays sheet\". page e2e + month-scroll pass; mutants red: no Every year on opening, a hand-picked repeat overwritten, no Every year on save. Asked: \"Bday should auto do yearly please and the 'my calander' should say which calendar it uses\".",
-    "built": "2026-11-14T22:41:18.970Z",
-    "src": "2304987bdf1cd949d3511452c4cdae1a132981cb97d6f1f8f184459896634b72"
+    "sha256": "322fe5ade6fc073c9f02f67197ad15305992271d56e0513391ff3b85e86fc891",
+    "size": 416911,
+    "commit": "5d27429",
+    "subject": "Vacation e2e: People is followed by Trip details",
+    "built": "2026-11-15T00:18:28.273Z",
+    "src": "3ad30bb5dce037784a6dd71506356a6000f0cc1f66bf238bffd00af4bcd3f41a"
   },
   "warranty": {
     "label": "Warranty",
