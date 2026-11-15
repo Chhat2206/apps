@@ -77,14 +77,14 @@
   },
   "hub": {
     "label": "Hub",
-    "code": 54,
+    "code": 55,
     "file": "hub.apk",
-    "sha256": "0bf2141a78f9845a761376868a684f44e6051432ffc4e8c9bca2f1176e0ac44b",
-    "size": 122300,
-    "commit": "80805e3",
-    "subject": "No Wi-Fi only where it matters. Asked: \"Only if relevant ofc\".",
-    "built": "2026-11-14T17:06:24.204Z",
-    "src": "cbb07337f68df9abd066f9af46b7a48f94f19b04cb81345055dc5d35198424c8"
+    "sha256": "0eb73fdf63ba3d5acd372fec5bc2f91ba58b88a802e11a07f04191c0900de164",
+    "size": 124364,
+    "commit": "5d27429",
+    "subject": "Vacation e2e: People is followed by Trip details",
+    "built": "2026-11-15T00:04:56.336Z",
+    "src": "38dcebd9747446c5ef3978512af39933ed931324428468c1c48bb828c3bf8cb1"
   },
   "adblock": {
     "label": "Ad Block",
