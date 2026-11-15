@@ -7,7 +7,7 @@ shows "can't display". After that the app updates itself from here.
 - **Birthdays** — [birthdays.apk](https://chhat2206.github.io/apps/birthdays.apk), build 24, 2026-11-14: Vacation e2e: People is followed by Trip details
 - **Credit Card** — [card-tracker.apk](https://chhat2206.github.io/apps/card-tracker.apk), build 99, 2026-11-14: Vacation e2e: People is followed by Trip details
 - **Papa's Collection** — [collection.apk](https://chhat2206.github.io/apps/collection.apk), build 142, 2026-11-14: Vacation e2e: People is followed by Trip details
-- **Control** — [control.apk](https://chhat2206.github.io/apps/control.apk), build 59, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
+- **Control** — [control.apk](https://chhat2206.github.io/apps/control.apk), build 60, 2026-11-15: Vacation e2e: People is followed by Trip details
 - **Better Deal** — [deal.apk](https://chhat2206.github.io/apps/deal.apk), build 54, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
 - **Credit Card** — [groceries.apk](https://chhat2206.github.io/apps/groceries.apk), build 2, 2026-09-29: Credit Card (groceries): one question per screen, a card schedule, a paid checklist
 - **Hub** — [hub.apk](https://chhat2206.github.io/apps/hub.apk), build 54, 2026-11-14: No Wi-Fi only where it matters. Asked: "Only if relevant ofc".
