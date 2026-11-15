@@ -33,14 +33,14 @@
   },
   "card-tracker": {
     "label": "Credit Card",
-    "code": 99,
+    "code": 100,
     "file": "card-tracker.apk",
-    "sha256": "b5b2b8a0168e65caece41f7f153a27a1cfe2dc0a8e753bc627a6e990aa4e6936",
-    "size": 253110,
-    "commit": "5d27429",
-    "subject": "Vacation e2e: People is followed by Trip details",
-    "built": "2026-11-14T23:58:28.404Z",
-    "src": "b929166b568371efe978318497e547ebbffed46f5393ed9d78a67c40b168615e"
+    "sha256": "47beff5fe2f5d32ea73549b633d2b065f5e618d820deda27e8db62121917f170",
+    "size": 254550,
+    "commit": "cb5e380",
+    "subject": "Phone apps: the update band (design A) and updates going in by themselves while the app is open",
+    "built": "2026-11-15T04:57:06.039Z",
+    "src": "efa0b538569c5b75081c6e54254bfc36322cde2235cccedecb18d969633ec0b9"
   },
   "musu": {
     "label": "Work Tracker",
