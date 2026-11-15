@@ -12,14 +12,14 @@
   },
   "papa": {
     "label": "Papa's book",
-    "code": 182,
+    "code": 183,
     "file": "papa.apk",
-    "sha256": "0a8b2769ea62641ed0f0f4f393003b6e83ed41be34d5eb1cf46b30f77f41e063",
-    "size": 545069,
-    "commit": "5d27429",
-    "subject": "Vacation e2e: People is followed by Trip details",
-    "built": "2026-11-15T00:17:06.108Z",
-    "src": "595338bf579c4d62ee1e72df7f7997c53895c6755dfcd50617d6e15046d5340b"
+    "sha256": "c900ca79cf926d2adc4c44c9f5c35daac6161e4607d486dfa84df4751ac79f70",
+    "size": 546521,
+    "commit": "cb5e380",
+    "subject": "Phone apps: the update band (design A) and updates going in by themselves while the app is open",
+    "built": "2026-11-15T05:13:22.219Z",
+    "src": "fa4fcefa9d3b474419f845fde22137964ef717ea5a3529b342928bf73358e131"
   },
   "groceries": {
     "label": "Credit Card",
