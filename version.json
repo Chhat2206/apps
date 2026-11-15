@@ -154,14 +154,14 @@
   },
   "warranty": {
     "label": "Warranty",
-    "code": 24,
+    "code": 25,
     "file": "warranty.apk",
-    "sha256": "cf965ffeed8c2fe4b5a567686a87449a9402b5ee5787b407dfa6762af91027ed",
-    "size": 190847,
-    "commit": "80805e3",
-    "subject": "No Wi-Fi only where it matters. Asked: \"Only if relevant ofc\".",
-    "built": "2026-11-14T17:21:23.635Z",
-    "src": "94f9e5d0aa2280d607fb3a04fa7281b25771876856862401365afa178f3449f0"
+    "sha256": "38d3ebb7f10f3b1f4afb5c3c8a7b6a62db8e1e9e0c1b871b11d9510732ab0178",
+    "size": 193015,
+    "commit": "5d27429",
+    "subject": "Vacation e2e: People is followed by Trip details",
+    "built": "2026-11-15T00:20:08.459Z",
+    "src": "b971d6dc16f5aa22fff0f77cd27e753ef741bae620a163c56dcca8e1249c3132"
   },
   "mumma": {
     "label": "Mumma",
