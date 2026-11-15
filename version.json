@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 297,
+    "code": 298,
     "file": "stocks.apk",
-    "sha256": "4178ad5faf8e22e53f907eb2e7a6267bdd46eb406e0e29abeb40a5ecb948a229",
-    "size": 8392389,
-    "commit": "7f7cf42",
-    "subject": "Ledger design: Add on a card with a trip, the bank that pays it off, and what is missing in red (A rows, B Bank | Card, C card block)",
-    "built": "2026-11-15T02:45:55.574Z",
-    "src": "820957430791ac93afaaf186171fd0b1c1819559979f7ef73c7d1bf11c34248f"
+    "sha256": "47944bfa3de35f2bdb6f646b1211f3c2717746472d987d72704d8ca73979bf90",
+    "size": 8396361,
+    "commit": "0760c01",
+    "subject": "Ledger Add: number keys on +, Bank | Card with the bank that pays the card off, card + trip together, what is missing in red",
+    "built": "2026-11-15T04:20:20.505Z",
+    "src": "9408d15f58e36f7b66184db677bf7fd93accb67b1af0bcb9c333e62b00a40031"
   },
   "papa": {
     "label": "Papa's book",
