@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 120,
+    "code": 121,
     "file": "packing.apk",
-    "sha256": "20f2d188278b72680cce1fd498fa6e82c42ad2c3b37cb4ef4abd9f2d5e306504",
-    "size": 899082,
-    "commit": "cb5e380",
-    "subject": "Phone apps: the update band (design A) and updates going in by themselves while the app is open",
-    "built": "2026-11-15T05:12:06.093Z",
-    "src": "1e6c4d566ac89e5966b1ef5bc3069acbdba08093d29f8750ab3d9f8415d14731"
+    "sha256": "b5e6d87b03f8a93f57348d052fdbd2450bcaf8781b9820ac219a826affef1efa",
+    "size": 906182,
+    "commit": "b80c10b",
+    "subject": "Vacation: Trip ended on the last day, lost / didn't count ticks, Select across bags, People in Trip details, tabs a trip can leave off, a photo per trip, Been to redesigned.",
+    "built": "2026-11-18T17:09:27.983Z",
+    "src": "afe6ab999232202ee17be98bf142dc2f3050e0df6bdc857e9e3a2371b2f6cc95"
   },
   "control": {
     "label": "Control",
