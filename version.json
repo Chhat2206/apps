@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 303,
+    "code": 304,
     "file": "stocks.apk",
-    "sha256": "9c47b4c91ce5c025666333dbb0a1d40f5863b24a7799c5a64861ec65f2ceeb27",
-    "size": 8407145,
-    "commit": "3c5de16",
-    "subject": "Ledger: merge trips, Back on the number keys is Done, Cash beside Bank and Card, Add closes at once, lines kept offline count, no hero shrink; vacation banner directions. Asked: \"GHC Climbing Trip & Green Climbers Home is the same trip. Allow me to merge trips\", \"click back, it should function the same as 'Done'\", \"add a 'Cash' Option… remove the 'cash' label\", \"spice up the banner\", \"click as 'added' but maybe show a spinner for syncing\", \"If the app is in offline mode… it should still count it in the ledger locally… a different colour\", then \"remove the animation on the hero number when we scroll down\".",
-    "built": "2026-11-18T16:23:02.615Z",
-    "src": "335f18983c76c008cd5f83c69f9b27b944cab390bcc35cb348b5572df24e27f5"
+    "sha256": "2e54ec6648e9034bfb2bdc5fa138cac0f392c754543815f3fc4c61e240defe3c",
+    "size": 8409001,
+    "commit": "2906763",
+    "subject": "Ledger: the vacation banner is E1 with see-through day tiles over the scenery. Asked: \"E1 yes. I really like E2's graph because the bottom seems like too much wasted space but both seem redundant. Maybe make the Tue Today etc translucent and put the sun mountains etc background behind it\".",
+    "built": "2026-11-18T16:53:05.647Z",
+    "src": "34dc7223a9293d4c6adf265ecd66456eddb502ad017178f6ae26e70f4d696ab5"
   },
   "papa": {
     "label": "Papa's book",
