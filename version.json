@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 100,
+    "code": 101,
     "file": "planner.apk",
-    "sha256": "4c6b2ec52f9c5c6a4af9c3571ca6f0526a3bf5db40b49984a3d345c2939dfeb7",
-    "size": 418519,
-    "commit": "cb5e380",
-    "subject": "Phone apps: the update band (design A) and updates going in by themselves while the app is open",
-    "built": "2026-11-15T05:14:43.029Z",
-    "src": "8e824d761a28b02473886904b9117d2c8a4980d4be924bffc30f750caf77451a"
+    "sha256": "5e91bcd3d864e48aa4bcf58a3cd74065c35ac73af6e287c7e6d19889fbb0069c",
+    "size": 419031,
+    "commit": "f339282",
+    "subject": "planner: the month swipe stays A, the side-by-side slide; the four looks tried (Stack, Parallax, Cube, Fade) and the letter by the gear are taken out. Asked: \"A\". month-scroll and page e2e pass as before the looks.",
+    "built": "2026-11-18T16:21:21.012Z",
+    "src": "863417c7b714d26ad1eab44d1285aec8dcc1771365c8825876c4f7508c033bff"
   },
   "warranty": {
     "label": "Warranty",
