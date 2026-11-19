@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 4,
+    "code": 5,
     "file": "weight.apk",
-    "sha256": "93f6a27ebb1198421e8782f02f459dd04b2d527a525b22b5ec9818fbe34952a3",
-    "size": 222309,
-    "commit": "a41be8e",
-    "subject": "worktracker Discord Pages: the list is read through Discord's API one channel at a time with a bar (N of M channels), threads appearing as each channel is done, channels you cannot open left out; pages where you were pinged come first (an @ count on each), or Latest = newest message first; a kept list is re-read quietly with no \"Still reading\", and a failed read says why with Try again instead of retrying on every poll. DiscordChatExporter's listing is the fallback. Asked: \"how about loading it for me properly but maybe an indication on progress and so on\" and \"Could we also only show terminals I have access too & the ones that pinged me first. Allow me to also sort by latest message\".",
-    "built": "2026-11-19T06:01:56.840Z",
-    "src": "059c93825ac7ff209dfbc8231d09a94d0e2404d5316409d64b9f1c4fe28ac98f"
+    "sha256": "cfa02d9c87e05cb546c2b1991bd936536ba24b9816a05832b82636c416d5c8ea",
+    "size": 225041,
+    "commit": "8319ff3",
+    "subject": "weight/pi/deploy.sh runs as a script on the Pi",
+    "built": "2026-11-19T06:35:56.197Z",
+    "src": "dc95fadd924b7ac8ab61d69677a9be34131403ced9f02833c20d62375379d3a0"
   }
 }
