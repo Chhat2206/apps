@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 123,
+    "code": 124,
     "file": "packing.apk",
-    "sha256": "dd0821bc629d5e35e75c0b0228cb43b6b1157bd0e3f386113857d552c8248d74",
-    "size": 916938,
-    "commit": "e95070c",
-    "subject": "Vacation e2e: the area page's banner is the map (its © OpenStreetMap line comes first) and the name-and-trips pop-up is reached through Edit's pen.",
-    "built": "2026-11-19T08:41:56.741Z",
-    "src": "c86606158d2312e71be36957ff019252edc6cb324dc25609dc000b52cfe982d2"
+    "sha256": "f74b61b4f94084a53c0cc5d24b4011167702fb561c175b074944fb8e32597983",
+    "size": 919306,
+    "commit": "7c2ae68",
+    "subject": "Vacation: the photo viewer's previous / next were two blank white pills (they borrowed the weight stepper's style); now dark round arrows on the photo's sides. An area's photo opened big has Set as cover photo, which makes it its trip's photo (card, banner, Been to tile). Asked: \"Fix these buttons being unreadable and add a button that says select this as cover photo please\".",
+    "built": "2026-11-19T14:48:52.049Z",
+    "src": "55bfa46049b0993bae0267e0c7c9482f6ec03858f57e927845a3cfccfee1757c"
   },
   "control": {
     "label": "Control",
