@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 125,
+    "code": 126,
     "file": "packing.apk",
-    "sha256": "d6a2f458094be2014aea45aef579488caf2420673c46637dec2cbf6babd14882",
-    "size": 922558,
-    "commit": "fd6bd76",
-    "subject": "Vacation e2e: drive.mjs follows the Where next? Home. With the test trip over and none coming, Home has no Open trip, so the trip is opened from All trips (openCur), and Been to is no longer the end of the page. It had stopped every Vacation publish.",
-    "built": "2026-11-19T15:20:46.074Z",
-    "src": "6142cc70bc291d7fda9d2ec769e80a18bd5e05f8d06af1f208a521bcecfc6126"
+    "sha256": "db49925fe0e39c20437d2169d57b603b5ee297197e4a243348209792d61dcef1",
+    "size": 928810,
+    "commit": "bfa3ace",
+    "subject": "Vacation Groups = design A \"Photo cards\", and New group. The Groups list is a card per group made of its trips' photos (a trip with none drawn in its kind of place), its round face, trips and nights each with its icon, and New group at the end. A group's page opens on its trips' photos with the face over them (camera and Resize kept), the name with a pencil (rename on every trip, or delete with Undo), trips / nights / countries tiles, each trip a big photo card, and Add a trip. New group is a page: an optional photo, the name, every trip as a photo tile to tick (latest first), Make the group writes the name into the ticked trips' With; nothing is disabled, a missing name, a name in use or no trip ticked goes red. Logic in pack.js (groupNights, groupCountries, groupTaken, withName, groupJoin, groupRename, groupLeave, tripsLatest) with unit tests; drive.mjs drives the list, a group's page, Add a trip and the whole New group flow down to the sheet's column H. Asked: \"Claude design these two pages and allow me to add more groups\", then \"A\".",
+    "built": "2026-11-19T16:49:11.851Z",
+    "src": "74a4a290b9244bf623b9dec44c8996dc7d3092d608e68b7fc4249e9d2f7dc557"
   },
   "control": {
     "label": "Control",
