@@ -77,14 +77,14 @@
   },
   "hub": {
     "label": "Hub",
-    "code": 56,
+    "code": 57,
     "file": "hub.apk",
-    "sha256": "57f5a2b99c29c4630414cb5df21169ec5f034e38bb45d93ad434785655d2ef11",
-    "size": 125816,
-    "commit": "cb5e380",
-    "subject": "Phone apps: the update band (design A) and updates going in by themselves while the app is open",
-    "built": "2026-11-15T05:01:56.762Z",
-    "src": "752413725183bad165b7d7a31b796e0b2bd2b9681359c865d6dfff0e155cb064"
+    "sha256": "22fc057c90ac44d43323905577a7e9c69823eb4a14dfa47e862f6f3830aef89d",
+    "size": 129656,
+    "commit": "47eab52",
+    "subject": "Updating page: design C of round 2, laid out from the top. Asked: \"Could we Claude design it from the top bottom instead of centered\", then \"C\".",
+    "built": "2026-11-19T04:31:52.178Z",
+    "src": "990061cc018a121b1f789a560b2bd9ac5145c771ed49eddf1ea2e7f64f6055e9"
   },
   "adblock": {
     "label": "Ad Block",
