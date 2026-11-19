@@ -19,6 +19,6 @@ shows "can't display". After that the app updates itself from here.
 - **Ledger** — [stocks.apk](https://chhat2206.github.io/apps/stocks.apk), build 312, 2026-11-19: Updating page: design C of round 2, laid out from the top. Asked: "Could we Claude design it from the top bottom instead of centered", then "C".
 - **Trip Money** — [trip-money.apk](https://chhat2206.github.io/apps/trip-money.apk), build 49, 2026-11-15: Phone apps: the update band (design A) and updates going in by themselves while the app is open
 - **Warranty** — [warranty.apk](https://chhat2206.github.io/apps/warranty.apk), build 26, 2026-11-15: Phone apps: the update band (design A) and updates going in by themselves while the app is open
-- **Weight** — [weight.apk](https://chhat2206.github.io/apps/weight.apk), build 5, 2026-11-19: weight/pi/deploy.sh runs as a script on the Pi
+- **Weight** — [weight.apk](https://chhat2206.github.io/apps/weight.apk), build 6, 2026-11-19: Weight Home polish, design A: a tapped weigh-in is a bubble on its dot with a pointer touching it; the goal card is the kg to go, the goal, and a bar from the start weight to the goal with a marker for now. Asked: "i like the concept of 'weight' home page but it feels very unpolished … 'clicking on the date to show detail' should be closer to the dot, the bar showing kg should be minimal but this looks empty", then "A".
 
 Written by CI. Nothing here is edited by hand, and every publish replaces the whole history.

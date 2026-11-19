@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 5,
+    "code": 6,
     "file": "weight.apk",
-    "sha256": "cfa02d9c87e05cb546c2b1991bd936536ba24b9816a05832b82636c416d5c8ea",
-    "size": 225041,
-    "commit": "8319ff3",
-    "subject": "weight/pi/deploy.sh runs as a script on the Pi",
-    "built": "2026-11-19T06:35:56.197Z",
-    "src": "dc95fadd924b7ac8ab61d69677a9be34131403ced9f02833c20d62375379d3a0"
+    "sha256": "9a5c9d0b9a1a08c44379a519db928c9b23743f132b07cc367980c8497d736830",
+    "size": 225913,
+    "commit": "edff972",
+    "subject": "Weight Home polish, design A: a tapped weigh-in is a bubble on its dot with a pointer touching it; the goal card is the kg to go, the goal, and a bar from the start weight to the goal with a marker for now. Asked: \"i like the concept of 'weight' home page but it feels very unpolished … 'clicking on the date to show detail' should be closer to the dot, the bar showing kg should be minimal but this looks empty\", then \"A\".",
+    "built": "2026-11-19T06:59:30.402Z",
+    "src": "1aa3fcfbf0dae539b4376cf1f0bd5aeacf74e82becf61dce702a47666fe76f2b"
   }
 }
