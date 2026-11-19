@@ -88,14 +88,14 @@
   },
   "adblock": {
     "label": "Ad Block",
-    "code": 69,
+    "code": 70,
     "file": "adblock.apk",
-    "sha256": "ab247df9091504c365049507c9b7631d32e439d462bcb6837aa3365bf38186d2",
-    "size": 220524,
-    "commit": "cb5e380",
-    "subject": "Phone apps: the update band (design A) and updates going in by themselves while the app is open",
-    "built": "2026-11-15T04:55:10.710Z",
-    "src": "5696d5b8c5d8753d90a71fcaedbb793ef61d12230b3e127252568298ad3b0e81"
+    "sha256": "e5aed220e9bcbd0a96c053e38612c80085ecd75089532b1815e04c4a934f9b14",
+    "size": 225956,
+    "commit": "47eab52",
+    "subject": "Updating page: design C of round 2, laid out from the top. Asked: \"Could we Claude design it from the top bottom instead of centered\", then \"C\".",
+    "built": "2026-11-19T04:22:51.981Z",
+    "src": "8c3e8f6e69183edbdf599cf20910b96661db965684c0c2eaf6969b6d310309b8"
   },
   "packing": {
     "label": "Vacation",

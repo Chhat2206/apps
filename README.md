@@ -3,7 +3,7 @@
 **To install, open https://chhat2206.github.io/apps/ on the phone and tap the app.** Tapping an .apk in the file list above only
 shows "can't display". After that the app updates itself from here.
 
-- **Ad Block** — [adblock.apk](https://chhat2206.github.io/apps/adblock.apk), build 69, 2026-11-15: Phone apps: the update band (design A) and updates going in by themselves while the app is open
+- **Ad Block** — [adblock.apk](https://chhat2206.github.io/apps/adblock.apk), build 70, 2026-11-19: Updating page: design C of round 2, laid out from the top. Asked: "Could we Claude design it from the top bottom instead of centered", then "C".
 - **Birthdays** — [birthdays.apk](https://chhat2206.github.io/apps/birthdays.apk), build 25, 2026-11-15: Phone apps: the update band (design A) and updates going in by themselves while the app is open
 - **Credit Card** — [card-tracker.apk](https://chhat2206.github.io/apps/card-tracker.apk), build 100, 2026-11-15: Phone apps: the update band (design A) and updates going in by themselves while the app is open
 - **Papa's Collection** — [collection.apk](https://chhat2206.github.io/apps/collection.apk), build 143, 2026-11-15: Phone apps: the update band (design A) and updates going in by themselves while the app is open
