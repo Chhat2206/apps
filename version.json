@@ -44,14 +44,14 @@
   },
   "musu": {
     "label": "Work Tracker",
-    "code": 71,
+    "code": 72,
     "file": "musu.apk",
-    "sha256": "06289a3838660e9352db54ed596d81f9e40d6242b2db5e34916e6a2a4d9f20b1",
-    "size": 199937,
-    "commit": "cb5e380",
-    "subject": "Phone apps: the update band (design A) and updates going in by themselves while the app is open",
-    "built": "2026-11-15T05:03:20.471Z",
-    "src": "3378c2982c904b4ac0b32c63bf877b38b23e71b252dd9bc93e5ce09e186495d8"
+    "sha256": "629792ceb52b380dc5c8dac5497297876116dd2a2160542932c300e095c25e6d",
+    "size": 203609,
+    "commit": "47eab52",
+    "subject": "Updating page: design C of round 2, laid out from the top. Asked: \"Could we Claude design it from the top bottom instead of centered\", then \"C\".",
+    "built": "2026-11-19T04:33:14.383Z",
+    "src": "3a4c4aa906c9bf0524904808406412b2316fb25a9c5054e009ad9d55e2e6d810"
   },
   "trip-money": {
     "label": "Trip Money",
