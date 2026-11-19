@@ -173,5 +173,16 @@
     "subject": "Phone apps: the update band (design A) and updates going in by themselves while the app is open",
     "built": "2026-11-15T05:02:44.839Z",
     "src": "f79b362897d6ed4d4db472077bbdfeb5a754f13a29f84503dcd4f470de58a16f"
+  },
+  "weight": {
+    "label": "Weight",
+    "code": 1,
+    "file": "weight.apk",
+    "sha256": "bcba091e22d2d4b67ff37b36d9869611bdb292a7c21bffc9184e5e558a54befb",
+    "size": 211239,
+    "commit": "f0486c6",
+    "subject": "Ledger: Earned / Spent draw on the Net worth chart; Upcoming says what each bank is short. Asked: \"Highlighting the 'Earned' and 'Spent' button does nothing… start off as default none selected, then if you select one it shows up in the graph. Reselecting it turns the graph back to normal\" and \"remove the 'from each bank'. Replace '23 to pay' with how much money I'm short… or a 'you're covered'\".",
+    "built": "2026-11-19T02:03:43.268Z",
+    "src": "5f2fc5ac0d38018a05c0afacec3bea285f1c93c801c1537597c215c9c0c0f731"
   }
 }
