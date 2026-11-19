@@ -132,14 +132,14 @@
   },
   "birthdays": {
     "label": "Birthdays",
-    "code": 25,
+    "code": 26,
     "file": "birthdays.apk",
-    "sha256": "94e6d38abe6d9e63b391d6cf9a3897aa73ce89653694a7ad4f291f2808023d65",
-    "size": 248290,
-    "commit": "cb5e380",
-    "subject": "Phone apps: the update band (design A) and updates going in by themselves while the app is open",
-    "built": "2026-11-15T04:56:31.004Z",
-    "src": "37b4bfc4b63f1a783880fff167d75f2ec7188baf34cbea879ff9c6c84bf5be89"
+    "sha256": "f81e78e7e58a967f5bd5a002e89a26dab4921efb698ae5389255dade8e3abbcf",
+    "size": 251274,
+    "commit": "47eab52",
+    "subject": "Updating page: design C of round 2, laid out from the top. Asked: \"Could we Claude design it from the top bottom instead of centered\", then \"C\".",
+    "built": "2026-11-19T04:24:24.464Z",
+    "src": "e855e90230a23fe37c67cddd90981d87ab085780cbc7f40f944779587be24e62"
   },
   "planner": {
     "label": "Planner",
