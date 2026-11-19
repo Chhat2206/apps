@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 1,
+    "code": 2,
     "file": "weight.apk",
-    "sha256": "bcba091e22d2d4b67ff37b36d9869611bdb292a7c21bffc9184e5e558a54befb",
-    "size": 211239,
-    "commit": "f0486c6",
-    "subject": "Ledger: Earned / Spent draw on the Net worth chart; Upcoming says what each bank is short. Asked: \"Highlighting the 'Earned' and 'Spent' button does nothing… start off as default none selected, then if you select one it shows up in the graph. Reselecting it turns the graph back to normal\" and \"remove the 'from each bank'. Replace '23 to pay' with how much money I'm short… or a 'you're covered'\".",
-    "built": "2026-11-19T02:03:43.268Z",
-    "src": "5f2fc5ac0d38018a05c0afacec3bea285f1c93c801c1537597c215c9c0c0f731"
+    "sha256": "4b33184ad149b4515dca6040e98398b6ec319a947e09ecb8992d37cfcf342442",
+    "size": 209323,
+    "commit": "d075be5",
+    "subject": "Weight: Samsung Health's body readings win over the scale's estimate. Asked: \"Could it potentially use it? I find it app very inaccurate as compared to samsungs own app\" then \"Yes please build it… I currently use a Fit 2. May upgrade in the future\".",
+    "built": "2026-11-19T03:34:28.211Z",
+    "src": "67c3709a12c8a19d2dd7f56b32d2b8cfc97b350a163c2f53477eb89c31f6a27d"
   }
 }
