@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 2,
+    "code": 3,
     "file": "weight.apk",
-    "sha256": "4b33184ad149b4515dca6040e98398b6ec319a947e09ecb8992d37cfcf342442",
-    "size": 209323,
-    "commit": "d075be5",
-    "subject": "Weight: Samsung Health's body readings win over the scale's estimate. Asked: \"Could it potentially use it? I find it app very inaccurate as compared to samsungs own app\" then \"Yes please build it… I currently use a Fit 2. May upgrade in the future\".",
-    "built": "2026-11-19T03:34:28.211Z",
-    "src": "67c3709a12c8a19d2dd7f56b32d2b8cfc97b350a163c2f53477eb89c31f6a27d"
+    "sha256": "3135b4e35d28f6459194f0b040e9255e028b38f324c44f87eb5e7a023d4740fc",
+    "size": 212531,
+    "commit": "0be3815",
+    "subject": "Weight: no name or gear on Home, the gear on Body, and a colour per person (Chhat violet, Mummy light blue, picked in Settings). Asked: \"Remove the 'Chhat' and 'Settings' from the home page. Add only the settings to the body page please. Different users should have a different colour scheme and should be able to select which colour they want for the graph. I am purple this colour is good. Mummy is light blue\".",
+    "built": "2026-11-19T03:56:50.161Z",
+    "src": "5bb15091ec1efa29160f6a46cc475b67992142a8e497aef2e4b8d68c8f0dbe59"
   }
 }
