@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 6,
+    "code": 7,
     "file": "weight.apk",
-    "sha256": "9a5c9d0b9a1a08c44379a519db928c9b23743f132b07cc367980c8497d736830",
-    "size": 225913,
-    "commit": "edff972",
-    "subject": "Weight Home polish, design A: a tapped weigh-in is a bubble on its dot with a pointer touching it; the goal card is the kg to go, the goal, and a bar from the start weight to the goal with a marker for now. Asked: \"i like the concept of 'weight' home page but it feels very unpolished … 'clicking on the date to show detail' should be closer to the dot, the bar showing kg should be minimal but this looks empty\", then \"A\".",
-    "built": "2026-11-19T06:59:30.402Z",
-    "src": "1aa3fcfbf0dae539b4376cf1f0bd5aeacf74e82becf61dce702a47666fe76f2b"
+    "sha256": "7fa382bc2174e82b38625c645a98c1d99727090b23fe7bd31beb0bd4bd577d5a",
+    "size": 238673,
+    "commit": "b7b56e0",
+    "subject": "Weight: a Food page for Papa and Mummy (design B): snap the food, the Pi's reader says what is on the plate with kcal, and the day shows one big \"kcal left today\", Eaten against Recommended and against what the AI thinks, and the meals as photo tiles. Asked: \"for papa and mumma there should be a third column where papa take a photo of the food and the ai estimates your calorie intake ... sometimes papa eats between pieces as well. also maybe show recommended calories and what the ai thinks\", then \"b\".",
+    "built": "2026-11-19T07:12:41.099Z",
+    "src": "6bca142bab107283de0604e9360535ad63cb5aa3eed731975177f661d203385c"
   }
 }
