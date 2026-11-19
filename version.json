@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 3,
+    "code": 4,
     "file": "weight.apk",
-    "sha256": "3135b4e35d28f6459194f0b040e9255e028b38f324c44f87eb5e7a023d4740fc",
-    "size": 212531,
-    "commit": "0be3815",
-    "subject": "Weight: no name or gear on Home, the gear on Body, and a colour per person (Chhat violet, Mummy light blue, picked in Settings). Asked: \"Remove the 'Chhat' and 'Settings' from the home page. Add only the settings to the body page please. Different users should have a different colour scheme and should be able to select which colour they want for the graph. I am purple this colour is good. Mummy is light blue\".",
-    "built": "2026-11-19T03:56:50.161Z",
-    "src": "5bb15091ec1efa29160f6a46cc475b67992142a8e497aef2e4b8d68c8f0dbe59"
+    "sha256": "93f6a27ebb1198421e8782f02f459dd04b2d527a525b22b5ec9818fbe34952a3",
+    "size": 222309,
+    "commit": "a41be8e",
+    "subject": "worktracker Discord Pages: the list is read through Discord's API one channel at a time with a bar (N of M channels), threads appearing as each channel is done, channels you cannot open left out; pages where you were pinged come first (an @ count on each), or Latest = newest message first; a kept list is re-read quietly with no \"Still reading\", and a failed read says why with Try again instead of retrying on every poll. DiscordChatExporter's listing is the fallback. Asked: \"how about loading it for me properly but maybe an indication on progress and so on\" and \"Could we also only show terminals I have access too & the ones that pinged me first. Allow me to also sort by latest message\".",
+    "built": "2026-11-19T06:01:56.840Z",
+    "src": "059c93825ac7ff209dfbc8231d09a94d0e2404d5316409d64b9f1c4fe28ac98f"
   }
 }
