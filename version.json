@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 315,
+    "code": 316,
     "file": "stocks.apk",
-    "sha256": "eb65be2ba6e41fb8858ecad659e4d87dd8e9f9b5490aaee629ad3d84b371fd48",
-    "size": 8475413,
-    "commit": "564d5b2",
-    "subject": "Ledger Add: the Name pop-up drops away over the filled form and a picked name's cost pops in; its tiles hold the whole name (Khao Pao Mu Krod ran past the tile: Net worth's .m-nt rule laid them out as a column, they are .m-ntl now); Bangkok Bank's logo a little smaller; cash coins coloured by currency (THB gold, USD green). Asked: \"Add an animation when you click done. Fix the UI cutting off for khao Pao Mu krod. Make the Bangkok bank icon a lil smaller. Thb and USD should have diff colours\". e2e: stocks/test/ledger-namepop-e2e.mjs (4 mutants red).",
-    "built": "2026-11-19T15:58:23.511Z",
-    "src": "b83c4d41401c001601f6213b4aa99cafb3d98722cf92bc5e1d28b49980d983d1"
+    "sha256": "05e7514e44fcc8503561cff31da677e7ced98dc086d55c4adaf646cdb9b3105c",
+    "size": 8475545,
+    "commit": "69ff6dd",
+    "subject": "No pills in any app: No Wi-Fi, Not up to date and the waiting counts are the amber band from the start (shared/sync.js, android/web/update.js), and \"Checking for changes\" is gone. Vacation never says No Wi-Fi (a timed-out sync set it with Wi-Fi up), Been to tiles say the days spent there, photos with no place count on a trip's days when one of My cameras took them (Langkawi), pin maps drawn from the next zoom's tiles at half size, Where next? darker behind its words. Asked: \"I want to remove pills from all apps btw it should only be the banner\", \"idk why I'm still getting the no wifi pill sometimes remove it\", \"Instead of saying x trips y hotels say y days instead\", \"Add the langkawi photos too\", \"The map in where next looks blurry\", \"Make the where next more clear\".",
+    "built": "2026-11-19T16:24:32.575Z",
+    "src": "72e067cfc3f6576223350c1cb16c4902a47d1e6fc6a398b87daecc8c7d391771"
   },
   "papa": {
     "label": "Papa's book",
