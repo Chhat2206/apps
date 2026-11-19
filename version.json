@@ -12,14 +12,14 @@
   },
   "papa": {
     "label": "Papa's book",
-    "code": 184,
+    "code": 185,
     "file": "papa.apk",
-    "sha256": "358ee2bdaab08caa540b988c356b8ce78711a8104e8857da68ab3e0bde8bcf03",
-    "size": 547405,
-    "commit": "6cfc1c0",
-    "subject": "papa: a tap on a stock's price on Home opens its price for the last ten years, like the dividend years, with a › beside the price. Asked: \"Papa wants to click price and see the last year price similar to the dividend table. Please add an arrow next to it too to signify it can be pressed.\"",
-    "built": "2026-11-19T03:21:46.122Z",
-    "src": "0adc9a43f169ecd639db29902a7e5815d5bc89527022c1cd61ae25082d1037fb"
+    "sha256": "4f65e2b8a6324612700ed2e76a3d77c231a067397e90f958e9c97f2451ff794a",
+    "size": 557809,
+    "commit": "789c402",
+    "subject": "papa: the price page has Day by day under Year by year: every trading day of the last year, newest first, its last price and the change from the day before, each month named above its days. Asked: \"For this daily for last year please\".",
+    "built": "2026-11-19T06:48:58.053Z",
+    "src": "e57cafd77ada1612a6d095d83ed280a97c23a045a1fecd0663e1c44e7c9f21a3"
   },
   "groceries": {
     "label": "Credit Card",
