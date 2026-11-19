@@ -165,14 +165,14 @@
   },
   "mumma": {
     "label": "Mumma",
-    "code": 28,
+    "code": 29,
     "file": "mumma.apk",
-    "sha256": "cdfef658b1893f2214157a3fd256ac74937a56c579d571110e714ac3c92065e0",
-    "size": 249333,
-    "commit": "47eab52",
-    "subject": "Updating page: design C of round 2, laid out from the top. Asked: \"Could we Claude design it from the top bottom instead of centered\", then \"C\".",
-    "built": "2026-11-19T04:32:37.276Z",
-    "src": "b4299ad61d4a5d0ca9552cc2e512b40a24dfdb46e09c65c345ca39e6e56b35c3"
+    "sha256": "750da510c5872fb366cd2cfe109aed9dc46ad8a1036a63ca85ce351e0bcab8a8",
+    "size": 250417,
+    "commit": "69ff6dd",
+    "subject": "No pills in any app: No Wi-Fi, Not up to date and the waiting counts are the amber band from the start (shared/sync.js, android/web/update.js), and \"Checking for changes\" is gone. Vacation never says No Wi-Fi (a timed-out sync set it with Wi-Fi up), Been to tiles say the days spent there, photos with no place count on a trip's days when one of My cameras took them (Langkawi), pin maps drawn from the next zoom's tiles at half size, Where next? darker behind its words. Asked: \"I want to remove pills from all apps btw it should only be the banner\", \"idk why I'm still getting the no wifi pill sometimes remove it\", \"Instead of saying x trips y hotels say y days instead\", \"Add the langkawi photos too\", \"The map in where next looks blurry\", \"Make the where next more clear\".",
+    "built": "2026-11-19T16:33:23.363Z",
+    "src": "67a2811e92c4c150c1477e185d55c676f5285444718cb4fe75c4ecf872231ef4"
   },
   "weight": {
     "label": "Weight",
