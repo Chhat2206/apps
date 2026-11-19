@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 306,
+    "code": 307,
     "file": "stocks.apk",
-    "sha256": "e03c2c56fa6e784ed451a3306a66f6a1b979f07400c7381f5d42cd379c6a0a0c",
-    "size": 8409789,
-    "commit": "f0486c6",
-    "subject": "Ledger: Earned / Spent draw on the Net worth chart; Upcoming says what each bank is short. Asked: \"Highlighting the 'Earned' and 'Spent' button does nothing… start off as default none selected, then if you select one it shows up in the graph. Reselecting it turns the graph back to normal\" and \"remove the 'from each bank'. Replace '23 to pay' with how much money I'm short… or a 'you're covered'\".",
-    "built": "2026-11-19T02:01:37.911Z",
-    "src": "66b4537ee985e1d3ee1095eff111aea150a31254f58259424a8254b8ffc29216"
+    "sha256": "40ce163a4ba0b86a69ac6cfac884915932841f535e25f5eca16c313db747a05b",
+    "size": 8410621,
+    "commit": "240f66e",
+    "subject": "Ledger: Upcoming's On each card = design A of round 2: All cards / each bank tabs as the heading over one row of two-line tiles. Asked: \"Maybe allow a 'Kasikorn, Krungthai, Both' and i can select which card… I don't like two rows and 4 columns\" then \"A\".",
+    "built": "2026-11-19T03:17:10.570Z",
+    "src": "b3d7d1a8f00a2555766717befc391bc43893747ca400587b469862c05c0e9456"
   },
   "papa": {
     "label": "Papa's book",
