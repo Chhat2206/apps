@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 124,
+    "code": 125,
     "file": "packing.apk",
-    "sha256": "f74b61b4f94084a53c0cc5d24b4011167702fb561c175b074944fb8e32597983",
-    "size": 919306,
-    "commit": "7c2ae68",
-    "subject": "Vacation: the photo viewer's previous / next were two blank white pills (they borrowed the weight stepper's style); now dark round arrows on the photo's sides. An area's photo opened big has Set as cover photo, which makes it its trip's photo (card, banner, Been to tile). Asked: \"Fix these buttons being unreadable and add a button that says select this as cover photo please\".",
-    "built": "2026-11-19T14:48:52.049Z",
-    "src": "55bfa46049b0993bae0267e0c7c9482f6ec03858f57e927845a3cfccfee1757c"
+    "sha256": "d6a2f458094be2014aea45aef579488caf2420673c46637dec2cbf6babd14882",
+    "size": 922558,
+    "commit": "fd6bd76",
+    "subject": "Vacation e2e: drive.mjs follows the Where next? Home. With the test trip over and none coming, Home has no Open trip, so the trip is opened from All trips (openCur), and Been to is no longer the end of the page. It had stopped every Vacation publish.",
+    "built": "2026-11-19T15:20:46.074Z",
+    "src": "6142cc70bc291d7fda9d2ec769e80a18bd5e05f8d06af1f208a521bcecfc6126"
   },
   "control": {
     "label": "Control",
