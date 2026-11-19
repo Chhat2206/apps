@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 308,
+    "code": 309,
     "file": "stocks.apk",
-    "sha256": "171c1b3bcbf71807409123c0b34f6317c30ff105b1ad69b45374619805909d95",
-    "size": 8411757,
-    "commit": "661d4cd",
-    "subject": "Ledger: Net worth's Earned / Spent swap morphs the line from one into the other (shape and colour), and Spent runs down from 0. Asked: \"For the net worth, when I click on earned or spent it should show an animation when swapping the graph. Spent should also go downwards not upwards\".",
-    "built": "2026-11-19T03:27:45.806Z",
-    "src": "66dc177de80260dd2863a58708521e82642ef6825292ded1f85203259d2349ef"
+    "sha256": "4e2753dd7477e4dbd53b3875518cea284159984b45715613fd0d31d4f823c750",
+    "size": 8411837,
+    "commit": "6296ee2",
+    "subject": "Weight: Samsung Health's body readings win over the scale's estimate. Asked: \"Could it potentially use it? I find it app very inaccurate as compared to samsungs own app\" then \"Yes please build it… I currently use a Fit 2. May upgrade in the future\".",
+    "built": "2026-11-19T03:31:42.964Z",
+    "src": "9c341df6bc8fab9fa1345dca1b71c6edf78c977baaa982cd980bc39918de49a9"
   },
   "papa": {
     "label": "Papa's book",
