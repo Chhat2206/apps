@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 314,
+    "code": 315,
     "file": "stocks.apk",
-    "sha256": "137000d2c1349616abda12077a16fe7ef465fe3d1fd6790ffca97993af4533de",
-    "size": 8473441,
-    "commit": "0540926",
-    "subject": "Vacation: Home with no trip on or coming = design C of design/no-trip-2026-11-19: Where next? over a map of every place been to, a box that names the next trip (then its days), Been to first; a trip named with no days yet is the one Home shows. e2e/after.mjs closes its Chromium on any exit. Asked: \"Claude design me a page if there is no future vacation\", then C. e2e: packing/e2e/notrip.mjs (mutant red).",
-    "built": "2026-11-19T14:22:09.681Z",
-    "src": "cebda411c6c80a98a6d51934deb6fb639acc0d06814827268f92041e17a614a1"
+    "sha256": "eb65be2ba6e41fb8858ecad659e4d87dd8e9f9b5490aaee629ad3d84b371fd48",
+    "size": 8475413,
+    "commit": "564d5b2",
+    "subject": "Ledger Add: the Name pop-up drops away over the filled form and a picked name's cost pops in; its tiles hold the whole name (Khao Pao Mu Krod ran past the tile: Net worth's .m-nt rule laid them out as a column, they are .m-ntl now); Bangkok Bank's logo a little smaller; cash coins coloured by currency (THB gold, USD green). Asked: \"Add an animation when you click done. Fix the UI cutting off for khao Pao Mu krod. Make the Bangkok bank icon a lil smaller. Thb and USD should have diff colours\". e2e: stocks/test/ledger-namepop-e2e.mjs (4 mutants red).",
+    "built": "2026-11-19T15:58:23.511Z",
+    "src": "b83c4d41401c001601f6213b4aa99cafb3d98722cf92bc5e1d28b49980d983d1"
   },
   "papa": {
     "label": "Papa's book",
