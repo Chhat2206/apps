@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 309,
+    "code": 310,
     "file": "stocks.apk",
-    "sha256": "4e2753dd7477e4dbd53b3875518cea284159984b45715613fd0d31d4f823c750",
-    "size": 8411837,
-    "commit": "6296ee2",
-    "subject": "Weight: Samsung Health's body readings win over the scale's estimate. Asked: \"Could it potentially use it? I find it app very inaccurate as compared to samsungs own app\" then \"Yes please build it… I currently use a Fit 2. May upgrade in the future\".",
-    "built": "2026-11-19T03:31:42.964Z",
-    "src": "9c341df6bc8fab9fa1345dca1b71c6edf78c977baaa982cd980bc39918de49a9"
+    "sha256": "a880b04eb4f24d02408034c967d4b236c8582313dba0642610958e061ae2f145",
+    "size": 8418197,
+    "commit": "83a57c4",
+    "subject": "Ledger: Saving sells at a baht broker (SET) too. The sale's cost stays what was put in, the baht it fetched sit at the broker as cash worth that much, and a later buy there can spend them. Asked: \"the 'Saving' in the ledger app does include SET if I decide to invest some parts into the thai market right?\" then \"yes\" to adding the sell.",
+    "built": "2026-11-19T03:38:10.804Z",
+    "src": "6d6bc40f445e3f1758c1085cd0f2458ec51ed9fa7e20228359ea0e82a9e8be3e"
   },
   "papa": {
     "label": "Papa's book",
