@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 122,
+    "code": 123,
     "file": "packing.apk",
-    "sha256": "6bbf75cc87d5f5da30ddb7cc8ca011ff7f6e6923ac599f09cd668091acfe55eb",
-    "size": 905650,
-    "commit": "1684544",
-    "subject": "Vacation: \"Not using Places / Things to do\" undone, four tab columns, Been to's map fixed and opens full screen, each bag brings its own allowance.",
-    "built": "2026-11-19T02:23:29.833Z",
-    "src": "d056f2dd10b05aa4a0b32b7fba5b686c443faddea0c75c5189e6523a21c4a939"
+    "sha256": "dd0821bc629d5e35e75c0b0228cb43b6b1157bd0e3f386113857d552c8248d74",
+    "size": 916938,
+    "commit": "e95070c",
+    "subject": "Vacation e2e: the area page's banner is the map (its © OpenStreetMap line comes first) and the name-and-trips pop-up is reached through Edit's pen.",
+    "built": "2026-11-19T08:41:56.741Z",
+    "src": "c86606158d2312e71be36957ff019252edc6cb324dc25609dc000b52cfe982d2"
   },
   "control": {
     "label": "Control",
