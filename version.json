@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 10,
+    "code": 11,
     "file": "weight.apk",
-    "sha256": "67498f6d63cae5bc61a78cea889b47fc27373dbcb12fb1cd9ef819bebd2b31de",
-    "size": 243845,
-    "commit": "852d1ae",
-    "subject": "Weight: stepping on the scale is design C, Ripple. Rings rise from the scale while it weighs, slow while the weight settles and quick once it holds (the scale reading the body), with a bar under the number; when it is saved the rings stop, a burst, the number lifts, Saved for pops and the tiles and buttons rise. Asked: \"please implement c for weight\".",
-    "built": "2026-11-19T13:32:48.183Z",
-    "src": "1ffffffda97afd781bd7b6d583618f40afbd8f20d87f6fce76fd656c9a2f9685"
+    "sha256": "6c7fcf7198f90a5729a7d99154aa6ed69f14109463966e99374ac134aa5d15a4",
+    "size": 246281,
+    "commit": "7deb007",
+    "subject": "Weight Home: the bubble no longer cuts off its last line, solid dots with no box under the line, the goal card says the kg a day, and small motion",
+    "built": "2026-11-19T14:36:24.308Z",
+    "src": "b034934471c16c3c16eca6ff04652716275892a2714d540a39fc698b8ba5cc29"
   }
 }
