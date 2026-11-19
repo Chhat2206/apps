@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 7,
+    "code": 8,
     "file": "weight.apk",
-    "sha256": "7fa382bc2174e82b38625c645a98c1d99727090b23fe7bd31beb0bd4bd577d5a",
-    "size": 238673,
-    "commit": "b7b56e0",
-    "subject": "Weight: a Food page for Papa and Mummy (design B): snap the food, the Pi's reader says what is on the plate with kcal, and the day shows one big \"kcal left today\", Eaten against Recommended and against what the AI thinks, and the meals as photo tiles. Asked: \"for papa and mumma there should be a third column where papa take a photo of the food and the ai estimates your calorie intake ... sometimes papa eats between pieces as well. also maybe show recommended calories and what the ai thinks\", then \"b\".",
-    "built": "2026-11-19T07:12:41.099Z",
-    "src": "6bca142bab107283de0604e9360535ad63cb5aa3eed731975177f661d203385c"
+    "sha256": "5f3cf3fd1c1baa02bdeb18941cd984c1fcb489226c85e38beca66ed57b7436c0",
+    "size": 239997,
+    "commit": "cf7839a",
+    "subject": "Weight: details under a food photo (\"thai tea, 20% sugar\") go to the reader and onto the sheet. A box under the photo on the meal's page; leaving it changed reads the photo again with them (a look still waiting on the Pi is dropped), the box keeps its words and focus when an answer lands, and the Food tab gets a Notes column. Asked: \"when papa takes a picture of his food I also want him to add details such as 'thai tea, 20% sugar' for example below the photo for calorie intake. Also add to the sheets details like the notes he made\".",
+    "built": "2026-11-19T09:29:11.351Z",
+    "src": "b8f0ec6d5f4f39e86fb0eb73ad654e53b341c7d9c84a9734c4da906c74864a76"
   }
 }
