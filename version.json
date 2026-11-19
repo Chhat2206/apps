@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 101,
+    "code": 102,
     "file": "planner.apk",
-    "sha256": "5e91bcd3d864e48aa4bcf58a3cd74065c35ac73af6e287c7e6d19889fbb0069c",
-    "size": 419031,
-    "commit": "f339282",
-    "subject": "planner: the month swipe stays A, the side-by-side slide; the four looks tried (Stack, Parallax, Cube, Fade) and the letter by the gear are taken out. Asked: \"A\". month-scroll and page e2e pass as before the looks.",
-    "built": "2026-11-18T16:21:21.012Z",
-    "src": "863417c7b714d26ad1eab44d1285aec8dcc1771365c8825876c4f7508c033bff"
+    "sha256": "7243de42ff5069858de713c1ceffa1851d92f90b40a80e7e74faccddaf644eb5",
+    "size": 428819,
+    "commit": "cb3e550",
+    "subject": "planner: colour schemes in Settings, Soft tint by default. Asked: \"B\" (round U), then \"let me choose against a variety of colours in settings please. Do b by default\". Settings › Colours lists Soft tint (words in the colour on a 22% tint of it), Dusk (filled, deep and muted, white words), Graphite (one dark chip, the colour a thin edge down its left) and Bold (as it was), each with five of its chips, the one in use ticked; a tap repaints the app and the widget. Events are still built in the same ten colours; the scheme repaints them when drawn (Cal.paint and the page's paint/chipLook), so nothing on the sheet changes. Birthdays keep their pink outline and holidays their gold in every scheme; \"Dec 1\" in the month is white instead of blue. Widget Graphite: the chip's frame is the coloured edge (chip_edge, inset like the chip), the chip moved over it. Tests: javacheck 78 (every scheme repaints every drawn colour, its words at 4.5:1 on its chip, ten distinct, none pink or gold, Soft tint when nothing is picked), page e2e (Soft tint by default, each scheme's chip, handed to Java, birthdays unchanged, no blue Dec 1), month-scroll passes; mutants red: default not Soft tint, scheme ignored, no tint style, Java paint a no-op.",
+    "built": "2026-11-19T06:00:14.156Z",
+    "src": "4830633af8dd11de27bce8124e7f23921f20e73892ed863a515de6662aefffe8"
   },
   "warranty": {
     "label": "Warranty",
