@@ -12,14 +12,14 @@
   },
   "papa": {
     "label": "Papa's book",
-    "code": 185,
+    "code": 186,
     "file": "papa.apk",
-    "sha256": "4f65e2b8a6324612700ed2e76a3d77c231a067397e90f958e9c97f2451ff794a",
-    "size": 557809,
-    "commit": "789c402",
-    "subject": "papa: the price page has Day by day under Year by year: every trading day of the last year, newest first, its last price and the change from the day before, each month named above its days. Asked: \"For this daily for last year please\".",
-    "built": "2026-11-19T06:48:58.053Z",
-    "src": "e57cafd77ada1612a6d095d83ed280a97c23a045a1fecd0663e1c44e7c9f21a3"
+    "sha256": "ff00ac23479cb4a54492d704f70156efce7ba7c13d4eb6e6c86d70b9c7f94820",
+    "size": 558877,
+    "commit": "69ff6dd",
+    "subject": "No pills in any app: No Wi-Fi, Not up to date and the waiting counts are the amber band from the start (shared/sync.js, android/web/update.js), and \"Checking for changes\" is gone. Vacation never says No Wi-Fi (a timed-out sync set it with Wi-Fi up), Been to tiles say the days spent there, photos with no place count on a trip's days when one of My cameras took them (Langkawi), pin maps drawn from the next zoom's tiles at half size, Where next? darker behind its words. Asked: \"I want to remove pills from all apps btw it should only be the banner\", \"idk why I'm still getting the no wifi pill sometimes remove it\", \"Instead of saying x trips y hotels say y days instead\", \"Add the langkawi photos too\", \"The map in where next looks blurry\", \"Make the where next more clear\".",
+    "built": "2026-11-19T16:35:15.892Z",
+    "src": "985084c7fe8ea5d55427f19affb1e0d14dd452fb05acb83191efaa5fc679a303"
   },
   "groceries": {
     "label": "Credit Card",
