@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 312,
+    "code": 313,
     "file": "stocks.apk",
-    "sha256": "b6324e485cc1220ad81e2ca61589c81e64c4af4e00d0e8c90f3a71845f53fcb3",
-    "size": 8424641,
-    "commit": "47eab52",
-    "subject": "Updating page: design C of round 2, laid out from the top. Asked: \"Could we Claude design it from the top bottom instead of centered\", then \"C\".",
-    "built": "2026-11-19T04:23:35.023Z",
-    "src": "875d2d184b43237c0cd4da08fa9a0952af99ea3cb11d58120893c71c7222cfd6"
+    "sha256": "9adb31c58ea3290a4ba167ba53028fcd433b39ebae8bc6f4e32b7e69680c2b63",
+    "size": 8425469,
+    "commit": "3495abb",
+    "subject": "Ledger day-line page: the built look on top",
+    "built": "2026-11-19T14:03:47.226Z",
+    "src": "279b4294ca8d6fe569aac5cea1d753ae02503cb57e92f87b9a4c51919b6d498b"
   },
   "papa": {
     "label": "Papa's book",
