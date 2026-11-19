@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 8,
+    "code": 9,
     "file": "weight.apk",
-    "sha256": "5f3cf3fd1c1baa02bdeb18941cd984c1fcb489226c85e38beca66ed57b7436c0",
-    "size": 239997,
-    "commit": "cf7839a",
-    "subject": "Weight: details under a food photo (\"thai tea, 20% sugar\") go to the reader and onto the sheet. A box under the photo on the meal's page; leaving it changed reads the photo again with them (a look still waiting on the Pi is dropped), the box keeps its words and focus when an answer lands, and the Food tab gets a Notes column. Asked: \"when papa takes a picture of his food I also want him to add details such as 'thai tea, 20% sugar' for example below the photo for calorie intake. Also add to the sheets details like the notes he made\".",
-    "built": "2026-11-19T09:29:11.351Z",
-    "src": "b8f0ec6d5f4f39e86fb0eb73ad654e53b341c7d9c84a9734c4da906c74864a76"
+    "sha256": "b088769fbabd264b395c7b0a455fa25c03a10fbd2b6170d824a13a75dc7174b3",
+    "size": 242173,
+    "commit": "f667f24",
+    "subject": "Weight: a meal without a photo. A pencil beside the camera's shutter opens Without a photo: Ask AI (write what was eaten, \"2 fried eggs, rice 200 g\"; the Pi's reader reads the words) or Type it (food, amount, kcal, protein/carbs/fat grams, saved as typed with no AI), each with its meal. The sheet's Food tab says where each came from (From: Photo / Words / Typed). Asked: \"papa wants to add in the weight app manually like if he doesn't have photos option to either ask Claude or write the grams himself etc\".",
+    "built": "2026-11-19T09:58:34.918Z",
+    "src": "03a2cf9d412ad5fbf74c44520aa105d496e4312bffcaeca4dd287c048ef6671b"
   }
 }
