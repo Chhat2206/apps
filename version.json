@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 9,
+    "code": 10,
     "file": "weight.apk",
-    "sha256": "b088769fbabd264b395c7b0a455fa25c03a10fbd2b6170d824a13a75dc7174b3",
-    "size": 242173,
-    "commit": "f667f24",
-    "subject": "Weight: a meal without a photo. A pencil beside the camera's shutter opens Without a photo: Ask AI (write what was eaten, \"2 fried eggs, rice 200 g\"; the Pi's reader reads the words) or Type it (food, amount, kcal, protein/carbs/fat grams, saved as typed with no AI), each with its meal. The sheet's Food tab says where each came from (From: Photo / Words / Typed). Asked: \"papa wants to add in the weight app manually like if he doesn't have photos option to either ask Claude or write the grams himself etc\".",
-    "built": "2026-11-19T09:58:34.918Z",
-    "src": "03a2cf9d412ad5fbf74c44520aa105d496e4312bffcaeca4dd287c048ef6671b"
+    "sha256": "67498f6d63cae5bc61a78cea889b47fc27373dbcb12fb1cd9ef819bebd2b31de",
+    "size": 243845,
+    "commit": "852d1ae",
+    "subject": "Weight: stepping on the scale is design C, Ripple. Rings rise from the scale while it weighs, slow while the weight settles and quick once it holds (the scale reading the body), with a bar under the number; when it is saved the rings stop, a burst, the number lifts, Saved for pops and the tiles and buttons rise. Asked: \"please implement c for weight\".",
+    "built": "2026-11-19T13:32:48.183Z",
+    "src": "1ffffffda97afd781bd7b6d583618f40afbd8f20d87f6fce76fd656c9a2f9685"
   }
 }
