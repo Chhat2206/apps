@@ -66,14 +66,14 @@
   },
   "collection": {
     "label": "Papa's Collection",
-    "code": 143,
+    "code": 144,
     "file": "collection.apk",
-    "sha256": "6b3a18ff4220e64717a5edcb7fd9bcd8cf2f24df224f25fdcb31fc36f667a74f",
-    "size": 270500,
-    "commit": "cb5e380",
-    "subject": "Phone apps: the update band (design A) and updates going in by themselves while the app is open",
-    "built": "2026-11-15T04:57:48.777Z",
-    "src": "46b0042476bf28d881e32a2217e99aa0cd171243d3eba0ebd2bb5551d902c8b1"
+    "sha256": "7c155b486496c294acc1627f9313593a5ef53c23a881c66bf67208bf4f555d7f",
+    "size": 277532,
+    "commit": "47eab52",
+    "subject": "Updating page: design C of round 2, laid out from the top. Asked: \"Could we Claude design it from the top bottom instead of centered\", then \"C\".",
+    "built": "2026-11-19T04:27:32.489Z",
+    "src": "aeecdc900b6dd7f586e6bf090ffa7a38effdac80dbc2246300b810e7f3fc297d"
   },
   "hub": {
     "label": "Hub",
