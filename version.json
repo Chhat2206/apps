@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 307,
+    "code": 308,
     "file": "stocks.apk",
-    "sha256": "40ce163a4ba0b86a69ac6cfac884915932841f535e25f5eca16c313db747a05b",
-    "size": 8410621,
-    "commit": "240f66e",
-    "subject": "Ledger: Upcoming's On each card = design A of round 2: All cards / each bank tabs as the heading over one row of two-line tiles. Asked: \"Maybe allow a 'Kasikorn, Krungthai, Both' and i can select which card… I don't like two rows and 4 columns\" then \"A\".",
-    "built": "2026-11-19T03:17:10.570Z",
-    "src": "b3d7d1a8f00a2555766717befc391bc43893747ca400587b469862c05c0e9456"
+    "sha256": "171c1b3bcbf71807409123c0b34f6317c30ff105b1ad69b45374619805909d95",
+    "size": 8411757,
+    "commit": "661d4cd",
+    "subject": "Ledger: Net worth's Earned / Spent swap morphs the line from one into the other (shape and colour), and Spent runs down from 0. Asked: \"For the net worth, when I click on earned or spent it should show an animation when swapping the graph. Spent should also go downwards not upwards\".",
+    "built": "2026-11-19T03:27:45.806Z",
+    "src": "66dc177de80260dd2863a58708521e82642ef6825292ded1f85203259d2349ef"
   },
   "papa": {
     "label": "Papa's book",
