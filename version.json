@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 316,
+    "code": 317,
     "file": "stocks.apk",
-    "sha256": "05e7514e44fcc8503561cff31da677e7ced98dc086d55c4adaf646cdb9b3105c",
-    "size": 8475545,
-    "commit": "69ff6dd",
-    "subject": "No pills in any app: No Wi-Fi, Not up to date and the waiting counts are the amber band from the start (shared/sync.js, android/web/update.js), and \"Checking for changes\" is gone. Vacation never says No Wi-Fi (a timed-out sync set it with Wi-Fi up), Been to tiles say the days spent there, photos with no place count on a trip's days when one of My cameras took them (Langkawi), pin maps drawn from the next zoom's tiles at half size, Where next? darker behind its words. Asked: \"I want to remove pills from all apps btw it should only be the banner\", \"idk why I'm still getting the no wifi pill sometimes remove it\", \"Instead of saying x trips y hotels say y days instead\", \"Add the langkawi photos too\", \"The map in where next looks blurry\", \"Make the where next more clear\".",
-    "built": "2026-11-19T16:24:32.575Z",
-    "src": "72e067cfc3f6576223350c1cb16c4902a47d1e6fc6a398b87daecc8c7d391771"
+    "sha256": "cf097e786f336f8586b09aacae45a8f927a454b3e52e824c59716e7c99d0677f",
+    "size": 8481577,
+    "commit": "0866304",
+    "subject": "Ledger: motion on Add, banks in their own colours, accounts with an icon and place of their own. + turns its + and Add rises; the Name pop-up's dim fades in and its sheet rises from the foot instead of snapping; a category tapped pops and its subcategory row opens with its rounds one after another; All rises and brings its rounds in. Bank/Cash on Add, the account in the picker and Home's default card are outlined in the bank's own colour (Krungthai blue, Kasikorn green, Bangkok Bank royal blue, cash in its coin's). An account's sheet shows its mark big, its own colour first, icons to pick (its logo, a coin, money icons, any bank's logo), its place among the accounts with arrows, and Reset (own look, Cashew's order). Wallets gained Icon and Place columns (money.orderWallets, byPlace). On the sheet: Meals, Vacation, Restaraunts and Climbing got distinct colours, the banks' old Cashew colours cleared. Tests: test/wallet-look.test.mjs, test/ledger-motion-e2e.mjs (7 mutants red), ledger-namepop-e2e waits for the new rise. Asked: \"Put an animation for when this opens when we click on one of the items etc\", \"Fix vacation meals etc to have a lil diff colour scheme\", \"Pressing + should also have a minimal animation and when clicking All\", \"Krungthai Kasikorn etc banks should follow their own colour scheme when highlighted\", \"Let me edit icon and position of stuff like banks and money and ofc reset it\".",
+    "built": "2026-11-19T17:35:08.323Z",
+    "src": "3ffed285a9432cf7188ccbc17ed736a9f6d4f5a516a0dacc7c3ff6b12c919e74"
   },
   "papa": {
     "label": "Papa's book",
