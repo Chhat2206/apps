@@ -5,7 +5,7 @@ shows "can't display". After that the app updates itself from here.
 
 - **Ad Block** — [adblock.apk](https://chhat2206.github.io/apps/adblock.apk), build 70, 2026-11-19: Updating page: design C of round 2, laid out from the top. Asked: "Could we Claude design it from the top bottom instead of centered", then "C".
 - **Birthdays** — [birthdays.apk](https://chhat2206.github.io/apps/birthdays.apk), build 26, 2026-11-19: Updating page: design C of round 2, laid out from the top. Asked: "Could we Claude design it from the top bottom instead of centered", then "C".
-- **Credit Card** — [card-tracker.apk](https://chhat2206.github.io/apps/card-tracker.apk), build 100, 2026-11-15: Phone apps: the update band (design A) and updates going in by themselves while the app is open
+- **Credit Card** — [card-tracker.apk](https://chhat2206.github.io/apps/card-tracker.apk), build 101, 2026-11-19: Updating page: design C of round 2, laid out from the top. Asked: "Could we Claude design it from the top bottom instead of centered", then "C".
 - **Papa's Collection** — [collection.apk](https://chhat2206.github.io/apps/collection.apk), build 143, 2026-11-15: Phone apps: the update band (design A) and updates going in by themselves while the app is open
 - **Control** — [control.apk](https://chhat2206.github.io/apps/control.apk), build 62, 2026-11-19: Pi: Chromium no longer waits ~25 s on the GNOME keyring, which had every Pi phone-app publish failing at its e2e. Asked: "yes fix the pi browser and publish the phone app"
 - **Better Deal** — [deal.apk](https://chhat2206.github.io/apps/deal.apk), build 56, 2026-11-15: Phone apps: the update band (design A) and updates going in by themselves while the app is open

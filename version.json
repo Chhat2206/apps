@@ -33,14 +33,14 @@
   },
   "card-tracker": {
     "label": "Credit Card",
-    "code": 100,
+    "code": 101,
     "file": "card-tracker.apk",
-    "sha256": "47beff5fe2f5d32ea73549b633d2b065f5e618d820deda27e8db62121917f170",
-    "size": 254550,
-    "commit": "cb5e380",
-    "subject": "Phone apps: the update band (design A) and updates going in by themselves while the app is open",
-    "built": "2026-11-15T04:57:06.039Z",
-    "src": "efa0b538569c5b75081c6e54254bfc36322cde2235cccedecb18d969633ec0b9"
+    "sha256": "e4bb5bfcde4468975f3de20fd900889c6ec7faef18dc67aa01fb4a3bfcca0779",
+    "size": 259818,
+    "commit": "47eab52",
+    "subject": "Updating page: design C of round 2, laid out from the top. Asked: \"Could we Claude design it from the top bottom instead of centered\", then \"C\".",
+    "built": "2026-11-19T04:25:00.687Z",
+    "src": "5cb718c06e52875d91d1ac913c34eeb287e07055374494f27abcb662dd6ceeb0"
   },
   "musu": {
     "label": "Work Tracker",
