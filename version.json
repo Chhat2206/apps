@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 313,
+    "code": 314,
     "file": "stocks.apk",
-    "sha256": "9adb31c58ea3290a4ba167ba53028fcd433b39ebae8bc6f4e32b7e69680c2b63",
-    "size": 8425469,
-    "commit": "3495abb",
-    "subject": "Ledger day-line page: the built look on top",
-    "built": "2026-11-19T14:03:47.226Z",
-    "src": "279b4294ca8d6fe569aac5cea1d753ae02503cb57e92f87b9a4c51919b6d498b"
+    "sha256": "137000d2c1349616abda12077a16fe7ef465fe3d1fd6790ffca97993af4533de",
+    "size": 8473441,
+    "commit": "0540926",
+    "subject": "Vacation: Home with no trip on or coming = design C of design/no-trip-2026-11-19: Where next? over a map of every place been to, a box that names the next trip (then its days), Been to first; a trip named with no days yet is the one Home shows. e2e/after.mjs closes its Chromium on any exit. Asked: \"Claude design me a page if there is no future vacation\", then C. e2e: packing/e2e/notrip.mjs (mutant red).",
+    "built": "2026-11-19T14:22:09.681Z",
+    "src": "cebda411c6c80a98a6d51934deb6fb639acc0d06814827268f92041e17a614a1"
   },
   "papa": {
     "label": "Papa's book",
