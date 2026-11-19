@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 102,
+    "code": 103,
     "file": "planner.apk",
-    "sha256": "7243de42ff5069858de713c1ceffa1851d92f90b40a80e7e74faccddaf644eb5",
-    "size": 428819,
-    "commit": "cb3e550",
-    "subject": "planner: colour schemes in Settings, Soft tint by default. Asked: \"B\" (round U), then \"let me choose against a variety of colours in settings please. Do b by default\". Settings › Colours lists Soft tint (words in the colour on a 22% tint of it), Dusk (filled, deep and muted, white words), Graphite (one dark chip, the colour a thin edge down its left) and Bold (as it was), each with five of its chips, the one in use ticked; a tap repaints the app and the widget. Events are still built in the same ten colours; the scheme repaints them when drawn (Cal.paint and the page's paint/chipLook), so nothing on the sheet changes. Birthdays keep their pink outline and holidays their gold in every scheme; \"Dec 1\" in the month is white instead of blue. Widget Graphite: the chip's frame is the coloured edge (chip_edge, inset like the chip), the chip moved over it. Tests: javacheck 78 (every scheme repaints every drawn colour, its words at 4.5:1 on its chip, ten distinct, none pink or gold, Soft tint when nothing is picked), page e2e (Soft tint by default, each scheme's chip, handed to Java, birthdays unchanged, no blue Dec 1), month-scroll passes; mutants red: default not Soft tint, scheme ignored, no tint style, Java paint a no-op.",
-    "built": "2026-11-19T06:00:14.156Z",
-    "src": "4830633af8dd11de27bce8124e7f23921f20e73892ed863a515de6662aefffe8"
+    "sha256": "399792cedcbaa557b241fac3915bda8e584aa8a85114af0e0cc10463b2e546ad",
+    "size": 429911,
+    "commit": "69ff6dd",
+    "subject": "No pills in any app: No Wi-Fi, Not up to date and the waiting counts are the amber band from the start (shared/sync.js, android/web/update.js), and \"Checking for changes\" is gone. Vacation never says No Wi-Fi (a timed-out sync set it with Wi-Fi up), Been to tiles say the days spent there, photos with no place count on a trip's days when one of My cameras took them (Langkawi), pin maps drawn from the next zoom's tiles at half size, Where next? darker behind its words. Asked: \"I want to remove pills from all apps btw it should only be the banner\", \"idk why I'm still getting the no wifi pill sometimes remove it\", \"Instead of saying x trips y hotels say y days instead\", \"Add the langkawi photos too\", \"The map in where next looks blurry\", \"Make the where next more clear\".",
+    "built": "2026-11-19T16:36:30.361Z",
+    "src": "46e47bdcd660b92b914c1fb7643c7970ccea0bed5ae976e5e95334a1459ab144"
   },
   "warranty": {
     "label": "Warranty",
