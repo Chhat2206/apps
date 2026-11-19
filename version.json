@@ -110,14 +110,14 @@
   },
   "control": {
     "label": "Control",
-    "code": 62,
+    "code": 63,
     "file": "control.apk",
-    "sha256": "ea772fc69b61c69c6f5a58dced5ea7855896ee0dec3326cb6eec0eba65a8a306",
-    "size": 176055,
-    "commit": "351fdbb",
-    "subject": "Pi: Chromium no longer waits ~25 s on the GNOME keyring, which had every Pi phone-app publish failing at its e2e. Asked: \"yes fix the pi browser and publish the phone app\"",
-    "built": "2026-11-19T03:03:57.602Z",
-    "src": "2992311f0043361b02506028bb3ee38d574f2153f5f27e2c598f84c8fa336d38"
+    "sha256": "71bfd574ac1325eedec2cad01f6d5753338751b7a1097a6a318a7a0df715465b",
+    "size": 181663,
+    "commit": "47eab52",
+    "subject": "Updating page: design C of round 2, laid out from the top. Asked: \"Could we Claude design it from the top bottom instead of centered\", then \"C\".",
+    "built": "2026-11-19T04:29:24.382Z",
+    "src": "1c61b1edea71ac791a596d833c7e35c04ed21faa4114a9c29a54ac022dc983c4"
   },
   "deal": {
     "label": "Better Deal",
