@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 304,
+    "code": 305,
     "file": "stocks.apk",
-    "sha256": "2e54ec6648e9034bfb2bdc5fa138cac0f392c754543815f3fc4c61e240defe3c",
-    "size": 8409001,
-    "commit": "2906763",
-    "subject": "Ledger: the vacation banner is E1 with see-through day tiles over the scenery. Asked: \"E1 yes. I really like E2's graph because the bottom seems like too much wasted space but both seem redundant. Maybe make the Tue Today etc translucent and put the sun mountains etc background behind it\".",
-    "built": "2026-11-18T16:53:05.647Z",
-    "src": "34dc7223a9293d4c6adf265ecd66456eddb502ad017178f6ae26e70f4d696ab5"
+    "sha256": "73e655f131c4503f16b1ee952ae437f590fd55b62a9323048138c1cc6e3464c2",
+    "size": 8409177,
+    "commit": "28f9bcc",
+    "subject": "Ledger: a trip's page has Home's E1 band. Asked: \"Could we make this banner seem like E1 of Ledger Vacation banner?\"",
+    "built": "2026-11-19T01:42:29.158Z",
+    "src": "70f3e372c030905396c76ba2b8d46efd1beeea68595a7a530848773e64c5a4c2"
   },
   "papa": {
     "label": "Papa's book",
