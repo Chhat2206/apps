@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 310,
+    "code": 311,
     "file": "stocks.apk",
-    "sha256": "a880b04eb4f24d02408034c967d4b236c8582313dba0642610958e061ae2f145",
-    "size": 8418197,
-    "commit": "83a57c4",
-    "subject": "Ledger: Saving sells at a baht broker (SET) too. The sale's cost stays what was put in, the baht it fetched sit at the broker as cash worth that much, and a later buy there can spend them. Asked: \"the 'Saving' in the ledger app does include SET if I decide to invest some parts into the thai market right?\" then \"yes\" to adding the sell.",
-    "built": "2026-11-19T03:38:10.804Z",
-    "src": "6d6bc40f445e3f1758c1085cd0f2458ec51ed9fa7e20228359ea0e82a9e8be3e"
+    "sha256": "24f57a0dbc572cbe5284bc855e05a6c11444d9dad8da7b8ccb9521e980a4b74f",
+    "size": 8424413,
+    "commit": "b930c65",
+    "subject": "Ledger: Lent and Borrowed are two tiles on Net worth, after Earned, Spent, Upcoming and Overdue, in the same tiles; a tap lists who. The Lent and borrowed switch on Upcoming is gone. Asked: \"If I press lent and borrowed, it should show up below earned spent upcoming overdue in this column format. Not in the upcoming page itself please\".",
+    "built": "2026-11-19T04:16:37.537Z",
+    "src": "a2a8e509ac7f8fd8716701efa81680b13c0ec0472466eb959a65e1182c1f3cb1"
   },
   "papa": {
     "label": "Papa's book",
