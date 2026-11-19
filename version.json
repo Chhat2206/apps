@@ -12,14 +12,14 @@
   },
   "papa": {
     "label": "Papa's book",
-    "code": 183,
+    "code": 184,
     "file": "papa.apk",
-    "sha256": "c900ca79cf926d2adc4c44c9f5c35daac6161e4607d486dfa84df4751ac79f70",
-    "size": 546521,
-    "commit": "cb5e380",
-    "subject": "Phone apps: the update band (design A) and updates going in by themselves while the app is open",
-    "built": "2026-11-15T05:13:22.219Z",
-    "src": "fa4fcefa9d3b474419f845fde22137964ef717ea5a3529b342928bf73358e131"
+    "sha256": "358ee2bdaab08caa540b988c356b8ce78711a8104e8857da68ab3e0bde8bcf03",
+    "size": 547405,
+    "commit": "6cfc1c0",
+    "subject": "papa: a tap on a stock's price on Home opens its price for the last ten years, like the dividend years, with a › beside the price. Asked: \"Papa wants to click price and see the last year price similar to the dividend table. Please add an arrow next to it too to signify it can be pressed.\"",
+    "built": "2026-11-19T03:21:46.122Z",
+    "src": "0adc9a43f169ecd639db29902a7e5815d5bc89527022c1cd61ae25082d1037fb"
   },
   "groceries": {
     "label": "Credit Card",
