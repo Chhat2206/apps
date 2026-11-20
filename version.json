@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 24,
+    "code": 25,
     "file": "weight.apk",
-    "sha256": "6713a0c9543b62c88af3599947a8c49ab1d1ed714e97278ae838ff3c80e1fb0a",
-    "size": 284708,
-    "commit": "c01fab7",
-    "subject": "Weight: What I ate, design E. A tab \"Ate\" (for everyone without the Food page, or switched on in Settings › What I ate page, People column M): the day's bowls big, each meal's dishes with their bowls drawn (half a bowl drawn half), violet home, blue restaurant, orange and outlined when overate. + opens a sheet: Home | Restaurant, the meal, your usual dishes as tiles (a first tap brings last time's bowls, each next tap ½ more, the count or a long press ½ less), New to type one; \"Just right\" / \"Too much\" saves it. A meal tapped opens it again with a bin; any day can be added to. Kept on the sheet's \"What I ate\" tab, a row a meal, the newer change winning like the Food tab. test/ate.test.mjs (3 mutants red, 1 equivalent) and e2e 9e (290 checks; mutants red: first tap ignoring last time, a click after a hold counted, overate not orange). Asked: \"In the weight app add a 'what I ate' section … add 'bowl' or katori … where the dish is from restaurant / home and did I overeat or no\", then \"E\".",
-    "built": "2026-11-20T13:16:25.330Z",
-    "src": "5a20f06b6f3676787a620b941e8f1929336aad3febb032021729c562f4560703"
+    "sha256": "017aed1014bf6f309c385e90bc65ed47b253b0580eb9ce5d85efed3c0b72499b",
+    "size": 295813,
+    "commit": "10c247c",
+    "subject": "Weight › What I ate: every dish gets its own food icon, chosen by its name. About 60 icons copied unchanged from Lucide, and from Tabler where Lucide has none (noodle bowl, dumpling, teapot, bubble tea, sausage, grill, meat on the spit for shawarma), matched by whole words in English, Indian and Thai names, the kind of dish before what it is made of (\"Chicken shawarma\" a shawarma, \"Masala chai\" tea, \"Egg fried rice\" rice), a knife and fork when nothing matches. Shown before each dish's name on the day and at the top of each tile. test/foodicons.test.mjs (mutants red: an early rule taken out, whole-word matching dropped) and e2e (pot for Dal, bowl for Rice, on the page and the tiles; 292 checks). Asked: \"Use a ton of icons for different types of foods auto chosen like schwarma etc\".",
+    "built": "2026-11-20T13:30:44.204Z",
+    "src": "2feee429ae12d10d1827c5799880f5924d37c8b97d50fa4a5d580ac80bb01cc9"
   }
 }
