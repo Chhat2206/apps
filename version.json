@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 329,
+    "code": 330,
     "file": "stocks.apk",
-    "sha256": "7ab2ad534977e3d48cb23dc4a974b8f112cb479e1e3a14948d6b4e572cff70e2",
-    "size": 8489425,
-    "commit": "b505e0c",
-    "subject": "Ledger: From and To as design B, two cards with a round arrow between them. On the Add form (Transfer and My account) From and To are two cards side by side with the account's logo, name and balance, \"Pick one\" on a dashed ring until chosen, and a round arrow bridging them; the page that picks has the same cards on top, outlined in the picked accounts' colours, heading its two columns, whose tiles are now one line of logo and name. ledger-fromto-e2e.mjs: the two cards level and equal with the arrow centred between them, the page's cards the width and left edge of their columns and lit only once picked (2 mutants red: no arrow, columns off the cards); lent, motion and namepop e2e pass. Asked: \"B looks good fix this page too\".",
-    "built": "2026-11-20T11:55:49.930Z",
-    "src": "85feda1f23d97ca938529e6055ae6d6d1ac24240b9f394bc2c2d8086c05e0e9a"
+    "sha256": "1873d37b8b53e7d6647d354e0ecb914f82b89a0de3817a6ddce2accc28b2b6a8",
+    "size": 8489569,
+    "commit": "f56d146",
+    "subject": "Ledger: the picked subcategory's ring is whole again, and haircuts are Lifestyle › Haircut. The + form's subcategory row kept its opening motion's overflow: hidden, which cut the top of the 5 px ring round a round picked with it (the Name pop-up's Haircut); it is overflow: clip with an 8 px clip margin now. On the sheet, the 9 \"Haircut\" lines filed under University › Health Products moved to Lifestyle › Haircut (where Ear Cleaned already was), and Haircut got a scissors icon. ledger-subring-e2e.mjs: nothing around the picked round clips its ring (red with overflow: hidden back: \"m-subs2 top\"). Asked: \"The top of the haircut circle cuts out and maybe we can put haircut under its own haircut brand… edit every haircut before this to match it as well\".",
+    "built": "2026-11-20T12:40:25.628Z",
+    "src": "b5f65a59f2168ac94dc062d2a51b8cf84b8d76d4443c95d793486810575a5005"
   },
   "papa": {
     "label": "Papa's book",
