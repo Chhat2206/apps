@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 128,
+    "code": 129,
     "file": "packing.apk",
-    "sha256": "c9e481f69e9ed1067759e06917201b49341640864521655b784e544e576e788c",
-    "size": 931118,
-    "commit": "3039426",
-    "subject": "Weight: Save now. A weighing not saved 20 s after the scale's first frame gets a Save now button: what the scale gave so far is kept (the usual who-is-it), and the phone's log of the last 2 minutes of the scale (every frame decoded, repeats, what the app did) goes to the Pi's weight-reader, which keeps it under /mnt/hdd/pi-dev/weight-logs and opens a Claude terminal on the Pi with it (once per 10 minutes) to find why and fix it. Unit 109/109, e2e 207 checks; mutations (no 10-minute limit, no button at 20 s) went red. Asked: \"Maybe a button too that if it takes more than 20 seconds to save you can automatically save what already is there and then obviously just open a Claude terminal to investigate. and send the logs to the terminal directly, feel free to use the pi and the connection\".",
-    "built": "2026-11-20T02:54:32.428Z",
-    "src": "f18494b257a2a4c022ed7d9b1a6d48b21d2666353de82ac5f093a1491460ccd2"
+    "sha256": "05013ad881bf798e8285430efd905672a0010faa756a1de849503f9375e6d7b5",
+    "size": 931242,
+    "commit": "842d34e",
+    "subject": "Vacation: Set as cover photo goes straight on to Move and resize. The Immich photo closes and the new cover opens in its framing (in the middle, as a new trip photo always starts); Save keeps it. after.mjs: the photo closes, Move and resize opens for the trip with the new cover, the banner saved as moved (mutant without the jump red). Asked: \"when i click 'set as cover' in vacation app it should go into the 'move and resize' page\".",
+    "built": "2026-11-20T03:32:43.213Z",
+    "src": "07fbab5e8badefffd9ab0f65f1064d22e1748e01abb82750af8a3e68c8e3c972"
   },
   "control": {
     "label": "Control",
