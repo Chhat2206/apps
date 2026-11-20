@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 327,
+    "code": 328,
     "file": "stocks.apk",
-    "sha256": "cb209eae365edb3ddab6ef26b885a59f6d18b14521253263dd1c27447e9f9eaa",
-    "size": 8488897,
-    "commit": "c380eb3",
-    "subject": "Ledger: a name used before has a + New tile too, after its past tiles on the right. Typed in full, a past name shows its tiles (last cost, category) and then New, which keeps the name with no cost and no guessed category, so a new amount or category starts clean; a name never used keeps New first. ledger-namepop-e2e.mjs: New is the last tile, right of the past one, and gives the name with an empty amount and category (2 mutants red: no New on a known name, New filling the old category). Asked: \"Also if I type a name but it's a new amount or category past the existing in the right allow a + new icon\".",
-    "built": "2026-11-20T11:24:44.574Z",
-    "src": "228b357f68d7ca0bf5e81578f8f4db3f0d29b6b4822645c513a361c21bbf5c78"
+    "sha256": "f62f6f866653deeafe7f4a95a983e01373a8c4538df76273dca345f7cb5d3ee2",
+    "size": 8489049,
+    "commit": "03f819f",
+    "subject": "Ledger: From and To without the stray chevron, and a sending line's spinner before its name. The From and To page's heads sit over their own columns with no arrow between; the form's From → To row has a long arrow level with the names, not a chevron between label and name. A line still being sent (or kept offline) shows its spinner or cloud before its name, so its amount stays in line with the others. ledger-fromto-e2e.mjs: heads over the columns' marks with no arrow, the row's arrow within 2 px of the names' middle, spinner and cloud before the name on a line and a transfer with the amount's right edge equal to a sent line's (3 mutants red). Asked: \"From & To with > looks a lil off otherwise good fix it\" and \"Loading should be in the left of the text not right tho idk if it'll look better u decide\".",
+    "built": "2026-11-20T11:36:03.833Z",
+    "src": "a44b618e307ab090a92a6703e20dd914c9c6b58504cf12971b812a95b7f10da7"
   },
   "papa": {
     "label": "Papa's book",
