@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 16,
+    "code": 17,
     "file": "weight.apk",
-    "sha256": "03202ad9d37413d87850f9dd2d80be8ff579a1fff5d8734fb3fe47227c5ba11c",
-    "size": 253533,
-    "commit": "e915949",
-    "subject": "Weight Body: three colours and a range on every line. Each figure has a tone: blue healthy, orange a bit off, red well off (body age 5+ years over your age, a score under 60, low muscle, Obese, or past a fifth of the healthy range). To work on colours its figure and dot by it; every Looking good line gets its range bar with a blue dot where you are. Unit 115/115; e2e 216 checks; mutants (no red, body age never red) red. Asked: \"Even the looking good I wanna see the range and where I fall under etc and I expect different colours if bad. Like body age 32 is very concerning\".",
-    "built": "2026-11-20T04:21:11.863Z",
-    "src": "43d47d94c38801ca8dcc7db9eb9ccd7b588de9d10ace0f3e33118e618582d33e"
+    "sha256": "7b310896df30aa9aba290f0fe526d3c69fbca390c19dc1014f4ee23455c19ed5",
+    "size": 257409,
+    "commit": "29941cf",
+    "subject": "Weight Body: Resting calories keeps to one line. The tile reads \"2,118 kcal\" with \"Resting calories a day\" under it; \"a day\" on the figure's line wrapped onto a line of its own. e2e all ok; mutant (unit back on the figure) red. Asked: \"I don't want day in another line\".",
+    "built": "2026-11-20T05:35:28.348Z",
+    "src": "9da076bf64d9caf861180b0202d65794e8453a5a6af7d6727ad68b647bc35fd6"
   }
 }
