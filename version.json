@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 317,
+    "code": 318,
     "file": "stocks.apk",
-    "sha256": "cf097e786f336f8586b09aacae45a8f927a454b3e52e824c59716e7c99d0677f",
-    "size": 8481577,
-    "commit": "0866304",
-    "subject": "Ledger: motion on Add, banks in their own colours, accounts with an icon and place of their own. + turns its + and Add rises; the Name pop-up's dim fades in and its sheet rises from the foot instead of snapping; a category tapped pops and its subcategory row opens with its rounds one after another; All rises and brings its rounds in. Bank/Cash on Add, the account in the picker and Home's default card are outlined in the bank's own colour (Krungthai blue, Kasikorn green, Bangkok Bank royal blue, cash in its coin's). An account's sheet shows its mark big, its own colour first, icons to pick (its logo, a coin, money icons, any bank's logo), its place among the accounts with arrows, and Reset (own look, Cashew's order). Wallets gained Icon and Place columns (money.orderWallets, byPlace). On the sheet: Meals, Vacation, Restaraunts and Climbing got distinct colours, the banks' old Cashew colours cleared. Tests: test/wallet-look.test.mjs, test/ledger-motion-e2e.mjs (7 mutants red), ledger-namepop-e2e waits for the new rise. Asked: \"Put an animation for when this opens when we click on one of the items etc\", \"Fix vacation meals etc to have a lil diff colour scheme\", \"Pressing + should also have a minimal animation and when clicking All\", \"Krungthai Kasikorn etc banks should follow their own colour scheme when highlighted\", \"Let me edit icon and position of stuff like banks and money and ofc reset it\".",
-    "built": "2026-11-19T17:35:08.323Z",
-    "src": "3ffed285a9432cf7188ccbc17ed736a9f6d4f5a516a0dacc7c3ff6b12c919e74"
+    "sha256": "7e4143525c305b4847a2815da424fe17f0f3c95015242ad5d9d27f63200de191",
+    "size": 8481953,
+    "commit": "4564165",
+    "subject": "Ledger Home: tapping an account card no longer snaps the row back to the front. The tap only moves the outline to the card (no whole-Home redraw), and any Home redraw keeps the account row where it was scrolled to. Test: test/ledger-acctrow-e2e.mjs (both mutants red). Asked: \"When I select smth like Bangkok bank it shouldn't snap me to the front please\".",
+    "built": "2026-11-20T01:06:42.713Z",
+    "src": "f31ad5a39ee257aaf3c3a4694b9faa30a9e6b9bfee4a4f616e84a81679cbd8bb"
   },
   "papa": {
     "label": "Papa's book",
