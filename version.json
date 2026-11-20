@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 22,
+    "code": 23,
     "file": "weight.apk",
-    "sha256": "9b2199070d22c93a66c4583cd8515a00aa30510509e15c2158311ad6e0a7b2b9",
-    "size": 269417,
-    "commit": "a620adc",
-    "subject": "Weight Food: take one photo off a meal. With two or more photos each has an X; the rest are read again, and the last one has none (the bin removes the meal). A meal now lists its photo keys (m.photos, never reused) on the Food tab's new column U Photos, so a removal reaches every phone; the removed photo's row on Food photos is emptied once the meal is read again, so no other phone sends its copy back. The day's tile shows the first photo left. Unit 131/131, 5 mutants red; e2e all ok (X on the middle photo: the Pi gets the first and last; down to one: no X; the sheet's rows emptied and the list updated; off the phone; the tile keeps a photo), mutant (tile by id) red. Asked: \"Yes\" (to a remove button on each photo).",
-    "built": "2026-11-20T07:14:57.148Z",
-    "src": "89aed19283595a228ed92e43a1b92e1319fb579a47920ddfe09ff6dfa6b212dd"
+    "sha256": "c7e3aa9581d6d2c781dc9c30bf4878f09096b69295409b265460932944a944d4",
+    "size": 280045,
+    "commit": "fe606a1",
+    "subject": "Weight Body: an opened figure in plain steps, design A.",
+    "built": "2026-11-20T07:58:28.543Z",
+    "src": "b4d11d6c8c605e068975c6deeaba454811849611e97ac7713efd77da1a62063e"
   }
 }
