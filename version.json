@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 28,
+    "code": 29,
     "file": "weight.apk",
-    "sha256": "87b2f5f3109e19f63144bc46faa1fd491fe4beac6bb6b639b7a90af7d119532a",
-    "size": 308442,
-    "commit": "50c83d0",
-    "subject": "Weight: bowls for Chhat, kcal for Papa and Mummy, and Samsung Health under the right person.",
-    "built": "2026-11-20T16:26:31.381Z",
-    "src": "30df8cc1cb1a391c613e198469017e37e29cfb261d82d7f83a084dc86c1679f6"
+    "sha256": "4fc5e3547e3dcf5c555b632483a862be821e9f5ef46d33435738b59a76210b70",
+    "size": 310466,
+    "commit": "97af33b",
+    "subject": "Weight: Ask AI for the kcal on the bowls sheet, and subtle motion on the Food page.",
+    "built": "2026-11-20T17:04:15.795Z",
+    "src": "098fc721d7e7608e1303a45245363b58bc7f44160cb308fd88744178937d4431"
   }
 }
