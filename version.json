@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 132,
+    "code": 133,
     "file": "packing.apk",
-    "sha256": "09a3e5635deaa7abfbfd40db39fff97a772f09fb70f975d4a2a77ce3fd1de886",
-    "size": 932462,
-    "commit": "ba0015c",
-    "subject": "Vacation: Where next? in ocean navy, no Day trip choice, pins that sit on each other merge. The band behind \"Where next?\" and the status bar over it are navy (design A; the brown-grey was \"such an ugly colour\"), and \"Name the next trip\" is a darker brown. The trip pop-up no longer offers Stay | Day trip, only Regular | Climbing (a trip already marked Day trip on the sheet still shows as one; none is). Unnumbered pins within 26 px of a group's first place are one pin at the group's middle with a count, a climbing pin if any climbed, and the climbing pin is smaller on the world map: Railay, Krabi, Langkawi and Penang were a pile of teardrops and dots. notrip.mjs checks the navy band, status bar, placeholder and the merge on the real trips' places (4 mutants red); drive.mjs checks the pop-up has no Day trip (its day-trip walk removed with the choice), after.mjs and unit tests pass. Asked: \"Remove the 'day trips' please. also choose A. also make the 'name the next trip' text darker\", \"The Day trip option\", \"The pins look weird here\".",
-    "built": "2026-11-20T07:09:57.753Z",
-    "src": "ea2095318139ac173a8c8ee3899505d98806207f35417c9a87a3ab7e5fa693e4"
+    "sha256": "41b0db73effc8b42f9a6b67a40ecd301edf781c7637169c3527924c08a15b370",
+    "size": 930574,
+    "commit": "b90de84",
+    "subject": "Vacation: every trip is a pin on Where next?, a press opens it, and You are on the map. Design A of packing/design/pins-2026-11-20 with A of pin-tap-2026-11-20: a regular trip is a white pin with a dot, a climbing trip orange with a carabiner (the yellow dots are gone); trips on top of each other are a small fan of their own pins with the count. A press on one trip's pin opens its card (photo, name, country, When / Days / Climbing or With, Open trip); on a fan, \"N trips here\" with a line per trip, each opening it. Where the phone is shows as a blue dot, asked once each time the app starts (rough, silent, never again on a phone that refused), and the map zooms in a step with it. Been to: the round carabiner badge on the photo is gone, a climbing area's days read in orange with the carabiner; trips on the tiles' and area pages' maps are the same pins. The app's pressed-button scale replaced a pin's position, so it jumped from under the finger: pins keep their place. notrip.mjs: four white pins over the fade and clear of the gear, You from a Bangkok location, the real Railay/Krabi/Langkawi fan of 3 with Penang apart, a real press opens Tokyo's card and Open trip, a list of two opens Chiang Mai (3 mutants red: no You, no fan, the jumping pin); drive.mjs climbing marks on the new pins and tile; after.mjs and unit tests pass. Asked: \"Why not have all of them be waypoints … show my current location … the pins design in the top left … slapped on like a sticker\", picked \"A\", then \"A but I can press the pin for details … make it obvious it's seperate\", picked \"A\".",
+    "built": "2026-11-20T10:19:05.849Z",
+    "src": "f327bfac8eaed4317f843eb13aead6af1c67408e94b78a08242d967722d548e9"
   },
   "control": {
     "label": "Control",
