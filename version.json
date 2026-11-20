@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 14,
+    "code": 15,
     "file": "weight.apk",
-    "sha256": "979246f85f398f09f8e3b13ba68164db014e458a29394447f9cce2e7da40842e",
-    "size": 249741,
-    "commit": "73d602a",
-    "subject": "Weight: Save now. A weighing not saved 20 s after the scale's first frame gets a Save now button: what the scale gave so far is kept (the usual who-is-it), and the phone's log of the last 2 minutes of the scale (every frame decoded, repeats, what the app did) goes to the Pi's weight-reader, which keeps it under /mnt/hdd/pi-dev/weight-logs and opens a Claude terminal on the Pi with it (once per 10 minutes) to find why and fix it. Unit 109/109, e2e 207 checks; mutations (no 10-minute limit, no button at 20 s) went red. Asked: \"Maybe a button too that if it takes more than 20 seconds to save you can automatically save what already is there and then obviously just open a Claude terminal to investigate. and send the logs to the terminal directly, feel free to use the pi and the connection\".",
-    "built": "2026-11-20T02:57:14.242Z",
-    "src": "a0ccd126b82045722fc281f3e6c5d1c881643994435458719a93b64c7832a700"
+    "sha256": "2d12064d971eed58e98727591a989f5c05d75de8560a272de574a60522ac1172",
+    "size": 250177,
+    "commit": "f69c30d",
+    "subject": "Weight food: no length caps on food words, items saved as \"name [amount]\", X keeps a read meal.",
+    "built": "2026-11-20T03:51:07.251Z",
+    "src": "e0d4903da9ca020d1da038fe012316405cde684130b095283a83e1a5449ea718"
   }
 }
