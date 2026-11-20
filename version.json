@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 325,
+    "code": 326,
     "file": "stocks.apk",
-    "sha256": "b40276d9529d530586d11e3c8c3f92d605ae4687dc99277eb9eca6a42df6d347",
-    "size": 8486385,
-    "commit": "d6b2d1e",
-    "subject": "Credit Card: under Still to pay, what falls due by the end of this month and by the end of next month, side by side. Each bill counts on its card's due day (statement closes on the next cut-off on or after the bill, due on the next due day after it; a card with no due day: the bill's own day), one past its due day in this month, and the months of a subscription or split not on the list yet by the day they will be added. Next month's counts from now, so it holds this month's. Follows the Who / Kind / Card filters. e2e card-tracker/e2e/dueby.mjs (stub sheet, STUB_DUEBY, dates from today): ฿500 / ฿2,900 as worked out, gone once every bill is ticked; ignoring the cut-off/due rule and leaving plan months out both go red. bills.mjs e2e ok. Asked: \"add a 'this month' to the wallet app right below the total or smth like x till end of this/next month... since 27 would mean 0 its not accurate show both numbers\".",
-    "built": "2026-11-20T09:33:47.106Z",
-    "src": "553273b4abb0c75e84d18856f326b351fdf600309e068f94992f983921420705"
+    "sha256": "410f7447b2cc9cc471ef35b5309563477701c1a4eabe03a2f81f1fb1c23af5b3",
+    "size": 8488801,
+    "commit": "a38d238",
+    "subject": "Ledger: From and To picked on one page, and an empty Name no longer brings the number keys. A Transfer (and My account on an Expense) shows From → To as one row; the Transfer tab with no To yet, My account and that row open two columns side by side, the same account on the same line, investments under To only. A From tapped stays on the page, a To tapped goes back to the form, an account already on the other side swaps the two; a word too wide for its tile shrinks rather than splits. The Name pop-up closed by a tap outside, Back or Enter with nothing typed lands on the form without the keys; typed words still bring them. ledger-fromto-e2e.mjs (real taps at 360 px, Nunito Sans and the fallback font) and ledger-namepop-e2e.mjs pass; lent and motion e2e moved to the new page; 4 mutants red (keys on an empty name, no close on To, My account back to the lone To list, no swap). Asked: \"Instead of immediately asking to, build me a UI that allows me to select both who is it from and who is it to in one click. If I tab away from name, it shouldn't ask for number of dollars of cost.\"",
+    "built": "2026-11-20T11:22:31.151Z",
+    "src": "d8b56b0566fbaeea0e814cdfd04ec5c8656ebf86c95abf8e9b363b5f30db769a"
   },
   "papa": {
     "label": "Papa's book",
