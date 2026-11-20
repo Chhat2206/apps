@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 129,
+    "code": 130,
     "file": "packing.apk",
-    "sha256": "05013ad881bf798e8285430efd905672a0010faa756a1de849503f9375e6d7b5",
-    "size": 931242,
-    "commit": "842d34e",
-    "subject": "Vacation: Set as cover photo goes straight on to Move and resize. The Immich photo closes and the new cover opens in its framing (in the middle, as a new trip photo always starts); Save keeps it. after.mjs: the photo closes, Move and resize opens for the trip with the new cover, the banner saved as moved (mutant without the jump red). Asked: \"when i click 'set as cover' in vacation app it should go into the 'move and resize' page\".",
-    "built": "2026-11-20T03:32:43.213Z",
-    "src": "07fbab5e8badefffd9ab0f65f1064d22e1748e01abb82750af8a3e68c8e3c972"
+    "sha256": "0cb44b81719f6b1f8c3c49df88b94d4158b0ab82f8abfb104104fc7ed5bc05ed",
+    "size": 931554,
+    "commit": "dd0641a",
+    "subject": "Vacation: the Where next? pins can be seen again. On the satellite the dark trip dots were lost in the dark photo; there they are gold with a white ring now. The map also centred on the first trip whenever the trips were too spread out for any zoom (Laos + Tokyo put Tokyo on the edge under the gear): it centres on all of them now, lifted into the clear part above the \"Where next?\" fade. notrip.mjs checks every pin is gold and in the clear part (3 mutants red: old centring, dark dot, no lift); after.mjs passes (one Immich-photo timing flake, passed on rerun); unit tests pass. Asked: \"Halo Wheres my vacay pins\".",
+    "built": "2026-11-20T06:17:59.875Z",
+    "src": "ac42c766b0db543347470a1b97dab4d2787125bec745e1bb940ec862d3489f3f"
   },
   "control": {
     "label": "Control",
