@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 318,
+    "code": 319,
     "file": "stocks.apk",
-    "sha256": "7e4143525c305b4847a2815da424fe17f0f3c95015242ad5d9d27f63200de191",
-    "size": 8481953,
-    "commit": "4564165",
-    "subject": "Ledger Home: tapping an account card no longer snaps the row back to the front. The tap only moves the outline to the card (no whole-Home redraw), and any Home redraw keeps the account row where it was scrolled to. Test: test/ledger-acctrow-e2e.mjs (both mutants red). Asked: \"When I select smth like Bangkok bank it shouldn't snap me to the front please\".",
-    "built": "2026-11-20T01:06:42.713Z",
-    "src": "f31ad5a39ee257aaf3c3a4694b9faa30a9e6b9bfee4a4f616e84a81679cbd8bb"
+    "sha256": "a93a21f6f12fe7629a6fcff034a0501c0543703fa78632c67a9927e7555bb2cf",
+    "size": 8484785,
+    "commit": "ffc324f",
+    "subject": "Ledger: everything leaves as softly as it comes. Back or × on Add, the account picker, All, every bottom sheet, the Stocks forms and sheets: a copy of what was showing fades and drops away while the real one is hidden at once (the hidden property wrapped on each overlay, mGhost; copies at the end of the page, inert, no ids), so no closing code changed and a quick tap lands underneath. A picker going a page deeper slides in from the right, back from the left (mSwap). Redraws of Add and of an open sheet: a part that was not there rises in, a pick newly on pops (Transfer's To row, Bank/Card/Cash, chips). Number keys nudge the amount, the back key shrinks it. The Stocks forms rise in like Add. ledger-motion-e2e covers each (5 more mutants red); the other Ledger e2e suites pass as before, and the ones on the real sheet fail the same way on master. Asked: \"When I click backspace from here or z also add a small animation. In fact can u add subtle ones throughout the entire app please\".",
+    "built": "2026-11-20T01:30:48.019Z",
+    "src": "02017a6f5cb62648b904ce9766b97c70241aa97cfea843188d520182bb7a931e"
   },
   "papa": {
     "label": "Papa's book",
