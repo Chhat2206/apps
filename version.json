@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 136,
+    "code": 137,
     "file": "packing.apk",
-    "sha256": "89c206ecd2fae6c81bd7e55d1f2417a687828e20befe464a147736b3d1ab2fe6",
-    "size": 934174,
-    "commit": "59231cb",
-    "subject": "Vacation: Find one online beside Pick a photo in a place's or spot's Edit.",
-    "built": "2026-11-20T16:11:08.130Z",
-    "src": "4152114f79bde6515f2c86213e2e991502afa1e97e44597d76e2da907065f4a6"
+    "sha256": "7450a4d83e1ab0961b2f5ec965160d54a4d2f9bd53afeb6c36b23240fed465f5",
+    "size": 936642,
+    "commit": "6bcdc6a",
+    "subject": "Vacation: every photo's location on the area's map.",
+    "built": "2026-11-20T17:00:16.837Z",
+    "src": "87c6facd30d00237b0b72a1895bc390604b48dbbceae9b089a369f38456dcd10"
   },
   "control": {
     "label": "Control",
