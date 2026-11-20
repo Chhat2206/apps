@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 15,
+    "code": 16,
     "file": "weight.apk",
-    "sha256": "2d12064d971eed58e98727591a989f5c05d75de8560a272de574a60522ac1172",
-    "size": 250177,
-    "commit": "f69c30d",
-    "subject": "Weight food: no length caps on food words, items saved as \"name [amount]\", X keeps a read meal.",
-    "built": "2026-11-20T03:51:07.251Z",
-    "src": "e0d4903da9ca020d1da038fe012316405cde684130b095283a83e1a5449ea718"
+    "sha256": "03202ad9d37413d87850f9dd2d80be8ff579a1fff5d8734fb3fe47227c5ba11c",
+    "size": 253533,
+    "commit": "e915949",
+    "subject": "Weight Body: three colours and a range on every line. Each figure has a tone: blue healthy, orange a bit off, red well off (body age 5+ years over your age, a score under 60, low muscle, Obese, or past a fifth of the healthy range). To work on colours its figure and dot by it; every Looking good line gets its range bar with a blue dot where you are. Unit 115/115; e2e 216 checks; mutants (no red, body age never red) red. Asked: \"Even the looking good I wanna see the range and where I fall under etc and I expect different colours if bad. Like body age 32 is very concerning\".",
+    "built": "2026-11-20T04:21:11.863Z",
+    "src": "43d47d94c38801ca8dcc7db9eb9ccd7b588de9d10ace0f3e33118e618582d33e"
   }
 }
