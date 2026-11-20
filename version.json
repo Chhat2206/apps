@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 126,
+    "code": 127,
     "file": "packing.apk",
-    "sha256": "db49925fe0e39c20437d2169d57b603b5ee297197e4a243348209792d61dcef1",
-    "size": 928810,
-    "commit": "bfa3ace",
-    "subject": "Vacation Groups = design A \"Photo cards\", and New group. The Groups list is a card per group made of its trips' photos (a trip with none drawn in its kind of place), its round face, trips and nights each with its icon, and New group at the end. A group's page opens on its trips' photos with the face over them (camera and Resize kept), the name with a pencil (rename on every trip, or delete with Undo), trips / nights / countries tiles, each trip a big photo card, and Add a trip. New group is a page: an optional photo, the name, every trip as a photo tile to tick (latest first), Make the group writes the name into the ticked trips' With; nothing is disabled, a missing name, a name in use or no trip ticked goes red. Logic in pack.js (groupNights, groupCountries, groupTaken, withName, groupJoin, groupRename, groupLeave, tripsLatest) with unit tests; drive.mjs drives the list, a group's page, Add a trip and the whole New group flow down to the sheet's column H. Asked: \"Claude design these two pages and allow me to add more groups\", then \"A\".",
-    "built": "2026-11-19T16:49:11.851Z",
-    "src": "74a4a290b9244bf623b9dec44c8996dc7d3092d608e68b7fc4249e9d2f7dc557"
+    "sha256": "c628adfd67608a951a65eb922cceda4efb5effa2906b1ebc5ab0abc48763defd",
+    "size": 929890,
+    "commit": "f63e70a",
+    "subject": "Vacation: climbing trips = design A \"Carabiner pin\". The trip pop-up has Regular | Climbing under Stay | Day trip (Trips column W Climbing, Yes or blank). A climbing trip is an orange pin with a carabiner on every map of trips (Where next?, Been to tiles, an area's maps; tip on the spot, over the plain dots), a carabiner on its Been to tile (any of the area's trips) and in place of its dot on All trips; regular trips look as before. Unit test for the sheet round trip (2 mutants red); drive.mjs sets Climbing, checks the pin, tile, All trips and column W, then Regular takes it all off (Been to mutant red). Asked: \"Claude design what is a climbing trip and a regular trip for the vacation app maybe a pin\", then \"A\".",
+    "built": "2026-11-20T02:04:59.928Z",
+    "src": "27f3ea88991810d09de26a503a69771fed5f179eac469bd296a1c102152862e3"
   },
   "control": {
     "label": "Control",
