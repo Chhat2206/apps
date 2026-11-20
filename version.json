@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 326,
+    "code": 327,
     "file": "stocks.apk",
-    "sha256": "410f7447b2cc9cc471ef35b5309563477701c1a4eabe03a2f81f1fb1c23af5b3",
-    "size": 8488801,
-    "commit": "a38d238",
-    "subject": "Ledger: From and To picked on one page, and an empty Name no longer brings the number keys. A Transfer (and My account on an Expense) shows From → To as one row; the Transfer tab with no To yet, My account and that row open two columns side by side, the same account on the same line, investments under To only. A From tapped stays on the page, a To tapped goes back to the form, an account already on the other side swaps the two; a word too wide for its tile shrinks rather than splits. The Name pop-up closed by a tap outside, Back or Enter with nothing typed lands on the form without the keys; typed words still bring them. ledger-fromto-e2e.mjs (real taps at 360 px, Nunito Sans and the fallback font) and ledger-namepop-e2e.mjs pass; lent and motion e2e moved to the new page; 4 mutants red (keys on an empty name, no close on To, My account back to the lone To list, no swap). Asked: \"Instead of immediately asking to, build me a UI that allows me to select both who is it from and who is it to in one click. If I tab away from name, it shouldn't ask for number of dollars of cost.\"",
-    "built": "2026-11-20T11:22:31.151Z",
-    "src": "d8b56b0566fbaeea0e814cdfd04ec5c8656ebf86c95abf8e9b363b5f30db769a"
+    "sha256": "cb209eae365edb3ddab6ef26b885a59f6d18b14521253263dd1c27447e9f9eaa",
+    "size": 8488897,
+    "commit": "c380eb3",
+    "subject": "Ledger: a name used before has a + New tile too, after its past tiles on the right. Typed in full, a past name shows its tiles (last cost, category) and then New, which keeps the name with no cost and no guessed category, so a new amount or category starts clean; a name never used keeps New first. ledger-namepop-e2e.mjs: New is the last tile, right of the past one, and gives the name with an empty amount and category (2 mutants red: no New on a known name, New filling the old category). Asked: \"Also if I type a name but it's a new amount or category past the existing in the right allow a + new icon\".",
+    "built": "2026-11-20T11:24:44.574Z",
+    "src": "228b357f68d7ca0bf5e81578f8f4db3f0d29b6b4822645c513a361c21bbf5c78"
   },
   "papa": {
     "label": "Papa's book",
