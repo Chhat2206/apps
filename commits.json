@@ -1,106 +1,106 @@
 {
- "total": 1768,
- "week": 365,
+ "total": 2236,
+ "week": 237,
  "since": "2026-08-19",
- "last": "2026-11-09",
- "head": "ae1152b",
- "built": "2026-11-09T14:43:32.052Z",
+ "last": "2026-11-20",
+ "head": "243b0dd",
+ "built": "2026-11-20T15:28:40.034Z",
  "apps": [
   {
-   "name": "Games",
-   "version": 304,
-   "share": 0.17194570135746606,
-   "last": "2026-11-09"
+   "name": "Stocks",
+   "version": 363,
+   "share": 0.16234347048300538,
+   "last": "2026-11-20"
   },
   {
    "name": "Worktracker",
-   "version": 293,
-   "share": 0.16572398190045248,
-   "last": "2026-11-09"
+   "version": 327,
+   "share": 0.1462432915921288,
+   "last": "2026-11-20"
+  },
+  {
+   "name": "Games",
+   "version": 316,
+   "share": 0.1413237924865832,
+   "last": "2026-11-20"
   },
   {
    "name": "Papa",
-   "version": 175,
-   "share": 0.09898190045248868,
-   "last": "2026-11-08"
-  },
-  {
-   "name": "Stocks",
-   "version": 166,
-   "share": 0.09389140271493213,
-   "last": "2026-11-09"
-  },
-  {
-   "name": "Papa's Collection",
-   "version": 128,
-   "share": 0.07239819004524888,
-   "last": "2026-11-08"
+   "version": 191,
+   "share": 0.08542039355992845,
+   "last": "2026-11-20"
   },
   {
    "name": "Vacation",
-   "version": 86,
-   "share": 0.048642533936651584,
-   "last": "2026-11-09"
+   "version": 149,
+   "share": 0.06663685152057246,
+   "last": "2026-11-20"
   },
   {
-   "name": "Control",
-   "version": 82,
-   "share": 0.04638009049773756,
-   "last": "2026-11-09"
+   "name": "Papa's Collection",
+   "version": 136,
+   "share": 0.06082289803220036,
+   "last": "2026-11-20"
   },
   {
    "name": "Planner",
-   "version": 74,
-   "share": 0.0418552036199095,
-   "last": "2026-11-09"
+   "version": 108,
+   "share": 0.04830053667262969,
+   "last": "2026-11-19"
+  },
+  {
+   "name": "Control",
+   "version": 87,
+   "share": 0.0389087656529517,
+   "last": "2026-11-20"
   },
   {
    "name": "Credit Card",
-   "version": 73,
-   "share": 0.041289592760180995,
-   "last": "2026-11-08"
+   "version": 85,
+   "share": 0.03801431127012522,
+   "last": "2026-11-20"
   },
   {
    "name": "Ad Block",
-   "version": 52,
-   "share": 0.029411764705882353,
-   "last": "2026-11-09"
+   "version": 59,
+   "share": 0.026386404293381037,
+   "last": "2026-11-19"
   },
   {
    "name": "Better Deal",
-   "version": 39,
-   "share": 0.022058823529411766,
-   "last": "2026-11-09"
+   "version": 44,
+   "share": 0.01967799642218247,
+   "last": "2026-11-20"
   },
   {
    "name": "Hub on the phone",
-   "version": 34,
-   "share": 0.019230769230769232,
-   "last": "2026-11-08"
+   "version": 37,
+   "share": 0.016547406082289804,
+   "last": "2026-11-20"
   },
   {
    "name": "Work Tracker phone",
-   "version": 28,
-   "share": 0.01583710407239819,
-   "last": "2026-11-09"
-  },
-  {
-   "name": "Trip Money",
-   "version": 15,
-   "share": 0.008484162895927601,
-   "last": "2026-11-08"
+   "version": 31,
+   "share": 0.013864042933810376,
+   "last": "2026-11-19"
   },
   {
    "name": "Mumma",
-   "version": 8,
-   "share": 0.004524886877828055,
-   "last": "2026-11-08"
+   "version": 22,
+   "share": 0.009838998211091235,
+   "last": "2026-11-19"
+  },
+  {
+   "name": "Trip Money",
+   "version": 19,
+   "share": 0.00849731663685152,
+   "last": "2026-11-19"
   },
   {
    "name": "Birthdays",
-   "version": 7,
-   "share": 0.003959276018099547,
-   "last": "2026-11-09"
+   "version": 11,
+   "share": 0.004919499105545617,
+   "last": "2026-11-19"
   }
  ]
 }
