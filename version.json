@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 26,
+    "code": 27,
     "file": "weight.apk",
-    "sha256": "52ef958baf3956ce0beb5d9c22ebfcf0f6e8d25c95032375b4055af7fbb0cf13",
-    "size": 301409,
-    "commit": "d89d14d",
-    "subject": "Weight: Food and What I ate are one Food page for everyone, design A, with Day / Week / Month / Year. The day leads with its bowls, \"kcal from photos\" against the day's target when there is a photo, and each meal shows its photo (a tap opens the photo's page as before) and its dishes. A photo is taken from the add sheet (Take a photo, From photos, or the camera's pencil) and belongs to that meal: the What I ate row names its photo meal (column L), its reading shows in the sheet, and Just right / Too much keeps it with dishes or with the photo alone. Closing the sheet keeps a read photo (Papa can't lose a meal that way) and drops one not read; a photo's bin takes a dishes-less meal with it. Week / Month / Year: bowls a day, days I overate, meals eaten out and kcal a day, each against the period before (\"1.2 less than last week\", blue less, orange more), a bar a day (a month for a year) that opens it, and the dishes eaten most. Settings' page switches are gone. test/ate.test.mjs (5 mutants red) and e2e 9d-9f (306 checks; mutants red: the change's words flipped, the overate bar not orange, a read photo dropped on close). Asked: \"Combine it with food and enable it for chhat too (all users)\", \"Design it first\", then \"A and also want a 'full month/year etc toggle and progress nums\".",
-    "built": "2026-11-20T14:16:46.445Z",
-    "src": "ea8843fd2a0ccfe47ff7ce855cff9d1cb9d1d825b3f3d5a4db9ad3f62c85df88"
+    "sha256": "7c9418afd486534aa7e195a017778c548e03b6e55bb4a7f664f62a7453eaac3c",
+    "size": 307450,
+    "commit": "243b0dd",
+    "subject": "Weight: steps and calories burnt from Samsung Health, shown only when connected. Health.java also asks Health Connect for steps, active and total calories burnt and hands each of the last 30 days' totals (Health Connect's own sums, so phone and watch steps are not counted twice). The Food page's day gets a steps tile and a \"kcal burnt moving\" tile (the total burnt for someone with no active figure); Week / Month / Year get Steps a day and kcal burnt a day against the period before, where more is blue. Only while Health Connect allows them, and only for the phone's owner (Mummy's page on this phone shows none). Settings › Samsung Health offers Connect steps and calories until allowed. Every day goes on the sheet's new Steps tab, written over as the day's figures grow, and a new phone reads old days back. test/moves.test.mjs (4 mutants red), e2e 9g (321 checks; mutants red: more steps shown orange, shown while not connected, shown on someone else's page); Java compiles against android-34.",
+    "built": "2026-11-20T14:35:32.752Z",
+    "src": "b07f4a97ecb7fd915f4ce20cef83e3a22a06e1f3db68a6855023adbc77809c01"
   }
 }
