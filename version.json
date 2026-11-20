@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 131,
+    "code": 132,
     "file": "packing.apk",
-    "sha256": "6f5a00d4a49e5c6d20e7d01f74b0fa9a4efcf7794ba822973cbac7c2b68c1f47",
-    "size": 931738,
-    "commit": "f4b46ae",
-    "subject": "Vacation: Where next?'s pins are drawn over the dark fade and lose their grey ring. The lower pins (Malaysia) sat under the fade behind \"Where next?\", so their white edges turned grey, and the dark ring around each dot smudged the next one where they overlap; the pins are above the fade now with a plain soft shadow. notrip.mjs checks each pin is the top thing at its spot (mutant without the z-index red). Asked: \"Light gray here is a lil off\".",
-    "built": "2026-11-20T06:37:51.994Z",
-    "src": "dd3d750b5ab3351d4df8ef022a6e4f2b58b6d82b6e36c4303172aa54443e6c5b"
+    "sha256": "09a3e5635deaa7abfbfd40db39fff97a772f09fb70f975d4a2a77ce3fd1de886",
+    "size": 932462,
+    "commit": "ba0015c",
+    "subject": "Vacation: Where next? in ocean navy, no Day trip choice, pins that sit on each other merge. The band behind \"Where next?\" and the status bar over it are navy (design A; the brown-grey was \"such an ugly colour\"), and \"Name the next trip\" is a darker brown. The trip pop-up no longer offers Stay | Day trip, only Regular | Climbing (a trip already marked Day trip on the sheet still shows as one; none is). Unnumbered pins within 26 px of a group's first place are one pin at the group's middle with a count, a climbing pin if any climbed, and the climbing pin is smaller on the world map: Railay, Krabi, Langkawi and Penang were a pile of teardrops and dots. notrip.mjs checks the navy band, status bar, placeholder and the merge on the real trips' places (4 mutants red); drive.mjs checks the pop-up has no Day trip (its day-trip walk removed with the choice), after.mjs and unit tests pass. Asked: \"Remove the 'day trips' please. also choose A. also make the 'name the next trip' text darker\", \"The Day trip option\", \"The pins look weird here\".",
+    "built": "2026-11-20T07:09:57.753Z",
+    "src": "ea2095318139ac173a8c8ee3899505d98806207f35417c9a87a3ab7e5fa693e4"
   },
   "control": {
     "label": "Control",
