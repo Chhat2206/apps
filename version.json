@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 25,
+    "code": 26,
     "file": "weight.apk",
-    "sha256": "017aed1014bf6f309c385e90bc65ed47b253b0580eb9ce5d85efed3c0b72499b",
-    "size": 295813,
-    "commit": "10c247c",
-    "subject": "Weight › What I ate: every dish gets its own food icon, chosen by its name. About 60 icons copied unchanged from Lucide, and from Tabler where Lucide has none (noodle bowl, dumpling, teapot, bubble tea, sausage, grill, meat on the spit for shawarma), matched by whole words in English, Indian and Thai names, the kind of dish before what it is made of (\"Chicken shawarma\" a shawarma, \"Masala chai\" tea, \"Egg fried rice\" rice), a knife and fork when nothing matches. Shown before each dish's name on the day and at the top of each tile. test/foodicons.test.mjs (mutants red: an early rule taken out, whole-word matching dropped) and e2e (pot for Dal, bowl for Rice, on the page and the tiles; 292 checks). Asked: \"Use a ton of icons for different types of foods auto chosen like schwarma etc\".",
-    "built": "2026-11-20T13:30:44.204Z",
-    "src": "2feee429ae12d10d1827c5799880f5924d37c8b97d50fa4a5d580ac80bb01cc9"
+    "sha256": "52ef958baf3956ce0beb5d9c22ebfcf0f6e8d25c95032375b4055af7fbb0cf13",
+    "size": 301409,
+    "commit": "d89d14d",
+    "subject": "Weight: Food and What I ate are one Food page for everyone, design A, with Day / Week / Month / Year. The day leads with its bowls, \"kcal from photos\" against the day's target when there is a photo, and each meal shows its photo (a tap opens the photo's page as before) and its dishes. A photo is taken from the add sheet (Take a photo, From photos, or the camera's pencil) and belongs to that meal: the What I ate row names its photo meal (column L), its reading shows in the sheet, and Just right / Too much keeps it with dishes or with the photo alone. Closing the sheet keeps a read photo (Papa can't lose a meal that way) and drops one not read; a photo's bin takes a dishes-less meal with it. Week / Month / Year: bowls a day, days I overate, meals eaten out and kcal a day, each against the period before (\"1.2 less than last week\", blue less, orange more), a bar a day (a month for a year) that opens it, and the dishes eaten most. Settings' page switches are gone. test/ate.test.mjs (5 mutants red) and e2e 9d-9f (306 checks; mutants red: the change's words flipped, the overate bar not orange, a read photo dropped on close). Asked: \"Combine it with food and enable it for chhat too (all users)\", \"Design it first\", then \"A and also want a 'full month/year etc toggle and progress nums\".",
+    "built": "2026-11-20T14:16:46.445Z",
+    "src": "ea8843fd2a0ccfe47ff7ce855cff9d1cb9d1d825b3f3d5a4db9ad3f62c85df88"
   }
 }
