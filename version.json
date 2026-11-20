@@ -154,14 +154,14 @@
   },
   "warranty": {
     "label": "Warranty",
-    "code": 29,
+    "code": 30,
     "file": "warranty.apk",
-    "sha256": "afc281ecef4972be8715329d4a0dfbddcacab51d1908b490f37a2e5f682b81fd",
-    "size": 206161,
-    "commit": "d34a5dc",
-    "subject": "Warranty: notifications when a warranty is running out. A month before its last day (\"Its warranty ends in a month, on 15 Feb 2027.\") and the day after it (\"Out of warranty. Its last day was 15 Feb 2027.\"), at 9 in the morning with the app closed; a tap opens that warranty. The page builds the list (WDates.reminders) and hands it to Android on every save and sync; Remind.java (Birthdays' receiver) keeps one alarm, sets it again after a restart or an update, and shows each once; Android 13 asks for notifications the first time. Unit 21/21, e2e all ok (the TV's two reminders handed over, a tap opens its page, Back goes home); 7 mutants red. Asked: \"Add a notification system to the app when smth is out of warrenty btw\".",
-    "built": "2026-11-20T08:06:02.606Z",
-    "src": "4d54245ebfe4bb522a2c49f32b947def3ab2947e29b437b072cb6b8180da0e97"
+    "sha256": "cd4c148498d3c78389843044c646f1046afe824f25e712fdc9643d0bf7a7ef92",
+    "size": 197281,
+    "commit": "4ba28ff",
+    "subject": "Warranty: several slips a warranty, and Fixes removed.",
+    "built": "2026-11-20T15:52:52.023Z",
+    "src": "1d6b1d9e0539362fbeab86234287387b58bfda27aba8d036d5238cc2773dc37b"
   },
   "mumma": {
     "label": "Mumma",
