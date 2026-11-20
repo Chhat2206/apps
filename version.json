@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 17,
+    "code": 18,
     "file": "weight.apk",
-    "sha256": "7b310896df30aa9aba290f0fe526d3c69fbca390c19dc1014f4ee23455c19ed5",
-    "size": 257409,
-    "commit": "29941cf",
-    "subject": "Weight Body: Resting calories keeps to one line. The tile reads \"2,118 kcal\" with \"Resting calories a day\" under it; \"a day\" on the figure's line wrapped onto a line of its own. e2e all ok; mutant (unit back on the figure) red. Asked: \"I don't want day in another line\".",
-    "built": "2026-11-20T05:35:28.348Z",
-    "src": "9da076bf64d9caf861180b0202d65794e8453a5a6af7d6727ad68b647bc35fd6"
+    "sha256": "c74710ec76468295da98e2f903e7f834c8b001e4b192a99b025022b8e9a443e8",
+    "size": 260669,
+    "commit": "6a6b35f",
+    "subject": "Weight Body: Xiaomi's own sums. A weighing with both impedances now takes body fat, water, skeletal muscle, resting calories, belly fat, protein, bones and body age from the S400's firmware sums (public/s400.js, a port of RX14's read of the S400 Pro firmware via bodymiscale), the figures Xiaomi's app shows; the WHO-style equations stay for a weighing with one impedance, body score and type stay the older Xiaomi sums. Chhat's 09:13 weighing: body age 32 -> 21, skeletal muscle 35.8 -> 42.2 kg, resting 2,118 -> 1,958 kcal, body fat 27.5 -> 22.4 %. \"How these are worked out\" and each figure's source say so. Unit 123/123 (Xiaomi's app figures for five real weighings exact), e2e all ok; mutants (body.js or figures.js not taking the S400 sums) red. Mi Fitness has the height as ~189 cm (its standard weight 78.4 kg = BMI 22 at 188.8); the user's height is 197, so Mi Fitness's own figures are off. Asked: \"make it accurate!\".",
+    "built": "2026-11-20T05:48:43.029Z",
+    "src": "6d00cf05657f12dbb453f6506afed31a5dfafdde86db534ec299ad95b5bbecea"
   }
 }
