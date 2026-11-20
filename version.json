@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 12,
+    "code": 13,
     "file": "weight.apk",
-    "sha256": "8bf91caf841ade0ef2a02c61759134b4d965be842445d0958599e5f4f9a705de",
-    "size": 246361,
-    "commit": "69ff6dd",
-    "subject": "No pills in any app: No Wi-Fi, Not up to date and the waiting counts are the amber band from the start (shared/sync.js, android/web/update.js), and \"Checking for changes\" is gone. Vacation never says No Wi-Fi (a timed-out sync set it with Wi-Fi up), Been to tiles say the days spent there, photos with no place count on a trip's days when one of My cameras took them (Langkawi), pin maps drawn from the next zoom's tiles at half size, Where next? darker behind its words. Asked: \"I want to remove pills from all apps btw it should only be the banner\", \"idk why I'm still getting the no wifi pill sometimes remove it\", \"Instead of saying x trips y hotels say y days instead\", \"Add the langkawi photos too\", \"The map in where next looks blurry\", \"Make the where next more clear\".",
-    "built": "2026-11-19T16:40:09.551Z",
-    "src": "bda7fc86b16924eebb6df42c013b020270adc036cc9bd45d1bae0840d357d855"
+    "sha256": "08e7313fc7431bee45f506379f5e63f4a47d28f3c5b898ba0ed5eab5a8082492",
+    "size": 248341,
+    "commit": "96e6e52",
+    "subject": "Vacation e2e: drive.mjs reads the Been to tiles and an area's page with Stadia's credit (© Stadia Maps © OpenStreetMap), as the map looks change made them; the Pi publish stopped there.",
+    "built": "2026-11-20T02:45:05.393Z",
+    "src": "2862534c2c63618a622ef5cd16cfbc25564919a46604835f44d75e5141e1cff5"
   }
 }
