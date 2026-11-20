@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 133,
+    "code": 134,
     "file": "packing.apk",
-    "sha256": "41b0db73effc8b42f9a6b67a40ecd301edf781c7637169c3527924c08a15b370",
-    "size": 930574,
-    "commit": "b90de84",
-    "subject": "Vacation: every trip is a pin on Where next?, a press opens it, and You are on the map. Design A of packing/design/pins-2026-11-20 with A of pin-tap-2026-11-20: a regular trip is a white pin with a dot, a climbing trip orange with a carabiner (the yellow dots are gone); trips on top of each other are a small fan of their own pins with the count. A press on one trip's pin opens its card (photo, name, country, When / Days / Climbing or With, Open trip); on a fan, \"N trips here\" with a line per trip, each opening it. Where the phone is shows as a blue dot, asked once each time the app starts (rough, silent, never again on a phone that refused), and the map zooms in a step with it. Been to: the round carabiner badge on the photo is gone, a climbing area's days read in orange with the carabiner; trips on the tiles' and area pages' maps are the same pins. The app's pressed-button scale replaced a pin's position, so it jumped from under the finger: pins keep their place. notrip.mjs: four white pins over the fade and clear of the gear, You from a Bangkok location, the real Railay/Krabi/Langkawi fan of 3 with Penang apart, a real press opens Tokyo's card and Open trip, a list of two opens Chiang Mai (3 mutants red: no You, no fan, the jumping pin); drive.mjs climbing marks on the new pins and tile; after.mjs and unit tests pass. Asked: \"Why not have all of them be waypoints … show my current location … the pins design in the top left … slapped on like a sticker\", picked \"A\", then \"A but I can press the pin for details … make it obvious it's seperate\", picked \"A\".",
-    "built": "2026-11-20T10:19:05.849Z",
-    "src": "f327bfac8eaed4317f843eb13aead6af1c67408e94b78a08242d967722d548e9"
+    "sha256": "867a577c255a1e41b41e2f3e0bad8ccd6960ba367c40bdc09dacce6f73f9faab",
+    "size": 930886,
+    "commit": "648585e",
+    "subject": "Vacation: the carabiner sits in the middle of a climbing pin, and a Been to tile with several trips says how many. The pin's teardrop rule (`.wpin svg`) also caught the carabiner and pinned it to the head's corner; only the teardrop now. A Been to tile's line is its days (orange with the carabiner when climbed) and, past one trip, a map icon and \"N trips\", each its own fact, fitting a tile with a two-digit day count. notrip.mjs: the carabiner within 2 px of the head's middle, an area of two trips reads \"11 days\" + \"2 trips\" with its icon and single trips only their days (2 mutants red); drive.mjs's joined area reads \"2 trips\"; after.mjs and unit tests pass. Asked: \"Pin for climbing looks a lil off and add the number of trips if it's more than 1 next to days … like x days | y trips\".",
+    "built": "2026-11-20T11:01:20.462Z",
+    "src": "46e86ecacbd97122f48a9d4c0803d91738ecea854661a838749e45c8846b78a5"
   },
   "control": {
     "label": "Control",
