@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 127,
+    "code": 128,
     "file": "packing.apk",
-    "sha256": "c628adfd67608a951a65eb922cceda4efb5effa2906b1ebc5ab0abc48763defd",
-    "size": 929890,
-    "commit": "f63e70a",
-    "subject": "Vacation: climbing trips = design A \"Carabiner pin\". The trip pop-up has Regular | Climbing under Stay | Day trip (Trips column W Climbing, Yes or blank). A climbing trip is an orange pin with a carabiner on every map of trips (Where next?, Been to tiles, an area's maps; tip on the spot, over the plain dots), a carabiner on its Been to tile (any of the area's trips) and in place of its dot on All trips; regular trips look as before. Unit test for the sheet round trip (2 mutants red); drive.mjs sets Climbing, checks the pin, tile, All trips and column W, then Regular takes it all off (Been to mutant red). Asked: \"Claude design what is a climbing trip and a regular trip for the vacation app maybe a pin\", then \"A\".",
-    "built": "2026-11-20T02:04:59.928Z",
-    "src": "27f3ea88991810d09de26a503a69771fed5f179eac469bd296a1c102152862e3"
+    "sha256": "c9e481f69e9ed1067759e06917201b49341640864521655b784e544e576e788c",
+    "size": 931118,
+    "commit": "3039426",
+    "subject": "Weight: Save now. A weighing not saved 20 s after the scale's first frame gets a Save now button: what the scale gave so far is kept (the usual who-is-it), and the phone's log of the last 2 minutes of the scale (every frame decoded, repeats, what the app did) goes to the Pi's weight-reader, which keeps it under /mnt/hdd/pi-dev/weight-logs and opens a Claude terminal on the Pi with it (once per 10 minutes) to find why and fix it. Unit 109/109, e2e 207 checks; mutations (no 10-minute limit, no button at 20 s) went red. Asked: \"Maybe a button too that if it takes more than 20 seconds to save you can automatically save what already is there and then obviously just open a Claude terminal to investigate. and send the logs to the terminal directly, feel free to use the pi and the connection\".",
+    "built": "2026-11-20T02:54:32.428Z",
+    "src": "f18494b257a2a4c022ed7d9b1a6d48b21d2666353de82ac5f093a1491460ccd2"
   },
   "control": {
     "label": "Control",
