@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 321,
+    "code": 322,
     "file": "stocks.apk",
-    "sha256": "24b4de9dd1aaa529c755687e837a958ca0fed736dd74b312f8c91c31e8514ebe",
-    "size": 8488517,
-    "commit": "5d37581",
-    "subject": "Stocks: an account's holdings say how many shares, and a holding's page leads with its profit and a line of it. The +x / −y beside each holding on the account page (SET's sheet) is the share count now. Tapping one opens its page with the profit big (green / red, with its %) and under it the profit day by day since it was bought: each buy and sell stepped back from the holding so a position bought in parts grows on the line, shares held before any ledger row counted from the day the holding was written, ending on today's figure above it; a finger reads a day. Market value moves into the list under it. Design picked by Claude on request. e2e test/ledger-holdprofit-e2e.mjs (demo; line-end mutant red), acctpending e2e passes; checked on the real SET holdings (BDMS from 31 Aug, SIRI from 19 Nov). Also on the sheet: IVL's 19 Nov buy corrected to 21.20 (the broker's 106,178.07 is 106,000 + fee), and the first 10,000 SIRI of order 685IG36P95 dated 19 Nov, not 11 Nov. Asked: \"replace +x - y with the stock amount please its confusing otherwise. And put it in a new page and line graph. Claude design it and choose yourself\".",
-    "built": "2026-11-20T04:59:52.972Z",
-    "src": "e2dc43391c6e5f5f148e883343050f7f1f6fb362ea0c9ddd11d92186305dbdea"
+    "sha256": "77a2eab6e580d801c1047dc6548cb1685ed048f434450243c3556e501f7125a6",
+    "size": 8490217,
+    "commit": "9a3342e",
+    "subject": "Stocks: an account is a page of its own, with its profit line and the holdings in the broker's columns. SET / Webull / every investing account and a holding open full screen from the right with a back arrow (class fullpage, left out of the half-sheet drag), not as a sheet over Portfolio. The account page: total value, then Unrealised profit with a line of it by day (each holding's own line added up, ending on today's total), then Holdings as Bualuang's Portfolio lays them out: Stock / Shares / Avg (with the fee) / Market / %, and a Total %, for reading line against line; Cash and pending orders under it; Deposited / Profit / balance in a Details card; Dividends and History as before. A holding's line starts at the buy that began the position now held (IVL sold in October no longer drags it), and its page's avg cost includes the fee as the broker's does. Design by Claude on request. e2e test/ledger-holdprofit-e2e.mjs (page, table against the holdings, account line end; half-sheet mutant red); acctpending, acctrow, motion e2e pass (motion flaked once on '+ turns', passed twice after and on HEAD). Checked on the real SET account: the table reads as the broker's (BDMS 18.33, IVL 21.24). Asked: \"Make it go into a new page. Make the graph similar to how SET operates for easy comparison, 5 rows etc. Include the graph per set webull etc in this page too & details below it. Feel free to Claude design it\".",
+    "built": "2026-11-20T05:41:52.519Z",
+    "src": "3e876d59d2e18d6ddf35a34d5b11e7769ff4b767734bd45d24743deac23961d2"
   },
   "papa": {
     "label": "Papa's book",
