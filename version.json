@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 104,
+    "code": 105,
     "file": "planner.apk",
-    "sha256": "9c6f59b43aa503c373833d8221aa829731c99cc3886a3afa099686a33d0a80ae",
-    "size": 430731,
-    "commit": "083ff0e",
-    "subject": "Planner widget: ‹ › changes the weeks without the wait. A tap used to write the page and the new weeks to disk with commit(), each rewriting the whole Planner file (My calendar, every month kept, the holidays), and to read the new weeks from scratch, all before the widget could draw. Now both writes are apply(), the pages either side are read ahead in the background after each tap and used while what they were read from is unchanged (and for ten minutes), and My calendar is parsed once a read instead of twice. AheadTest: a page read ahead is used only while nothing it was read from changed (2 mutants red); javacheck compiles and 80 unit tests pass. Asked: \"Same issue happens in the widget btw\".",
-    "built": "2026-11-20T16:16:01.067Z",
-    "src": "4b92d5230f694e82cd661b450dc8e4b34ae820ce6d1c8c0ea36c29f9dfd34b1c"
+    "sha256": "4d9dba60fabec3c9b0ffa0800f68bca6db66fcc686ed3109db7051e940dfe665",
+    "size": 434831,
+    "commit": "0e66129",
+    "subject": "Planner: the months either side are drawn ahead and come in with the finger, so a swipe never waits for a drawing. The new month used to be drawn when the finger let go (about 40 ms, a quarter of a second the first time) and only then move, and the months ahead were read from Java on the page's thread, so a finger landing waited. Now the months before and after are laid out off the screen while nothing moves, follow the finger, and letting go only glides; the month that came in is the month (nothing drawn again) and the one that went out waits on the other side. Months come from Java off the page (monthKeptLater, and each Google answer carries the month). Measured in Chromium with quick swipes: no redraw, every frame of the drag and the glide 17 ms. month-scroll.mjs: 33 checks (new ones red with no sides drawn ahead, and with the old month thrown away); page.mjs passes; javacheck compiles, 80 unit tests pass. Asked: \"Better but still feels jittery\".",
+    "built": "2026-11-20T17:06:02.489Z",
+    "src": "5cfa38481d8bac4305d92535bca1b2accf1da136d99a0f97cbaf6799583af622"
   },
   "warranty": {
     "label": "Warranty",
