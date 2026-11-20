@@ -12,14 +12,14 @@
   },
   "papa": {
     "label": "Papa's book",
-    "code": 186,
+    "code": 187,
     "file": "papa.apk",
-    "sha256": "ff00ac23479cb4a54492d704f70156efce7ba7c13d4eb6e6c86d70b9c7f94820",
-    "size": 558877,
-    "commit": "69ff6dd",
-    "subject": "No pills in any app: No Wi-Fi, Not up to date and the waiting counts are the amber band from the start (shared/sync.js, android/web/update.js), and \"Checking for changes\" is gone. Vacation never says No Wi-Fi (a timed-out sync set it with Wi-Fi up), Been to tiles say the days spent there, photos with no place count on a trip's days when one of My cameras took them (Langkawi), pin maps drawn from the next zoom's tiles at half size, Where next? darker behind its words. Asked: \"I want to remove pills from all apps btw it should only be the banner\", \"idk why I'm still getting the no wifi pill sometimes remove it\", \"Instead of saying x trips y hotels say y days instead\", \"Add the langkawi photos too\", \"The map in where next looks blurry\", \"Make the where next more clear\".",
-    "built": "2026-11-19T16:35:15.892Z",
-    "src": "985084c7fe8ea5d55427f19affb1e0d14dd452fb05acb83191efaa5fc679a303"
+    "sha256": "7f41c472d27766eac67f1323a831bc746d1793292873a5836946db373c964be3",
+    "size": 559729,
+    "commit": "be08dbc",
+    "subject": "papa news: Bloomberg, the FT, Yahoo market headlines and five Singapore desks (The Business Times, Singapore Business Review, The Edge Singapore, CNA, The Straits Times) as built-in feeds. Each tested live with papa-book's user-agent: dated stories that morning; Bloomberg's Thailand stories come through Google News searched to its domain under Bloomberg's name, its crypto desk read for coins. Live run: 39 feeds, none failed; DELTA got Bloomberg's \"Stock Movers: Delta Electronics\", Gold got the Straits Times' gold story. Unit 535/535; mutants (a desk dropped, Bloomberg named as Google) red. Asked: \"add bloomberg to the news please papas app\", then the Singapore desks, Yahoo Finance and the Financial Times.",
+    "built": "2026-11-20T04:48:20.223Z",
+    "src": "a08d3a1de37534239eef13faed546cb2e1178087510b96f5d56fc4c223f378de"
   },
   "groceries": {
     "label": "Credit Card",
