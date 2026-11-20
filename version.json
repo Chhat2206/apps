@@ -12,14 +12,14 @@
   },
   "papa": {
     "label": "Papa's book",
-    "code": 187,
+    "code": 188,
     "file": "papa.apk",
-    "sha256": "7f41c472d27766eac67f1323a831bc746d1793292873a5836946db373c964be3",
-    "size": 559729,
-    "commit": "be08dbc",
-    "subject": "papa news: Bloomberg, the FT, Yahoo market headlines and five Singapore desks (The Business Times, Singapore Business Review, The Edge Singapore, CNA, The Straits Times) as built-in feeds. Each tested live with papa-book's user-agent: dated stories that morning; Bloomberg's Thailand stories come through Google News searched to its domain under Bloomberg's name, its crypto desk read for coins. Live run: 39 feeds, none failed; DELTA got Bloomberg's \"Stock Movers: Delta Electronics\", Gold got the Straits Times' gold story. Unit 535/535; mutants (a desk dropped, Bloomberg named as Google) red. Asked: \"add bloomberg to the news please papas app\", then the Singapore desks, Yahoo Finance and the Financial Times.",
-    "built": "2026-11-20T04:48:20.223Z",
-    "src": "a08d3a1de37534239eef13faed546cb2e1178087510b96f5d56fc4c223f378de"
+    "sha256": "c2bab2af04a6144c8ef3ee0f4271576e578f20c584951bc7d2ee6966715e9cc8",
+    "size": 563085,
+    "commit": "7ce5403",
+    "subject": "papa news reads Bloomberg, the FT and The Edge Singapore in full, not just their headlines. A page a plain request is refused is asked again through curl_cffi (Python), which makes the TLS handshake a browser's: these sites block on the handshake, not the user-agent. Bloomberg's page carries the whole story in __NEXT_DATA__ (read by bloombergStory); the FT needs Safari's handshake and Google as referrer; The Edge's premium pieces are cut to their opening on its server, kept and labelled as an opening. The three never fall back to the free reader (it handed back Bloomberg's teaser as the article), and reads to them go one at a time, 3 s apart, after Bloomberg blocked the home address following ~8 quick reads. Live, laptop: 12/12 Bloomberg (incl. Google-found Thailand links), 6/6 FT, Edge news whole and premium as opening; Pi, in the papa-news sandbox: 8 Bloomberg and 6/6 FT before Bloomberg's block. Unit 539/539; mutants (quotes dropped, Edge access ignored, reader allowed for the walled three) red. Pi venv /opt/papa-fetch-venv; note papa-news-walled-sites. Asked: \"im fine with working around paywalls and bot checks as its a private app. 1. is fine. any methods is fine. i do not want to only read title tbh\".",
+    "built": "2026-11-20T05:23:34.964Z",
+    "src": "90ffe26964c79552f8c0f3762bd83a01f376b81b942eac6b38809e6a90e3df32"
   },
   "groceries": {
     "label": "Credit Card",
