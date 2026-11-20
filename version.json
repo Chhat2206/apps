@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 320,
+    "code": 321,
     "file": "stocks.apk",
-    "sha256": "b3d352f4f14ae8afe5a386d51db7b928b22c58e1f18fdc074b0f29e1b14130a3",
-    "size": 8485093,
-    "commit": "abc99a2",
-    "subject": "Stocks Fill from screenshot: when part of an order was saved before, the form says so. SIRI 50,000 all matched with 10,000 of it already in the ledger (same order number) filled 40,000, which is right but looked misread; the message now adds \"10,000 of this order are in already. This is the other 40,000.\" (plan steps carry `before`). Unit test on the real screen's lines + mutant red; e2e on the real screenshot through Tesseract (test/ledger-shotrest-e2e.mjs) + page mutant red; shotmsg and shotreal e2e pass. Asked: \"AI is reading the share number wrong please fix\".",
-    "built": "2026-11-20T04:04:24.480Z",
-    "src": "907fe27ba466051dbf437e3c90b908136fab281f9bba23eb26fe5dc47fc88f27"
+    "sha256": "24b4de9dd1aaa529c755687e837a958ca0fed736dd74b312f8c91c31e8514ebe",
+    "size": 8488517,
+    "commit": "5d37581",
+    "subject": "Stocks: an account's holdings say how many shares, and a holding's page leads with its profit and a line of it. The +x / −y beside each holding on the account page (SET's sheet) is the share count now. Tapping one opens its page with the profit big (green / red, with its %) and under it the profit day by day since it was bought: each buy and sell stepped back from the holding so a position bought in parts grows on the line, shares held before any ledger row counted from the day the holding was written, ending on today's figure above it; a finger reads a day. Market value moves into the list under it. Design picked by Claude on request. e2e test/ledger-holdprofit-e2e.mjs (demo; line-end mutant red), acctpending e2e passes; checked on the real SET holdings (BDMS from 31 Aug, SIRI from 19 Nov). Also on the sheet: IVL's 19 Nov buy corrected to 21.20 (the broker's 106,178.07 is 106,000 + fee), and the first 10,000 SIRI of order 685IG36P95 dated 19 Nov, not 11 Nov. Asked: \"replace +x - y with the stock amount please its confusing otherwise. And put it in a new page and line graph. Claude design it and choose yourself\".",
+    "built": "2026-11-20T04:59:52.972Z",
+    "src": "e2dc43391c6e5f5f148e883343050f7f1f6fb362ea0c9ddd11d92186305dbdea"
   },
   "papa": {
     "label": "Papa's book",
