@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 323,
+    "code": 324,
     "file": "stocks.apk",
-    "sha256": "beb35fbb91ce57494c178a49e5cc3bb0b4ed76340d0fb9647add165eb6f7083d",
-    "size": 8490437,
-    "commit": "5c812e5",
-    "subject": "Stocks: Bitkub opens again on Portfolio. The account page's holdings table formatted prices with at least 2 decimals and at most 0 from a thousand up, which toLocaleString refuses (RangeError), so any account holding something priced over ฿1,000 (BTC at ฿2.5M) never opened; SET's prices are all under that. A thousand and up now has no decimals, and under one baht three figures that count (LUNA read 0.00 for both Avg and Market, now 0.0028 / 0.00154). ledger-holdprofit-e2e opens every Portfolio account and checks BTC's average is whole (old line put back: red); the real sheet's Bitkub opens with no page errors. Asked: \"why cant i open bitkub in portfolio fix it\".",
-    "built": "2026-11-20T07:10:50.946Z",
-    "src": "6229dc784064f0adb21708e4b27aabe0ce74972d915498772359d9ebd8e42d42"
+    "sha256": "9ae68ba302b57c5aa4761b5509f1267b6e7ea5c3152bf7b1e814d0675e6033df",
+    "size": 8489753,
+    "commit": "f5e52a5",
+    "subject": "Ledger Home: To pay by the end of this month and by the end of next month, two small figures right under the total; a tap opens Upcoming. Every Upcoming line going out counts, overdue ones included, a repeating one each time it falls before the month's end, a loan no more than what is left on it; money coming in is left out. Next month's figure counts from now, so it includes this month's. e2e stocks/test/ledger-till-e2e.mjs ok on ?demo=1 (−฿700 / −฿2,600 as worked out); counting a repeat only once goes red. Asked: \"add a 'this month'... x till end of this/next month... since 27 would mean 0 its not accurate show both numbers\".",
+    "built": "2026-11-20T08:58:12.996Z",
+    "src": "595c5f2c972ce83cac6f3025a090ab9203cdef8e790426796b540b9df8d1aa83"
   },
   "papa": {
     "label": "Papa's book",
