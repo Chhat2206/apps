@@ -154,14 +154,14 @@
   },
   "warranty": {
     "label": "Warranty",
-    "code": 30,
+    "code": 31,
     "file": "warranty.apk",
-    "sha256": "cd4c148498d3c78389843044c646f1046afe824f25e712fdc9643d0bf7a7ef92",
-    "size": 197281,
-    "commit": "4ba28ff",
-    "subject": "Warranty: several slips a warranty, and Fixes removed.",
-    "built": "2026-11-20T15:52:52.023Z",
-    "src": "1d6b1d9e0539362fbeab86234287387b58bfda27aba8d036d5238cc2773dc37b"
+    "sha256": "9a3d7247e4911fec51d913206cc79ac2821b424d713a251e0ba3079dc6eecf14",
+    "size": 197861,
+    "commit": "b97adfb",
+    "subject": "Warranty: add slip photos from the warranty's own page, and room under the ring.",
+    "built": "2026-11-20T16:50:24.678Z",
+    "src": "296792718f02edf240fa1b6a7fbe28ca44d236148c2593f92371c205de3f656b"
   },
   "mumma": {
     "label": "Mumma",
