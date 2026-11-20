@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 27,
+    "code": 28,
     "file": "weight.apk",
-    "sha256": "7c9418afd486534aa7e195a017778c548e03b6e55bb4a7f664f62a7453eaac3c",
-    "size": 307450,
-    "commit": "243b0dd",
-    "subject": "Weight: steps and calories burnt from Samsung Health, shown only when connected. Health.java also asks Health Connect for steps, active and total calories burnt and hands each of the last 30 days' totals (Health Connect's own sums, so phone and watch steps are not counted twice). The Food page's day gets a steps tile and a \"kcal burnt moving\" tile (the total burnt for someone with no active figure); Week / Month / Year get Steps a day and kcal burnt a day against the period before, where more is blue. Only while Health Connect allows them, and only for the phone's owner (Mummy's page on this phone shows none). Settings › Samsung Health offers Connect steps and calories until allowed. Every day goes on the sheet's new Steps tab, written over as the day's figures grow, and a new phone reads old days back. test/moves.test.mjs (4 mutants red), e2e 9g (321 checks; mutants red: more steps shown orange, shown while not connected, shown on someone else's page); Java compiles against android-34.",
-    "built": "2026-11-20T14:35:32.752Z",
-    "src": "b07f4a97ecb7fd915f4ce20cef83e3a22a06e1f3db68a6855023adbc77809c01"
+    "sha256": "87b2f5f3109e19f63144bc46faa1fd491fe4beac6bb6b639b7a90af7d119532a",
+    "size": 308442,
+    "commit": "50c83d0",
+    "subject": "Weight: bowls for Chhat, kcal for Papa and Mummy, and Samsung Health under the right person.",
+    "built": "2026-11-20T16:26:31.381Z",
+    "src": "30df8cc1cb1a391c613e198469017e37e29cfb261d82d7f83a084dc86c1679f6"
   }
 }
