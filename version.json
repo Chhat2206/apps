@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 324,
+    "code": 325,
     "file": "stocks.apk",
-    "sha256": "9ae68ba302b57c5aa4761b5509f1267b6e7ea5c3152bf7b1e814d0675e6033df",
-    "size": 8489753,
-    "commit": "f5e52a5",
-    "subject": "Ledger Home: To pay by the end of this month and by the end of next month, two small figures right under the total; a tap opens Upcoming. Every Upcoming line going out counts, overdue ones included, a repeating one each time it falls before the month's end, a loan no more than what is left on it; money coming in is left out. Next month's figure counts from now, so it includes this month's. e2e stocks/test/ledger-till-e2e.mjs ok on ?demo=1 (−฿700 / −฿2,600 as worked out); counting a repeat only once goes red. Asked: \"add a 'this month'... x till end of this/next month... since 27 would mean 0 its not accurate show both numbers\".",
-    "built": "2026-11-20T08:58:12.996Z",
-    "src": "595c5f2c972ce83cac6f3025a090ab9203cdef8e790426796b540b9df8d1aa83"
+    "sha256": "b40276d9529d530586d11e3c8c3f92d605ae4687dc99277eb9eca6a42df6d347",
+    "size": 8486385,
+    "commit": "d6b2d1e",
+    "subject": "Credit Card: under Still to pay, what falls due by the end of this month and by the end of next month, side by side. Each bill counts on its card's due day (statement closes on the next cut-off on or after the bill, due on the next due day after it; a card with no due day: the bill's own day), one past its due day in this month, and the months of a subscription or split not on the list yet by the day they will be added. Next month's counts from now, so it holds this month's. Follows the Who / Kind / Card filters. e2e card-tracker/e2e/dueby.mjs (stub sheet, STUB_DUEBY, dates from today): ฿500 / ฿2,900 as worked out, gone once every bill is ticked; ignoring the cut-off/due rule and leaving plan months out both go red. bills.mjs e2e ok. Asked: \"add a 'this month' to the wallet app right below the total or smth like x till end of this/next month... since 27 would mean 0 its not accurate show both numbers\".",
+    "built": "2026-11-20T09:33:47.106Z",
+    "src": "553273b4abb0c75e84d18856f326b351fdf600309e068f94992f983921420705"
   },
   "papa": {
     "label": "Papa's book",
