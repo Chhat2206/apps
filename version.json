@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 23,
+    "code": 24,
     "file": "weight.apk",
-    "sha256": "c7e3aa9581d6d2c781dc9c30bf4878f09096b69295409b265460932944a944d4",
-    "size": 280045,
-    "commit": "fe606a1",
-    "subject": "Weight Body: an opened figure in plain steps, design A.",
-    "built": "2026-11-20T07:58:28.543Z",
-    "src": "b4d11d6c8c605e068975c6deeaba454811849611e97ac7713efd77da1a62063e"
+    "sha256": "6713a0c9543b62c88af3599947a8c49ab1d1ed714e97278ae838ff3c80e1fb0a",
+    "size": 284708,
+    "commit": "c01fab7",
+    "subject": "Weight: What I ate, design E. A tab \"Ate\" (for everyone without the Food page, or switched on in Settings › What I ate page, People column M): the day's bowls big, each meal's dishes with their bowls drawn (half a bowl drawn half), violet home, blue restaurant, orange and outlined when overate. + opens a sheet: Home | Restaurant, the meal, your usual dishes as tiles (a first tap brings last time's bowls, each next tap ½ more, the count or a long press ½ less), New to type one; \"Just right\" / \"Too much\" saves it. A meal tapped opens it again with a bin; any day can be added to. Kept on the sheet's \"What I ate\" tab, a row a meal, the newer change winning like the Food tab. test/ate.test.mjs (3 mutants red, 1 equivalent) and e2e 9e (290 checks; mutants red: first tap ignoring last time, a click after a hold counted, overate not orange). Asked: \"In the weight app add a 'what I ate' section … add 'bowl' or katori … where the dish is from restaurant / home and did I overeat or no\", then \"E\".",
+    "built": "2026-11-20T13:16:25.330Z",
+    "src": "5a20f06b6f3676787a620b941e8f1929336aad3febb032021729c562f4560703"
   }
 }
