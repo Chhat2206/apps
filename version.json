@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 21,
+    "code": 22,
     "file": "weight.apk",
-    "sha256": "473482d328abec4e3d2856f639646c8ad1bf560e7610802ed9b9085be7db5406",
-    "size": 268377,
-    "commit": "444b6c4",
-    "subject": "Weight Body: Xiaomi's detail, design A. Looking good gains Muscle (fat-free less bones, \"73.2% of you\") and Skeletal muscle (\"44.6% of you\"), both healthy from the low end up so more muscle is never \"high\"; Water says its kg and Bones their share under the name. Good to know gains a Fat-free weight tile. Body type is Mi Fitness's chart of BMI against body fat (Athletic, Muscular, Fit, Slim, Overweight, Obese, Invisibly obese...): a small chart on the tile, opened big with every type named, your BMI and body fat and what reaches a healthy type (Chhat: Overweight, \"To be Fit: body fat under 20%\"). A To aim for card ends the page: standard weight (BMI 22 for the height), weight to lose, fat to lose (85.4 / 9.3 / 8.4 kg for Chhat), in place of the Healthy weight line. Unit 126/126, e2e all ok; mutants (no line under the name, chart without names) red. Women's body fat lines on the chart are a guess. Asked: \"A\".",
-    "built": "2026-11-20T06:59:35.982Z",
-    "src": "da623f97cbfdbb67513f111264ec9b86b3f417c57edd72ae304ce0c803b1f6b9"
+    "sha256": "9b2199070d22c93a66c4583cd8515a00aa30510509e15c2158311ad6e0a7b2b9",
+    "size": 269417,
+    "commit": "a620adc",
+    "subject": "Weight Food: take one photo off a meal. With two or more photos each has an X; the rest are read again, and the last one has none (the bin removes the meal). A meal now lists its photo keys (m.photos, never reused) on the Food tab's new column U Photos, so a removal reaches every phone; the removed photo's row on Food photos is emptied once the meal is read again, so no other phone sends its copy back. The day's tile shows the first photo left. Unit 131/131, 5 mutants red; e2e all ok (X on the middle photo: the Pi gets the first and last; down to one: no X; the sheet's rows emptied and the list updated; off the phone; the tile keeps a photo), mutant (tile by id) red. Asked: \"Yes\" (to a remove button on each photo).",
+    "built": "2026-11-20T07:14:57.148Z",
+    "src": "89aed19283595a228ed92e43a1b92e1319fb579a47920ddfe09ff6dfa6b212dd"
   }
 }
