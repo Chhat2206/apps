@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 20,
+    "code": 21,
     "file": "weight.apk",
-    "sha256": "a6818ebb2e5678d8a8f6fee9093abc9348fb5517e75299e6d72a19de767a63eb",
-    "size": 266525,
-    "commit": "4fdc98d",
-    "subject": "Weight Food: several photos of one meal. The camera's photos button picks up to six at once (Android's picker with multiple, MainActivity.pickPhotos), and + on a meal's photo adds one more from the camera; all of a meal's photos go to the Pi together (POST /api/food images) and are read in one look whose prompt counts each thing once. The meal page shows them as a strip across the top; each is kept as id, id~2, id~3 on the phone and one row each on Food photos. Unit 127/127 (server, prompt, sheet), 5 mutants red; e2e all ok (two picked, a third added, X on that camera back to the meal, three rows on the sheet), mutant (only the first photo sent) red. Asked: \"For weight app allow papa to send multiple photos to claude\".",
-    "built": "2026-11-20T06:42:19.802Z",
-    "src": "6c242dadc044f29b910ad1f511be6aa08807c2ea38056fab3236b3cf7b7e121c"
+    "sha256": "473482d328abec4e3d2856f639646c8ad1bf560e7610802ed9b9085be7db5406",
+    "size": 268377,
+    "commit": "444b6c4",
+    "subject": "Weight Body: Xiaomi's detail, design A. Looking good gains Muscle (fat-free less bones, \"73.2% of you\") and Skeletal muscle (\"44.6% of you\"), both healthy from the low end up so more muscle is never \"high\"; Water says its kg and Bones their share under the name. Good to know gains a Fat-free weight tile. Body type is Mi Fitness's chart of BMI against body fat (Athletic, Muscular, Fit, Slim, Overweight, Obese, Invisibly obese...): a small chart on the tile, opened big with every type named, your BMI and body fat and what reaches a healthy type (Chhat: Overweight, \"To be Fit: body fat under 20%\"). A To aim for card ends the page: standard weight (BMI 22 for the height), weight to lose, fat to lose (85.4 / 9.3 / 8.4 kg for Chhat), in place of the Healthy weight line. Unit 126/126, e2e all ok; mutants (no line under the name, chart without names) red. Women's body fat lines on the chart are a guess. Asked: \"A\".",
+    "built": "2026-11-20T06:59:35.982Z",
+    "src": "da623f97cbfdbb67513f111264ec9b86b3f417c57edd72ae304ce0c803b1f6b9"
   }
 }
