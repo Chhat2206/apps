@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 322,
+    "code": 323,
     "file": "stocks.apk",
-    "sha256": "77a2eab6e580d801c1047dc6548cb1685ed048f434450243c3556e501f7125a6",
-    "size": 8490217,
-    "commit": "9a3342e",
-    "subject": "Stocks: an account is a page of its own, with its profit line and the holdings in the broker's columns. SET / Webull / every investing account and a holding open full screen from the right with a back arrow (class fullpage, left out of the half-sheet drag), not as a sheet over Portfolio. The account page: total value, then Unrealised profit with a line of it by day (each holding's own line added up, ending on today's total), then Holdings as Bualuang's Portfolio lays them out: Stock / Shares / Avg (with the fee) / Market / %, and a Total %, for reading line against line; Cash and pending orders under it; Deposited / Profit / balance in a Details card; Dividends and History as before. A holding's line starts at the buy that began the position now held (IVL sold in October no longer drags it), and its page's avg cost includes the fee as the broker's does. Design by Claude on request. e2e test/ledger-holdprofit-e2e.mjs (page, table against the holdings, account line end; half-sheet mutant red); acctpending, acctrow, motion e2e pass (motion flaked once on '+ turns', passed twice after and on HEAD). Checked on the real SET account: the table reads as the broker's (BDMS 18.33, IVL 21.24). Asked: \"Make it go into a new page. Make the graph similar to how SET operates for easy comparison, 5 rows etc. Include the graph per set webull etc in this page too & details below it. Feel free to Claude design it\".",
-    "built": "2026-11-20T05:41:52.519Z",
-    "src": "3e876d59d2e18d6ddf35a34d5b11e7769ff4b767734bd45d24743deac23961d2"
+    "sha256": "beb35fbb91ce57494c178a49e5cc3bb0b4ed76340d0fb9647add165eb6f7083d",
+    "size": 8490437,
+    "commit": "5c812e5",
+    "subject": "Stocks: Bitkub opens again on Portfolio. The account page's holdings table formatted prices with at least 2 decimals and at most 0 from a thousand up, which toLocaleString refuses (RangeError), so any account holding something priced over ฿1,000 (BTC at ฿2.5M) never opened; SET's prices are all under that. A thousand and up now has no decimals, and under one baht three figures that count (LUNA read 0.00 for both Avg and Market, now 0.0028 / 0.00154). ledger-holdprofit-e2e opens every Portfolio account and checks BTC's average is whole (old line put back: red); the real sheet's Bitkub opens with no page errors. Asked: \"why cant i open bitkub in portfolio fix it\".",
+    "built": "2026-11-20T07:10:50.946Z",
+    "src": "6229dc784064f0adb21708e4b27aabe0ce74972d915498772359d9ebd8e42d42"
   },
   "papa": {
     "label": "Papa's book",
