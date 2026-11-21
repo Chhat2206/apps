@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 339,
+    "code": 340,
     "file": "stocks.apk",
-    "sha256": "119298ec1d36fd558ea7a45b8265d2b60f94e91012d49e7ced0f560d00b00abc",
-    "size": 8496449,
-    "commit": "4820a6b",
-    "subject": "Pi's commits to Chhat2206/apps say \"built on the Raspberry Pi 5\" / \"from the Raspberry Pi 5\" instead of \"the Pi\". The apps repo's history was rewritten to match (all 402 commits Chhat2206 <86144388+Chhat2206@users.noreply.github.com>, the old ones were \"Pi build\" and one \"worktracker CI\", whose noreply addresses belong to strangers' accounts github.com/pi and github.com/ci); files unchanged. Asked: \"do it\", \"and say 'from the Raspberry Pi 5' or smth\".",
-    "built": "2026-11-21T05:47:36.493Z",
-    "src": "1142ec9f2a7fe2064e184bf3b136b52d1a5a81041d4280870f59a05a5df6050a"
+    "sha256": "e0699272e1e2c751281c0828b974f6c7cfa1b5097b098830c11771398efa967d",
+    "size": 8496493,
+    "commit": "a29df73",
+    "subject": "Stocks: By broker moved to Analytics, baht by default. The table sits under Analytics' Holdings card instead of on Portfolio. SET, Bitkub and the Total are in baht alone (no US$ line); Webull keeps its dollars with baht small under each (put in = the Main tab's typed baht, profit at today's rate), and an account's Details follows the same rule. Portfolio's account lines lose the % beside the name and the trip's \"saving\". ledger-brokers-e2e (By broker on Analytics, nothing under baht, baht under Webull, Total baht alone, no % or saving on the account lines) and ledger-accttop-e2e pass; both red with baht turned back into dollars, and the line check red on the old page; unit tests pass. Asked: \"put by broker under analytics, have thb be default and only show thb under USD amounts, the 23.5 3.3 and saving remove that text since it's redundant\".",
+    "built": "2026-11-21T06:08:08.578Z",
+    "src": "e616a476df54d486d46d76d4a8a7148e9cd30162bc270ea5364a4ea193175922"
   },
   "papa": {
     "label": "Papa's book",
