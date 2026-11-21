@@ -184,5 +184,18 @@
     "subject": "Weight: type a dish under Add to find it, and the day draws each dish with its own icon.",
     "built": "2026-11-21T04:52:45.204Z",
     "src": "c0a28776cdd3bd46d9b84a6c6eb6dfb1b312fbc3dd58848fc7e7281be500196b"
+  },
+  "friends": {
+    "label": "Friends Launcher",
+    "code": 43,
+    "file": "Friends-Launcher.exe",
+    "url": "https://github.com/Chhat2206/apps/releases/download/friends-launcher/Friends-Launcher.exe",
+    "icon": "friends.png",
+    "platform": "windows",
+    "sha256": "ecfaa0355d638d31d5fe9b12ea0926f3595b2efe6f1c7abca25f143cc145bc08",
+    "size": 79711846,
+    "commit": "718372c8",
+    "subject": "Friends Launcher: the code of the commit before, which went in as the folder rename only (a missing path stopped git add). qBittorrent link (lib/qbit.mjs), downloads through it (lib/downloads.mjs), Windows Security scan + antivirus/Malwarebytes check (lib/safety.mjs), self-update (lib/update.mjs), publish.mjs, the page's notices and Safety sheet, apps-version.mjs taking an entry's own url and icon, tests and both e2e runs, the note.",
+    "built": "2026-11-21T06:55:48.229Z"
   }
 }
