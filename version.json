@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 138,
+    "code": 139,
     "file": "packing.apk",
-    "sha256": "19384d4604d594679e097a792ba0e601f3c704cbfaf15e8f5d1e9723cbbdaf19",
-    "size": 937294,
-    "commit": "12f5ec8",
-    "subject": "Vacation e2e: drive.mjs and after.mjs expect no restaurant photo. A place's tile shows none even with one picked before, and the area banner takes the spots' photos, never the restaurant's (red on the old page). Both pass.",
-    "built": "2026-11-21T03:43:21.185Z",
-    "src": "21de0dd84c8b31d4fa6992f2f72a3199fc2cfd6b6242527add39d7de8a420eb2"
+    "sha256": "1952541c27172f8388d8de8e1311dba0cae7062809f65deaf43e3c09b9c9ee6b",
+    "size": 938314,
+    "commit": "f8114e9",
+    "subject": "Vacation: where we ate is Go back or skip (design C of packing/design/restaurants-2-2026-11-21). On an area's page, places of 3 stars and up are GO BACK tiles, two a row, best first: the score big with its star (rainbow when picked), yellow from 4 stars, the name and the best dish. Under 3 stars is a plain SKIP list with each score, and places not rated yet a NOT RATED list. No photos. A tap still opens the place; Edit's Add a place sits under them. autopics.mjs: Kodam Kitchen under GO BACK in yellow with Mango sticky rice, Corner Restaurant under SKIP with 1.5, Jungle Kitchen under NOT RATED, no photo, the star beside its number (red when it was stacked above); drive.mjs and after.mjs read the new sections; all pass, unit tests pass. Asked: \"C\".",
+    "built": "2026-11-21T04:48:47.593Z",
+    "src": "1c6405ebdc41b909c71402060867f57b557a9b6332766edbc96014bf90389ba5"
   },
   "control": {
     "label": "Control",
