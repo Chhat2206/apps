@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 336,
+    "code": 337,
     "file": "stocks.apk",
-    "sha256": "c23ca5766825478c4f2899fc49cd8cd6b72b46e2f7617d891fc944c86e8ed06c",
-    "size": 8495921,
-    "commit": "73cc37a",
-    "subject": "Stocks: an account's Details shows its profit in its parts (design B of the Claude Design canvas Wn8cZKxWeR4guVZx6KL4Gw). On SET, Webull and Bitkub: Put in, Profit with its % under the word, then Sales, Dividends and interest, Fees (only when there are any) and Still held, then Withdrawn and the balance with its date under it. Every figure is in the account's own money, Webull in its real dollars (the $8,366 typed on the Main tab, the $ it paid out, its holdings in $), never baht at today's rate, with A$ small under each. The same brokerOf() feeds Portfolio's By broker row, so the two pages agree (SET +฿72,953, Webull −$521 = +$213 + $52 − $786). The bank keeps its old Details. ledger-brokers-e2e.mjs now opens each broker: put in and profit as its Portfolio row, the parts add up to Profit, Still held = its holdings; red when Still held shows the wrong part or the dividends leave the profit. accttop, holdprofit, acctpending and acctrow e2e pass. Asked: \"B Profit in its parts, in Details and use usd not thb pls\".",
-    "built": "2026-11-21T05:13:22.528Z",
-    "src": "289ae4a41612e1e0109c3865db2e3377519d7ba4a95dcd5df83cf35436d79fdf"
+    "sha256": "7e7332d247216340f2985e8694ab012630dace48c206e92380836802a565e057",
+    "size": 8496085,
+    "commit": "4ee634e",
+    "subject": "Stocks: a baht account's Details (SET, Bitkub) shows baht alone, no A$ small under each figure; Webull keeps its A$. ledger-accttop-e2e.mjs checks both, red with the A$ put back on SET; ledger-brokers-e2e passes (Portfolio's By broker row keeps its A$). Asked: \"in details for set no need to show usd haha\".",
+    "built": "2026-11-21T05:25:32.765Z",
+    "src": "79c54cfd54ea6e1db2ca2498e7177f37b90485f8bbb4e53d8a9502e314aa84dc"
   },
   "papa": {
     "label": "Papa's book",
