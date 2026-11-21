@@ -154,14 +154,14 @@
   },
   "warranty": {
     "label": "Warranty",
-    "code": 31,
+    "code": 32,
     "file": "warranty.apk",
-    "sha256": "9a3d7247e4911fec51d913206cc79ac2821b424d713a251e0ba3079dc6eecf14",
-    "size": 197861,
-    "commit": "b97adfb",
-    "subject": "Warranty: add slip photos from the warranty's own page, and room under the ring.",
-    "built": "2026-11-20T16:50:24.678Z",
-    "src": "296792718f02edf240fa1b6a7fbe28ca44d236148c2593f92371c205de3f656b"
+    "sha256": "3fd2e79243b108750062968f2c5e976e69597b7d420ebdf4d3e36025818fa118",
+    "size": 198321,
+    "commit": "4ee634e",
+    "subject": "Stocks: a baht account's Details (SET, Bitkub) shows baht alone, no A$ small under each figure; Webull keeps its A$. ledger-accttop-e2e.mjs checks both, red with the A$ put back on SET; ledger-brokers-e2e passes (Portfolio's By broker row keeps its A$). Asked: \"in details for set no need to show usd haha\".",
+    "built": "2026-11-21T05:24:44.696Z",
+    "src": "0cb6b62fd4cdf835ccb8aaaed272d5d832821d5094069aeab2dfb60069b0b8fc"
   },
   "mumma": {
     "label": "Mumma",
