@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 334,
+    "code": 335,
     "file": "stocks.apk",
-    "sha256": "39de27d0691d4da46593fb2496c8611ebc447d67cd41b54504ace0ade813e75f",
-    "size": 8493253,
-    "commit": "c062f22",
-    "subject": "Stocks: By broker on Portfolio (design C1). Under the accounts, each broker's put in and profit in its own money (฿ SET and Bitkub, $ Webull) with A$ small under, and a Total in baht; a row opens its account. Put in is the Main tab's (Webull's typed dollars; the Total takes its typed baht, so it equals Main's Total Amount); profit is what was paid out plus what the holdings are up, and the Total's equals the Details page's Profit. A$ goes straight from baht and from dollars (STATE.aud, read beside the USD rate); fx.mjs now keeps each currency pair in its own cache file. test/ledger-brokers-e2e.mjs passes on the demo, and goes red with the payouts left out or the Total put in back on today's rate. Asked: \"C1 ฿ with A$ under, no switch but usd to aud can we include all the brokers\".",
-    "built": "2026-11-21T05:04:30.252Z",
-    "src": "8526f858a045436b41c0574eea7db0e3a4e16cfc45b165f6a0532be3f03e6582"
+    "sha256": "dcd8712a93d61dd4d1518a09a87b7cc01f421cc673e427e399cfb775d211961a",
+    "size": 8494773,
+    "commit": "01da1f8",
+    "subject": "Stocks: an account's top is cleaner, with its total in baht too (design B \"Amount and %\" of round 3 on the Claude Design canvas 663TqoBGzoVwq5WrJWVf1U). The name alone on the top line (no \"Account · in dollars\"), Rename and Remove behind one ⋯ menu instead of two big round buttons. The total with no \"total value\" and no % beside it; on a page drawn in dollars the same figure in baht under it (Webull: $ 8,782 over ฿ 297,768 on the demo). Under it a small table in the holdings table's look, Amount and %: Unrealised (what is held now) and All time (the +3.3% that sat beside the total), so the green % and the red loss no longer read as two answers to one question. The line follows with no heading; Holdings no longer repeats the total (\"N at cost\" stays). test/ledger-accttop-e2e.mjs drives the demo: the ⋯ opens Rename / Remove and a press elsewhere shuts it, the baht line is the account in baht, both rows match the holdings in dollars, SET has no baht line; red when the conversion or the baht line is broken. holdprofit + acctpending e2e pass. Asked: \"In webull for stocks first claude design to clean up above holdings … and also add a 'converted to thb' amount too\", then \"B · Amount and %\".",
+    "built": "2026-11-21T05:09:33.846Z",
+    "src": "be8ed19176a77e66d2d1134b9fcd54bd19432451d6513fbb4ea7733bf0f64f89"
   },
   "papa": {
     "label": "Papa's book",
