@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 29,
+    "code": 30,
     "file": "weight.apk",
-    "sha256": "4fc5e3547e3dcf5c555b632483a862be821e9f5ef46d33435738b59a76210b70",
-    "size": 310466,
-    "commit": "97af33b",
-    "subject": "Weight: Ask AI for the kcal on the bowls sheet, and subtle motion on the Food page.",
-    "built": "2026-11-20T17:04:15.795Z",
-    "src": "098fc721d7e7608e1303a45245363b58bc7f44160cb308fd88744178937d4431"
+    "sha256": "dc5af580faa3287b148d1d4e8b8ca908b983523ee55895af7987ec91e7e3c711",
+    "size": 313430,
+    "commit": "d61a2da",
+    "subject": "Weight: cereals get the cereal bowl icon and a tile's name breaks between words. Coco Crunch, Chocos, corn flakes, Cheerios and the like are the bowl with a spoon; \"Coco Crunch\" no longer splits as \"Crunc / h\" (the count sits on the icon's row, so the name has the tile's full width). Also the design round for meals and extras with Under ate / Ate a good amount / Over ate (A Save as / B Meal or extra first / C Steps and columns), on Pages, waiting for a pick.",
+    "built": "2026-11-21T03:27:41.281Z",
+    "src": "adcaff2bd2e3a6da041b716df9ef8d243e198e7357e1a79e26b896d1d8a8bd99"
   }
 }
