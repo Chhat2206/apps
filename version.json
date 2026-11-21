@@ -176,14 +176,14 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 32,
+    "code": 33,
     "file": "weight.apk",
-    "sha256": "c3c01b97840a422136f784f861a0cebf7d294608d32d71e63e4a100c3cb8ab8b",
-    "size": 317158,
-    "commit": "100957a",
-    "subject": "Weight: type a dish under Add to find it, and the day draws each dish with its own icon.",
-    "built": "2026-11-21T04:52:45.204Z",
-    "src": "c0a28776cdd3bd46d9b84a6c6eb6dfb1b312fbc3dd58848fc7e7281be500196b"
+    "sha256": "e35db99eb83b724762bdd8e47c08a1c3f008679a9bb342d0a4c621f2b0dbbc4b",
+    "size": 319390,
+    "commit": "25c706b",
+    "subject": "Weight: will I reach my goal, yes or no. The chip under the number is now the kg a day over the last four weeks (was \"−0.9 kg in 3 weeks\"); the chart carries that pace on to the goal's date beside the line the goal needs (blue on track, red not) and names the date; the goal card is the kg to go, a bar of your kg a day against the kg a day needed, then Yes by the goal's date or No with when the goal comes at this pace. No date or too few weigh-ins keep the old card. Unit tests 159 pass (onTrack: Chhat's 0.02 vs 0.25 = No, exactly the pace = Yes, gaining = No); e2e all ok with a Yes and a No state, red with the yes rule broken. Asked: \"B graph, C's banner in the bottom. Replace mid December with by 20 Dec and put the yes downer\".",
+    "built": "2026-11-21T07:47:37.872Z",
+    "src": "6162dd359579dcdbc00664b1fdadfe0cc1c6a394aefd1ab2e68fbf971339bb82"
   },
   "friends": {
     "label": "Friends Launcher",
