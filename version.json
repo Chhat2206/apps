@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 330,
+    "code": 331,
     "file": "stocks.apk",
-    "sha256": "1873d37b8b53e7d6647d354e0ecb914f82b89a0de3817a6ddce2accc28b2b6a8",
-    "size": 8489569,
-    "commit": "f56d146",
-    "subject": "Ledger: the picked subcategory's ring is whole again, and haircuts are Lifestyle › Haircut. The + form's subcategory row kept its opening motion's overflow: hidden, which cut the top of the 5 px ring round a round picked with it (the Name pop-up's Haircut); it is overflow: clip with an 8 px clip margin now. On the sheet, the 9 \"Haircut\" lines filed under University › Health Products moved to Lifestyle › Haircut (where Ear Cleaned already was), and Haircut got a scissors icon. ledger-subring-e2e.mjs: nothing around the picked round clips its ring (red with overflow: hidden back: \"m-subs2 top\"). Asked: \"The top of the haircut circle cuts out and maybe we can put haircut under its own haircut brand… edit every haircut before this to match it as well\".",
-    "built": "2026-11-20T12:40:25.628Z",
-    "src": "b5f65a59f2168ac94dc062d2a51b8cf84b8d76d4443c95d793486810575a5005"
+    "sha256": "e4880b25b25299b2a943415a14afb1dec8a57ddd39cced60afa3fd23171a7577",
+    "size": 8490641,
+    "commit": "2ee2634",
+    "subject": "Stocks: Analytics' Holdings in the SET page's columns. Stock / Shares / Avg / Market / % and a Total row, the same table an account page shows, so the two read line against line; a dollar stock's prices carry the $, Australia's part sits under the shares in its colour, a ticker in two accounts names the account under it; a row still opens its holding, Include Australia and Sold stay under the table. The account page's figure helpers (fig2, sign2) are shared now. ledger-e2e checks the header, every row's columns against the page's own figures, the % colour and the Total (red with Avg and Market swapped); it waits longer for a Chromium slot. Asked: \"Make the holdings in analytics follow sets design\".",
+    "built": "2026-11-21T02:59:10.257Z",
+    "src": "27010253978b8b06030b7b339fcb5351d9975322897293af634754b88b0bcfc7"
   },
   "papa": {
     "label": "Papa's book",
