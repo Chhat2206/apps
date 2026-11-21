@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 105,
+    "code": 106,
     "file": "planner.apk",
-    "sha256": "4d9dba60fabec3c9b0ffa0800f68bca6db66fcc686ed3109db7051e940dfe665",
-    "size": 434831,
-    "commit": "0e66129",
-    "subject": "Planner: the months either side are drawn ahead and come in with the finger, so a swipe never waits for a drawing. The new month used to be drawn when the finger let go (about 40 ms, a quarter of a second the first time) and only then move, and the months ahead were read from Java on the page's thread, so a finger landing waited. Now the months before and after are laid out off the screen while nothing moves, follow the finger, and letting go only glides; the month that came in is the month (nothing drawn again) and the one that went out waits on the other side. Months come from Java off the page (monthKeptLater, and each Google answer carries the month). Measured in Chromium with quick swipes: no redraw, every frame of the drag and the glide 17 ms. month-scroll.mjs: 33 checks (new ones red with no sides drawn ahead, and with the old month thrown away); page.mjs passes; javacheck compiles, 80 unit tests pass. Asked: \"Better but still feels jittery\".",
-    "built": "2026-11-20T17:06:02.489Z",
-    "src": "5cfa38481d8bac4305d92535bca1b2accf1da136d99a0f97cbaf6799583af622"
+    "sha256": "63045ef369a3c2ccb769510d1166cb07c84f029006aa56421ab1f9ffef69e8de",
+    "size": 430410,
+    "commit": "0fd1d6a",
+    "subject": "Planner: the widget's weeks are one layout each, its presses go first, and the app's glide leaves at the finger's speed. Widget: each week was about 25 small layouts (each day's tap target, number and stack) before any event, all inflated by the home screen at every ‹ ›; now a week is one layout with its seven days in it and only the events are added. ‹ ›, Today and a to-do's tick are sent as foreground broadcasts. App: the glide started at 4 to 16 times the finger's speed, so the month jumped ahead at the let-go; now it leaves at the finger's speed and slows into place (a press of ‹ › keeps its quick start), and the shown month is a layer of its own. month-scroll.mjs 35 checks (the start-speed check red with the old curve); page.mjs passes; javacheck compiles, 80 unit tests pass. Asked: \"It's a lot better, but it still takes around half a second in the widget, and there's still a tiny lag when swapping.\"",
+    "built": "2026-11-21T02:38:22.805Z",
+    "src": "cb7ff464d7ffe9265adbe8dc4edd2344a74ffebbd4b644b52ed9e05bfe7a7762"
   },
   "warranty": {
     "label": "Warranty",
