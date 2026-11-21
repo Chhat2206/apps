@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 139,
+    "code": 140,
     "file": "packing.apk",
-    "sha256": "1952541c27172f8388d8de8e1311dba0cae7062809f65deaf43e3c09b9c9ee6b",
-    "size": 938314,
-    "commit": "f8114e9",
-    "subject": "Vacation: where we ate is Go back or skip (design C of packing/design/restaurants-2-2026-11-21). On an area's page, places of 3 stars and up are GO BACK tiles, two a row, best first: the score big with its star (rainbow when picked), yellow from 4 stars, the name and the best dish. Under 3 stars is a plain SKIP list with each score, and places not rated yet a NOT RATED list. No photos. A tap still opens the place; Edit's Add a place sits under them. autopics.mjs: Kodam Kitchen under GO BACK in yellow with Mango sticky rice, Corner Restaurant under SKIP with 1.5, Jungle Kitchen under NOT RATED, no photo, the star beside its number (red when it was stacked above); drive.mjs and after.mjs read the new sections; all pass, unit tests pass. Asked: \"C\".",
-    "built": "2026-11-21T04:48:47.593Z",
-    "src": "1c6405ebdc41b909c71402060867f57b557a9b6332766edbc96014bf90389ba5"
+    "sha256": "29c46fd238d8288a6f05f80bf57ee73a5b2c78523e31e510c987c7fbd466a69c",
+    "size": 938866,
+    "commit": "4ee634e",
+    "subject": "Stocks: a baht account's Details (SET, Bitkub) shows baht alone, no A$ small under each figure; Webull keeps its A$. ledger-accttop-e2e.mjs checks both, red with the A$ put back on SET; ledger-brokers-e2e passes (Portfolio's By broker row keeps its A$). Asked: \"in details for set no need to show usd haha\".",
+    "built": "2026-11-21T05:23:34.320Z",
+    "src": "3459073b6d84655a0f241768e3b4efab26b07aaece78ab126f5a4f81b565e2fc"
   },
   "control": {
     "label": "Control",
