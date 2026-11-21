@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 331,
+    "code": 332,
     "file": "stocks.apk",
-    "sha256": "e4880b25b25299b2a943415a14afb1dec8a57ddd39cced60afa3fd23171a7577",
-    "size": 8490641,
-    "commit": "2ee2634",
-    "subject": "Stocks: Analytics' Holdings in the SET page's columns. Stock / Shares / Avg / Market / % and a Total row, the same table an account page shows, so the two read line against line; a dollar stock's prices carry the $, Australia's part sits under the shares in its colour, a ticker in two accounts names the account under it; a row still opens its holding, Include Australia and Sold stay under the table. The account page's figure helpers (fig2, sign2) are shared now. ledger-e2e checks the header, every row's columns against the page's own figures, the % colour and the Total (red with Avg and Market swapped); it waits longer for a Chromium slot. Asked: \"Make the holdings in analytics follow sets design\".",
-    "built": "2026-11-21T02:59:10.257Z",
-    "src": "27010253978b8b06030b7b339fcb5351d9975322897293af634754b88b0bcfc7"
+    "sha256": "5b9c971989cb1841ffe3c839533e440019d221e60d6d6fde27b713b51089f325",
+    "size": 8490553,
+    "commit": "5138f1c",
+    "subject": "Stocks: Watching in the same columns as the holdings. Portfolio's Watching card is a table like the SET page's and Analytics': Stock / Below / Above / Market / %, the prices in the stock's own money ($ for dollar stocks), the % how far the price still has to move to the nearer target (Reached once it has), in the sold-stock lime and pink as before; a row still opens the watch form, the + stays on the heading. ledger-e2e checks the header and every row's columns against the page's own figures (red with Below and Above swapped). Asked: \"Make watching follow the same UI as well.\"",
+    "built": "2026-11-21T03:30:05.600Z",
+    "src": "d815b76dc1cea78015534f95b97799cc90e239e2bfa024438f335e941f2bcc7c"
   },
   "papa": {
     "label": "Papa's book",
