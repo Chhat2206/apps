@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 338,
+    "code": 339,
     "file": "stocks.apk",
-    "sha256": "54e653aacce8aaae3779f7a40decc958edc4749882015cc424f5b9a519032a71",
-    "size": 8496237,
-    "commit": "09b65ab",
-    "subject": "Stocks: US$ instead of A$ under the broker figures. Portfolio's By broker: SET and Bitkub in ฿ with $ small under (their baht at today's rate), Webull in $ alone, the Total in ฿ with every broker's dollars under it (Webull's own + the rest converted: $8,111 + $6,500 + $1,770 = $16,381 on the demo). An account's Details the same: SET and Bitkub get $ under each figure again, Webull shows its dollars alone. brkAud → brkUsd; STATE.aud is no longer read by the page. ledger-brokers-e2e and ledger-accttop-e2e check the $ lines against today's rate and that no A$ is left; both red with the conversion taken out. Asked: \"No A$ do USD\", then \"Everywhere A$ was, US$\".",
-    "built": "2026-11-21T05:30:18.917Z",
-    "src": "e9a2b2ba045f2779437ae26008db6dc74b10f254c129f261fe1198450d6d1794"
+    "sha256": "119298ec1d36fd558ea7a45b8265d2b60f94e91012d49e7ced0f560d00b00abc",
+    "size": 8496449,
+    "commit": "4820a6b",
+    "subject": "Pi's commits to Chhat2206/apps say \"built on the Raspberry Pi 5\" / \"from the Raspberry Pi 5\" instead of \"the Pi\". The apps repo's history was rewritten to match (all 402 commits Chhat2206 <86144388+Chhat2206@users.noreply.github.com>, the old ones were \"Pi build\" and one \"worktracker CI\", whose noreply addresses belong to strangers' accounts github.com/pi and github.com/ci); files unchanged. Asked: \"do it\", \"and say 'from the Raspberry Pi 5' or smth\".",
+    "built": "2026-11-21T05:47:36.493Z",
+    "src": "1142ec9f2a7fe2064e184bf3b136b52d1a5a81041d4280870f59a05a5df6050a"
   },
   "papa": {
     "label": "Papa's book",
