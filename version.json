@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 335,
+    "code": 336,
     "file": "stocks.apk",
-    "sha256": "dcd8712a93d61dd4d1518a09a87b7cc01f421cc673e427e399cfb775d211961a",
-    "size": 8494773,
-    "commit": "01da1f8",
-    "subject": "Stocks: an account's top is cleaner, with its total in baht too (design B \"Amount and %\" of round 3 on the Claude Design canvas 663TqoBGzoVwq5WrJWVf1U). The name alone on the top line (no \"Account · in dollars\"), Rename and Remove behind one ⋯ menu instead of two big round buttons. The total with no \"total value\" and no % beside it; on a page drawn in dollars the same figure in baht under it (Webull: $ 8,782 over ฿ 297,768 on the demo). Under it a small table in the holdings table's look, Amount and %: Unrealised (what is held now) and All time (the +3.3% that sat beside the total), so the green % and the red loss no longer read as two answers to one question. The line follows with no heading; Holdings no longer repeats the total (\"N at cost\" stays). test/ledger-accttop-e2e.mjs drives the demo: the ⋯ opens Rename / Remove and a press elsewhere shuts it, the baht line is the account in baht, both rows match the holdings in dollars, SET has no baht line; red when the conversion or the baht line is broken. holdprofit + acctpending e2e pass. Asked: \"In webull for stocks first claude design to clean up above holdings … and also add a 'converted to thb' amount too\", then \"B · Amount and %\".",
-    "built": "2026-11-21T05:09:33.846Z",
-    "src": "be8ed19176a77e66d2d1134b9fcd54bd19432451d6513fbb4ea7733bf0f64f89"
+    "sha256": "c23ca5766825478c4f2899fc49cd8cd6b72b46e2f7617d891fc944c86e8ed06c",
+    "size": 8495921,
+    "commit": "73cc37a",
+    "subject": "Stocks: an account's Details shows its profit in its parts (design B of the Claude Design canvas Wn8cZKxWeR4guVZx6KL4Gw). On SET, Webull and Bitkub: Put in, Profit with its % under the word, then Sales, Dividends and interest, Fees (only when there are any) and Still held, then Withdrawn and the balance with its date under it. Every figure is in the account's own money, Webull in its real dollars (the $8,366 typed on the Main tab, the $ it paid out, its holdings in $), never baht at today's rate, with A$ small under each. The same brokerOf() feeds Portfolio's By broker row, so the two pages agree (SET +฿72,953, Webull −$521 = +$213 + $52 − $786). The bank keeps its old Details. ledger-brokers-e2e.mjs now opens each broker: put in and profit as its Portfolio row, the parts add up to Profit, Still held = its holdings; red when Still held shows the wrong part or the dividends leave the profit. accttop, holdprofit, acctpending and acctrow e2e pass. Asked: \"B Profit in its parts, in Details and use usd not thb pls\".",
+    "built": "2026-11-21T05:13:22.528Z",
+    "src": "289ae4a41612e1e0109c3865db2e3377519d7ba4a95dcd5df83cf35436d79fdf"
   },
   "papa": {
     "label": "Papa's book",
