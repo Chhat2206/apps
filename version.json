@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 137,
+    "code": 138,
     "file": "packing.apk",
-    "sha256": "7450a4d83e1ab0961b2f5ec965160d54a4d2f9bd53afeb6c36b23240fed465f5",
-    "size": 936642,
-    "commit": "6bcdc6a",
-    "subject": "Vacation: every photo's location on the area's map.",
-    "built": "2026-11-20T17:00:16.837Z",
-    "src": "87c6facd30d00237b0b72a1895bc390604b48dbbceae9b089a369f38456dcd10"
+    "sha256": "19384d4604d594679e097a792ba0e601f3c704cbfaf15e8f5d1e9723cbbdaf19",
+    "size": 937294,
+    "commit": "12f5ec8",
+    "subject": "Vacation e2e: drive.mjs and after.mjs expect no restaurant photo. A place's tile shows none even with one picked before, and the area banner takes the spots' photos, never the restaurant's (red on the old page). Both pass.",
+    "built": "2026-11-21T03:43:21.185Z",
+    "src": "21de0dd84c8b31d4fa6992f2f72a3199fc2cfd6b6242527add39d7de8a420eb2"
   },
   "control": {
     "label": "Control",
