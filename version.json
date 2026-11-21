@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 30,
+    "code": 31,
     "file": "weight.apk",
-    "sha256": "dc5af580faa3287b148d1d4e8b8ca908b983523ee55895af7987ec91e7e3c711",
-    "size": 313430,
-    "commit": "d61a2da",
-    "subject": "Weight: cereals get the cereal bowl icon and a tile's name breaks between words. Coco Crunch, Chocos, corn flakes, Cheerios and the like are the bowl with a spoon; \"Coco Crunch\" no longer splits as \"Crunc / h\" (the count sits on the icon's row, so the name has the tile's full width). Also the design round for meals and extras with Under ate / Ate a good amount / Over ate (A Save as / B Meal or extra first / C Steps and columns), on Pages, waiting for a pick.",
-    "built": "2026-11-21T03:27:41.281Z",
-    "src": "adcaff2bd2e3a6da041b716df9ef8d243e198e7357e1a79e26b896d1d8a8bd99"
+    "sha256": "b1f79b2468dedb26acf596ce0f81f5c355677b3412477457e8026872a2066591",
+    "size": 316466,
+    "commit": "6249115",
+    "subject": "Weight: meals and extras (design A), Under ate / Ate a good amount / Over ate, and Ask AI kept on the sheet.",
+    "built": "2026-11-21T04:13:42.801Z",
+    "src": "c5d9670252d2358b102e13699720ad0c7bc725892ac279bc0a496620ad3ffa66"
   }
 }
