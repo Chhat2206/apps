@@ -176,13 +176,13 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 31,
+    "code": 32,
     "file": "weight.apk",
-    "sha256": "b1f79b2468dedb26acf596ce0f81f5c355677b3412477457e8026872a2066591",
-    "size": 316466,
-    "commit": "6249115",
-    "subject": "Weight: meals and extras (design A), Under ate / Ate a good amount / Over ate, and Ask AI kept on the sheet.",
-    "built": "2026-11-21T04:13:42.801Z",
-    "src": "c5d9670252d2358b102e13699720ad0c7bc725892ac279bc0a496620ad3ffa66"
+    "sha256": "c3c01b97840a422136f784f861a0cebf7d294608d32d71e63e4a100c3cb8ab8b",
+    "size": 317158,
+    "commit": "100957a",
+    "subject": "Weight: type a dish under Add to find it, and the day draws each dish with its own icon.",
+    "built": "2026-11-21T04:52:45.204Z",
+    "src": "c0a28776cdd3bd46d9b84a6c6eb6dfb1b312fbc3dd58848fc7e7281be500196b"
   }
 }
