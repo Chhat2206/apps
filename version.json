@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 333,
+    "code": 334,
     "file": "stocks.apk",
-    "sha256": "dbefb69a8c45d24dafa68eef3280b8f5c0aa9599a12e15bc81db0b1aacf6ff97",
-    "size": 8490929,
-    "commit": "30a0dca",
-    "subject": "Stocks: the holdings and Watching tables share one set of columns. Each row had its own fixed split (the name a fifth of the width), so the name column was half empty and $234.48 ran into 9.1. Now the table is one grid and every row a subgrid of it: the name takes only the longest ticker, the four figures share the rest evenly and none is narrower than its widest figure; gaps and side padding shrink on a narrow phone, so the demo's BTC 2,980,300 still fits at 360 px. Analytics, Watching and an account's Holdings all use it. Asked: \"Too much space between stock and shares the numbers easily collide with avg help fix spacing\".",
-    "built": "2026-11-21T04:20:30.257Z",
-    "src": "3bfbec5e4bd89d18655ec4d6934060bc1e3773e62cd600f01196190b4d428234"
+    "sha256": "39de27d0691d4da46593fb2496c8611ebc447d67cd41b54504ace0ade813e75f",
+    "size": 8493253,
+    "commit": "c062f22",
+    "subject": "Stocks: By broker on Portfolio (design C1). Under the accounts, each broker's put in and profit in its own money (฿ SET and Bitkub, $ Webull) with A$ small under, and a Total in baht; a row opens its account. Put in is the Main tab's (Webull's typed dollars; the Total takes its typed baht, so it equals Main's Total Amount); profit is what was paid out plus what the holdings are up, and the Total's equals the Details page's Profit. A$ goes straight from baht and from dollars (STATE.aud, read beside the USD rate); fx.mjs now keeps each currency pair in its own cache file. test/ledger-brokers-e2e.mjs passes on the demo, and goes red with the payouts left out or the Total put in back on today's rate. Asked: \"C1 ฿ with A$ under, no switch but usd to aud can we include all the brokers\".",
+    "built": "2026-11-21T05:04:30.252Z",
+    "src": "8526f858a045436b41c0574eea7db0e3a4e16cfc45b165f6a0532be3f03e6582"
   },
   "papa": {
     "label": "Papa's book",
