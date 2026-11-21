@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 337,
+    "code": 338,
     "file": "stocks.apk",
-    "sha256": "7e7332d247216340f2985e8694ab012630dace48c206e92380836802a565e057",
-    "size": 8496085,
-    "commit": "4ee634e",
-    "subject": "Stocks: a baht account's Details (SET, Bitkub) shows baht alone, no A$ small under each figure; Webull keeps its A$. ledger-accttop-e2e.mjs checks both, red with the A$ put back on SET; ledger-brokers-e2e passes (Portfolio's By broker row keeps its A$). Asked: \"in details for set no need to show usd haha\".",
-    "built": "2026-11-21T05:25:32.765Z",
-    "src": "79c54cfd54ea6e1db2ca2498e7177f37b90485f8bbb4e53d8a9502e314aa84dc"
+    "sha256": "54e653aacce8aaae3779f7a40decc958edc4749882015cc424f5b9a519032a71",
+    "size": 8496237,
+    "commit": "09b65ab",
+    "subject": "Stocks: US$ instead of A$ under the broker figures. Portfolio's By broker: SET and Bitkub in ฿ with $ small under (their baht at today's rate), Webull in $ alone, the Total in ฿ with every broker's dollars under it (Webull's own + the rest converted: $8,111 + $6,500 + $1,770 = $16,381 on the demo). An account's Details the same: SET and Bitkub get $ under each figure again, Webull shows its dollars alone. brkAud → brkUsd; STATE.aud is no longer read by the page. ledger-brokers-e2e and ledger-accttop-e2e check the $ lines against today's rate and that no A$ is left; both red with the conversion taken out. Asked: \"No A$ do USD\", then \"Everywhere A$ was, US$\".",
+    "built": "2026-11-21T05:30:18.917Z",
+    "src": "e9a2b2ba045f2779437ae26008db6dc74b10f254c129f261fe1198450d6d1794"
   },
   "papa": {
     "label": "Papa's book",
