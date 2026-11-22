@@ -110,14 +110,14 @@
   },
   "control": {
     "label": "Control",
-    "code": 64,
+    "code": 65,
     "file": "control.apk",
-    "sha256": "0cd7ae1502f8be4a055668d870f2b6714f9c30b3271f889d5547310315015fca",
-    "size": 182739,
-    "commit": "69ff6dd",
-    "subject": "No pills in any app: No Wi-Fi, Not up to date and the waiting counts are the amber band from the start (shared/sync.js, android/web/update.js), and \"Checking for changes\" is gone. Vacation never says No Wi-Fi (a timed-out sync set it with Wi-Fi up), Been to tiles say the days spent there, photos with no place count on a trip's days when one of My cameras took them (Langkawi), pin maps drawn from the next zoom's tiles at half size, Where next? darker behind its words. Asked: \"I want to remove pills from all apps btw it should only be the banner\", \"idk why I'm still getting the no wifi pill sometimes remove it\", \"Instead of saying x trips y hotels say y days instead\", \"Add the langkawi photos too\", \"The map in where next looks blurry\", \"Make the where next more clear\".",
-    "built": "2026-11-19T16:30:10.055Z",
-    "src": "8f866eba6a3f360594825f11afdd770c3730f5fb9f181850610e0d3976c882d9"
+    "sha256": "bb7264b6fe25cf3bc102fca53c8b1dd0dc6d6807b4db0562ac43402ffe13a733",
+    "size": 180871,
+    "commit": "df9b64a",
+    "subject": "Restaurants: a new phone app for every place we ate, home A of restaurants/design/home-2026-11-21 with C's Always get row and E Stamps for the times, in Weight's look and motion. The Map tab is the picked country's satellite map with a bubble per city (its best score), country chips over it; under it Always get (every Rainbow dish), the city chips, and Vacation's GO BACK / SKIP / NOT RATED. A city opens on its restaurants as score pins, the tapped one a card. Best (Best | Most eaten at) and Search (names, cities, dishes) tabs. A restaurant: its map (Google Maps on a tap), the stamps card (ten a card), We ate here, its score and every dish with Vacation's stars (halves, ×N, Rainbow); Edit with Where I am or a Google Maps link, Country and City.",
+    "built": "2026-11-22T04:59:26.441Z",
+    "src": "773907511825d79951d55579a926aa6ac3a1eaa42fc3bbed86ac1339f2a41c95"
   },
   "deal": {
     "label": "Better Deal",
