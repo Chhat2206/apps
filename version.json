@@ -219,5 +219,16 @@
     "subject": "Translate: Settings with 16 colour palettes, and updates the way every other app does them. A gear beside the box opens Settings: a preview line, then the palettes (Orchid, Thai flag, Sky, Saffron, Jade, Lime, Coral, Lavender, Gold, Rose, Teal, Peach, Blue, Red, Plum, Silver; each a reading colour and a button colour, all tested readable on black), which colour the app and the widget. At its foot Check for updates above Version N, the version opening every change, as in every app's Settings. The update band across the top only when Android needs a tap (never offline), and the one-second Updated band on the first open of a new build: android/web/update.js and version.js ported to Java, same words and states (the app has no page for them to run in). The Up to date / Version foot on the main screen is gone. javacheck 17/17, 4 new mutants red. Asked: \"Allow for a lot more color variations as well in the settings, and the UI of the app, for example, downloading a new update doesn't follow the convention of all the other apps … standardized … the app version in the bottom left just looks off completely.\"",
     "built": "2026-11-22T15:21:01.928Z",
     "src": "5dc387731d4b03c5457f82be390eadeb0cacc5bb10f7357050a1e8ddb9b130e0"
+  },
+  "reddit": {
+    "label": "Reddit",
+    "code": 1,
+    "file": "reddit.apk",
+    "sha256": "2b4acf720cc54ae016a25ab0973d613e67f56a962d8452f04d5b127bb64d5708",
+    "size": 81418,
+    "commit": "a33dcd6",
+    "subject": "Reddit: a new phone app, an AMOLED Reddit reader (design A of round 2). Home, Search, Random, Saved, You; a sub's Top over any span: Today … This year from Reddit, Past 2 / 3 / 5 years, All time and Between two years from the Arctic Shift archive, which the phone reads once per sub (100 posts a request, three at a time) and keeps, so Top of 3 years lists every post of the span, not Reddit's 1000. Unread only leaves out every post opened; Random shows one post at a time from the top 1 / 5 / 10 / 25% of the span, never one read, with Another. The post page has its picture or video, text, votes, Reply, Save, and the comments nested (a press on a name folds one, more replies load in place). Signing in is Reddit's own login page: its token goes to oauth.reddit.com from the phone's side, with reddit.com's cookie pages as the fallback. No ads (the API has none), no key. 13 sums, 6 Java tests, 26 checks pressing the page through against a stand-in Reddit; three mutants red. Asked: \"AMOLED, no ads … the best posts in the last 3 years, or 4 years, or randomize but very famous … the normal features … upvote downvote comments\"; picked A.",
+    "built": "2026-11-22T17:43:13.125Z",
+    "src": "88d92356811a9b02db7ff1ba3668b39b806405489121841112f8e9a8da362c7c"
   }
 }
