@@ -208,5 +208,16 @@
     "subject": "Restaurants: a new phone app for every place we ate, home A of restaurants/design/home-2026-11-21 with C's Always get row and E Stamps for the times, in Weight's look and motion. The Map tab is the picked country's satellite map with a bubble per city (its best score), country chips over it; under it Always get (every Rainbow dish), the city chips, and Vacation's GO BACK / SKIP / NOT RATED. A city opens on its restaurants as score pins, the tapped one a card. Best (Best | Most eaten at) and Search (names, cities, dishes) tabs. A restaurant: its map (Google Maps on a tap), the stamps card (ten a card), We ate here, its score and every dish with Vacation's stars (halves, ×N, Rainbow); Edit with Where I am or a Google Maps link, Country and City.",
     "built": "2026-11-22T04:42:54.673Z",
     "src": "66043a2479a0acda8614cc2bcdb508e4541371ffb7f46365cb84f26595c08d67"
+  },
+  "translate": {
+    "label": "Translate",
+    "code": 1,
+    "file": "translate.apk",
+    "sha256": "34db6e7568b6d6ced105ee58d2a3de4d1d93bdfefabb91c24ec56854a7120102",
+    "size": 475452,
+    "commit": "dd7f9c1",
+    "subject": "Translate: a new phone app, English to Thai, with a home-screen widget. The widget's \"Type in English\" bar opens the translator as a card over the home screen with the keyboard up (a widget cannot hold a text box); under the bar sit the last line's Thai, how to say it and the English, and a speaker (a second tap says it slowly). In the app: the Thai big, its reading in Paiboon with tones (hɔ̂ng-náam yùu tîi-nǎi?), say it, say it slowly, copy, the line cut into its words (each with its reading and meaning, a tap says it), and every line before to learn from (a tap brings it back, a long press deletes it). Thai typed goes to English.",
+    "built": "2026-11-22T12:19:45.253Z",
+    "src": "07f8ce624b81dc0dca32616f09bb526a85e6b0d0950baff6eba779cb867d8fd8"
   }
 }
