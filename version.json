@@ -110,14 +110,14 @@
   },
   "control": {
     "label": "Control",
-    "code": 65,
+    "code": 66,
     "file": "control.apk",
-    "sha256": "bb7264b6fe25cf3bc102fca53c8b1dd0dc6d6807b4db0562ac43402ffe13a733",
-    "size": 180871,
-    "commit": "df9b64a",
-    "subject": "Restaurants: a new phone app for every place we ate, home A of restaurants/design/home-2026-11-21 with C's Always get row and E Stamps for the times, in Weight's look and motion. The Map tab is the picked country's satellite map with a bubble per city (its best score), country chips over it; under it Always get (every Rainbow dish), the city chips, and Vacation's GO BACK / SKIP / NOT RATED. A city opens on its restaurants as score pins, the tapped one a card. Best (Best | Most eaten at) and Search (names, cities, dishes) tabs. A restaurant: its map (Google Maps on a tap), the stamps card (ten a card), We ate here, its score and every dish with Vacation's stars (halves, ×N, Rainbow); Edit with Where I am or a Google Maps link, Country and City.",
-    "built": "2026-11-22T04:59:26.441Z",
-    "src": "773907511825d79951d55579a926aa6ac3a1eaa42fc3bbed86ac1339f2a41c95"
+    "sha256": "b227eaf7de4d8d2a36b0cfaecb561ce94de37f3066e1050e0d74589a31386734",
+    "size": 180967,
+    "commit": "e121467",
+    "subject": "Morphe: the family's patched YouTube, made on the Pi and kept up to date by a small app. The Pi (morphe/pi, morphe-build.timer every 3 hours) takes the newest stable Morphe patches, gets the YouTube they are made for from APKPure, uses it only when every APK in it carries Google's own YouTube signature, patches it and signs it with one key that never changes; with MicroG-RE it is served at morphe.chhat.net behind a key, never on the public apps repo. A failure keeps the last build and says why. The app (slug morphe, sky blue) sets a phone up once from a QR (allow installs, remove an old Morphe made with another key, MicroG, YouTube), then shows Up to date and Open YouTube; every new build goes in silently while the screen is off and nothing plays. Build 1 = YouTube 21.23.492, patches v2.3.0, MicroG 7.3.2. Tests: build + server 15 (8 mutants red), Plan 7 (3 red), the page in jsdom through every step (6 red). Asked: \"make my own update for morphe for them where it auto updates\", \"youtube only. just mom dad and my phone\".",
+    "built": "2026-11-22T17:52:03.057Z",
+    "src": "ea49e6de18295f54c68477733ee7166a18229f2ed389d22f028dbbea41df768b"
   },
   "deal": {
     "label": "Better Deal",
