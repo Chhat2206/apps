@@ -12,14 +12,14 @@
   },
   "papa": {
     "label": "Papa's book",
-    "code": 188,
+    "code": 189,
     "file": "papa.apk",
-    "sha256": "c2bab2af04a6144c8ef3ee0f4271576e578f20c584951bc7d2ee6966715e9cc8",
-    "size": 563085,
-    "commit": "7ce5403",
-    "subject": "papa news reads Bloomberg, the FT and The Edge Singapore in full, not just their headlines. A page a plain request is refused is asked again through curl_cffi (Python), which makes the TLS handshake a browser's: these sites block on the handshake, not the user-agent. Bloomberg's page carries the whole story in __NEXT_DATA__ (read by bloombergStory); the FT needs Safari's handshake and Google as referrer; The Edge's premium pieces are cut to their opening on its server, kept and labelled as an opening. The three never fall back to the free reader (it handed back Bloomberg's teaser as the article), and reads to them go one at a time, 3 s apart, after Bloomberg blocked the home address following ~8 quick reads. Live, laptop: 12/12 Bloomberg (incl. Google-found Thailand links), 6/6 FT, Edge news whole and premium as opening; Pi, in the papa-news sandbox: 8 Bloomberg and 6/6 FT before Bloomberg's block. Unit 539/539; mutants (quotes dropped, Edge access ignored, reader allowed for the walled three) red. Pi venv /opt/papa-fetch-venv; note papa-news-walled-sites. Asked: \"im fine with working around paywalls and bot checks as its a private app. 1. is fine. any methods is fine. i do not want to only read title tbh\".",
-    "built": "2026-11-20T05:23:34.964Z",
-    "src": "90ffe26964c79552f8c0f3762bd83a01f376b81b942eac6b38809e6a90e3df32"
+    "sha256": "e4cf6bd1a8bf66f28cc801e9521219266c3d5788e22257075360c518c9a1b94c",
+    "size": 561877,
+    "commit": "35bccb0",
+    "subject": "papa: Day by day for every name, not one: a holding's page, a name looked up and a currency get it under Year by year (folded behind Show every day, read only once opened), and a Tracker price has a › that opens the price page with its days, as Home's price does. Asked: \"For all of them not just ap\".",
+    "built": "2026-11-22T04:26:49.672Z",
+    "src": "699091672ec6d1bff7b5e8106519c4f0bcd2a49e63bc8faab5e10c990415bd43"
   },
   "groceries": {
     "label": "Credit Card",
