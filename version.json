@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit",
-    "code": 2,
+    "code": 3,
     "file": "reddit.apk",
-    "sha256": "c2918cd32ab294d9a1baff521bc1efbb6e091fd98e09f008f4c53a2759c23501",
-    "size": 179035,
-    "commit": "f7a5a9b",
-    "subject": "Reddit: Surprise me never shows a post twice in one visit (Another only skipped the last one, so a post passed over two picks back could return); once every post of the pool has been shown it starts round again. Caught by the e2e run on the Pi.",
-    "built": "2026-11-22T18:08:04.510Z",
-    "src": "521895eaa42a05907fe602910357339060661852419e2de0bbd150b3f475b805"
+    "sha256": "d337ec9b1cdd968785fd8fcfa24329c6db9797e5434363aef86600995648f054",
+    "size": 179487,
+    "commit": "7a58ec9",
+    "subject": "Reddit: no random; Top over the years you pick; a search that reads a community's whole past. Surprise me is gone (tab and screen). The Top sheet's \"Or between\" is \"Or the years you pick\": tap any years (2016 and 2019, say) and the list is every post of just those years, highest score first, the chip reading Top, 2016, 2019. Search is a tab (and on Home and each community): Everywhere = communities first, then Reddit's search with Relevance / Top / New; in a community it finds every title it ever had (the phone's own copy at once, the archive's title search for years it does not hold) plus Reddit's own matches in the text, in the span or years picked, Unread only kept, ranked by score, with the count. 14 sums, 6 Java tests, 41 checks pressing the page through; a search-ignores-years mutant red in both. Asked: \"no need random. I more meant curated with the years I wanna select from a bunch of posts if possible. Also maybe an improved search\".",
+    "built": "2026-11-22T18:20:57.892Z",
+    "src": "2a9bf9b5529f874e762922b3d6ffcd45e8ccd973905e060772e188567679c0e1"
   },
   "morphe": {
     "label": "Morphe",
