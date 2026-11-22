@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit",
-    "code": 6,
+    "code": 7,
     "file": "reddit.apk",
-    "sha256": "5088b59ec8da0ad4ebf54dbe1f3491e767ddbf1371baa75109d557cc4ef3ddd9",
-    "size": 184563,
-    "commit": "5e0d3e6",
-    "subject": "Reddit: a video's controls work as on any phone (its full-screen button fills the screen, bars hidden, turned either way; back leaves it), and posts of several pictures or videos swipe one at a time with 2 / 5 in the corner, in lists and on the post; a swipe never opens the post, moving pieces play, captions show. Asked: \"Let me use video controls as expected please and naturally swipe if it's x/y imgs or videos\".",
-    "built": "2026-11-22T19:33:28.620Z",
-    "src": "92bba7224688e5545887602647650efda4493f21cd6bbf784e0a78ca06911564"
+    "sha256": "6d2ce3ead871462219ec5cfe5b1dd1b50ff05d92a0e724460e6d52637d277f84",
+    "size": 185411,
+    "commit": "1cf450c",
+    "subject": "Reddit: a post's community name in any list opens that community; screens slide in and back out, tabs fade, new posts rise in once, buttons and rows give way a touch when pressed, votes, saves and folding a comment buzz; all of it off when the phone asks for less motion. Asked: \"Let me click subreddit name directly from the main page add subtle animation and feedback too please\".",
+    "built": "2026-11-22T19:39:02.010Z",
+    "src": "87f8813eff4830e3d5f30641ef5b7d037bb5c346fa50e27c8b1822cbcf9983d9"
   },
   "morphe": {
     "label": "Morphe",
