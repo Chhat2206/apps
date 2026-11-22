@@ -211,13 +211,13 @@
   },
   "translate": {
     "label": "Translate",
-    "code": 3,
+    "code": 4,
     "file": "translate.apk",
-    "sha256": "2f8d229828610ed4dd6ad3aafaf1b4ac2bde5900564f471f80ee8760226871a2",
-    "size": 478989,
-    "commit": "e9479de",
-    "subject": "Translate: the widget is a list, newest line at the top, running down to the bottom, instead of the last line alone in the middle. A tap on a line says it, the same line again within a few seconds slowly (a speaker on each line). Redrawn after an update and at each open, so the home screen drops the old look. In the app, Check for updates / Up to date and the version sit at the bottom right of the screen. Colour directions A Thai flag, B Sky, C Saffron rendered in translate/design/colours-2026-11-22 for the user to pick. javacheck 13/13. Asked: \"Don't make the widget text the center of the screen. It should go top to bottom, where top is the latest word. Up to date should be in the bottom right as well … Use a different color scheme as well, please.\"",
-    "built": "2026-11-22T14:05:36.106Z",
-    "src": "fd063142fa36a9f66298792c6e74fe01ca42b87cacfee9640292e2ef375dfba2"
+    "sha256": "7146255917e496c03af5562c1b96382accef04feea66fdb992e4fff8bd211de5",
+    "size": 493443,
+    "commit": "a60b655",
+    "subject": "Translate: Settings with 16 colour palettes, and updates the way every other app does them. A gear beside the box opens Settings: a preview line, then the palettes (Orchid, Thai flag, Sky, Saffron, Jade, Lime, Coral, Lavender, Gold, Rose, Teal, Peach, Blue, Red, Plum, Silver; each a reading colour and a button colour, all tested readable on black), which colour the app and the widget. At its foot Check for updates above Version N, the version opening every change, as in every app's Settings. The update band across the top only when Android needs a tap (never offline), and the one-second Updated band on the first open of a new build: android/web/update.js and version.js ported to Java, same words and states (the app has no page for them to run in). The Up to date / Version foot on the main screen is gone. javacheck 17/17, 4 new mutants red. Asked: \"Allow for a lot more color variations as well in the settings, and the UI of the app, for example, downloading a new update doesn't follow the convention of all the other apps … standardized … the app version in the bottom left just looks off completely.\"",
+    "built": "2026-11-22T15:21:01.928Z",
+    "src": "5dc387731d4b03c5457f82be390eadeb0cacc5bb10f7357050a1e8ddb9b130e0"
   }
 }
