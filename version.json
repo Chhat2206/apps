@@ -211,13 +211,13 @@
   },
   "translate": {
     "label": "Translate",
-    "code": 1,
+    "code": 2,
     "file": "translate.apk",
-    "sha256": "34db6e7568b6d6ced105ee58d2a3de4d1d93bdfefabb91c24ec56854a7120102",
-    "size": 475452,
-    "commit": "dd7f9c1",
-    "subject": "Translate: a new phone app, English to Thai, with a home-screen widget. The widget's \"Type in English\" bar opens the translator as a card over the home screen with the keyboard up (a widget cannot hold a text box); under the bar sit the last line's Thai, how to say it and the English, and a speaker (a second tap says it slowly). In the app: the Thai big, its reading in Paiboon with tones (hɔ̂ng-náam yùu tîi-nǎi?), say it, say it slowly, copy, the line cut into its words (each with its reading and meaning, a tap says it), and every line before to learn from (a tap brings it back, a long press deletes it). Thai typed goes to English.",
-    "built": "2026-11-22T12:19:45.253Z",
-    "src": "07f8ce624b81dc0dca32616f09bb526a85e6b0d0950baff6eba779cb867d8fd8"
+    "sha256": "afdb8f84c2195ac5d3aa8fa62f98bfcabf8d62e6d3a31fca635c345fe7102694",
+    "size": 476376,
+    "commit": "39ec6ae",
+    "subject": "Translate: the app puts its widget on the home screen. At the first open Android's own \"Add to home screen\" box for the widget comes up by itself; until a widget is placed an \"Add the widget to your home screen\" button under the box asks again, and a launcher that cannot pin gets the long-press directions. javacheck 13/13. Asked: \"Do widget\".",
+    "built": "2026-11-22T13:53:25.150Z",
+    "src": "f36e321ee6497fe51a2ab0a82ebe9cc3045b2c5e321e5a3e276dfbc4b542f900"
   }
 }
