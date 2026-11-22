@@ -230,5 +230,16 @@
     "subject": "Reddit: a new phone app, an AMOLED Reddit reader (design A of round 2). Home, Search, Random, Saved, You; a sub's Top over any span: Today … This year from Reddit, Past 2 / 3 / 5 years, All time and Between two years from the Arctic Shift archive, which the phone reads once per sub (100 posts a request, three at a time) and keeps, so Top of 3 years lists every post of the span, not Reddit's 1000. Unread only leaves out every post opened; Random shows one post at a time from the top 1 / 5 / 10 / 25% of the span, never one read, with Another. The post page has its picture or video, text, votes, Reply, Save, and the comments nested (a press on a name folds one, more replies load in place). Signing in is Reddit's own login page: its token goes to oauth.reddit.com from the phone's side, with reddit.com's cookie pages as the fallback. No ads (the API has none), no key. 13 sums, 6 Java tests, 26 checks pressing the page through against a stand-in Reddit; three mutants red. Asked: \"AMOLED, no ads … the best posts in the last 3 years, or 4 years, or randomize but very famous … the normal features … upvote downvote comments\"; picked A.",
     "built": "2026-11-22T17:43:13.125Z",
     "src": "88d92356811a9b02db7ff1ba3668b39b806405489121841112f8e9a8da362c7c"
+  },
+  "morphe": {
+    "label": "Morphe",
+    "code": 1,
+    "file": "morphe.apk",
+    "sha256": "2d74bf65f99094dbfa0c325013b75799a71d4ff3f79833d8ca7ca0db4976cc57",
+    "size": 133795,
+    "commit": "e121467",
+    "subject": "Morphe: the family's patched YouTube, made on the Pi and kept up to date by a small app. The Pi (morphe/pi, morphe-build.timer every 3 hours) takes the newest stable Morphe patches, gets the YouTube they are made for from APKPure, uses it only when every APK in it carries Google's own YouTube signature, patches it and signs it with one key that never changes; with MicroG-RE it is served at morphe.chhat.net behind a key, never on the public apps repo. A failure keeps the last build and says why. The app (slug morphe, sky blue) sets a phone up once from a QR (allow installs, remove an old Morphe made with another key, MicroG, YouTube), then shows Up to date and Open YouTube; every new build goes in silently while the screen is off and nothing plays. Build 1 = YouTube 21.23.492, patches v2.3.0, MicroG 7.3.2. Tests: build + server 15 (8 mutants red), Plan 7 (3 red), the page in jsdom through every step (6 red). Asked: \"make my own update for morphe for them where it auto updates\", \"youtube only. just mom dad and my phone\".",
+    "built": "2026-11-22T17:49:15.963Z",
+    "src": "f17ebadb97891caa9a62dd64732b31bf87069f00be6410719d82d25c227c37ac"
   }
 }
