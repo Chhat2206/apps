@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit",
-    "code": 3,
+    "code": 4,
     "file": "reddit.apk",
-    "sha256": "d337ec9b1cdd968785fd8fcfa24329c6db9797e5434363aef86600995648f054",
-    "size": 179487,
-    "commit": "7a58ec9",
-    "subject": "Reddit: no random; Top over the years you pick; a search that reads a community's whole past. Surprise me is gone (tab and screen). The Top sheet's \"Or between\" is \"Or the years you pick\": tap any years (2016 and 2019, say) and the list is every post of just those years, highest score first, the chip reading Top, 2016, 2019. Search is a tab (and on Home and each community): Everywhere = communities first, then Reddit's search with Relevance / Top / New; in a community it finds every title it ever had (the phone's own copy at once, the archive's title search for years it does not hold) plus Reddit's own matches in the text, in the span or years picked, Unread only kept, ranked by score, with the count. 14 sums, 6 Java tests, 41 checks pressing the page through; a search-ignores-years mutant red in both. Asked: \"no need random. I more meant curated with the years I wanna select from a bunch of posts if possible. Also maybe an improved search\".",
-    "built": "2026-11-22T18:20:57.892Z",
-    "src": "2a9bf9b5529f874e762922b3d6ffcd45e8ccd973905e060772e188567679c0e1"
+    "sha256": "7d0b9f9dc189f45520e9dc4f9af54db04c99365249ca93c8ee734aa9708d7bfb",
+    "size": 179911,
+    "commit": "f09dd0d",
+    "subject": "Reddit: Curated and All tabs, read posts no longer greyed. Curated is one list that keeps going as you scroll: the top posts of all your communities at once (followed and visited), for the month, year or all time, never one you have read. Subs became All (r/all, Hot / Top today / New); your communities are under You. Posts you had opened faded to a third (pictures too); now they look like any other post, and Unread only still hides them. 41+ checks pressing the page through, a Curated-shows-read mutant red. Asked: \"Idk why imgs and text is gray fix it. Also for surprise i more meant curated where i can scroll for new content. Remove subs replace it with all please\".",
+    "built": "2026-11-22T18:27:00.812Z",
+    "src": "ec556efc358cb8127694098d06fe41ba58098ba7def5d98e1284473104c6f8d2"
   },
   "morphe": {
     "label": "Morphe",
