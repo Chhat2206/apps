@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 107,
+    "code": 108,
     "file": "planner.apk",
-    "sha256": "0817fa0a868d9d6f35107156a7056718eaf6124f73afbfccdceb7948f64be7a2",
-    "size": 438074,
-    "commit": "cd2f8a2",
-    "subject": "Planner: search. A magnifier in the app's head opens a search page over the month (the box on top with the keyboard up); every event from two years back to two years on is asked of Java once per open (AndroidApp.searchAll) and filtered as it is typed: every word in the name or place, coming matches first, then Past newest first, as day rows (weekday over the day number, the event in its colour, its time or days) under month names. A match tapped goes to its month with the day lit and the event ringed; a day of this month gone by goes to last month's page, which runs on to this week. The widget's month name now opens Planner on that month with the search up. The head is a three-cell grid so the month's name stays centred with search and gear on the right. The search lives outside #app, so a sync or month read redrawing the page never takes the focus or the keyboard. page.mjs: search steps (order, every word, one row a showing, place, birthday, the x, a redraw, tap to the day, last month's page, Back, the widget's openSearch); mutants red: unsorted, any word, no dedupe, no last-month page, widget opens no search, Back ignoring it. month-scroll.mjs: in Chromium the search covers the screen, rows fit, a tap lights the day; name still centred. javacheck compiles, 80 unit tests pass. Asked: \"If I tap the header of the widget, it should open app and allow me to search in the app itself ... magnifying glass ... popup ... when you click it that it goes through that date\".",
-    "built": "2026-11-22T12:13:19.015Z",
-    "src": "d242993b9bc02c3df9b2369d55b35f3917e483a58deb31345f4d8d1480201f94"
+    "sha256": "f319de6818abc3ae8ff72b9976416c2d0fd2d9ddee69d1da3d4a2854d1117587",
+    "size": 438142,
+    "commit": "618f2e3",
+    "subject": "Planner: Today in the head, no blue ring on a tapped day. The app's head gets an outlined box with today's number beside the (i), as on the widget, always there; a tap goes back to this month and clears the lit day and ringed event. The floating Today pill is gone (it sat over events). A day tapped once keeps its soft box but no longer has a blue ring round its number. page.mjs and month-scroll.mjs: the head is (i) Today ‹ month › search gear with the name still centred, no pill, no ring rule, Today from another month with a day lit comes back with nothing lit; apk.mjs taps the head's box. Asked: \"Allow me to have a button to instantly go back to today to pls. Also fill the blue or remove blue circle cause it looks highlighted rn\".",
+    "built": "2026-11-22T12:21:31.802Z",
+    "src": "2933027fe8d06b38e37d924a302e068f777d35dac321594e043fbbec6762e617"
   },
   "warranty": {
     "label": "Warranty",
