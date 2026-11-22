@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit",
-    "code": 5,
+    "code": 6,
     "file": "reddit.apk",
-    "sha256": "e909da04823aefd9afa71725df676ee4f712a4e02cc6748b92a39ccd3c46a582",
-    "size": 182435,
-    "commit": "5bfcb49",
-    "subject": "Reddit: videos with sound, NSFW shown and searched, mature communities opened, Saved behind a button. Videos play Reddit's stream (it carries the sound; the silent copy only if the stream will not play), gifs and RedGifs posts as Reddit's own mp4, other sites' videos in Reddit's embed; a press on a video in a list plays it there. A new play button (round, frosted, the video's length beside it), and every picture keeps its shape before it loads. NSFW posts are no longer blurred and searches ask for them. A mature community Reddit refuses is asked again through reddit.com's pages as an over-18 reader; if Reddit still refuses, a Show mature content button turns that setting on in your account (only when pressed). Saved is a button under You, not a list. 14 sums, 7 Java tests, 50+ checks pressing the page through. Asked: \"Videos don't play properly use a better icon and saved should be a button … Nsfw should also be shown by default please. Let nsfw work for the search too … for nsfw reddit says no to this one even when logged in please fix\".",
-    "built": "2026-11-22T18:33:52.718Z",
-    "src": "3370fd81c6871a122ded8d7be9bce8353c9234cc39e51f0449cb93fe79ba9f90"
+    "sha256": "5088b59ec8da0ad4ebf54dbe1f3491e767ddbf1371baa75109d557cc4ef3ddd9",
+    "size": 184563,
+    "commit": "5e0d3e6",
+    "subject": "Reddit: a video's controls work as on any phone (its full-screen button fills the screen, bars hidden, turned either way; back leaves it), and posts of several pictures or videos swipe one at a time with 2 / 5 in the corner, in lists and on the post; a swipe never opens the post, moving pieces play, captions show. Asked: \"Let me use video controls as expected please and naturally swipe if it's x/y imgs or videos\".",
+    "built": "2026-11-22T19:33:28.620Z",
+    "src": "92bba7224688e5545887602647650efda4493f21cd6bbf784e0a78ca06911564"
   },
   "morphe": {
     "label": "Morphe",
