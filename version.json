@@ -211,14 +211,14 @@
   },
   "translate": {
     "label": "Translate",
-    "code": 4,
+    "code": 5,
     "file": "translate.apk",
-    "sha256": "7146255917e496c03af5562c1b96382accef04feea66fdb992e4fff8bd211de5",
-    "size": 493443,
-    "commit": "a60b655",
-    "subject": "Translate: Settings with 16 colour palettes, and updates the way every other app does them. A gear beside the box opens Settings: a preview line, then the palettes (Orchid, Thai flag, Sky, Saffron, Jade, Lime, Coral, Lavender, Gold, Rose, Teal, Peach, Blue, Red, Plum, Silver; each a reading colour and a button colour, all tested readable on black), which colour the app and the widget. At its foot Check for updates above Version N, the version opening every change, as in every app's Settings. The update band across the top only when Android needs a tap (never offline), and the one-second Updated band on the first open of a new build: android/web/update.js and version.js ported to Java, same words and states (the app has no page for them to run in). The Up to date / Version foot on the main screen is gone. javacheck 17/17, 4 new mutants red. Asked: \"Allow for a lot more color variations as well in the settings, and the UI of the app, for example, downloading a new update doesn't follow the convention of all the other apps … standardized … the app version in the bottom left just looks off completely.\"",
-    "built": "2026-11-22T15:21:01.928Z",
-    "src": "5dc387731d4b03c5457f82be390eadeb0cacc5bb10f7357050a1e8ddb9b130e0"
+    "sha256": "581e1fc065b9f2e1e6d2d0ceab0a7b63afa6b60ea5bb119e975674eacc192f1b",
+    "size": 511069,
+    "commit": "d9ab81a",
+    "subject": "reddit: A picked, a polished A on the canvas beside it. Asked: \"A is the best but could u polish it up\".",
+    "built": "2026-11-22T17:55:37.732Z",
+    "src": "3651ef0c4190e7c106d2e2b76eee32b62e33bae3dc9093c6bb94c7b8bcb8553c"
   },
   "reddit": {
     "label": "Reddit",
