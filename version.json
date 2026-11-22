@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit",
-    "code": 4,
+    "code": 5,
     "file": "reddit.apk",
-    "sha256": "7d0b9f9dc189f45520e9dc4f9af54db04c99365249ca93c8ee734aa9708d7bfb",
-    "size": 179911,
-    "commit": "f09dd0d",
-    "subject": "Reddit: Curated and All tabs, read posts no longer greyed. Curated is one list that keeps going as you scroll: the top posts of all your communities at once (followed and visited), for the month, year or all time, never one you have read. Subs became All (r/all, Hot / Top today / New); your communities are under You. Posts you had opened faded to a third (pictures too); now they look like any other post, and Unread only still hides them. 41+ checks pressing the page through, a Curated-shows-read mutant red. Asked: \"Idk why imgs and text is gray fix it. Also for surprise i more meant curated where i can scroll for new content. Remove subs replace it with all please\".",
-    "built": "2026-11-22T18:27:00.812Z",
-    "src": "ec556efc358cb8127694098d06fe41ba58098ba7def5d98e1284473104c6f8d2"
+    "sha256": "e909da04823aefd9afa71725df676ee4f712a4e02cc6748b92a39ccd3c46a582",
+    "size": 182435,
+    "commit": "5bfcb49",
+    "subject": "Reddit: videos with sound, NSFW shown and searched, mature communities opened, Saved behind a button. Videos play Reddit's stream (it carries the sound; the silent copy only if the stream will not play), gifs and RedGifs posts as Reddit's own mp4, other sites' videos in Reddit's embed; a press on a video in a list plays it there. A new play button (round, frosted, the video's length beside it), and every picture keeps its shape before it loads. NSFW posts are no longer blurred and searches ask for them. A mature community Reddit refuses is asked again through reddit.com's pages as an over-18 reader; if Reddit still refuses, a Show mature content button turns that setting on in your account (only when pressed). Saved is a button under You, not a list. 14 sums, 7 Java tests, 50+ checks pressing the page through. Asked: \"Videos don't play properly use a better icon and saved should be a button … Nsfw should also be shown by default please. Let nsfw work for the search too … for nsfw reddit says no to this one even when logged in please fix\".",
+    "built": "2026-11-22T18:33:52.718Z",
+    "src": "3370fd81c6871a122ded8d7be9bce8353c9234cc39e51f0449cb93fe79ba9f90"
   },
   "morphe": {
     "label": "Morphe",
