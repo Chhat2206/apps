@@ -211,14 +211,14 @@
   },
   "translate": {
     "label": "Translate",
-    "code": 5,
+    "code": 6,
     "file": "translate.apk",
-    "sha256": "581e1fc065b9f2e1e6d2d0ceab0a7b63afa6b60ea5bb119e975674eacc192f1b",
-    "size": 511069,
-    "commit": "d9ab81a",
-    "subject": "reddit: A picked, a polished A on the canvas beside it. Asked: \"A is the best but could u polish it up\".",
-    "built": "2026-11-22T17:55:37.732Z",
-    "src": "3651ef0c4190e7c106d2e2b76eee32b62e33bae3dc9093c6bb94c7b8bcb8553c"
+    "sha256": "a711008287602eef10fe3aaa3d08d9e413730330adec7b46f61f6399be0c9a77",
+    "size": 514765,
+    "commit": "97315f8",
+    "subject": "Translate: pictures in Learn, and icon-only tabs. Time opens on the Thai day as one bar of 24 hours coloured by what each stretch is called (ตี, เช้า, เที่ยง, บ่าย, เย็น, ทุ่ม, เที่ยงคืน), its name and hours under it; every time has a clock face in its part of the day's colour, so bar, clock and word agree (a test keeps them so). Days carry Thailand's day colours, months their number coloured by ending (คม 31 days, ยน 30). The quiz's English to Thai time question shows the clock too, ringed in the app's colour so it never gives the word away. The foot is the two icons only, the open one in the accent on a soft pill. javacheck 24/24. Asked: \"The translate and learn in the button look off maybe just keep the icon and maybe for clock it could help to show diagrams or imgs feel free to design it properly\".",
+    "built": "2026-11-22T18:09:40.855Z",
+    "src": "bb32f118b40205240f8cc6bf30e4c830009bd684906ef0b536ded7c3d29e8c79"
   },
   "reddit": {
     "label": "Reddit",
