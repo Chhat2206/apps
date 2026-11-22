@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit",
-    "code": 1,
+    "code": 2,
     "file": "reddit.apk",
-    "sha256": "2b4acf720cc54ae016a25ab0973d613e67f56a962d8452f04d5b127bb64d5708",
-    "size": 81418,
-    "commit": "a33dcd6",
-    "subject": "Reddit: a new phone app, an AMOLED Reddit reader (design A of round 2). Home, Search, Random, Saved, You; a sub's Top over any span: Today … This year from Reddit, Past 2 / 3 / 5 years, All time and Between two years from the Arctic Shift archive, which the phone reads once per sub (100 posts a request, three at a time) and keeps, so Top of 3 years lists every post of the span, not Reddit's 1000. Unread only leaves out every post opened; Random shows one post at a time from the top 1 / 5 / 10 / 25% of the span, never one read, with Another. The post page has its picture or video, text, votes, Reply, Save, and the comments nested (a press on a name folds one, more replies load in place). Signing in is Reddit's own login page: its token goes to oauth.reddit.com from the phone's side, with reddit.com's cookie pages as the fallback. No ads (the API has none), no key. 13 sums, 6 Java tests, 26 checks pressing the page through against a stand-in Reddit; three mutants red. Asked: \"AMOLED, no ads … the best posts in the last 3 years, or 4 years, or randomize but very famous … the normal features … upvote downvote comments\"; picked A.",
-    "built": "2026-11-22T17:43:13.125Z",
-    "src": "88d92356811a9b02db7ff1ba3668b39b806405489121841112f8e9a8da362c7c"
+    "sha256": "c2918cd32ab294d9a1baff521bc1efbb6e091fd98e09f008f4c53a2759c23501",
+    "size": 179035,
+    "commit": "f7a5a9b",
+    "subject": "Reddit: Surprise me never shows a post twice in one visit (Another only skipped the last one, so a post passed over two picks back could return); once every post of the pool has been shown it starts round again. Caught by the e2e run on the Pi.",
+    "built": "2026-11-22T18:08:04.510Z",
+    "src": "521895eaa42a05907fe602910357339060661852419e2de0bbd150b3f475b805"
   },
   "morphe": {
     "label": "Morphe",
