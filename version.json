@@ -176,14 +176,14 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 34,
+    "code": 35,
     "file": "weight.apk",
-    "sha256": "0bf0a30fb22dba8f264eff8e79f40c3949fbc46c3158981565c0d0c9568d63b8",
-    "size": 322238,
-    "commit": "5d35a66",
-    "subject": "Weight: the add sheet shows the last 3 dishes in one row, starts each at ½, and a long press clears one.",
-    "built": "2026-11-21T12:07:24.535Z",
-    "src": "9421525de958ff64cca98279429297ff5abb8dd6d468e7cbfdfca06b5194fcb9"
+    "sha256": "e794da3f9a155d5fdc777194230f62cf18600eedce1df86585dc943b3b5437de",
+    "size": 322502,
+    "commit": "df9b64a",
+    "subject": "Restaurants: a new phone app for every place we ate, home A of restaurants/design/home-2026-11-21 with C's Always get row and E Stamps for the times, in Weight's look and motion. The Map tab is the picked country's satellite map with a bubble per city (its best score), country chips over it; under it Always get (every Rainbow dish), the city chips, and Vacation's GO BACK / SKIP / NOT RATED. A city opens on its restaurants as score pins, the tapped one a card. Best (Best | Most eaten at) and Search (names, cities, dishes) tabs. A restaurant: its map (Google Maps on a tap), the stamps card (ten a card), We ate here, its score and every dish with Vacation's stars (halves, ×N, Rainbow); Edit with Where I am or a Google Maps link, Country and City.",
+    "built": "2026-11-22T04:57:39.450Z",
+    "src": "06abc1bacc87b4f3d1cb861fb1019f91fb2bcc0015ae2333f28dec416a8ed0df"
   },
   "friends": {
     "label": "Friends Launcher",
