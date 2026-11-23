@@ -233,13 +233,13 @@
   },
   "morphe": {
     "label": "YouTube+",
-    "code": 9,
+    "code": 10,
     "file": "morphe.apk",
-    "sha256": "feef8d1bf9c4770ddfcf5906ea5eeab8eab296a5692e01d9502002f7b23facd0",
-    "size": 196027,
-    "commit": "166f0e0",
-    "subject": "YouTube+ Manager: the home-screen shortcut follows YouTube's launcher entry the moment a YouTube update goes in, not at the next hourly look, and a shortcut made as \"YouTube\" by build 7 is relabelled YouTube+. Patching with customName enables .morphe_custom_5 instead of .morphe_custom_1 on a fresh install (read off build 3's manifest); a phone that updates keeps the alias it had, so the shortcut has to follow whichever is enabled. Emulator (Android 15, real Pi, build 3): a background update with the screen off, the shortcut still opens YouTube as YouTube+, no crash. Asked: \"make sure updates and notifs work properly\".",
-    "built": "2026-11-23T06:53:09.080Z",
-    "src": "4fd5a0890f311b262abe5dfae56ded3fd6962b2fd16e89756f04844d67f8d263"
+    "sha256": "49ed63d2e7774b7bb21288b38313e7a83c3954edfe75a0f34bc6fd73ff848007",
+    "size": 199499,
+    "commit": "f0ce25d",
+    "subject": "YouTube+ Manager: opening it shows the details instead of jumping into YouTube, with Check for updates that makes the Pi look for new Morphe patches now. One card, a line each for YouTube (its version), Morphe patches (the tag in the installed YouTube, \"New: v2.4.0\" when the Pi has newer), Google sign-in and the Manager itself (Version N, its own Update when one would ask), and \"Checked N minutes ago\" = when the Pi last looked. Check for updates posts /look to the Pi (once a minute at most), morphe-build.path starts build.mjs at once instead of at the next 3-hourly look, the phone waits for that look to end (version.json now says looking / looked) and puts in what it made; it also asks the Manager's own updater. Open YouTube stays as a button; the family opens YouTube from the home-screen shortcut. e2e (details, check, busy, failure, self update, every opening stays; 6 mutants red), Pi tests 20 (throttle + looking/looked, 2 mutants red), javacheck 10 files + 7 tests. Asked: \"opening youtube+ manager should show detail not just redirect so can check for updates for stuff like morphe too\".",
+    "built": "2026-11-23T07:32:47.811Z",
+    "src": "4daad10a00da1c3e84eda39fb222c85cd157f610c9077616868129486676d3dd"
   }
 }
