@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 12,
+    "code": 13,
     "file": "reddit.apk",
-    "sha256": "1c2b1d4c3e4e8bcf0311fa43abd7295af513889df3cf953c5bf5ae12e73294c3",
-    "size": 197661,
-    "commit": "17d5e3a",
-    "subject": "Reddit Snoo: the top and bottom bars come back only after scrolling up a fifth of the screen from where you turned (or near the top), so nudging up to see a title again leaves them away. e2e: a 15 % scroll up keeps both away, 25 % brings them back, down again takes them away; the first is red with the old any-scroll-up rule. Asked: \"if I go up for snoo just a lil bit it should show both header and footer. It should only show if I scroll for like 20% of the page. Sometimes I'm just readjusting to see the title\".",
-    "built": "2026-11-23T06:15:57.276Z",
-    "src": "2bb6c3341a1c6a0499cb13f56ddb22fd8f8cd5f2cfe360770ea5ca6040d38458"
+    "sha256": "ca6b8bf99d41d0bb4fc7186efdac73498598a84c232b8fd296e17e308398635a",
+    "size": 198021,
+    "commit": "5990d5a",
+    "subject": "Reddit Snoo: a tap that stops a gliding list only stops it. Nothing under the finger lights up and the click it can bring opens nothing, as in Reddit's own app. Gliding = scroll frames still coming when the finger lands (two within 50 ms, the last under 120 ms ago), so one jump (a scrollIntoView) still lets the next tap through. A new e2e check glides the list, lands a finger mid-glide and holds it: red with the fix off (the post opened), e2e all ok. Asked: \"when i scroll and click to stop the scrolling it highlights the post so fix that please\".",
+    "built": "2026-11-23T06:23:45.571Z",
+    "src": "376a2ddc4197d78db23e929be76b72295bc0ad8b71d39cafd95c05c8ebc87cbb"
   },
   "morphe": {
     "label": "YouTube+",
