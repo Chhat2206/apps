@@ -224,11 +224,11 @@
     "label": "Snoo",
     "code": 8,
     "file": "reddit.apk",
-    "sha256": "2b7abcfc789ad48937e9bed97d902d5984ec2375792b11a80aeec3e56e62ce34",
-    "size": 192873,
-    "commit": "eb07eab",
-    "subject": "Reddit: press feedback, design B \"Press in\". Whatever is under your finger reacts the moment it lands (it used to come late, if at all): a post sinks into a card, buttons, chips and tabs sink and spring back, and a post opens by growing out of the card you pressed. A vote bursts with a ring in its colour and the arrow hops; the tab you pick jumps. A finger that starts scrolling lets go of it. 7 new checks pressing the page through, red without the change. Asked: \"when i click on a post or in general i want feedback so claude design and add it\", picked B.",
-    "built": "2026-11-23T04:30:13.645Z",
+    "sha256": "13b48e5489740d343f5895c7f70b9d6eb28f8b9be4f7ce74b84a5246d3de6b49",
+    "size": 192973,
+    "commit": "0e8a090",
+    "subject": "Reddit e2e: Reddit's answer held back 12 s, so the check that the phone's copy shows first holds on a loaded Pi (it took over 4 s to reload in the publish run).",
+    "built": "2026-11-23T04:36:44.348Z",
     "src": "9857133e9acf75ad6657df145f1459fcce892c23799563292bd7335573fac928"
   },
   "morphe": {
