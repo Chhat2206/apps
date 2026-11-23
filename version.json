@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 15,
+    "code": 16,
     "file": "reddit.apk",
-    "sha256": "d88f65340eac00124bf8fcdcd38b93250fe7605f4df226b5e4d7d678bd5b790d",
-    "size": 205845,
-    "commit": "1b69df1",
-    "subject": "Reddit Snoo: search waits out Reddit's limit instead of stopping, Communities first, removed posts tagged with the original when an archive kept it, no sideways scrolling, no Text size. Every list asks Reddit for each community's icon with its posts, so a search everywhere no longer sends 25 more requests in front of itself; icon and picture requests go after anything you asked for and pause while Reddit wants a wait; the phone reads Reddit's own limit (x-ratelimit-remaining/reset) and waits until it fills, and a slow-down shows \"Trying again in N s\" and loads by itself. When Reddit still refuses, the message says what it answered and which way it was asked. Search opens on Communities, first in the menu; its chips shrink until none is cut at any text size. A removed or deleted post has a Removed tag and a Hide button on its line; its page shows the text as first posted when Arctic Shift or PullPush kept it, else says no copy was saved, with Hide this post. Tables scroll inside themselves and nothing is wider than the phone. The Text size slider under You is gone (the size it set stays). 150 checks pressing the page through, 16 sums, 8 Java tests; each of the eight changes broken on purpose turns its checks red. Asked: \"Fix the clipping … show communities as default first … post searching isn't working\", \"remove text size btw\", \"so many links say [removed] btw can we get the og or maybe a tag that informs us to ignore and a button to hide\", \"i can also scroll right and left\".",
-    "built": "2026-11-23T07:50:25.660Z",
-    "src": "86f86753255152c9d1fd535c5c4242558011967a7ddfe0a4a2ad1e48b07f7599"
+    "sha256": "b5cb488da1eac0575cafff4f4b2b77bd7bb3ce6a4d16ea3398f5d2877c584595",
+    "size": 206321,
+    "commit": "454342d",
+    "subject": "Reddit Snoo: a post opens with ten comments, More comments loads ten more at a time. Reddit is asked for ten comments instead of two hundred, so the comments come much sooner after the post (which is drawn at once from the list); under them a More comments (N) button asks for the next ten and leaves a button for the rest. Replies' \"N more replies\" are unchanged. 153 checks pressing the page through; asking for 200 again turns them red. Asked: \"You don't need to load all of the comments in one go. A few is fine and maybe like 10 and then if I want more it can load so it doesn't have to take that long. Prioritize loading the post first then the comments.\"",
+    "built": "2026-11-23T08:02:40.118Z",
+    "src": "d64c54544a5164c626ee25f50779fd36296e665b6c54f970bf4246948ba226cb"
   },
   "morphe": {
     "label": "YouTube+",
