@@ -110,14 +110,14 @@
   },
   "control": {
     "label": "Control",
-    "code": 66,
+    "code": 67,
     "file": "control.apk",
-    "sha256": "b227eaf7de4d8d2a36b0cfaecb561ce94de37f3066e1050e0d74589a31386734",
-    "size": 180967,
-    "commit": "e121467",
-    "subject": "Morphe: the family's patched YouTube, made on the Pi and kept up to date by a small app. The Pi (morphe/pi, morphe-build.timer every 3 hours) takes the newest stable Morphe patches, gets the YouTube they are made for from APKPure, uses it only when every APK in it carries Google's own YouTube signature, patches it and signs it with one key that never changes; with MicroG-RE it is served at morphe.chhat.net behind a key, never on the public apps repo. A failure keeps the last build and says why. The app (slug morphe, sky blue) sets a phone up once from a QR (allow installs, remove an old Morphe made with another key, MicroG, YouTube), then shows Up to date and Open YouTube; every new build goes in silently while the screen is off and nothing plays. Build 1 = YouTube 21.23.492, patches v2.3.0, MicroG 7.3.2. Tests: build + server 15 (8 mutants red), Plan 7 (3 red), the page in jsdom through every step (6 red). Asked: \"make my own update for morphe for them where it auto updates\", \"youtube only. just mom dad and my phone\".",
-    "built": "2026-11-22T17:52:03.057Z",
-    "src": "ea49e6de18295f54c68477733ee7166a18229f2ed389d22f028dbbea41df768b"
+    "sha256": "e7b6706bca8223449b77b97ac58de871b0b4a12f3c10eadb2413000ac90287d5",
+    "size": 180087,
+    "commit": "f55747e",
+    "subject": "Control: Set up a phone's Share is Download. The QR is saved as \"<App> setup QR.png\" in the phone's Downloads (MediaStore, no permission, Android 10+) with \"Saved to Downloads\"; the share-sheet file provider (QrFiles) is gone. The e2e gives Chromium 3 min to start (60 s timed out with the Pi's disk busy). Asked: \"This should say download instead of share\".",
+    "built": "2026-11-23T04:45:56.643Z",
+    "src": "e21c900844bb8afabbe0de73b97c0c54700b0e21a7b8ab313583f15a7ffb2e94"
   },
   "deal": {
     "label": "Better Deal",
