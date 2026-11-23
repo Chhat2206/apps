@@ -233,13 +233,13 @@
   },
   "morphe": {
     "label": "YouTube+",
-    "code": 5,
+    "code": 6,
     "file": "morphe.apk",
-    "sha256": "30c520874f14cb39331c3af670742d8253bb9645907b74943b17b7c7d0822bac",
-    "size": 189261,
-    "commit": "267ca97",
-    "subject": "YouTube+ (Morphe) looks like MicroG-RE now and walks the family through one step at a time: design B of the canvas (https://claude.ai/artifact/JHet8tC7ZfGHDzeNaUHknY). Material 3 Expressive on black with Google Sans Flex: \"Step N of 3\" bars (allow installs, Google sign-in, YouTube), a scalloped shape behind one icon, one sentence and one big button a screen. Downloads show a wavy ring with the % and \"70 of 113 MB\" (status() now carries each app's size from version.json) and \"You can put the phone down\". The install step draws Android's own box with Install ringed. An update that needs a tap reads \"New YouTube ready\", then \"Updating YouTube\" and \"Back in a minute\". Done = \"All set\" with \"updates by itself when the screen is off\". The family never reads \"MicroG\". e2e updated and extended (step bars, MB, Android's box, the asking update while it goes), 4 mutants red; javacheck and the Pi tests green. Asked: \"claude design the update page and downloading page to make it super easy for family to understand the steps\", \"i love the microg ge ui look so mimic that\", picked \"B\".",
-    "built": "2026-11-23T05:57:43.859Z",
-    "src": "35dd05507128cba40c515a95bcd3339118f01a0c843b98fc8eefdac77dd585b6"
+    "sha256": "d267225e8c68326e7f8bf1170db9c407ce7cddaeea479ade8ba13fb903879ee5",
+    "size": 191269,
+    "commit": "cda4b80",
+    "subject": "YouTube+ opens on one splash, design A of the opening canvas (https://claude.ai/artifact/GsK9mKved7v1XTeys3BAhU). Before, Android's splash came first, then a black page with a blue spinner while YouTube+ asked the Pi, then a hard cut to YouTube's splash. Now Android's splash (the YouTube+ icon) stays up while the page decides: YouTube opens over it with no animation, and a screen shows only when something needs a tap (the icon fades off it). The page looks every 0.1 s instead of 0.7 s while deciding, so YouTube opens as soon as the Pi answers. The handover is invisible because YouTube's own splash is now the same icon on the same black: the Pi patches YouTube with Morphe's Custom branding customIcon set to the YouTube+ icon (morphe/pi/icon, plus our own themed-icon and notification vectors, or Morphe's \"M\" stays in those). Before, its splash and launcher icon were Morphe's M, which is copyrighted and cannot go in our public APK. The icon's hash is part of the build key, so the next Pi run makes a new YouTube and the phones take it silently. A home-screen shortcut to the old YouTube icon goes away with it. Splash background white by day, black at night, like YouTube's. e2e extended (the splash is never let go of on an opening that ends in YouTube; 3 mutants red), icon-stamp test (mutant red), javacheck 10 files + 7 tests, a trial patch on the Pi enables .morphe_custom_1 with our icon. Asked: \"i dont like the brief second of youtube+ before it swaps me over to the app the animation looks unpolished claude design a fix\", picked A, \"YouTube gets our icon\".",
+    "built": "2026-11-23T06:08:49.426Z",
+    "src": "b5f0747ec6074bf459a858856a035c4988b3fda9c240e03fc6035fae332452dc"
   }
 }
