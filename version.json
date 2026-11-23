@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 18,
+    "code": 19,
     "file": "reddit.apk",
-    "sha256": "b8eeafa173d0a2242e3f7df2b059b7788ae94101e931fa3611d60f2e1462f478",
-    "size": 210037,
-    "commit": "14a8c80",
-    "subject": "Reddit Snoo: a post you opened shows it on every list, its title soft grey. Opening a post was always kept as read (Unread only uses it), but the grey look had been taken away with the greyed pictures; now only the title goes soft grey, at once on the list you came from and on every list drawn later, pictures and the rest unchanged. 155 checks pressing the page through, twice; a post whose line is not marked when opened turns them red. Asked: \"make sure that if I click into a post, it actually saves that and knows that and remembers that I've looked into it already. Because it used to show gray, but now it doesn't do that\".",
-    "built": "2026-11-23T08:17:44.680Z",
-    "src": "766709c75bc464b41772c89fcb5d4e50837d45df4ea6870f89f028c1559bba27"
+    "sha256": "45b3e88e8ea58d64cf3b4563d5b9b197522ee9f0b5666713661f2592c3a145be",
+    "size": 210753,
+    "commit": "dcceef8",
+    "subject": "Reddit Snoo: More comments loads even when Reddit's quick way refuses. A phone showed \"Could not load them\" under a post's comments while \"N more replies\" worked. Now More comments checks Reddit's answer (an answer with errors and no comments counts as a refusal) and then asks for the post's page again, ten more comments than are shown, the way the first ten come, and draws only the new ones with the next More comments under them. If both fail, the button says what Reddit answered. 179 checks pressing the page through; without the second way they turn red. Asked (a screenshot from the phone): More comments said \"Could not load them, press to try again\"; \"10 at a time is fine btw\".",
+    "built": "2026-11-23T09:12:54.668Z",
+    "src": "897791ebb76501a560f2522f7929729e7d408cccca4560638068654b6d8ef042"
   },
   "morphe": {
     "label": "YouTube+",
