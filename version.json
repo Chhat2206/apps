@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 20,
+    "code": 21,
     "file": "reddit.apk",
-    "sha256": "a01e62c86f627c7b507bb5aff4586a47750cf2ed73d653a930184c98d07072b2",
-    "size": 211849,
-    "commit": "d25fbda",
-    "subject": "Reddit Snoo: swipe across Home, All and Search, and Fresh only is an icon. A swipe to the left on Home goes to All and on to Search, a swipe to the right comes back; the page follows the finger and the next tab slides in from that side. Past the last tab the page only gives a little and springs back. It is the tab's alone: not on a post or a community (screens opened over the tab), not from the screen's edges (Android's back), not on a gallery, chip row, video or a box you type in, and a swipe never opens the line under the finger or starts a pull to refresh. Fresh only is now an eye-off icon beside the title, lit as a white disc when on, with a toast saying what it did. 15 new e2e checks pressing it with real touches; mutants (no tab change, galleries not left alone, no slide, no give past the end, vertical drags counted) all red. Asked: \"Allow me to swipe left / right like if I swipe right in home it goes to all\", \"Fresh only toggle should be a icon not text btw\".",
-    "built": "2026-11-23T09:18:23.468Z",
-    "src": "b43f4261d5888d67ce6018fc687200443f68f0d0504ece9e34ff3ba54226619a"
+    "sha256": "1639c28b0cc16225f3f765ee78f5e50dcdd898e61afac4863dfc43afdad085da",
+    "size": 211821,
+    "commit": "42da863",
+    "subject": "Reddit Snoo: comments fold with a button, and a post in a list lights up only when pressed on its header. Each comment's name line ends in a small chevron that folds it (and its replies) and opens it again; folded, a tap on the name opens it too. Holding a comment no longer folds it. In Home, All, a community or search, the card highlight comes only when the finger lands on a post's community line or title; a press on its picture, figures or empty space still opens the post, without lighting it. e2e all ok; with either change undone its checks go red. Asked: \"Do a button to minimize comments instead of holding\", \"Also only show post selected highlight when I click header of a post during the scroll section\".",
+    "built": "2026-11-23T09:26:19.502Z",
+    "src": "de3c95e8f191757bf437b12157ad5ae26ac6c7856e0b7578b205b2e03f677ae8"
   },
   "morphe": {
     "label": "YouTube+",
