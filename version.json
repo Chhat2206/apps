@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 16,
+    "code": 17,
     "file": "reddit.apk",
-    "sha256": "b5cb488da1eac0575cafff4f4b2b77bd7bb3ce6a4d16ea3398f5d2877c584595",
-    "size": 206321,
-    "commit": "454342d",
-    "subject": "Reddit Snoo: a post opens with ten comments, More comments loads ten more at a time. Reddit is asked for ten comments instead of two hundred, so the comments come much sooner after the post (which is drawn at once from the list); under them a More comments (N) button asks for the next ten and leaves a button for the rest. Replies' \"N more replies\" are unchanged. 153 checks pressing the page through; asking for 200 again turns them red. Asked: \"You don't need to load all of the comments in one go. A few is fine and maybe like 10 and then if I want more it can load so it doesn't have to take that long. Prioritize loading the post first then the comments.\"",
-    "built": "2026-11-23T08:02:40.118Z",
-    "src": "d64c54544a5164c626ee25f50779fd36296e665b6c54f970bf4246948ba226cb"
+    "sha256": "dbeb51ff807e806250dd2d6cd5e94079bfa57e22babd0781160761bb9c1125d3",
+    "size": 209721,
+    "commit": "e98bddc",
+    "subject": "Reddit Snoo: the post page is design C \"Action bar\" of round 4, with pull down for new posts and a Fresh only switch, and the post's lines sit closer together. Every action (votes, Reply, save, share) is in one bar at the foot, Save is gone from the top bar, and a line of score, \"N comments\" and Best sits under the post. Once the title scrolls away it takes the community's place in the top bar. Commenters' names are in their own colour (OP orange) and reply rails are coloured by depth. Line heights: title 1.32 → 1.2, text 1.63 → 1.44, comments 1.47 → 1.33. Home and All have a Fresh only switch beside the title (off at first) that leaves out posts you opened or scrolled past; a community's Unread chip is now Fresh and hides the same. Pulling down at the top of a list fills a thin line under the chips, asks Reddit again, swaps in the new list and says \"N new posts\". At 220 % text, Reply's word and \"Fresh only\" drop out instead of being cut off. 22 new e2e checks (full e2e all ok); mutants of the bar title, line heights, seen marking, pull and the Fresh filter all go red. Asked: \"C and can we make the y axis of the text a lil closer to each other cheers\".",
+    "built": "2026-11-23T08:10:18.238Z",
+    "src": "884665a5bc1728c2aaaaef6ac6422bdca89edaeb138cc0b47d16135e9429a5df"
   },
   "morphe": {
     "label": "YouTube+",
