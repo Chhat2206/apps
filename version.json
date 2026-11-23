@@ -221,15 +221,15 @@
     "src": "bdc253f7b4a763764f0b2de3b199e847e5e9df3e857a8f4c80faac484c7db20f"
   },
   "reddit": {
-    "label": "Snoo",
-    "code": 10,
+    "label": "Reddit Snoo",
+    "code": 11,
     "file": "reddit.apk",
-    "sha256": "38fe7e1041c78235c98e818807046258232032bf64768bf41ed9e2a9ccc50fc7",
-    "size": 196537,
-    "commit": "273b5f5",
-    "subject": "Reddit: a post opens by the card you pressed becoming the page (design A, \"Card becomes the page\"). The line you pressed stretches out to fill the screen while its words fade into the post's, the list dimmed and still there under it; back shrinks the page into the same line, the list where you left it. Off when the phone asks for less motion. 4 new checks, red without it. Asked: \"when i click into a post the animation blacks out for a second and just feels off overall. could we polish up the animations\", picked A.",
-    "built": "2026-11-23T05:43:35.589Z",
-    "src": "2510636865d4e6029884c4d6bf52a00682aabc7184852743546841920b7b7251"
+    "sha256": "e216fdb03d7777b0f72ec742252bcb72115ef67b7c3c643b1423f4e88f04f205",
+    "size": 197349,
+    "commit": "6f62659",
+    "subject": "Reddit is named Reddit Snoo (launcher, page title, the apps page). Opening a post no longer flashes: filmed at a tenth speed, the shade (still fading out) lay over the page once it stopped being the top layer (bright, dark, bright), now it goes at once; the list's hidden top bar no longer slides back in behind the growing page (the bars change only once the page has the window); the line's copy is gone before the page's words fade in, so the title never shows twice; back lands black like the line instead of snapping from the card's grey. 4 new e2e checks, each red with its fix undone; e2e all ok. Asked: \"can we call it Reddit Snoo & when i open a post it flashes and animation is buggy fix it please\".",
+    "built": "2026-11-23T06:06:05.507Z",
+    "src": "9905ee4a30e7e44b4339f647df16a8edea757c7e6e20f2e3bbd258e4a269f8f9"
   },
   "morphe": {
     "label": "YouTube+",
