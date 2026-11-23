@@ -233,13 +233,13 @@
   },
   "morphe": {
     "label": "YouTube+",
-    "code": 7,
+    "code": 8,
     "file": "morphe.apk",
-    "sha256": "10dec4c8b27392a69e27b6b3bebe16131a45d9387e1379891572054173cee0a4",
-    "size": 195363,
-    "commit": "3a52339",
-    "subject": "YouTube+ puts YouTube's own icon on the home screen, so opening YouTube no longer slides in on Samsung. Opening YouTube from YouTube+ is one app opening another, and since Android 12 the app-to-app animation can only be turned off with overrideTaskTransition, which needs the system permission START_TASKS_FROM_RECENTS (AOSP TransitionAnimationHelper + SafeActivityOptions), so the handover itself cannot be made seamless. YouTube+ now asks once, after setup or at the first opening after this update, to put a YouTube shortcut on the home screen (requestPinShortcut; MAIN + LAUNCHER + YouTube's launcher component, so a tap resumes a running YouTube like a home icon does; follows a renamed alias), then for notifications on Android 13+. With nobody opening YouTube+ any more, a tap it needs comes as a \"YouTube needs a tap\" notification (once per need, after every look at the Pi; Android's install box asked with the screen off opens straight from it). e2e: both screens in setup and on a later opening (4 mutants red); javacheck 10 files + 7 tests. Asked: \"youtube swap still looks like a swipe its not seamless we all use samsung any way to fix\", picked \"Tap YouTube directly\".",
-    "built": "2026-11-23T06:21:48.710Z",
-    "src": "043f81581b1b87894953cb80a995b7e060e4e908dcdc5b99d3d2c6e9f10a00f0"
+    "sha256": "fade87ad10bffa4fe79a9ed8be9f4a1a9be583bc05431d0970de27e1c9874df8",
+    "size": 195879,
+    "commit": "4f05d3b",
+    "subject": "YouTube+ Manager: the app is renamed, the home-screen shortcut and the patched YouTube are both YouTube+, and it asks to run in the background so updates keep coming. The Pi patches YouTube with Custom branding's customName=YouTube+ (part of the build key, so one new YouTube goes out silently). A third one-time step, \"Keep YouTube+ up to date\", asks Android's \"Let app always run in background?\": nobody opens the Manager any more, so Android's standby buckets (and Samsung's sleeping apps) would hold the hourly update job back. Seen on the Android 15 emulator against the real Pi: the shortcut is pinned as YouTube+ and opens YouTube through the launcher's own animation, resuming it; the battery and notification boxes; a new YouTube downloaded and installed by the job with the screen off and the Manager closed; MicroG removed -> \"YouTube+ needs a tap\", which opens the step. e2e (background step, names), Pi tests (a changed name is a new build), javacheck green. Asked: \"Don't just call it youtube though that will get confusing maybe youtube+ and the manager is YouTube+ manager make sure updates and notifs work properly btw auto update wld be best\".",
+    "built": "2026-11-23T06:42:57.804Z",
+    "src": "3c057df6815023bdf42e0347b917aebd12cd4f243121676ca63626c748f14501"
   }
 }
