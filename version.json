@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 109,
+    "code": 110,
     "file": "planner.apk",
-    "sha256": "b2a1fe6b279a25a7070880258fc5c497beb870a366dc37a43a7c404d5fef1a88",
-    "size": 438490,
-    "commit": "7f9a97e",
-    "subject": "Planner: a tap on the widget head's empty room opens Planner as its icon does. The head row has a tap of its own (the launcher intent, so the app comes up as from the home screen); ‹ ›, the month, the pencil, + and Today keep theirs, and the room between them, not clickable, falls through to the head. javacheck compiles, 80 unit tests pass. Asked: \"Allow me to click the header in the widget app for the calendar … The empty space doesn't do anything when I click it and I want to just enter the app default when I do click it.\"",
-    "built": "2026-11-22T17:06:15.728Z",
-    "src": "3a917d730aca51cb14f99a0b7526bddc88846734049297beb9cb044e9c91442a"
+    "sha256": "67219c0e7f514c3083ab6d4506a015929bde05263ee40b4c5762cab196886191",
+    "size": 438670,
+    "commit": "9ae8f23",
+    "subject": "Planner e2e: wait up to three minutes for Chromium on a busy Pi (it missed the one-minute wait at load 14 with another e2e running).",
+    "built": "2026-11-23T04:43:38.735Z",
+    "src": "c27da521f75c6c0003ae5e981198b751bd2555a066eb351a075da88e6c64f6cb"
   },
   "warranty": {
     "label": "Warranty",
