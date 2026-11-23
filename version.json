@@ -221,15 +221,15 @@
     "src": "c11d53c142edc88da3c29bd12cde17acec43010f525ed6187131d2912e9cd610"
   },
   "reddit": {
-    "label": "Reddit",
-    "code": 7,
+    "label": "Snoo",
+    "code": 8,
     "file": "reddit.apk",
-    "sha256": "6d2ce3ead871462219ec5cfe5b1dd1b50ff05d92a0e724460e6d52637d277f84",
-    "size": 185411,
-    "commit": "1cf450c",
-    "subject": "Reddit: a post's community name in any list opens that community; screens slide in and back out, tabs fade, new posts rise in once, buttons and rows give way a touch when pressed, votes, saves and folding a comment buzz; all of it off when the phone asks for less motion. Asked: \"Let me click subreddit name directly from the main page add subtle animation and feedback too please\".",
-    "built": "2026-11-22T19:39:02.010Z",
-    "src": "87f8813eff4830e3d5f30641ef5b7d037bb5c346fa50e27c8b1822cbcf9983d9"
+    "sha256": "2b7abcfc789ad48937e9bed97d902d5984ec2375792b11a80aeec3e56e62ce34",
+    "size": 192873,
+    "commit": "eb07eab",
+    "subject": "Reddit: press feedback, design B \"Press in\". Whatever is under your finger reacts the moment it lands (it used to come late, if at all): a post sinks into a card, buttons, chips and tabs sink and spring back, and a post opens by growing out of the card you pressed. A vote bursts with a ring in its colour and the arrow hops; the tab you pick jumps. A finger that starts scrolling lets go of it. 7 new checks pressing the page through, red without the change. Asked: \"when i click on a post or in general i want feedback so claude design and add it\", picked B.",
+    "built": "2026-11-23T04:30:13.645Z",
+    "src": "9857133e9acf75ad6657df145f1459fcce892c23799563292bd7335573fac928"
   },
   "morphe": {
     "label": "Morphe",
