@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 11,
+    "code": 12,
     "file": "reddit.apk",
-    "sha256": "e216fdb03d7777b0f72ec742252bcb72115ef67b7c3c643b1423f4e88f04f205",
-    "size": 197349,
-    "commit": "6f62659",
-    "subject": "Reddit is named Reddit Snoo (launcher, page title, the apps page). Opening a post no longer flashes: filmed at a tenth speed, the shade (still fading out) lay over the page once it stopped being the top layer (bright, dark, bright), now it goes at once; the list's hidden top bar no longer slides back in behind the growing page (the bars change only once the page has the window); the line's copy is gone before the page's words fade in, so the title never shows twice; back lands black like the line instead of snapping from the card's grey. 4 new e2e checks, each red with its fix undone; e2e all ok. Asked: \"can we call it Reddit Snoo & when i open a post it flashes and animation is buggy fix it please\".",
-    "built": "2026-11-23T06:06:05.507Z",
-    "src": "9905ee4a30e7e44b4339f647df16a8edea757c7e6e20f2e3bbd258e4a269f8f9"
+    "sha256": "1c2b1d4c3e4e8bcf0311fa43abd7295af513889df3cf953c5bf5ae12e73294c3",
+    "size": 197661,
+    "commit": "17d5e3a",
+    "subject": "Reddit Snoo: the top and bottom bars come back only after scrolling up a fifth of the screen from where you turned (or near the top), so nudging up to see a title again leaves them away. e2e: a 15 % scroll up keeps both away, 25 % brings them back, down again takes them away; the first is red with the old any-scroll-up rule. Asked: \"if I go up for snoo just a lil bit it should show both header and footer. It should only show if I scroll for like 20% of the page. Sometimes I'm just readjusting to see the title\".",
+    "built": "2026-11-23T06:15:57.276Z",
+    "src": "2bb6c3341a1c6a0499cb13f56ddb22fd8f8cd5f2cfe360770ea5ca6040d38458"
   },
   "morphe": {
     "label": "YouTube+",
