@@ -232,14 +232,14 @@
     "src": "9857133e9acf75ad6657df145f1459fcce892c23799563292bd7335573fac928"
   },
   "morphe": {
-    "label": "YouTube+",
-    "code": 2,
+    "label": "Morphe",
+    "code": 3,
     "file": "morphe.apk",
-    "sha256": "d5cbaef241e4d7911b2d6be5b063d20d27f57d1bcc08920e27ec234dc58e2f60",
-    "size": 134018,
-    "commit": "885b212",
-    "subject": "Reddit: press feedback, design B \"Press in\". Whatever is under your finger reacts the moment it lands (it used to come late, if at all): a post sinks into a card, buttons, chips and tabs sink and spring back, and a post opens by growing out of the card you pressed. A vote bursts with a ring in its colour and the arrow hops; the tab you pick jumps. A finger that starts scrolling lets go of it. 7 new checks pressing the page through, red without the change. Asked: \"when i click on a post or in general i want feedback so claude design and add it\", picked B.",
-    "built": "2026-11-23T04:39:27.310Z",
-    "src": "73575a89622536cb38a32092a7ec03ea3f5ade4a3cd24757c9a070b7889763db"
+    "sha256": "44a3641658f298bd4d8ca559575e8aed430f8a449a2302340cb2239339d50b37",
+    "size": 134122,
+    "commit": "f55747e",
+    "subject": "Control: Set up a phone's Share is Download. The QR is saved as \"<App> setup QR.png\" in the phone's Downloads (MediaStore, no permission, Android 10+) with \"Saved to Downloads\"; the share-sheet file provider (QrFiles) is gone. The e2e gives Chromium 3 min to start (60 s timed out with the Pi's disk busy). Asked: \"This should say download instead of share\".",
+    "built": "2026-11-23T04:41:09.453Z",
+    "src": "1d369410f2986ce40ecc36b7a8a8ba446f2151bb1562652f2495f68f71d2aa03"
   }
 }
