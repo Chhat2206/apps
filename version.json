@@ -211,14 +211,14 @@
   },
   "translate": {
     "label": "Translate",
-    "code": 7,
+    "code": 8,
     "file": "translate.apk",
-    "sha256": "51562a2594d9d7f8cbf7aae80c3b35dfedd342d517a10277a5d8d305eefcce8e",
-    "size": 520597,
-    "commit": "eb07eab",
-    "subject": "Reddit: press feedback, design B \"Press in\". Whatever is under your finger reacts the moment it lands (it used to come late, if at all): a post sinks into a card, buttons, chips and tabs sink and spring back, and a post opens by growing out of the card you pressed. A vote bursts with a ring in its colour and the arrow hops; the tab you pick jumps. A finger that starts scrolling lets go of it. 7 new checks pressing the page through, red without the change. Asked: \"when i click on a post or in general i want feedback so claude design and add it\", picked B.",
-    "built": "2026-11-23T04:29:58.980Z",
-    "src": "c11d53c142edc88da3c29bd12cde17acec43010f525ed6187131d2912e9cd610"
+    "sha256": "e3f6e20ad28cc730ed19c4497648638885fe09379a54abe877f4a31271b9985a",
+    "size": 524593,
+    "commit": "f01cd66",
+    "subject": "Reddit: the updating band is one slim line (98px -> 28px). Reddit's own .spin (the loading circle: margin 28px auto + a ring) also hit the band's spinning icon and added ~56px; the icon drops both, and the band and the one-second Updated band are 13px Inter in the app's black and white. Only Reddit's page changes, no other app. Checked in headless Chrome: installing and Updated bands 28px, 98/102px with the override taken out; e2e all ok. Asked: \"reddit banner when saying updating is too big and takes too much space\".",
+    "built": "2026-11-23T05:25:49.206Z",
+    "src": "5ed9654773686cb84ebf9678c24d33876804338d708a35f9908c1525d7fa9019"
   },
   "reddit": {
     "label": "Snoo",
