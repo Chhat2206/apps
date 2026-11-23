@@ -233,13 +233,13 @@
   },
   "morphe": {
     "label": "YouTube+",
-    "code": 3,
+    "code": 4,
     "file": "morphe.apk",
-    "sha256": "44a3641658f298bd4d8ca559575e8aed430f8a449a2302340cb2239339d50b37",
-    "size": 134122,
-    "commit": "f55747e",
-    "subject": "Control: Set up a phone's Share is Download. The QR is saved as \"<App> setup QR.png\" in the phone's Downloads (MediaStore, no permission, Android 10+) with \"Saved to Downloads\"; the share-sheet file provider (QrFiles) is gone. The e2e gives Chromium 3 min to start (60 s timed out with the Pi's disk busy). Asked: \"This should say download instead of share\".",
-    "built": "2026-11-23T04:41:09.453Z",
-    "src": "1d369410f2986ce40ecc36b7a8a8ba446f2151bb1562652f2495f68f71d2aa03"
+    "sha256": "b2067e948e98dd55d9d723cf1a35dfe5579dd3d8140c4f07aba62d01a2b0cd7d",
+    "size": 135502,
+    "commit": "7d0120f",
+    "subject": "apk-fingerprint finds the repo on Windows too (fileURLToPath, not URL.pathname's /C:/…), so a laptop pi-publish writes the fingerprint.",
+    "built": "2026-11-23T05:07:36.022Z",
+    "src": "54854e690d09bea09a909b06297bc8f462d92bd6a69b0fd3ea8068996b23c411"
   }
 }
