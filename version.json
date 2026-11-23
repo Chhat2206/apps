@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 13,
+    "code": 14,
     "file": "reddit.apk",
-    "sha256": "ca6b8bf99d41d0bb4fc7186efdac73498598a84c232b8fd296e17e308398635a",
-    "size": 198021,
-    "commit": "5990d5a",
-    "subject": "Reddit Snoo: a tap that stops a gliding list only stops it. Nothing under the finger lights up and the click it can bring opens nothing, as in Reddit's own app. Gliding = scroll frames still coming when the finger lands (two within 50 ms, the last under 120 ms ago), so one jump (a scrollIntoView) still lets the next tap through. A new e2e check glides the list, lands a finger mid-glide and holds it: red with the fix off (the post opened), e2e all ok. Asked: \"when i scroll and click to stop the scrolling it highlights the post so fix that please\".",
-    "built": "2026-11-23T06:23:45.571Z",
-    "src": "376a2ddc4197d78db23e929be76b72295bc0ad8b71d39cafd95c05c8ebc87cbb"
+    "sha256": "094f8e7a17dafdac41e6c1c5845776624205a2792a8df35a129543fa8b8bb779",
+    "size": 201561,
+    "commit": "e562126",
+    "subject": "Reddit Snoo: past Reddit's \"unusual network\" page, NSFW asked the browser's way, Posts | Communities in Search, requests spaced out. When Reddit answers with its block page (or the over-18 question) instead of posts, the phone reads the same page again the way its browser does (a hidden browser with your Reddit cookies, mature content allowed); that is also the way a refused mature community is asked again. Requests to Reddit go out spaced (two at a time, 450 ms apart signed out, 150 ms signed in), a block page or a slow-down pauses them 10–15 s and then the list loads by itself, and touching a post while scrolling no longer sends a request. A quarantined community says so with Show it; a refusal says Reddit's reason. Search ends in Posts ▾ / Communities ▾ like Reddit's own app (Communities lists them with members, more as you scroll), and asks once you stop typing. 16 sums, 8 Java tests, 134 checks pressing the page through; without the spacing the gaps are 1–2 ms and the checks are red. Asked: \"it said unusual network detected. Also nsfw issue is still there. Idm a down arrow button so I can sort between communities and posts like the official app and slow load to bypass this\".",
+    "built": "2026-11-23T06:59:46.247Z",
+    "src": "128f8ee354d0fbfee33d0bcc1a111f8246645100b266dc42b623b49790ac6a12"
   },
   "morphe": {
     "label": "YouTube+",
