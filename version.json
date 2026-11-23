@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 17,
+    "code": 18,
     "file": "reddit.apk",
-    "sha256": "dbeb51ff807e806250dd2d6cd5e94079bfa57e22babd0781160761bb9c1125d3",
-    "size": 209721,
-    "commit": "e98bddc",
-    "subject": "Reddit Snoo: the post page is design C \"Action bar\" of round 4, with pull down for new posts and a Fresh only switch, and the post's lines sit closer together. Every action (votes, Reply, save, share) is in one bar at the foot, Save is gone from the top bar, and a line of score, \"N comments\" and Best sits under the post. Once the title scrolls away it takes the community's place in the top bar. Commenters' names are in their own colour (OP orange) and reply rails are coloured by depth. Line heights: title 1.32 → 1.2, text 1.63 → 1.44, comments 1.47 → 1.33. Home and All have a Fresh only switch beside the title (off at first) that leaves out posts you opened or scrolled past; a community's Unread chip is now Fresh and hides the same. Pulling down at the top of a list fills a thin line under the chips, asks Reddit again, swaps in the new list and says \"N new posts\". At 220 % text, Reply's word and \"Fresh only\" drop out instead of being cut off. 22 new e2e checks (full e2e all ok); mutants of the bar title, line heights, seen marking, pull and the Fresh filter all go red. Asked: \"C and can we make the y axis of the text a lil closer to each other cheers\".",
-    "built": "2026-11-23T08:10:18.238Z",
-    "src": "884665a5bc1728c2aaaaef6ac6422bdca89edaeb138cc0b47d16135e9429a5df"
+    "sha256": "b8eeafa173d0a2242e3f7df2b059b7788ae94101e931fa3611d60f2e1462f478",
+    "size": 210037,
+    "commit": "14a8c80",
+    "subject": "Reddit Snoo: a post you opened shows it on every list, its title soft grey. Opening a post was always kept as read (Unread only uses it), but the grey look had been taken away with the greyed pictures; now only the title goes soft grey, at once on the list you came from and on every list drawn later, pictures and the rest unchanged. 155 checks pressing the page through, twice; a post whose line is not marked when opened turns them red. Asked: \"make sure that if I click into a post, it actually saves that and knows that and remembers that I've looked into it already. Because it used to show gray, but now it doesn't do that\".",
+    "built": "2026-11-23T08:17:44.680Z",
+    "src": "766709c75bc464b41772c89fcb5d4e50837d45df4ea6870f89f028c1559bba27"
   },
   "morphe": {
     "label": "YouTube+",
