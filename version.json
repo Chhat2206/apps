@@ -232,14 +232,14 @@
     "src": "9857133e9acf75ad6657df145f1459fcce892c23799563292bd7335573fac928"
   },
   "morphe": {
-    "label": "Morphe",
-    "code": 1,
+    "label": "YouTube+",
+    "code": 2,
     "file": "morphe.apk",
-    "sha256": "2d74bf65f99094dbfa0c325013b75799a71d4ff3f79833d8ca7ca0db4976cc57",
-    "size": 133795,
-    "commit": "e121467",
-    "subject": "Morphe: the family's patched YouTube, made on the Pi and kept up to date by a small app. The Pi (morphe/pi, morphe-build.timer every 3 hours) takes the newest stable Morphe patches, gets the YouTube they are made for from APKPure, uses it only when every APK in it carries Google's own YouTube signature, patches it and signs it with one key that never changes; with MicroG-RE it is served at morphe.chhat.net behind a key, never on the public apps repo. A failure keeps the last build and says why. The app (slug morphe, sky blue) sets a phone up once from a QR (allow installs, remove an old Morphe made with another key, MicroG, YouTube), then shows Up to date and Open YouTube; every new build goes in silently while the screen is off and nothing plays. Build 1 = YouTube 21.23.492, patches v2.3.0, MicroG 7.3.2. Tests: build + server 15 (8 mutants red), Plan 7 (3 red), the page in jsdom through every step (6 red). Asked: \"make my own update for morphe for them where it auto updates\", \"youtube only. just mom dad and my phone\".",
-    "built": "2026-11-22T17:49:15.963Z",
-    "src": "f17ebadb97891caa9a62dd64732b31bf87069f00be6410719d82d25c227c37ac"
+    "sha256": "d5cbaef241e4d7911b2d6be5b063d20d27f57d1bcc08920e27ec234dc58e2f60",
+    "size": 134018,
+    "commit": "885b212",
+    "subject": "Reddit: press feedback, design B \"Press in\". Whatever is under your finger reacts the moment it lands (it used to come late, if at all): a post sinks into a card, buttons, chips and tabs sink and spring back, and a post opens by growing out of the card you pressed. A vote bursts with a ring in its colour and the arrow hops; the tab you pick jumps. A finger that starts scrolling lets go of it. 7 new checks pressing the page through, red without the change. Asked: \"when i click on a post or in general i want feedback so claude design and add it\", picked B.",
+    "built": "2026-11-23T04:39:27.310Z",
+    "src": "73575a89622536cb38a32092a7ec03ea3f5ade4a3cd24757c9a070b7889763db"
   }
 }
