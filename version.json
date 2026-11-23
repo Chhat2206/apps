@@ -233,13 +233,13 @@
   },
   "morphe": {
     "label": "YouTube+",
-    "code": 8,
+    "code": 9,
     "file": "morphe.apk",
-    "sha256": "fade87ad10bffa4fe79a9ed8be9f4a1a9be583bc05431d0970de27e1c9874df8",
-    "size": 195879,
-    "commit": "4f05d3b",
-    "subject": "YouTube+ Manager: the app is renamed, the home-screen shortcut and the patched YouTube are both YouTube+, and it asks to run in the background so updates keep coming. The Pi patches YouTube with Custom branding's customName=YouTube+ (part of the build key, so one new YouTube goes out silently). A third one-time step, \"Keep YouTube+ up to date\", asks Android's \"Let app always run in background?\": nobody opens the Manager any more, so Android's standby buckets (and Samsung's sleeping apps) would hold the hourly update job back. Seen on the Android 15 emulator against the real Pi: the shortcut is pinned as YouTube+ and opens YouTube through the launcher's own animation, resuming it; the battery and notification boxes; a new YouTube downloaded and installed by the job with the screen off and the Manager closed; MicroG removed -> \"YouTube+ needs a tap\", which opens the step. e2e (background step, names), Pi tests (a changed name is a new build), javacheck green. Asked: \"Don't just call it youtube though that will get confusing maybe youtube+ and the manager is YouTube+ manager make sure updates and notifs work properly btw auto update wld be best\".",
-    "built": "2026-11-23T06:42:57.804Z",
-    "src": "3c057df6815023bdf42e0347b917aebd12cd4f243121676ca63626c748f14501"
+    "sha256": "feef8d1bf9c4770ddfcf5906ea5eeab8eab296a5692e01d9502002f7b23facd0",
+    "size": 196027,
+    "commit": "166f0e0",
+    "subject": "YouTube+ Manager: the home-screen shortcut follows YouTube's launcher entry the moment a YouTube update goes in, not at the next hourly look, and a shortcut made as \"YouTube\" by build 7 is relabelled YouTube+. Patching with customName enables .morphe_custom_5 instead of .morphe_custom_1 on a fresh install (read off build 3's manifest); a phone that updates keeps the alias it had, so the shortcut has to follow whichever is enabled. Emulator (Android 15, real Pi, build 3): a background update with the screen off, the shortcut still opens YouTube as YouTube+, no crash. Asked: \"make sure updates and notifs work properly\".",
+    "built": "2026-11-23T06:53:09.080Z",
+    "src": "4fd5a0890f311b262abe5dfae56ded3fd6962b2fd16e89756f04844d67f8d263"
   }
 }
