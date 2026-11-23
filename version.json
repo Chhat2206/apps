@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Snoo",
-    "code": 8,
+    "code": 9,
     "file": "reddit.apk",
-    "sha256": "13b48e5489740d343f5895c7f70b9d6eb28f8b9be4f7ce74b84a5246d3de6b49",
-    "size": 192973,
-    "commit": "0e8a090",
-    "subject": "Reddit e2e: Reddit's answer held back 12 s, so the check that the phone's copy shows first holds on a loaded Pi (it took over 4 s to reload in the publish run).",
-    "built": "2026-11-23T04:36:44.348Z",
-    "src": "9857133e9acf75ad6657df145f1459fcce892c23799563292bd7335573fac928"
+    "sha256": "3e815b17d6ae3ffdab36500a3c68dc9b308c3b7619a56d77de289a90473df30f",
+    "size": 195125,
+    "commit": "573545b",
+    "subject": "Reddit: the top bar slides away with the bottom one while scrolling down and comes back on the way up; no You in the bottom bar (Home / All / Search). You opens from your picture at the top of Home and All, has a back arrow, and back returns to the tab it was opened on. e2e all ok; the top-bar check is red with the hiding taken out. Asked: \"when i go up the header should naturally dissapear same way the footer does yk. maybe remove the you tab in footer its redundant\".",
+    "built": "2026-11-23T05:41:17.835Z",
+    "src": "7c40e5407e5b9565e6486e6b21bf334aafbcce4b9d5be9857990966bbeedfaec"
   },
   "morphe": {
     "label": "YouTube+",
