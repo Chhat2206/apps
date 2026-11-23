@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 22,
+    "code": 23,
     "file": "reddit.apk",
-    "sha256": "ba294eba77788def24063ef560b2e8ff7ec8e2016b0075b952b15bce2ef626d2",
-    "size": 228841,
-    "commit": "b0a1232",
-    "subject": "Reddit Snoo: videos open full screen with their own controls, deleted posts and comments come back from the archives, and a list shows each post once. A tap on a video, in a list or on its post, opens it in the viewer: play and pause, a bar to drag or press through it, the time and its length, sound on or off, full screen that turns with the phone, a big play button while paused, a double tap on the left or right to skip 10 s, and the controls fade while it plays and come back on a tap. A removed or deleted post's text is looked for in Arctic Shift, then PullPush, then the Wayback Machine's earliest saved copies of its page, and the page says where it came from and when. Removed and deleted comments are filled in from Arctic Shift with a Recovered tag and the name of who wrote them. When Reddit hands back posts already shown (its ranking moves while you scroll, and crossposts repeat a post), each shows once, and a list that only gets repeats three pages running stops asking. 242 e2e checks pass; with the video viewer, seeking, skipping, the Wayback Machine, comment recovery, the repeat filter or the stop undone, their checks go red. Asked: \"there's no viewer in videos I can't click no progress bar and so on Fix it\", \"if a post is deleted can we see the actl like recover reddit or smth\", \"I noticed a ton of the same posts could a refresh help with that\".",
-    "built": "2026-11-23T13:10:48.408Z",
-    "src": "44a39f08b46f3159345c3dae2dfaacd17817557d9443370880c9abf9c536aba9"
+    "sha256": "7eaa91da514370dcfc9fc2b5cc420d76aea51732734077b1aba9a8e3b11401af",
+    "size": 229525,
+    "commit": "e1b4976",
+    "subject": "Reddit Snoo: a new icon, and pulling to refresh shows it. The icon is a minimal white mark on Reddit orange: a round head with two eyes and an antenna, our own drawing in the look of Reddit's icon. Pulling down at the top of a list now brings that mark down under the chips, growing and turning upright with the finger; it pops once at the point where letting go reloads and hops while Reddit answers, in place of the thin line. 244 e2e checks pass; without the mark's growth the pull check goes red. Asked: \"No use the real reddit icon but minimalist\", \"when reloading like dragging from the top bottom, it should show a logo instead of just a line to be clear\".",
+    "built": "2026-11-23T13:39:03.618Z",
+    "src": "33e56d67aefd35c8d63c4c83077d6a64c0fe5bdef470a2a552620196b0b96b87"
   },
   "morphe": {
     "label": "YouTube+",
