@@ -239,7 +239,7 @@
     "size": 135502,
     "commit": "7d0120f",
     "subject": "apk-fingerprint finds the repo on Windows too (fileURLToPath, not URL.pathname's /C:/…), so a laptop pi-publish writes the fingerprint.",
-    "built": "2026-11-23T05:07:36.022Z",
+    "built": "2026-11-23T05:08:26.623Z",
     "src": "54854e690d09bea09a909b06297bc8f462d92bd6a69b0fd3ea8068996b23c411"
   }
 }
