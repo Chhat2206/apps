@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 40,
+    "code": 41,
     "file": "reddit.apk",
-    "sha256": "44bfa2ae80d4c51e7b3fabed3b0a187c249c4e05f555e2f2cf129ffa968fb46d",
-    "size": 247269,
-    "commit": "77eb135",
-    "subject": "Reddit Snoo: the update bands are in the app's colour. \"New version ready / Tap to install\" and the one-second \"Updated\" band are sunflower yellow (the icon's tile, #FFC53D) with black words, still the slim 13px line; they had been painted black and white by the app's own stylesheet since the 2026-11-23 slimming, which is why they never took a colour. Proof: the real page with android/web/update.js and a stand-in updater, read in headless Chrome: the tap band bg rgb(255,197,61) / words rgb(11,11,11), 27px high, and the Updated band the same; at HEAD both were rgb(0,0,0) with white words. Asked: \"updated banner for reddit update it should be in colour idk why it isnt\".",
-    "built": "2026-11-24T17:00:41.022Z",
-    "src": "704353392c975f70676fdce7848d727fc86a28ddf8243668d7d7d6164c6fd300"
+    "sha256": "9a00028f2716f2947b4e87646df521c808334d10d95d2394417edc66a7859e92",
+    "size": 247553,
+    "commit": "e20ef59",
+    "subject": "Reddit Snoo: the picture viewer's top no longer squeezes the title. The post's title now has its own line under ✕ and the buttons, the whole width, two lines at most and cut off cleanly (padding had let the top of a third line peek out under it); the gallery count (\"7 / 7\") stays on one line beside ✕ instead of standing in a column between the title and Download. Proof: page e2e 3 new checks pass (title on its own full-width line under the buttons; the count on one line beside ✕, clear of the buttons; a long title exactly two lines high); the old page fails all three; the one other red check (\"the full picture is fetched to replace it\") was red at HEAD as well. Asked: \"Fix the weird spacing at the title Claude design then implement a fix pls\".",
+    "built": "2026-11-24T17:08:41.035Z",
+    "src": "afc7a9af41c3624fc591d753f753a46bbfea643684d0ed5a067eea7903d80d06"
   },
   "morphe": {
     "label": "YouTube+",
