@@ -211,14 +211,14 @@
   },
   "translate": {
     "label": "Translate",
-    "code": 9,
+    "code": 10,
     "file": "translate.apk",
-    "sha256": "0315fa39ef04471064d9a1f17f5dc74a8ff539848151d288cce00797e1bf32e7",
-    "size": 525699,
-    "commit": "74a7e74",
-    "subject": "Translate widget: every tap shows itself. The Type in English pill, each line, each line's speaker, the black under the lines and the card's edge ripple when pressed (RemoteViews run no code on a press, so the ripple is each view's background); the list's own grey selector is off so it never flashes over a line; the root is @android:id/background, so on Android 12+ the app opened from the widget grows out of it. A test reads every setOnClick* id from the widget's Java and fails any without a ripple; 5 mutants red, javacheck 29/29. Asked: \"add an animation when clicking on anything in the widget translator app\".",
-    "built": "2026-11-23T05:44:31.271Z",
-    "src": "bdc253f7b4a763764f0b2de3b199e847e5e9df3e857a8f4c80faac484c7db20f"
+    "sha256": "4ff03c832776b97e029413a66c341b939e0e699f53d582bff86ab06d3558c390",
+    "size": 525297,
+    "commit": "13e6563",
+    "subject": "Translate: a ไทย button types in Thai, with the Thai keyboard, and the English comes out. It sits beside the widget's Type in English bar and beside the box in the app; it names the other language, so a tap swaps: the widget's bar then reads Type in Thai and its button EN, and a tap on the widget's button opens the box at once in that language. The box asks the keyboard for Thai (or English), which Gboard and Samsung's keyboard switch to when Thai is turned on in them; when the keyboard has no Thai, an \"Add Thai to your keyboard\" line opens its languages page. javacheck 33/33 (LangTest new), widget press test 5/5; 3 mutants red (no ripple on the button, th_TH not read as Thai, the button naming its own language). Asked: \"For the translator app add a easy button to type in Thai (changes my keyboard to Thai) and it swaps to English widget\".",
+    "built": "2026-11-24T05:10:45.766Z",
+    "src": "560a50d1f04782566c67a610e1a16a3bf367cb5395e1625fbe5cd560174ece5f"
   },
   "reddit": {
     "label": "Reddit Snoo",
