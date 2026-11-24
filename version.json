@@ -12,14 +12,14 @@
   },
   "papa": {
     "label": "Papa's book",
-    "code": 189,
+    "code": 190,
     "file": "papa.apk",
-    "sha256": "e4cf6bd1a8bf66f28cc801e9521219266c3d5788e22257075360c518c9a1b94c",
-    "size": 561877,
-    "commit": "35bccb0",
-    "subject": "papa: Day by day for every name, not one: a holding's page, a name looked up and a currency get it under Year by year (folded behind Show every day, read only once opened), and a Tracker price has a › that opens the price page with its days, as Home's price does. Asked: \"For all of them not just ap\".",
-    "built": "2026-11-22T04:26:49.672Z",
-    "src": "699091672ec6d1bff7b5e8106519c4f0bcd2a49e63bc8faab5e10c990415bd43"
+    "sha256": "22109a4eab96bb2558abad968559cf9d921268a178f32afed68f995f28cc344d",
+    "size": 561937,
+    "commit": "1eda540",
+    "subject": "papa: Dividends to come is on the Trades tab. On the Stocks side, Trades now opens on the amount papa's stocks are expected to pay in the next 12 months (announced and guessed from last year), then month by month with each stock's baht a share × his shares, above the list of trades. It left the Tracker, so it is in one place; the Tracker rows keep each stock's own dividend line, and the Coins side has none. Proof: new e2e test/trades-ahead-e2e.mjs (card seen on Trades above the trades, ฿3,405 with IVL ฿1,800 and PTT ฿1,605, not on the Tracker, not on Coins, no page errors) passes, and goes red with the card put back on the Tracker; tracker-div e2e passes; unit 539/539. Asked: \"make an upcoming dividend amount for papas stocks too please. put it trades please\".",
+    "built": "2026-11-24T16:43:27.886Z",
+    "src": "f4368b36849c78eaee74b5d2d0fcfb7d278d8a99cecac691779d9c45034ee0c2"
   },
   "groceries": {
     "label": "Credit Card",
