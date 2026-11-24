@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 34,
+    "code": 35,
     "file": "reddit.apk",
-    "sha256": "a83db191ef7c974981129d756e471cdd65ba87a156ac4190b4f3229e329bfeaa",
-    "size": 243733,
-    "commit": "630cb99",
-    "subject": "Reddit Snoo: a post's comments show even when Reddit answers 503. When Reddit has trouble with a big thread, the comments are asked for again, lighter (ten comments, three replies deep), and More comments brings the rest; the phone also tries www.reddit.com once when Reddit's main address answers 5xx. 301 e2e checks pass; without the lighter second ask the check goes red. Asked (screenshot): \"Reddit is having trouble (503)\" under a post.",
-    "built": "2026-11-24T08:12:17.424Z",
-    "src": "064ac4777c27085ba8bdd2b836d29ac9504eb77e114dec80eb77f7fb0abfbb80"
+    "sha256": "e36b4bcbd849f9d6e4a009765f9008827c6c00a03cbcc480f1fdc3893665d478",
+    "size": 244857,
+    "commit": "6577b22",
+    "subject": "Reddit Snoo: Show mature content in search now checks it worked. After the press the app reads the account's setting back from Reddit; when Reddit took the change but did not keep it (or refused it), Reddit's own settings page opens in the app to turn Show mature content on there, then it is read back and the search asked again. Once it is on, the note no longer offers the same button again (that was the loop); it says it is already on and offers Search on reddit.com, and Reddit's own words for the refusal are shown in the brackets. 305 e2e checks pass; with the change trusted without reading it back, or the button kept once on, the checks go red. Asked (screenshot): \"Even if I click show mature content in search it fails help fix\".",
+    "built": "2026-11-24T10:41:22.526Z",
+    "src": "80457366c7304e231c99eeb6f78d4be9388b78f8380843bd44a881b6f9ca87eb"
   },
   "morphe": {
     "label": "YouTube+",
