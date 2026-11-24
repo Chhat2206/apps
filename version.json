@@ -176,14 +176,14 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 36,
+    "code": 37,
     "file": "weight.apk",
-    "sha256": "c5f65b5a042d735543bfecd4f126de7feddb068d200914664c9b5cc55dc6edc1",
-    "size": 326286,
-    "commit": "7746163",
-    "subject": "Weight e2e: the dated goal's bin is pressed again while the Settings sheet is still sliding up, as the near goal's already is (the publish's run pressed it mid-slide, the goal stayed, and two later checks failed with it).",
-    "built": "2026-11-22T17:26:00.663Z",
-    "src": "e915660ba37f9826c8e7411657cb7893831beec6057bfeadbaa6631d4e9cb792"
+    "sha256": "b02a27ae5901f1afc5167f7f0bb999d4dce3f3b037be4c1ca870b156473b3f06",
+    "size": 450762,
+    "commit": "c702b99",
+    "subject": "Weight: a home-screen widget, design B with Home's whole chart. The last weigh-in big with Home's chip beside it (kg a day, or the change in N days), the kg to go top right, and under them the eight weeks as Home draws them: the kg over every point with room, the first day, the goal on its date with its kg and day, and today's pace carried to that date, blue on track and red not. Drawn natively to whatever size it is given, in Manrope and the person's own colour on AMOLED black; a tap opens Weight. The page hands over whoever Home shows (colour, weigh-ins, goals) and Java does Home's sums again at every draw (WidgetPlan), so it moves on by itself with the app closed and turns light blue when Home switches to Mummy. Home's chip words moved into plan.js (chipOf), used by both.",
+    "built": "2026-11-24T09:45:47.812Z",
+    "src": "2dede4817299012ec89f329b30cbae09e0f9e2f2c93252d52eb9c4227fa2b483"
   },
   "friends": {
     "label": "Friends Launcher",
