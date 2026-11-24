@@ -12,14 +12,14 @@
   },
   "papa": {
     "label": "Papa's book",
-    "code": 190,
+    "code": 191,
     "file": "papa.apk",
-    "sha256": "22109a4eab96bb2558abad968559cf9d921268a178f32afed68f995f28cc344d",
-    "size": 561937,
-    "commit": "1eda540",
-    "subject": "papa: Dividends to come is on the Trades tab. On the Stocks side, Trades now opens on the amount papa's stocks are expected to pay in the next 12 months (announced and guessed from last year), then month by month with each stock's baht a share × his shares, above the list of trades. It left the Tracker, so it is in one place; the Tracker rows keep each stock's own dividend line, and the Coins side has none. Proof: new e2e test/trades-ahead-e2e.mjs (card seen on Trades above the trades, ฿3,405 with IVL ฿1,800 and PTT ฿1,605, not on the Tracker, not on Coins, no page errors) passes, and goes red with the card put back on the Tracker; tracker-div e2e passes; unit 539/539. Asked: \"make an upcoming dividend amount for papas stocks too please. put it trades please\".",
-    "built": "2026-11-24T16:43:27.886Z",
-    "src": "f4368b36849c78eaee74b5d2d0fcfb7d278d8a99cecac691779d9c45034ee0c2"
+    "sha256": "f8505efb8b55ff2906c7c6a75c4df42e6d997e8fd65d6ac5857ff312329e4865",
+    "size": 561985,
+    "commit": "d988721",
+    "subject": "papa: Dividends to come is back on the Tracker. The card (what papa's stocks are expected to pay in the next 12 months, then month by month) leaves Trades and sits on the Tracker's Stocks side again, under Track a price and above the paid Dividends, where it was before. Proof: test/tracker-ahead-e2e.mjs (was trades-ahead) checks it is seen on the Tracker above the paid Dividends, not on Trades, not on Coins, and goes red on the Trades build; tracker-div e2e passes; unit 539/539. Against papa's real sheet and Settrade (spare-port copy, reads only): 14 stocks, 29 payments, ฿44,845 expected, drawn on the Tracker and nowhere on Trades. Asked: \"sorry where was it but yea move to the tracker\".",
+    "built": "2026-11-24T16:51:58.205Z",
+    "src": "0532cec826df1a886cbeb0ac3661959cd126fcf1fe157baf92f486a2690378d6"
   },
   "groceries": {
     "label": "Credit Card",
