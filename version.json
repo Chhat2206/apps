@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 32,
+    "code": 33,
     "file": "reddit.apk",
-    "sha256": "04cf28266c896de06bb4675a18cf6490a3e513efcf986ae92085c0cabbb55c32",
-    "size": 242737,
-    "commit": "a289bd0",
-    "subject": "Reddit Snoo: Home keeps going after Reddit's Best runs dry. Signed in, Reddit's Best hands back the same posts page after page, so once each post showed only once it ended after one page, about nine posts with Fresh only on. Now, when Best has nothing new, Home carries on with the hot posts of all your communities together (Popular if you follow none), under a line saying \"More from your communities\". 295 e2e checks pass; without it the Home check goes red. Asked: \"Why is home only like 9 posts fix it pls\".",
-    "built": "2026-11-24T07:19:42.665Z",
-    "src": "58ecc167b054979e2bc8552daa53db30cf93134f168c64d1997cefef8cf3bcf2"
+    "sha256": "6171b42b9473f8b54c476128381fbed3164929aefd46e3be7bb5218467b03a31",
+    "size": 243445,
+    "commit": "f7ed5b1",
+    "subject": "Reddit Snoo: NSFW searches no longer end in broken links. A search Reddit answers with 404 (it did for NSFW words) is tried again the way a 403 is, through www.reddit.com with the mature-content cookie. When Reddit still refuses, the archive's hits are checked with Reddit in one request and only the posts still up are shown, with Reddit's current score and pictures; deleted, removed and banned-community posts are left out. Signed in, the note offers \"Show mature content in search\", which turns that setting on in the Reddit account only when pressed and searches Reddit again. 299 e2e checks pass; without the check against Reddit the broken ones come back and the check goes red. Asked: \"Reddit is struggling with searching for nsfw content and a lot are broken links … Help fix and maybe improve the search\".",
+    "built": "2026-11-24T07:46:32.309Z",
+    "src": "2e6985ec5f756a04eed4e1eecc52e822aebfadffb790b9467aa40954fd8cd1a7"
   },
   "morphe": {
     "label": "YouTube+",
