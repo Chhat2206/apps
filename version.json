@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 345,
+    "code": 346,
     "file": "stocks.apk",
-    "sha256": "82c25195a1d902c189a731ca04bd42609a3f8fd84259ce5d237ad691a4e03253",
-    "size": 8953271,
-    "commit": "1d94be9",
-    "subject": "Ledger: only the net worth widget is left. Net worth with its graph, Coming up and Both are deleted, with everything only they used (their layouts, drawings, previews, the graph and bill code in Java, and the graph, bills and icon pictures the page worked out for them). The one left shows Home's net worth figure alone and is called Net worth in the widget list and in Settings › Widgets. A widget of the old ones still on the home screen will say it can't load: remove it. Proof: the page sends only Home's figure and Settings offers the one widget, on the demo and the real sheet (a wrong figure goes red); Java compiles; the emulator test is cut down to this widget for the laptop. Asked: \"Delete the other widgets\".",
-    "built": "2026-11-24T12:37:35.024Z",
-    "src": "5f524acf21dd8c7f7ee3ff24d1daee117c01d9a03a1deb7ae101c564a0099f72"
+    "sha256": "2b2b0ceacef1cef5268a9379d8603a56f5365ff53fa1074b8cbe3e6a0da33a3e",
+    "size": 8954043,
+    "commit": "ec9e7a7",
+    "subject": "Ledger: Add never puts a purchase in twice, the photo reads faster, and no Transfer tab.",
+    "built": "2026-11-24T12:52:32.322Z",
+    "src": "8d126054d4e6e00344ab9f90fef3da70bf5a25e811e5669340c85369405abc3b"
   },
   "papa": {
     "label": "Papa's book",
