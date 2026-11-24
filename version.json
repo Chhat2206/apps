@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 347,
+    "code": 348,
     "file": "stocks.apk",
-    "sha256": "73b6005549ae7f26fd2e07f75f8ec19daeb58d11352b2366bb421122b3ab9656",
-    "size": 8955887,
-    "commit": "686d491",
-    "subject": "Ledger: job status is a dropdown with a new Project status, and Earned has its own Settings gear (design A). Each job in Settings › Jobs has a coloured status pill (Ongoing, Project, One-time, Ended) that drops a menu; a tap elsewhere shuts it. A Project pays any number of times and stays in front on the Earned form until it is Ended; it sits beside Xavier but only an Ongoing job is picked by itself, and on Earned's three circles it counts as a current job. A gear at the top right of Earned opens the same Settings as Home's. Proof: the real page on the real sheet, through the pills' menus (Ponn set to Project and back, read back from the sheet each time), the form and the circles; status rules unit-tested; 5 mutants red; Stocks suite 290/290. Asked: \"A\".",
-    "built": "2026-11-24T13:38:58.653Z",
-    "src": "b27f317a12d80b32609a2a3c9c0676aaac01bbee6d3a324d4c169f4dcdc83d27"
+    "sha256": "e17fbe023335429d8c6f08b27cdf0343bb574b609469eed19452d2035822fefe",
+    "size": 8958359,
+    "commit": "3570d5e",
+    "subject": "Ledger: a trip's lines sit under its banner in Earned's list (design A). The trip's band (its sky and drawing, the days over the name, Spent over the total; a tap opens the trip) heads a card in its colours holding its days and lines, where its newest line falls in the month; a line is on it by its Trip column or as an old \"Vacation › <trip>\" line, and lines off it on the same days stay outside. The trip's mark is the Vacation app's: the orange carabiner for a climbing trip (Vacation's Climbing column, now read, or the name), else its sun-over-sea picture; the old Bathroom line wears it in place of the mountain and loses its trip chip. Proof: trips unit tests (2 new) and a demo e2e driving the real list (ten lines inside in order, the cash line outside, carabiner on Bathroom, the band opens the trip); 3 page mutants and 2 trips.mjs mutants red; the older trips e2e still passes. Asked: \"A\".",
+    "built": "2026-11-24T13:52:58.839Z",
+    "src": "d93467f6f3a19387f0e39e3a235388421164015eafead4952f89d5bfa3b52219"
   },
   "papa": {
     "label": "Papa's book",
