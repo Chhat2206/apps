@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 343,
+    "code": 344,
     "file": "stocks.apk",
-    "sha256": "a93243b6ad8899181a04b09b3944918dc8e02f34e0748f44060f77e0294e3e58",
-    "size": 9281444,
-    "commit": "bcf44f9",
-    "subject": "Ledger: jobs are Ongoing, One-time or Ended (design C). Settings › Jobs gives each name the three, kept on the Projects sheet's Job status tab so the phone and laptop agree. The Earned form's Who from is circles: current jobs first, and the only one (Xavier) is picked by itself; Other shows the ended and one-time ones plus New, and closing it gives Xavier back; a one-time job leaves the front once it has paid. Earned's circles are current jobs first, then the highest payers, three at most. Set from Settings: Xavier Ongoing; Pravin and Ponn Ended; Wes, Scratch for Kids, Princess's Acting Job and Survey One-time. Tests: status rules unit-tested; e2e on the real sheet sets them through Settings, reads them back, drives the form and the circles; 5 page mutants and 1 module mutant red; Stocks suite 290/290. Asked: \"C and the three shown here first current then if there's left highest payer\".",
-    "built": "2026-11-24T11:50:04.141Z",
-    "src": "7c1d45e60b1d2dadd86f9f2227c791decd92ce179a34bf95afa91e9bb766e549"
+    "sha256": "3bde1f5e5b1e9845be42229a9f7acf2c0c947e674c7cafbd82a9839a700cda4d",
+    "size": 9283419,
+    "commit": "dff2566",
+    "subject": "Ledger: Check for updates in Settings, and a widget with just the net worth figure. Settings now ends with the same Check for updates button over Version N as the other apps. The new widget (Net worth figure, 2x1, resizes down to 1x1) shows Home's net worth alone, sized to fill it; a tap opens Ledger, and Settings › Widgets lists it second. Proof: the page with version.js and a stand-in bridge shows the button over the version, a press asks the app and says Up to date, and the widget's Add pins it (2 mutants red); Java compiles with its unit tests; the home-screen check is in the emulator test for the laptop (the Pi has no emulator). Asked: \"Add a check for updates in ledger please and a widget that just shows net worth just the number\".",
+    "built": "2026-11-24T12:24:08.459Z",
+    "src": "13cfe23be8fb6be1e39e6103714859a0bd99cd33e1aeeec6d8dd273f2f125b49"
   },
   "papa": {
     "label": "Papa's book",
