@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 31,
+    "code": 32,
     "file": "reddit.apk",
-    "sha256": "efb58c01e04f08401c359d439dec1539b5f259b418791fd5158b911523bcb857",
-    "size": 242189,
-    "commit": "9b47d34",
-    "subject": "Reddit Snoo: videos download with their sound. Download now shows on every video in the viewer. Reddit keeps a video's picture and its sound as two files, so the phone fetches both (the sound's name read from the video's own playlist, or the usual names tried) and joins them into one mp4 without re-encoding, then saves it to Movies/Reddit Snoo and says so; a video with no sound is saved as it is. 291 e2e checks and 10 Java tests pass. Asked: \"Allow me to download videos\".",
-    "built": "2026-11-24T07:02:10.692Z",
-    "src": "d093a2e3a529ab8e93a2c13cae3c81e96e0db792612e9d8cb08132572d045057"
+    "sha256": "04cf28266c896de06bb4675a18cf6490a3e513efcf986ae92085c0cabbb55c32",
+    "size": 242737,
+    "commit": "a289bd0",
+    "subject": "Reddit Snoo: Home keeps going after Reddit's Best runs dry. Signed in, Reddit's Best hands back the same posts page after page, so once each post showed only once it ended after one page, about nine posts with Fresh only on. Now, when Best has nothing new, Home carries on with the hot posts of all your communities together (Popular if you follow none), under a line saying \"More from your communities\". 295 e2e checks pass; without it the Home check goes red. Asked: \"Why is home only like 9 posts fix it pls\".",
+    "built": "2026-11-24T07:19:42.665Z",
+    "src": "58ecc167b054979e2bc8552daa53db30cf93134f168c64d1997cefef8cf3bcf2"
   },
   "morphe": {
     "label": "YouTube+",
