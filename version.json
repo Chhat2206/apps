@@ -12,14 +12,14 @@
   },
   "papa": {
     "label": "Papa's book",
-    "code": 192,
+    "code": 193,
     "file": "papa.apk",
-    "sha256": "b97af6feeb1aa6994d9b803d5e8fd50964c35d020ca5ea80451008b2493151c1",
-    "size": 562393,
-    "commit": "57ea605",
-    "subject": "papa: Dividends to come is short on the Tracker and opens in a pop-up. The Tracker card now holds only its title, the one big figure (expected in the next 12 months) and Month by month ›; a tap anywhere on it opens papa's usual pop-up with that figure, how much is announced and how much is guessed from last year (each on its own line), then every month and each stock's payment, and Update now. The pop-up redraws itself when Settrade's answer comes in. Proof: tracker-ahead e2e (card short with no months, tap and Month by month › both open the pop-up with both months and both stocks, still whole after a new answer, not on Trades or Coins) passes; the long card and a card that does not open both go red; tracker-div e2e passes; unit 539/539. Against papa's real sheet and Settrade (spare-port copy, reads only): the card is 224 px with ฿44,845, the pop-up lists all 29 payments. Asked: \"papa wants it to be a tab to popup otherwise its too long haha\".",
-    "built": "2026-11-24T17:03:18.911Z",
-    "src": "5f8f221b792ff15b46f5de3d937b9089862a3f60cdb1ef371577cf2a3043bc59"
+    "sha256": "72a774a3a4b283272a51df9c58214d4feddacb23750561c536c491a115b85d5b",
+    "size": 562789,
+    "commit": "779f701",
+    "subject": "papa: Home's stocks say this year's yield under the months they pay. A held stock's row now has \"Yield in 2026 6.0% ›\" under \"Paid in May\": what a share has paid this year as a % of the price on 1 January, the same figure as this year's row on its dividend page, and a tap opens that page; a stock that pays but has paid nothing yet this year says \"none yet\". Proof: tracker-div e2e passes (new: IVL's line reads Yield in 2026 6.0% ›, sits below Paid in, opens IVL dividends); with the line taken out it goes red. Asked: \"Below paid once a year add yield for current year\".",
+    "built": "2026-11-24T17:10:39.517Z",
+    "src": "46a4abbbb8a369c117d56c0042840d24505de498e23ab7bb50260cb9b2ed5cd3"
   },
   "groceries": {
     "label": "Credit Card",
