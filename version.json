@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 35,
+    "code": 36,
     "file": "reddit.apk",
-    "sha256": "e36b4bcbd849f9d6e4a009765f9008827c6c00a03cbcc480f1fdc3893665d478",
-    "size": 244857,
-    "commit": "6577b22",
-    "subject": "Reddit Snoo: Show mature content in search now checks it worked. After the press the app reads the account's setting back from Reddit; when Reddit took the change but did not keep it (or refused it), Reddit's own settings page opens in the app to turn Show mature content on there, then it is read back and the search asked again. Once it is on, the note no longer offers the same button again (that was the loop); it says it is already on and offers Search on reddit.com, and Reddit's own words for the refusal are shown in the brackets. 305 e2e checks pass; with the change trusted without reading it back, or the button kept once on, the checks go red. Asked (screenshot): \"Even if I click show mature content in search it fails help fix\".",
-    "built": "2026-11-24T10:41:22.526Z",
-    "src": "80457366c7304e231c99eeb6f78d4be9388b78f8380843bd44a881b6f9ca87eb"
+    "sha256": "4fa1d6e4ac3f4afe990639cf6381b0696e1e84d71f96eb6a7315fdf169150103",
+    "size": 244997,
+    "commit": "7486889",
+    "subject": "Reddit Snoo: no NSFW posts on Home or All. Home (Home, Popular, Top) and All (Hot, Top) leave out every post Reddit marks NSFW, on each page, the copy kept on the phone, Shuffled Top and the \"More from your communities\" carry-on. A community you open and a search still show them. Proof: e2e all ok (new checks: Home and All show no NSFW post, while the NSFW community still loads); with the filter taken out both checks go red. Asked: \"Don't show nsfw in reddit home and all\".",
+    "built": "2026-11-24T12:35:47.309Z",
+    "src": "777efffc0eee74d45e58754904dbd3f775417cbb4f6f00c36c88c6aea78288a4"
   },
   "morphe": {
     "label": "YouTube+",
