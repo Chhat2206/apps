@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 39,
+    "code": 40,
     "file": "reddit.apk",
-    "sha256": "a58b1327fe2fe6d050e10140a9c629c0e2274bd0031e47bc32ecac8695ae4bcf",
-    "size": 247137,
-    "commit": "82ab1ec",
-    "subject": "Reddit Snoo: Home is Reddit's own home feed, with the communities Reddit recommends. Signed in, Home now reads the same feed reddit.com and Reddit's app show, so posts from communities you never joined (like r/PeterExplainsTheJoke, r/vegan, r/aislop) come in beside your own, in Reddit's order, with ads left out; scrolling brings its next pages. If Reddit turns that feed away, Home uses Best as before. Proof: page e2e 312 checks pass (new: the feed's posts in its order over two pages, no ad, unjoined communities shown, Best not asked); with Home back on Best only, 5 checks go red; sums 19/19; javacheck compiles, 11 unit tests. Not yet seen against real Reddit (the Pi is blocked by Reddit). Asked: \"This is my normal reddit home feed why is my app so different\", then \"I more meant the subreddits\".",
-    "built": "2026-11-24T16:00:01.679Z",
-    "src": "bccb299538b374eca6661dd8ebdd1923c22fdb7ce1df85c4b7f86ed1b8664e82"
+    "sha256": "44bfa2ae80d4c51e7b3fabed3b0a187c249c4e05f555e2f2cf129ffa968fb46d",
+    "size": 247269,
+    "commit": "77eb135",
+    "subject": "Reddit Snoo: the update bands are in the app's colour. \"New version ready / Tap to install\" and the one-second \"Updated\" band are sunflower yellow (the icon's tile, #FFC53D) with black words, still the slim 13px line; they had been painted black and white by the app's own stylesheet since the 2026-11-23 slimming, which is why they never took a colour. Proof: the real page with android/web/update.js and a stand-in updater, read in headless Chrome: the tap band bg rgb(255,197,61) / words rgb(11,11,11), 27px high, and the Updated band the same; at HEAD both were rgb(0,0,0) with white words. Asked: \"updated banner for reddit update it should be in colour idk why it isnt\".",
+    "built": "2026-11-24T17:00:41.022Z",
+    "src": "704353392c975f70676fdce7848d727fc86a28ddf8243668d7d7d6164c6fd300"
   },
   "morphe": {
     "label": "YouTube+",
