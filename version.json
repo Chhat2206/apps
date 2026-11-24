@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 30,
+    "code": 31,
     "file": "reddit.apk",
-    "sha256": "f6f5d52536c863002b49210dd2af8514265e5a6174fec236e28400cbe15a495e",
-    "size": 238401,
-    "commit": "2ba2beb",
-    "subject": "Reddit Snoo: You has a History page, to go back to where you were. Every community and post you open is kept, newest first, under its day (Today, Yesterday, then the date), NSFW ones too, with All, Communities and Posts to narrow it. A tap opens it again, so carrying on with Malicious Compliance is one tap from You. Clear empties it, with Undo. 289 e2e checks pass; with communities not kept, its checks go red. Asked: \"Add a 'history' button under you so I can return to where I was easily lets say I wanna continue malicious compliance that would be easy history can store nsfw\".",
-    "built": "2026-11-24T06:27:55.449Z",
-    "src": "2d8b99f20b8e8b69aa55b7ce7f3bc29d83e7f68b176214dcf77574af508dc4a7"
+    "sha256": "efb58c01e04f08401c359d439dec1539b5f259b418791fd5158b911523bcb857",
+    "size": 242189,
+    "commit": "9b47d34",
+    "subject": "Reddit Snoo: videos download with their sound. Download now shows on every video in the viewer. Reddit keeps a video's picture and its sound as two files, so the phone fetches both (the sound's name read from the video's own playlist, or the usual names tried) and joins them into one mp4 without re-encoding, then saves it to Movies/Reddit Snoo and says so; a video with no sound is saved as it is. 291 e2e checks and 10 Java tests pass. Asked: \"Allow me to download videos\".",
+    "built": "2026-11-24T07:02:10.692Z",
+    "src": "d093a2e3a529ab8e93a2c13cae3c81e96e0db792612e9d8cb08132572d045057"
   },
   "morphe": {
     "label": "YouTube+",
