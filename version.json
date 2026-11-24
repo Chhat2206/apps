@@ -12,14 +12,14 @@
   },
   "papa": {
     "label": "Papa's book",
-    "code": 191,
+    "code": 192,
     "file": "papa.apk",
-    "sha256": "f8505efb8b55ff2906c7c6a75c4df42e6d997e8fd65d6ac5857ff312329e4865",
-    "size": 561985,
-    "commit": "d988721",
-    "subject": "papa: Dividends to come is back on the Tracker. The card (what papa's stocks are expected to pay in the next 12 months, then month by month) leaves Trades and sits on the Tracker's Stocks side again, under Track a price and above the paid Dividends, where it was before. Proof: test/tracker-ahead-e2e.mjs (was trades-ahead) checks it is seen on the Tracker above the paid Dividends, not on Trades, not on Coins, and goes red on the Trades build; tracker-div e2e passes; unit 539/539. Against papa's real sheet and Settrade (spare-port copy, reads only): 14 stocks, 29 payments, ฿44,845 expected, drawn on the Tracker and nowhere on Trades. Asked: \"sorry where was it but yea move to the tracker\".",
-    "built": "2026-11-24T16:51:58.205Z",
-    "src": "0532cec826df1a886cbeb0ac3661959cd126fcf1fe157baf92f486a2690378d6"
+    "sha256": "b97af6feeb1aa6994d9b803d5e8fd50964c35d020ca5ea80451008b2493151c1",
+    "size": 562393,
+    "commit": "57ea605",
+    "subject": "papa: Dividends to come is short on the Tracker and opens in a pop-up. The Tracker card now holds only its title, the one big figure (expected in the next 12 months) and Month by month ›; a tap anywhere on it opens papa's usual pop-up with that figure, how much is announced and how much is guessed from last year (each on its own line), then every month and each stock's payment, and Update now. The pop-up redraws itself when Settrade's answer comes in. Proof: tracker-ahead e2e (card short with no months, tap and Month by month › both open the pop-up with both months and both stocks, still whole after a new answer, not on Trades or Coins) passes; the long card and a card that does not open both go red; tracker-div e2e passes; unit 539/539. Against papa's real sheet and Settrade (spare-port copy, reads only): the card is 224 px with ฿44,845, the pop-up lists all 29 payments. Asked: \"papa wants it to be a tab to popup otherwise its too long haha\".",
+    "built": "2026-11-24T17:03:18.911Z",
+    "src": "5f8f221b792ff15b46f5de3d937b9089862a3f60cdb1ef371577cf2a3043bc59"
   },
   "groceries": {
     "label": "Credit Card",
