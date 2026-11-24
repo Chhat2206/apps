@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 111,
+    "code": 112,
     "file": "planner.apk",
-    "sha256": "d81c88308dc3a255b8325b822c650d4ef2f06923b809833d102570eef3ac8bf0",
-    "size": 446698,
-    "commit": "689d396",
-    "subject": "Planner: a repeat deletes From <day> on or Every repeat, and every delete is kept with Restore. The bin on a repeat opened on a later day than its first now asks under it: From <that day> on (the rule ends the day before, an earlier end or count kept) or Every repeat; tapping the bin again only closes the question, where two taps used to delete every repeat. Every event Planner takes out of My calendar (a delete, the later repeats cut off, a copy gone from Google) is first written whole into a new Deleted tab of the sheet, and Settings › Deleted lists them newest first with Restore, which puts the event back as it was. Google's copies deleted before the tab existed are listed under it too, from the Brought in record, and come back tied to Google again. Proof: 6 unit tests (the cut, the listing, restore, the copies deleted before), the page e2e drives both choices, the bin twice and the Deleted page; 2 module and 2 page mutants red. Asked: \"Why did Calandar say delete every repeat it shouldvs only deleted the repeats from that day onwards as an option can we restore and obvs delete should be stored in history right\".",
-    "built": "2026-11-24T12:39:14.024Z",
-    "src": "ab8ce60bde8a9e38cd9738b2a5ebcacae64dda73b95ad1128ea014ca097cffc7"
+    "sha256": "69d6b62bbfa98163133d680149e1c190a7253f41bfdbd9cd36dcde638c1f7578",
+    "size": 450306,
+    "commit": "389efa2",
+    "subject": "Planner: Deleted finds your own version on the phone. Putting back \"Meeting Stephen 9am\" from Google gave Google's name, because Google never had the rename to \"Meeting Insource\". Deleted now has a From this phone part: the months the phone kept from before the delete still hold the event as you last saw it, so it lists those versions of events gone from My calendar, and of Google copies that came back under Google's name, with the name they have now under it. Restore puts that version on the same event. Proof: a unit test (your rename found, an edited copy not offered, one in the Deleted tab not offered twice) and the page e2e restoring it; the edited-copy rule broken goes red. Asked: \"It restored meeting Steven 9pm, but not what I renamed it as, as meeting in-source … I want to restore what I deleted, not from Google Calendar\".",
+    "built": "2026-11-24T13:20:29.758Z",
+    "src": "8104b8126d7c410f45c701b5b529ca8abb25d110a8385089bf1d6b267c89cc61"
   },
   "warranty": {
     "label": "Warranty",
