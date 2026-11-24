@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 342,
+    "code": 343,
     "file": "stocks.apk",
-    "sha256": "791d47729fe18bbe4031dfae9b8383df70ecde61c805d29e4f85ba7915a8cdb8",
-    "size": 9276472,
-    "commit": "3d8373a",
-    "subject": "Ledger: three home-screen widgets, Net worth, Coming up and both (round 2 of stocks/design/widget-2026-11-24). Net worth shows Home's figure, its change this month and the graph with Week / Month / Year / All; wide it is the bare line, 2x2 the short figure. Coming up shows what the banks keep after this month's bills, what is to pay, a line that steps down on each bill's day and the next bills; 2x2 it is the next bill. Both puts net worth, its graph, Upcoming / Overdue and the next bills in one 4x4. The page sends every figure formatted and the graphs as fractions, so the widgets agree with Home; Settings › Widgets › Add puts one on the home screen. The old Portfolio widget becomes Net worth. Proof: the page's snapshot checked against Home's figures in Chrome (demo and the real sheet), 7 Java unit tests, and the real APK on an emulator with all three placed, read back and Year pressed; each goes red when its part is broken. Asked: \"Build them all idk which ill use\".",
-    "built": "2026-11-24T09:56:18.200Z",
-    "src": "14984bc0e2f6e1cb9a95bef4dfbd0336661770ca178195332668effac47aa505"
+    "sha256": "a93243b6ad8899181a04b09b3944918dc8e02f34e0748f44060f77e0294e3e58",
+    "size": 9281444,
+    "commit": "bcf44f9",
+    "subject": "Ledger: jobs are Ongoing, One-time or Ended (design C). Settings › Jobs gives each name the three, kept on the Projects sheet's Job status tab so the phone and laptop agree. The Earned form's Who from is circles: current jobs first, and the only one (Xavier) is picked by itself; Other shows the ended and one-time ones plus New, and closing it gives Xavier back; a one-time job leaves the front once it has paid. Earned's circles are current jobs first, then the highest payers, three at most. Set from Settings: Xavier Ongoing; Pravin and Ponn Ended; Wes, Scratch for Kids, Princess's Acting Job and Survey One-time. Tests: status rules unit-tested; e2e on the real sheet sets them through Settings, reads them back, drives the form and the circles; 5 page mutants and 1 module mutant red; Stocks suite 290/290. Asked: \"C and the three shown here first current then if there's left highest payer\".",
+    "built": "2026-11-24T11:50:04.141Z",
+    "src": "7c1d45e60b1d2dadd86f9f2227c791decd92ce179a34bf95afa91e9bb766e549"
   },
   "papa": {
     "label": "Papa's book",
