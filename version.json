@@ -154,14 +154,14 @@
   },
   "warranty": {
     "label": "Warranty",
-    "code": 37,
+    "code": 38,
     "file": "warranty.apk",
-    "sha256": "581b1a69c4049cc6efd9425f6c05f67d34159e43c54c5cdab1c35bab750d22cd",
-    "size": 207905,
-    "commit": "b221a76",
-    "subject": "Warranty: Repair | Warranties on home. Home now opens with two tabs, Repair first with a count of what is in repair, and starts on Repair while something is being repaired. The Repair tab lists what is in repair (days in a blue ring, Paid / Not paid), then every finished repair with its warranty, what was wrong, the day, the cost and Paid / Not paid (a tap opens it); its foot bar is Start a repair, which asks which warranty and opens its Repair tab with the repair started. The Warranties tab lists every warranty, one in repair with a blue wrench by its name. e2e drive passes; 3 mutants red (home never opening on Repair, the pick not starting a repair, no Done list). Asked: \"Still just shows warranty only wtf\" (on the home screen).",
-    "built": "2026-11-24T13:33:45.368Z",
-    "src": "4bbe25d1748aebaf6da4515367e7644802035dfeab7f161c2bb252f859694aee"
+    "sha256": "7a531e36565c15642a20bf58a9fddbb1be524e4d52554eefb2b219dc8b293ba0",
+    "size": 207085,
+    "commit": "819a78a",
+    "subject": "Warranty: no tabs, repair on top. Home is one list again: a warranty in repair sits on top (days in a blue ring, Paid / Not paid), the warranties under it, and the foot button is Add, which asks Repair (which warranty, then its page with the repair started) or Warranty (the form). A warranty's page shows its repair on top (In repair, days and bar, what's wrong, cost, paid, documents, Repair complete), then its finished repairs, then the warranty; Start a repair sits at the foot of the page when nothing is in repair, and an opened finished repair folds again by its heading. e2e drive passes; 3 mutants red (in repair also in the list, Add not asking, the repair not on top of the page). Asked: \"Ir should be one tab show repair on top of warrenty button lets me choose repair or warrenty\".",
+    "built": "2026-11-24T13:48:55.747Z",
+    "src": "0ad6fc5932c77e40780f95ddeeeba176b02cbc57546c988810e6f903b1000c6d"
   },
   "mumma": {
     "label": "Mumma",
