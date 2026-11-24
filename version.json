@@ -154,14 +154,14 @@
   },
   "warranty": {
     "label": "Warranty",
-    "code": 36,
+    "code": 37,
     "file": "warranty.apk",
-    "sha256": "14a863de455d0d41b3f5571748a4688120e0836007b986b977df5fd9700030e6",
-    "size": 206805,
-    "commit": "b80a58e",
-    "subject": "Warranty: days since a repair started. The repair going on shows its days beside In repair (Today, 1 day, 12 days) with a blue bar under it that fills over a month and stays full after; a finished one says how long it took (Took 7 days, to the day it was completed). On home the warranty in repair has a small blue ring of the same around its wrench and reads \"In repair 3 days\". e2e drive passes (the bar at 0% the day it starts and 10% three days in, Took counting to the day it was done); 2 mutants red (a bar always full, Took counting to today). Asked: \"Days since repair started\" (for a blue progress bar on a repair).",
-    "built": "2026-11-24T13:13:36.035Z",
-    "src": "af0aba80619c6733f5b9662b59377e69fc78d859272b1574a9b1cf99e8f17e40"
+    "sha256": "581b1a69c4049cc6efd9425f6c05f67d34159e43c54c5cdab1c35bab750d22cd",
+    "size": 207905,
+    "commit": "b221a76",
+    "subject": "Warranty: Repair | Warranties on home. Home now opens with two tabs, Repair first with a count of what is in repair, and starts on Repair while something is being repaired. The Repair tab lists what is in repair (days in a blue ring, Paid / Not paid), then every finished repair with its warranty, what was wrong, the day, the cost and Paid / Not paid (a tap opens it); its foot bar is Start a repair, which asks which warranty and opens its Repair tab with the repair started. The Warranties tab lists every warranty, one in repair with a blue wrench by its name. e2e drive passes; 3 mutants red (home never opening on Repair, the pick not starting a repair, no Done list). Asked: \"Still just shows warranty only wtf\" (on the home screen).",
+    "built": "2026-11-24T13:33:45.368Z",
+    "src": "4bbe25d1748aebaf6da4515367e7644802035dfeab7f161c2bb252f859694aee"
   },
   "mumma": {
     "label": "Mumma",
