@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 38,
+    "code": 39,
     "file": "reddit.apk",
-    "sha256": "2cc73af51c8805fab87b252251c550fa9189fe80f68af019abda512756e51ba4",
-    "size": 245429,
-    "commit": "4132ad4",
-    "subject": "Reddit Snoo: Mark as unread. A post's ⋮ now starts with Mark as unread (eye-off) when the post is read or was scrolled past: it comes out of both the read and the seen history, its title is white again in every list, and Fresh only / Unread show it again; opening it later marks it read as before. On a post not yet read the same line says Mark as read. Proof: page e2e (new checks: a read post's ⋮ offers Mark as unread; after it the title is white like the rest and the id is in neither rd.read nor rd.seen); with the read history left alone the check goes red. The one other red check (\"the full picture is fetched to replace it\") is red at HEAD as well. Asked: \"Allow me a 'unread' button so it isn't counted in the gray read\".",
-    "built": "2026-11-24T14:32:16.091Z",
-    "src": "b9464d691a62894dab9adebcb68d38ab854ee59c62b2d2bf5eec92e28fa5f8ee"
+    "sha256": "a58b1327fe2fe6d050e10140a9c629c0e2274bd0031e47bc32ecac8695ae4bcf",
+    "size": 247137,
+    "commit": "82ab1ec",
+    "subject": "Reddit Snoo: Home is Reddit's own home feed, with the communities Reddit recommends. Signed in, Home now reads the same feed reddit.com and Reddit's app show, so posts from communities you never joined (like r/PeterExplainsTheJoke, r/vegan, r/aislop) come in beside your own, in Reddit's order, with ads left out; scrolling brings its next pages. If Reddit turns that feed away, Home uses Best as before. Proof: page e2e 312 checks pass (new: the feed's posts in its order over two pages, no ad, unjoined communities shown, Best not asked); with Home back on Best only, 5 checks go red; sums 19/19; javacheck compiles, 11 unit tests. Not yet seen against real Reddit (the Pi is blocked by Reddit). Asked: \"This is my normal reddit home feed why is my app so different\", then \"I more meant the subreddits\".",
+    "built": "2026-11-24T16:00:01.679Z",
+    "src": "bccb299538b374eca6661dd8ebdd1923c22fdb7ce1df85c4b7f86ed1b8664e82"
   },
   "morphe": {
     "label": "YouTube+",
