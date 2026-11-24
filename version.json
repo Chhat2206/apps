@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 341,
+    "code": 342,
     "file": "stocks.apk",
-    "sha256": "29cd5d1dd3eca460ceea9df2c42f63312cdac9bb2ce018783fc5fb26b9f5d086",
-    "size": 8949033,
-    "commit": "48507eb",
-    "subject": "Ledger: a subcategory can share its name across categories, 7,800+ icons, random colours, + − × ÷ on the keys.",
-    "built": "2026-11-22T15:51:25.357Z",
-    "src": "de60be0dd80cb8971dca3275a0924870ee6a8d3324d043f6bc97b22bdf51933d"
+    "sha256": "791d47729fe18bbe4031dfae9b8383df70ecde61c805d29e4f85ba7915a8cdb8",
+    "size": 9276472,
+    "commit": "3d8373a",
+    "subject": "Ledger: three home-screen widgets, Net worth, Coming up and both (round 2 of stocks/design/widget-2026-11-24). Net worth shows Home's figure, its change this month and the graph with Week / Month / Year / All; wide it is the bare line, 2x2 the short figure. Coming up shows what the banks keep after this month's bills, what is to pay, a line that steps down on each bill's day and the next bills; 2x2 it is the next bill. Both puts net worth, its graph, Upcoming / Overdue and the next bills in one 4x4. The page sends every figure formatted and the graphs as fractions, so the widgets agree with Home; Settings › Widgets › Add puts one on the home screen. The old Portfolio widget becomes Net worth. Proof: the page's snapshot checked against Home's figures in Chrome (demo and the real sheet), 7 Java unit tests, and the real APK on an emulator with all three placed, read back and Year pressed; each goes red when its part is broken. Asked: \"Build them all idk which ill use\".",
+    "built": "2026-11-24T09:56:18.200Z",
+    "src": "14984bc0e2f6e1cb9a95bef4dfbd0336661770ca178195332668effac47aa505"
   },
   "papa": {
     "label": "Papa's book",
