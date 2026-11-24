@@ -154,14 +154,14 @@
   },
   "warranty": {
     "label": "Warranty",
-    "code": 32,
+    "code": 33,
     "file": "warranty.apk",
-    "sha256": "3fd2e79243b108750062968f2c5e976e69597b7d420ebdf4d3e36025818fa118",
-    "size": 198321,
-    "commit": "4ee634e",
-    "subject": "Stocks: a baht account's Details (SET, Bitkub) shows baht alone, no A$ small under each figure; Webull keeps its A$. ledger-accttop-e2e.mjs checks both, red with the A$ put back on SET; ledger-brokers-e2e passes (Portfolio's By broker row keeps its A$). Asked: \"in details for set no need to show usd haha\".",
-    "built": "2026-11-21T05:24:44.696Z",
-    "src": "0cb6b62fd4cdf835ccb8aaaed272d5d832821d5094069aeab2dfb60069b0b8fc"
+    "sha256": "52a181a16b9c7884c3b96a4be19155cf46a97144be51a16eb2915dc7b8d70bce",
+    "size": 205981,
+    "commit": "ec9e7a7",
+    "subject": "Ledger: Add never puts a purchase in twice, the photo reads faster, and no Transfer tab.",
+    "built": "2026-11-24T12:53:39.420Z",
+    "src": "99a5e3884478e224fc55973a1b84859ca25ffc474c0a2c2b6a5b8b9f2d9cf488"
   },
   "mumma": {
     "label": "Mumma",
