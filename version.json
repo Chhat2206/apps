@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 114,
+    "code": 115,
     "file": "planner.apk",
-    "sha256": "0b22a198b083e4469e95940a7feb65d0504464b1266ee22c54f65ece940d0773",
-    "size": 451430,
-    "commit": "aaaaba1",
-    "subject": "Planner: a repeat's delete is Delete from <day> on (orange) or Delete all (red), stacked under the bin, filled, white words. Meeting Insource put back on the sheet from its Deleted row (weekly on Fridays, the same id, so Google's record stays tied to it). Proof: the page e2e reads both words and colours and still drives each; read back from the sheet after the write. Asked: \"Omg I deleted everything again just restore meeting insorucd and button is delete next week onwards (orange) or delete all (red) done bam\".",
-    "built": "2026-11-24T13:30:37.920Z",
-    "src": "88d26974e5feb8c9ebf7fd114d697fcd345945e3e41b5f21adc8fa8871443a11"
+    "sha256": "c17c8de636f92b7591357d3fddc4aa0cf4cc5ee8226bc247d58766f11c39a06b",
+    "size": 451422,
+    "commit": "61892f1",
+    "subject": "Ledger design: a trip's lines under its banner in Earned's list. A the trip's band heads a card of its days, B a slim banner that folds open, C Home's band with its day line and a trail down beside its lines; the Vacation app's carabiner as a climbing trip's icon in each. Drawn into the real page, on an Artifact, waiting for a pick. Asked: \"This is all under GCH trip. Claude design it so it shows it under the trip banner. Also maybe we could use the icon from the vacation for these vacations\".",
+    "built": "2026-11-24T13:44:13.954Z",
+    "src": "59656567b95b9e31caee75a8fe4850396758d8c721f763286705e63a12a7a344"
   },
   "warranty": {
     "label": "Warranty",
