@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 344,
+    "code": 345,
     "file": "stocks.apk",
-    "sha256": "3bde1f5e5b1e9845be42229a9f7acf2c0c947e674c7cafbd82a9839a700cda4d",
-    "size": 9283419,
-    "commit": "dff2566",
-    "subject": "Ledger: Check for updates in Settings, and a widget with just the net worth figure. Settings now ends with the same Check for updates button over Version N as the other apps. The new widget (Net worth figure, 2x1, resizes down to 1x1) shows Home's net worth alone, sized to fill it; a tap opens Ledger, and Settings › Widgets lists it second. Proof: the page with version.js and a stand-in bridge shows the button over the version, a press asks the app and says Up to date, and the widget's Add pins it (2 mutants red); Java compiles with its unit tests; the home-screen check is in the emulator test for the laptop (the Pi has no emulator). Asked: \"Add a check for updates in ledger please and a widget that just shows net worth just the number\".",
-    "built": "2026-11-24T12:24:08.459Z",
-    "src": "13cfe23be8fb6be1e39e6103714859a0bd99cd33e1aeeec6d8dd273f2f125b49"
+    "sha256": "82c25195a1d902c189a731ca04bd42609a3f8fd84259ce5d237ad691a4e03253",
+    "size": 8953271,
+    "commit": "1d94be9",
+    "subject": "Ledger: only the net worth widget is left. Net worth with its graph, Coming up and Both are deleted, with everything only they used (their layouts, drawings, previews, the graph and bill code in Java, and the graph, bills and icon pictures the page worked out for them). The one left shows Home's net worth figure alone and is called Net worth in the widget list and in Settings › Widgets. A widget of the old ones still on the home screen will say it can't load: remove it. Proof: the page sends only Home's figure and Settings offers the one widget, on the demo and the real sheet (a wrong figure goes red); Java compiles; the emulator test is cut down to this widget for the laptop. Asked: \"Delete the other widgets\".",
+    "built": "2026-11-24T12:37:35.024Z",
+    "src": "5f524acf21dd8c7f7ee3ff24d1daee117c01d9a03a1deb7ae101c564a0099f72"
   },
   "papa": {
     "label": "Papa's book",
