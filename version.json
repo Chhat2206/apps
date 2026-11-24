@@ -154,14 +154,14 @@
   },
   "warranty": {
     "label": "Warranty",
-    "code": 35,
+    "code": 36,
     "file": "warranty.apk",
-    "sha256": "99b006ee91ee18e8729a3d60830be3ead25f049651a759b0e3d9d34af28bb4f6",
-    "size": 206321,
-    "commit": "a6e16de",
-    "subject": "Warranty: repair in blue, not violet. The Repair tab when picked, In repair, the wrench on home and its \"In repair since\" line, and the Start a repair / Add icons take the app's blue; amber stays the warranty's time left, Not paid amber. e2e drive passes. Asked: \"Progress bar for repair blue maybe, not violet\".",
-    "built": "2026-11-24T13:09:11.909Z",
-    "src": "883b3790892c7971f620936b89041005ef2708029e31d1a25187aec7dab4c14a"
+    "sha256": "14a863de455d0d41b3f5571748a4688120e0836007b986b977df5fd9700030e6",
+    "size": 206805,
+    "commit": "b80a58e",
+    "subject": "Warranty: days since a repair started. The repair going on shows its days beside In repair (Today, 1 day, 12 days) with a blue bar under it that fills over a month and stays full after; a finished one says how long it took (Took 7 days, to the day it was completed). On home the warranty in repair has a small blue ring of the same around its wrench and reads \"In repair 3 days\". e2e drive passes (the bar at 0% the day it starts and 10% three days in, Took counting to the day it was done); 2 mutants red (a bar always full, Took counting to today). Asked: \"Days since repair started\" (for a blue progress bar on a repair).",
+    "built": "2026-11-24T13:13:36.035Z",
+    "src": "af0aba80619c6733f5b9662b59377e69fc78d859272b1574a9b1cf99e8f17e40"
   },
   "mumma": {
     "label": "Mumma",
