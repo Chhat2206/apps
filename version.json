@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 36,
+    "code": 37,
     "file": "reddit.apk",
-    "sha256": "4fa1d6e4ac3f4afe990639cf6381b0696e1e84d71f96eb6a7315fdf169150103",
-    "size": 244997,
-    "commit": "7486889",
-    "subject": "Reddit Snoo: no NSFW posts on Home or All. Home (Home, Popular, Top) and All (Hot, Top) leave out every post Reddit marks NSFW, on each page, the copy kept on the phone, Shuffled Top and the \"More from your communities\" carry-on. A community you open and a search still show them. Proof: e2e all ok (new checks: Home and All show no NSFW post, while the NSFW community still loads); with the filter taken out both checks go red. Asked: \"Don't show nsfw in reddit home and all\".",
-    "built": "2026-11-24T12:35:47.309Z",
-    "src": "777efffc0eee74d45e58754904dbd3f775417cbb4f6f00c36c88c6aea78288a4"
+    "sha256": "806e13e279487873e78f21ee0ffdd068584b353db9f399ef83af7f659119d62b",
+    "size": 245073,
+    "commit": "b007ff4",
+    "subject": "Reddit Snoo: holding a comment buzzes once, lightly. The fold gave the page's own slight buzz and Android's long-press buzz from the WebView came on top of it, a double vibration; the WebView's own haptic is turned off, so only the slight one is left (votes, saves and the rest keep theirs, which go through the vibrator). javacheck: compiles, 10 unit tests pass; the feel can only be checked on the phone. Asked: \"I feel double vibration when holding a comment to minimize I only want a slight vibration fix it\".",
+    "built": "2026-11-24T13:28:38.962Z",
+    "src": "e2fe2221f480a649ddcb73475f01f6433234ae37a95ae55761a0d322bf047efc"
   },
   "morphe": {
     "label": "YouTube+",
