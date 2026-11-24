@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 28,
+    "code": 29,
     "file": "reddit.apk",
-    "sha256": "ae9964b9fa4e89bf4ab39e1c58e4d9f6e444f41a394a218ca9c7978409135732",
-    "size": 236533,
-    "commit": "2c0e779",
-    "subject": "Reddit Snoo: fifty comments at a time, and opening a post no longer stalls.",
-    "built": "2026-11-24T05:35:23.738Z",
-    "src": "7f128a02040ddc399d34f85997951f965d525d727239ff4aed903b1c2c5763fa"
+    "sha256": "de118b460b9d9bef1a527cf6789e435e0405a217d875fc05851e811c70006391",
+    "size": 236873,
+    "commit": "22d4462",
+    "subject": "Reddit Snoo: a community you open from search is kept in Recent, unless it is for adults. Under the empty search box it shows with its picture as r/Name, and a tap opens it. NSFW communities are still found by search but are never kept in Recent. 280 e2e checks pass; without either part its check goes red. Asked: \"also show the communities here if I did end up opening one. Don't show nsfw communities in search history (only history)\".",
+    "built": "2026-11-24T06:10:01.171Z",
+    "src": "6f22935ff0135132bb69222b3b34448cb700ffbdeeec0e675a63cf8e802a1e26"
   },
   "morphe": {
     "label": "YouTube+",
