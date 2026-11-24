@@ -154,14 +154,14 @@
   },
   "warranty": {
     "label": "Warranty",
-    "code": 33,
+    "code": 34,
     "file": "warranty.apk",
-    "sha256": "52a181a16b9c7884c3b96a4be19155cf46a97144be51a16eb2915dc7b8d70bce",
-    "size": 205981,
-    "commit": "ec9e7a7",
-    "subject": "Ledger: Add never puts a purchase in twice, the photo reads faster, and no Transfer tab.",
-    "built": "2026-11-24T12:53:39.420Z",
-    "src": "99a5e3884478e224fc55973a1b84859ca25ffc474c0a2c2b6a5b8b9f2d9cf488"
+    "sha256": "ae52070ee1e32544a211018d57a986437a3be7e436c8b3b7acfd2723071319ba",
+    "size": 206293,
+    "commit": "b54f723",
+    "subject": "Warranty: repair in its own colour, violet. The Repair tab when picked, In repair, the wrench on home and its \"In repair since\" line, and the Start a repair / Add icons are violet; amber stays the warranty's time left, and Not paid keeps amber as a warning. e2e drive passes. Asked: \"Diff colour for repair pls\".",
+    "built": "2026-11-24T13:07:09.625Z",
+    "src": "5733b00441c19487d3a712e7c02dbc873e4c6a0ef5764135d01300ea1cad952c"
   },
   "mumma": {
     "label": "Mumma",
