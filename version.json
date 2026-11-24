@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 346,
+    "code": 347,
     "file": "stocks.apk",
-    "sha256": "2b2b0ceacef1cef5268a9379d8603a56f5365ff53fa1074b8cbe3e6a0da33a3e",
-    "size": 8954043,
-    "commit": "ec9e7a7",
-    "subject": "Ledger: Add never puts a purchase in twice, the photo reads faster, and no Transfer tab.",
-    "built": "2026-11-24T12:52:32.322Z",
-    "src": "8d126054d4e6e00344ab9f90fef3da70bf5a25e811e5669340c85369405abc3b"
+    "sha256": "73b6005549ae7f26fd2e07f75f8ec19daeb58d11352b2366bb421122b3ab9656",
+    "size": 8955887,
+    "commit": "686d491",
+    "subject": "Ledger: job status is a dropdown with a new Project status, and Earned has its own Settings gear (design A). Each job in Settings › Jobs has a coloured status pill (Ongoing, Project, One-time, Ended) that drops a menu; a tap elsewhere shuts it. A Project pays any number of times and stays in front on the Earned form until it is Ended; it sits beside Xavier but only an Ongoing job is picked by itself, and on Earned's three circles it counts as a current job. A gear at the top right of Earned opens the same Settings as Home's. Proof: the real page on the real sheet, through the pills' menus (Ponn set to Project and back, read back from the sheet each time), the form and the circles; status rules unit-tested; 5 mutants red; Stocks suite 290/290. Asked: \"A\".",
+    "built": "2026-11-24T13:38:58.653Z",
+    "src": "b27f317a12d80b32609a2a3c9c0676aaac01bbee6d3a324d4c169f4dcdc83d27"
   },
   "papa": {
     "label": "Papa's book",
