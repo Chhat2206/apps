@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 348,
+    "code": 349,
     "file": "stocks.apk",
-    "sha256": "e17fbe023335429d8c6f08b27cdf0343bb574b609469eed19452d2035822fefe",
-    "size": 8958359,
-    "commit": "3570d5e",
-    "subject": "Ledger: a trip's lines sit under its banner in Earned's list (design A). The trip's band (its sky and drawing, the days over the name, Spent over the total; a tap opens the trip) heads a card in its colours holding its days and lines, where its newest line falls in the month; a line is on it by its Trip column or as an old \"Vacation › <trip>\" line, and lines off it on the same days stay outside. The trip's mark is the Vacation app's: the orange carabiner for a climbing trip (Vacation's Climbing column, now read, or the name), else its sun-over-sea picture; the old Bathroom line wears it in place of the mountain and loses its trip chip. Proof: trips unit tests (2 new) and a demo e2e driving the real list (ten lines inside in order, the cash line outside, carabiner on Bathroom, the band opens the trip); 3 page mutants and 2 trips.mjs mutants red; the older trips e2e still passes. Asked: \"A\".",
-    "built": "2026-11-24T13:52:58.839Z",
-    "src": "d93467f6f3a19387f0e39e3a235388421164015eafead4952f89d5bfa3b52219"
+    "sha256": "696f68964e0fd47f9ff5b9561a349ab107f082c0731d804e151e307d5307d77b",
+    "size": 8962439,
+    "commit": "ae1e4d1",
+    "subject": "Ledger: announced dividends on Upcoming, and Dividend came records them (design A)",
+    "built": "2026-11-24T16:55:53.128Z",
+    "src": "799726d49dbd09c683470c189ef401ccb2e08bce60f314956b0cd13be3de8c89"
   },
   "papa": {
     "label": "Papa's book",
