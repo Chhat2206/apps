@@ -211,14 +211,14 @@
   },
   "translate": {
     "label": "Translate",
-    "code": 10,
+    "code": 11,
     "file": "translate.apk",
-    "sha256": "4ff03c832776b97e029413a66c341b939e0e699f53d582bff86ab06d3558c390",
-    "size": 525297,
-    "commit": "13e6563",
-    "subject": "Translate: a ไทย button types in Thai, with the Thai keyboard, and the English comes out. It sits beside the widget's Type in English bar and beside the box in the app; it names the other language, so a tap swaps: the widget's bar then reads Type in Thai and its button EN, and a tap on the widget's button opens the box at once in that language. The box asks the keyboard for Thai (or English), which Gboard and Samsung's keyboard switch to when Thai is turned on in them; when the keyboard has no Thai, an \"Add Thai to your keyboard\" line opens its languages page. javacheck 33/33 (LangTest new), widget press test 5/5; 3 mutants red (no ripple on the button, th_TH not read as Thai, the button naming its own language). Asked: \"For the translator app add a easy button to type in Thai (changes my keyboard to Thai) and it swaps to English widget\".",
-    "built": "2026-11-24T05:10:45.766Z",
-    "src": "560a50d1f04782566c67a610e1a16a3bf367cb5395e1625fbe5cd560174ece5f"
+    "sha256": "b131193e014c288d47f8c2cf51b6d8ed9f9f112fdf5970f20a0863c762001ef8",
+    "size": 525809,
+    "commit": "4619e9b",
+    "subject": "Translate: English or Thai is found by itself. Whatever you type, the app reads which language it is from the letters: more Thai letters than English ones is Thai (the English comes out), else English (the Thai comes out), so one Thai word in an English line (\"I want to eat ข้าว\") no longer turns the whole line round; numbers alone, or as many of each, go the way the button is set. After each translation the ไทย / EN button, the box's words and the widget's bar follow what you typed, and the keyboard is asked for that language the next time the box opens (not mid-word, which would break the typing). javacheck 35/35 (2 new tests); 2 mutants red (any Thai letter = Thai, a tie ignoring the button). Asked: \"Can translate auto detect if it's eng or Thai please\".",
+    "built": "2026-11-24T12:40:02.487Z",
+    "src": "87847f0ea7babe9004b828d5ba45da6ada7aa5a1e8eb40e9de4359efe1d30dc1"
   },
   "reddit": {
     "label": "Reddit Snoo",
