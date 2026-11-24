@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 33,
+    "code": 34,
     "file": "reddit.apk",
-    "sha256": "6171b42b9473f8b54c476128381fbed3164929aefd46e3be7bb5218467b03a31",
-    "size": 243445,
-    "commit": "f7ed5b1",
-    "subject": "Reddit Snoo: NSFW searches no longer end in broken links. A search Reddit answers with 404 (it did for NSFW words) is tried again the way a 403 is, through www.reddit.com with the mature-content cookie. When Reddit still refuses, the archive's hits are checked with Reddit in one request and only the posts still up are shown, with Reddit's current score and pictures; deleted, removed and banned-community posts are left out. Signed in, the note offers \"Show mature content in search\", which turns that setting on in the Reddit account only when pressed and searches Reddit again. 299 e2e checks pass; without the check against Reddit the broken ones come back and the check goes red. Asked: \"Reddit is struggling with searching for nsfw content and a lot are broken links … Help fix and maybe improve the search\".",
-    "built": "2026-11-24T07:46:32.309Z",
-    "src": "2e6985ec5f756a04eed4e1eecc52e822aebfadffb790b9467aa40954fd8cd1a7"
+    "sha256": "a83db191ef7c974981129d756e471cdd65ba87a156ac4190b4f3229e329bfeaa",
+    "size": 243733,
+    "commit": "630cb99",
+    "subject": "Reddit Snoo: a post's comments show even when Reddit answers 503. When Reddit has trouble with a big thread, the comments are asked for again, lighter (ten comments, three replies deep), and More comments brings the rest; the phone also tries www.reddit.com once when Reddit's main address answers 5xx. 301 e2e checks pass; without the lighter second ask the check goes red. Asked (screenshot): \"Reddit is having trouble (503)\" under a post.",
+    "built": "2026-11-24T08:12:17.424Z",
+    "src": "064ac4777c27085ba8bdd2b836d29ac9504eb77e114dec80eb77f7fb0abfbb80"
   },
   "morphe": {
     "label": "YouTube+",
