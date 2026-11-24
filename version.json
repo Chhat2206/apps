@@ -154,14 +154,14 @@
   },
   "warranty": {
     "label": "Warranty",
-    "code": 34,
+    "code": 35,
     "file": "warranty.apk",
-    "sha256": "ae52070ee1e32544a211018d57a986437a3be7e436c8b3b7acfd2723071319ba",
-    "size": 206293,
-    "commit": "b54f723",
-    "subject": "Warranty: repair in its own colour, violet. The Repair tab when picked, In repair, the wrench on home and its \"In repair since\" line, and the Start a repair / Add icons are violet; amber stays the warranty's time left, and Not paid keeps amber as a warning. e2e drive passes. Asked: \"Diff colour for repair pls\".",
-    "built": "2026-11-24T13:07:09.625Z",
-    "src": "5733b00441c19487d3a712e7c02dbc873e4c6a0ef5764135d01300ea1cad952c"
+    "sha256": "99b006ee91ee18e8729a3d60830be3ead25f049651a759b0e3d9d34af28bb4f6",
+    "size": 206321,
+    "commit": "a6e16de",
+    "subject": "Warranty: repair in blue, not violet. The Repair tab when picked, In repair, the wrench on home and its \"In repair since\" line, and the Start a repair / Add icons take the app's blue; amber stays the warranty's time left, Not paid amber. e2e drive passes. Asked: \"Progress bar for repair blue maybe, not violet\".",
+    "built": "2026-11-24T13:09:11.909Z",
+    "src": "883b3790892c7971f620936b89041005ef2708029e31d1a25187aec7dab4c14a"
   },
   "mumma": {
     "label": "Mumma",
