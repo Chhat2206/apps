@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 29,
+    "code": 30,
     "file": "reddit.apk",
-    "sha256": "de118b460b9d9bef1a527cf6789e435e0405a217d875fc05851e811c70006391",
-    "size": 236873,
-    "commit": "22d4462",
-    "subject": "Reddit Snoo: a community you open from search is kept in Recent, unless it is for adults. Under the empty search box it shows with its picture as r/Name, and a tap opens it. NSFW communities are still found by search but are never kept in Recent. 280 e2e checks pass; without either part its check goes red. Asked: \"also show the communities here if I did end up opening one. Don't show nsfw communities in search history (only history)\".",
-    "built": "2026-11-24T06:10:01.171Z",
-    "src": "6f22935ff0135132bb69222b3b34448cb700ffbdeeec0e675a63cf8e802a1e26"
+    "sha256": "f6f5d52536c863002b49210dd2af8514265e5a6174fec236e28400cbe15a495e",
+    "size": 238401,
+    "commit": "2ba2beb",
+    "subject": "Reddit Snoo: You has a History page, to go back to where you were. Every community and post you open is kept, newest first, under its day (Today, Yesterday, then the date), NSFW ones too, with All, Communities and Posts to narrow it. A tap opens it again, so carrying on with Malicious Compliance is one tap from You. Clear empties it, with Undo. 289 e2e checks pass; with communities not kept, its checks go red. Asked: \"Add a 'history' button under you so I can return to where I was easily lets say I wanna continue malicious compliance that would be easy history can store nsfw\".",
+    "built": "2026-11-24T06:27:55.449Z",
+    "src": "2d8b99f20b8e8b69aa55b7ce7f3bc29d83e7f68b176214dcf77574af508dc4a7"
   },
   "morphe": {
     "label": "YouTube+",
