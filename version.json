@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 112,
+    "code": 113,
     "file": "planner.apk",
-    "sha256": "69d6b62bbfa98163133d680149e1c190a7253f41bfdbd9cd36dcde638c1f7578",
-    "size": 450306,
-    "commit": "389efa2",
-    "subject": "Planner: Deleted finds your own version on the phone. Putting back \"Meeting Stephen 9am\" from Google gave Google's name, because Google never had the rename to \"Meeting Insource\". Deleted now has a From this phone part: the months the phone kept from before the delete still hold the event as you last saw it, so it lists those versions of events gone from My calendar, and of Google copies that came back under Google's name, with the name they have now under it. Restore puts that version on the same event. Proof: a unit test (your rename found, an edited copy not offered, one in the Deleted tab not offered twice) and the page e2e restoring it; the edited-copy rule broken goes red. Asked: \"It restored meeting Steven 9pm, but not what I renamed it as, as meeting in-source … I want to restore what I deleted, not from Google Calendar\".",
-    "built": "2026-11-24T13:20:29.758Z",
-    "src": "8104b8126d7c410f45c701b5b529ca8abb25d110a8385089bf1d6b267c89cc61"
+    "sha256": "f7f4811522ea2d71119a639dc560d25b05aa07c06ba80f5c2227491daafd4f8a",
+    "size": 451258,
+    "commit": "1cd6b1d",
+    "subject": "Planner: the Deleted page in design A of round V, picked by Claude as asked. Three looks were drawn in the real page (planner/design/v-deleted): A groups what was deleted by the day it went, each event a chip in its own colour with what was deleted under it and a round undo beside it; B gave each one a whole card with its facts and a Restore button; C one line each, a tap opening it like an event. A is built: Restore is the page's one action, so it is one tap, and the chips are the calendar's own (they follow Settings › Colours). Java now sends each deleted event's colour. Proof: the page e2e reads the groups, the chip colour and each undo; 88 unit tests; the real page rendered in Chromium matches the design. Asked: \"Also Claude design and choose a design for that page\".",
+    "built": "2026-11-24T13:24:25.446Z",
+    "src": "85c763eca3b7d08f22fb450322f2b8ebc69100c3783669a07781cd51f438c67d"
   },
   "warranty": {
     "label": "Warranty",
