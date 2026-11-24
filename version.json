@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 37,
+    "code": 38,
     "file": "reddit.apk",
-    "sha256": "806e13e279487873e78f21ee0ffdd068584b353db9f399ef83af7f659119d62b",
-    "size": 245073,
-    "commit": "b007ff4",
-    "subject": "Reddit Snoo: holding a comment buzzes once, lightly. The fold gave the page's own slight buzz and Android's long-press buzz from the WebView came on top of it, a double vibration; the WebView's own haptic is turned off, so only the slight one is left (votes, saves and the rest keep theirs, which go through the vibrator). javacheck: compiles, 10 unit tests pass; the feel can only be checked on the phone. Asked: \"I feel double vibration when holding a comment to minimize I only want a slight vibration fix it\".",
-    "built": "2026-11-24T13:28:38.962Z",
-    "src": "e2fe2221f480a649ddcb73475f01f6433234ae37a95ae55761a0d322bf047efc"
+    "sha256": "2cc73af51c8805fab87b252251c550fa9189fe80f68af019abda512756e51ba4",
+    "size": 245429,
+    "commit": "4132ad4",
+    "subject": "Reddit Snoo: Mark as unread. A post's ⋮ now starts with Mark as unread (eye-off) when the post is read or was scrolled past: it comes out of both the read and the seen history, its title is white again in every list, and Fresh only / Unread show it again; opening it later marks it read as before. On a post not yet read the same line says Mark as read. Proof: page e2e (new checks: a read post's ⋮ offers Mark as unread; after it the title is white like the rest and the id is in neither rd.read nor rd.seen); with the read history left alone the check goes red. The one other red check (\"the full picture is fetched to replace it\") is red at HEAD as well. Asked: \"Allow me a 'unread' button so it isn't counted in the gray read\".",
+    "built": "2026-11-24T14:32:16.091Z",
+    "src": "b9464d691a62894dab9adebcb68d38ab854ee59c62b2d2bf5eec92e28fa5f8ee"
   },
   "morphe": {
     "label": "YouTube+",
