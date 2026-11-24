@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 110,
+    "code": 111,
     "file": "planner.apk",
-    "sha256": "67219c0e7f514c3083ab6d4506a015929bde05263ee40b4c5762cab196886191",
-    "size": 438670,
-    "commit": "9ae8f23",
-    "subject": "Planner e2e: wait up to three minutes for Chromium on a busy Pi (it missed the one-minute wait at load 14 with another e2e running).",
-    "built": "2026-11-23T04:43:38.735Z",
-    "src": "c27da521f75c6c0003ae5e981198b751bd2555a066eb351a075da88e6c64f6cb"
+    "sha256": "d81c88308dc3a255b8325b822c650d4ef2f06923b809833d102570eef3ac8bf0",
+    "size": 446698,
+    "commit": "689d396",
+    "subject": "Planner: a repeat deletes From <day> on or Every repeat, and every delete is kept with Restore. The bin on a repeat opened on a later day than its first now asks under it: From <that day> on (the rule ends the day before, an earlier end or count kept) or Every repeat; tapping the bin again only closes the question, where two taps used to delete every repeat. Every event Planner takes out of My calendar (a delete, the later repeats cut off, a copy gone from Google) is first written whole into a new Deleted tab of the sheet, and Settings › Deleted lists them newest first with Restore, which puts the event back as it was. Google's copies deleted before the tab existed are listed under it too, from the Brought in record, and come back tied to Google again. Proof: 6 unit tests (the cut, the listing, restore, the copies deleted before), the page e2e drives both choices, the bin twice and the Deleted page; 2 module and 2 page mutants red. Asked: \"Why did Calandar say delete every repeat it shouldvs only deleted the repeats from that day onwards as an option can we restore and obvs delete should be stored in history right\".",
+    "built": "2026-11-24T12:39:14.024Z",
+    "src": "ab8ce60bde8a9e38cd9738b2a5ebcacae64dda73b95ad1128ea014ca097cffc7"
   },
   "warranty": {
     "label": "Warranty",
