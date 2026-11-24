@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 25,
+    "code": 26,
     "file": "reddit.apk",
-    "sha256": "0a3bf7c401888694784b3069b4fff7bacdc33efc1be2185b27b731d5540f3921",
-    "size": 232553,
-    "commit": "dbb3bd1",
-    "subject": "Reddit Snoo: the icon is Sprout (design B of round 6), a round black creature with one big eye and two leaves on sunflower yellow, and it is also the pull-to-refresh logo. 248 e2e checks pass. Asked: \"B\".",
-    "built": "2026-11-23T14:45:00.732Z",
-    "src": "7b8e4988a5d05c9f9e28bb268915c812eed8b2a2f07ea843320b34c579a638b4"
+    "sha256": "4591b334fce6eb9baa102ff2b0c402a17d061cc612c3adb1160bcaad809b17d0",
+    "size": 235853,
+    "commit": "d26f95f",
+    "subject": "Reddit Snoo: videos have sound; More comments draws ten head comments; holding a comment folds it again; the viewer's title opens the post; Communities ▾ beside Everywhere; votes and save on the post's own line; a list's comment count opens the post at its comments.",
+    "built": "2026-11-24T03:48:20.697Z",
+    "src": "efa9a26c183d12cfe66dbd6c44b86833645014923fd9acc5f01eea3fc4245d9a"
   },
   "morphe": {
     "label": "YouTube+",
