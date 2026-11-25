@@ -165,14 +165,14 @@
   },
   "mumma": {
     "label": "Mumma",
-    "code": 29,
+    "code": 30,
     "file": "mumma.apk",
-    "sha256": "750da510c5872fb366cd2cfe109aed9dc46ad8a1036a63ca85ce351e0bcab8a8",
-    "size": 250417,
-    "commit": "69ff6dd",
-    "subject": "No pills in any app: No Wi-Fi, Not up to date and the waiting counts are the amber band from the start (shared/sync.js, android/web/update.js), and \"Checking for changes\" is gone. Vacation never says No Wi-Fi (a timed-out sync set it with Wi-Fi up), Been to tiles say the days spent there, photos with no place count on a trip's days when one of My cameras took them (Langkawi), pin maps drawn from the next zoom's tiles at half size, Where next? darker behind its words. Asked: \"I want to remove pills from all apps btw it should only be the banner\", \"idk why I'm still getting the no wifi pill sometimes remove it\", \"Instead of saying x trips y hotels say y days instead\", \"Add the langkawi photos too\", \"The map in where next looks blurry\", \"Make the where next more clear\".",
-    "built": "2026-11-19T16:33:23.363Z",
-    "src": "67a2811e92c4c150c1477e185d55c676f5285444718cb4fe75c4ecf872231ef4"
+    "sha256": "a57c380f5c76b8e5889a5a843908a07e535398c97c90c28b6ef2ff77fd2f9004",
+    "size": 249409,
+    "commit": "9d81e00",
+    "subject": "Mumma: a History page, one line a month with what was owed and what was paid back. Asked: \"So for example see history nov x dec y\". A History button under Owe more | Paid back (once there is a line) opens every month newest first: the month with its year small under it, Owed (+฿, amber) and Paid back (−฿, green) in right-aligned columns, an empty cell kept so the figures line up, then In all. Back goes home. Lydia unchanged. Proof: the jsdom drive passes with new checks (no button before a line, one line a month across three months, newest first, figures per month and In all, the empty column kept, Back); 5 mutants red: button with no lines, oldest first, all-time figures on every line, an empty column dropped, In all's columns swapped; unit tests 19/19.",
+    "built": "2026-11-25T13:30:53.457Z",
+    "src": "4084f9ef509aa84ad9a828f20b42368e0b4c47f462e4d213df8470e7411104da"
   },
   "weight": {
     "label": "Weight",
