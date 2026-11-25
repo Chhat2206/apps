@@ -33,14 +33,14 @@
   },
   "card-tracker": {
     "label": "Credit Card",
-    "code": 104,
+    "code": 105,
     "file": "card-tracker.apk",
-    "sha256": "a99ad88fec3d7924bdfc6be81456513502ace78675c5495a0d509be94a425b2a",
-    "size": 248990,
-    "commit": "ade2634",
-    "subject": "Credit Card: Everyone except Chhat in Who bought it; What the bills say removed.",
-    "built": "2026-11-21T03:16:47.929Z",
-    "src": "b8b95ab23e2903ced9a8281bdad4c8eabe150268b9e9a1586903b3d108dd9c9e"
+    "sha256": "14be96023799fa4d1dda36340e3411ea81d60b01159c02024053ac0056e91395",
+    "size": 251670,
+    "commit": "022e342",
+    "subject": "Credit Card: ticking a bill paid no longer flashes paid → unpaid → paid.",
+    "built": "2026-11-25T13:52:14.625Z",
+    "src": "2a0128f15ab793208c31e596f8c01f0a56bb0ceaa37e951feea951eeae52f62c"
   },
   "musu": {
     "label": "Work Tracker",
