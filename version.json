@@ -154,14 +154,14 @@
   },
   "warranty": {
     "label": "Warranty",
-    "code": 39,
+    "code": 40,
     "file": "warranty.apk",
-    "sha256": "0084c4ee6dacf958e3aaaceb2c4ae2dafc11a70e5664668621e0b6fc63232052",
-    "size": 210065,
-    "commit": "e475770",
-    "subject": "Warranty: a repair can carry its own warranty. On a repair's card, \"Repair warranty\" opens how long it lasts (a number, Days | Months; Samsung's screen repair = 90 days) counted from the day the repair was complete, what it comes to (2 months left, Ends 23 Feb 2027) as it is typed, and Covers / Doesn't cover, one per line (the maker's faults; drops, cracks, water); an × takes it off with Undo. While the repair is still going on it says it starts when the repair is complete. While it runs it is a line of its own on home among the warranties, by the day it ends (a wrench by the name, \"Repair warranty ends …\", even when the phone's own warranty has ended), and a tap opens that repair; a finished repair's row says how long its warranty has left. Android rings it a month before and the day after, like a warranty. On the sheet: Repairs columns J–M (Repair warranty, For, Covers, Doesn't cover); an older heading row is put right. Proof: unit 27/27 (3 new); the jsdom drive types a 90-day repair warranty, keeps the words through a redraw, Months, ×+Undo, the folded line, home's line opening the repair, the reminders, the sheet's columns, a new phone getting it; 7 mutants red (counting from Started, not on home, not to the sheet, old heading kept, no month-before ring, a redraw losing the box, Ends not following the typing). Asked: \"In my warranty app, please add a repair warranty. For example, the Samsung repair for the screen is a 90 day repair that doesn't include falling, breaking, or so on. Just manufacturers.\"",
-    "built": "2026-11-25T06:54:08.081Z",
-    "src": "99e652c32812284aaefad74e6b345274d51541e6f9d79c1367c233f751168fc2"
+    "sha256": "1f7b5d73f6eca2a042353fe683e07f47a5a7747a363d82291cd17b713c055b72",
+    "size": 210365,
+    "commit": "b80af21",
+    "subject": "Every phone app uses the tablet's width (design C). Asked: \"fix the other apps on the tablet too claude design them to make sure theyre properly spaced\", picked C of the Tablet spacing page (Use the room).",
+    "built": "2026-11-25T14:36:51.827Z",
+    "src": "622989c1cdd81d925ee2579723ae26b9fa1663e267adceb4de06da5823d728ed"
   },
   "mumma": {
     "label": "Mumma",
