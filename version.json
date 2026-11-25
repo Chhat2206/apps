@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 350,
+    "code": 351,
     "file": "stocks.apk",
-    "sha256": "f924bf13429a5f928daee7f433f7b658f5ee13abc0bb952905055c05b74a37d3",
-    "size": 8964023,
-    "commit": "58e1c60",
-    "subject": "Stocks: Webull's holdings drawn as Webull's own Positions list. Four columns, two lines each: Symbol over the company's name (Yahoo's longName, now carried on each quote), Mkt Value with a DRIP tag where a dividend was reinvested over Qty to five places, Open P&L in dollars over its %, Last over US$Avg; both P&L lines in the profit colour, Total kept at the foot. Other accounts (SET, Bitkub) keep their table. Proof: new e2e ledger-webull-holdings (demo, 412 px) passes: every cell matches the holding's figures, DRIP on every line still fits, SET unchanged; with the Webull layout switched off it goes red (\"no old table on Webull\"); holdprofit, accttop and ledger e2e still pass, quotes tests 8/8. Asked: \"Make holdings look exactly as webull please\".",
-    "built": "2026-11-25T05:02:30.501Z",
-    "src": "1040423517f9c353a0094feff20e1497847ce9da266ae7d212b41414ceab0fe8"
+    "sha256": "7a9ccca8af254f19cb517a5ed0df7016ada6462ea698f2a11d077b8004483934",
+    "size": 8964003,
+    "commit": "ab721be",
+    "subject": "Ledger Add: a photo is read quietly. \"Reading…\" under the photo is gone. It was never the photo loading: it was the order reader looking for a shop order's text for up to 20 s. A photo with no order on it (a card slip) now says nothing either, with no \"No order found\" or \"took too long\" toast. An order that is found still fills the empty boxes and says so. Proof: ledger-addcard-e2e passes with two new checks (no Reading… while the draft reads, and a slip leaves the form unchanged and says nothing). Putting Reading… back turns it red, and so does putting the toast back. shoporder tests pass 6/6. Asked: \"why it says Reading when the photo loaded immediately. Please fix this issue\".",
+    "built": "2026-11-25T06:55:01.906Z",
+    "src": "6e1495e9cf17f2c7d1ecc783f3b92d105ad635b03a5d61976aeb511b7ddbb4b4"
   },
   "papa": {
     "label": "Papa's book",
