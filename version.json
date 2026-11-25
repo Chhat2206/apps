@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 354,
+    "code": 355,
     "file": "stocks.apk",
-    "sha256": "c738663369983b86d5b579e972302da1f55996665c51a5d87e9f7cd4103b5346",
-    "size": 8979915,
-    "commit": "bb0d832",
-    "subject": "Ledger: select many lines and change them together, with their total. Hold a line, Select, then a tap picks or drops more lines of the same list (Home's Recent, the full ledger, or Upcoming) instead of opening them. A bar at the foot says how many and what they come to in baht, with Date (each keeps its own time), Account, Category and Delete for all of them; the picks stay after a change so date and bank can both be changed. Transfers are never picked. Money deletes keep Undo; deleting upcoming lines asks first. Proof: bulk.mocked 4/4; ledger-bulk-e2e passes twice on the demo at phone width with real presses (pick, total, date, account, category, transfer refused, drop, close, delete + Undo, then Upcoming: total, date, delete); 6 mutants red (time not kept, transfer guard gone, unchanged account rewritten, a tap opens the line, total unsigned, picks dropped after a change); money 12/12, upcomingedit 5/5. ledger-boss-e2e fails the same way on the code before this. Asked: \"Allow me to bulk select here so I can bulk change date bank etc\", \"And see how much money total they are. Including in smth like upcoming too\".",
-    "built": "2026-11-25T13:52:32.765Z",
-    "src": "1c4d5909371e1281ae610b8628940c6f824acba817e6efc774ddfd7532ac9a88"
+    "sha256": "06004a4c9c662d8cac6fa41f293fbb31dc7f887d04de685ebcab8d48da16cab2",
+    "size": 8980167,
+    "commit": "b80af21",
+    "subject": "Every phone app uses the tablet's width (design C). Asked: \"fix the other apps on the tablet too claude design them to make sure theyre properly spaced\", picked C of the Tablet spacing page (Use the room).",
+    "built": "2026-11-25T15:03:53.057Z",
+    "src": "577ae6157cb5402bf7ee96762a71b5a794668fdd9d6f6e7b808da8ab1296103c"
   },
   "papa": {
     "label": "Papa's book",
