@@ -154,14 +154,14 @@
   },
   "warranty": {
     "label": "Warranty",
-    "code": 38,
+    "code": 39,
     "file": "warranty.apk",
-    "sha256": "7a531e36565c15642a20bf58a9fddbb1be524e4d52554eefb2b219dc8b293ba0",
-    "size": 207085,
-    "commit": "819a78a",
-    "subject": "Warranty: no tabs, repair on top. Home is one list again: a warranty in repair sits on top (days in a blue ring, Paid / Not paid), the warranties under it, and the foot button is Add, which asks Repair (which warranty, then its page with the repair started) or Warranty (the form). A warranty's page shows its repair on top (In repair, days and bar, what's wrong, cost, paid, documents, Repair complete), then its finished repairs, then the warranty; Start a repair sits at the foot of the page when nothing is in repair, and an opened finished repair folds again by its heading. e2e drive passes; 3 mutants red (in repair also in the list, Add not asking, the repair not on top of the page). Asked: \"Ir should be one tab show repair on top of warrenty button lets me choose repair or warrenty\".",
-    "built": "2026-11-24T13:48:55.747Z",
-    "src": "0ad6fc5932c77e40780f95ddeeeba176b02cbc57546c988810e6f903b1000c6d"
+    "sha256": "0084c4ee6dacf958e3aaaceb2c4ae2dafc11a70e5664668621e0b6fc63232052",
+    "size": 210065,
+    "commit": "e475770",
+    "subject": "Warranty: a repair can carry its own warranty. On a repair's card, \"Repair warranty\" opens how long it lasts (a number, Days | Months; Samsung's screen repair = 90 days) counted from the day the repair was complete, what it comes to (2 months left, Ends 23 Feb 2027) as it is typed, and Covers / Doesn't cover, one per line (the maker's faults; drops, cracks, water); an × takes it off with Undo. While the repair is still going on it says it starts when the repair is complete. While it runs it is a line of its own on home among the warranties, by the day it ends (a wrench by the name, \"Repair warranty ends …\", even when the phone's own warranty has ended), and a tap opens that repair; a finished repair's row says how long its warranty has left. Android rings it a month before and the day after, like a warranty. On the sheet: Repairs columns J–M (Repair warranty, For, Covers, Doesn't cover); an older heading row is put right. Proof: unit 27/27 (3 new); the jsdom drive types a 90-day repair warranty, keeps the words through a redraw, Months, ×+Undo, the folded line, home's line opening the repair, the reminders, the sheet's columns, a new phone getting it; 7 mutants red (counting from Started, not on home, not to the sheet, old heading kept, no month-before ring, a redraw losing the box, Ends not following the typing). Asked: \"In my warranty app, please add a repair warranty. For example, the Samsung repair for the screen is a 90 day repair that doesn't include falling, breaking, or so on. Just manufacturers.\"",
+    "built": "2026-11-25T06:54:08.081Z",
+    "src": "99e652c32812284aaefad74e6b345274d51541e6f9d79c1367c233f751168fc2"
   },
   "mumma": {
     "label": "Mumma",
