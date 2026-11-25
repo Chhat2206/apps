@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 352,
+    "code": 353,
     "file": "stocks.apk",
-    "sha256": "f1d256448d7f5072b3edf36037ad4365879e9faee8c31dfaf3db9603c2b9e496",
-    "size": 8971659,
-    "commit": "bcea32f",
-    "subject": "Ledger Add: Auto fills the form from a shop's order screenshot (design C), and Upcoming's \"coming in\" stays on one line. A round scan button beside Expense | Income (new lines only) opens the gallery; the picture is read on the phone (no AI) and fills the name, what was paid (Lazada's order page has no Total, so the item price times its Qty: ฿156 × 2 = ฿312), the day it was ordered, when it arrives, and how it was paid (a card's last four = that card, QR or a bank = Bank, cash on delivery = Cash, nothing said = the card tagged with the shop, BBL 0134 for Lazada). The screenshot stays beside the amount with each reading lit and numbered 1-4, the same numbers on what it filled (a number goes when that part is typed over); a tap opens it big with each reading named, Remove there. The screenshot is the bill's photo, not shown twice. Upcoming's \"+฿1,020 coming in\" no longer wraps. Proof: ledger-auto-e2e drives the real button with the user's real screenshot through the real reader (read in ~4 s) and passes; shoporder 11/11 on the real read (5 new); ledger-upcoming-line-e2e passes at the phone's tile width with ฿1,020 and ฿12,450; 7 mutants red (no item × qty, no shop card, numbers kept after typing, photo twice, Auto on old lines, silent on a picture with no order, the one-line fix taken out); addcard, namepop and ledger e2e still pass. Asked: \"C\" and \"Also fix upcoming its on two lines not one\".",
-    "built": "2026-11-25T11:50:53.021Z",
-    "src": "59f0eeb10377ba042e5fc01489a361b2b2772ee36adff233283c13385da18921"
+    "sha256": "c3847e5b95bb0e3efedddc3382b2ab5f0a8fbb85bb7bab06a9145104d6dead01",
+    "size": 8974091,
+    "commit": "032ee2d",
+    "subject": "Ledger: Auto reads the order's discounts and shows what it read on top; Jobs' status menu no longer flashes or gets cut off; One-time is now Project. Auto: a scroll capture of the whole order is read by its width (a tall one shrunk by its height read as mush), and the Order Summary is read: the Order Total wins (never the Subtotal), else subtotal or price × Qty + delivery − discounts and vouchers, with \"฿156 × 2 + ฿39 delivery − ฿59 off\" under the amount and the card from \"Paid by Visa **** 0134\". Each reading's own line is cut from the screenshot into a strip on top of the form, numbered, the summary rows under the total's line; the amount stays where it always is; no scan animation (the button only dims while it reads). Jobs: a tap opens or shuts the menu on its own row instead of redrawing Settings (the flash), it opens upward when the sheet's foot leaves no room (it was cut off under \"2 more\"), and a pick changes only its row. One-time and Project are one status, Project; a \"One-time\" already on the sheet reads as Project, and a Project counts as current while never paid or paid in the last six months. Proof: shoporder 14/14 (a 6028 px capture read at 1080 wide: ฿292 = ฿312 + ฿39 − ฿59, card 0134); ledger-auto-e2e passes with both screenshots; jobstatus-e2e passes on the real sheet with new checks (the page is not redrawn, the last row's menu opens upward whole on a short screen, nothing over it); 8 mutants red; addcard, namepop, ledger, upcoming-line e2e pass. ledger-boss-e2e fails the same way on the code before this. Asked: \"I didn't give the entire image so it didn't include the discount… put the image on top for easy comparison\", \"I don't know why it flashes when I click it and clips… one time and project are both the same things\".",
+    "built": "2026-11-25T12:19:13.974Z",
+    "src": "1c718ec36e9b472d327bf766a4028b503196af05b15f33a117d6681fa05e56fe"
   },
   "papa": {
     "label": "Papa's book",
