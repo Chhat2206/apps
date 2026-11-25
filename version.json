@@ -77,14 +77,14 @@
   },
   "hub": {
     "label": "Hub",
-    "code": 58,
+    "code": 59,
     "file": "hub.apk",
-    "sha256": "0f124b13755a2aae69f0f60f7bbd1daa799bd2ac84be0c62c3ed0944336d61f5",
-    "size": 130752,
-    "commit": "69ff6dd",
-    "subject": "No pills in any app: No Wi-Fi, Not up to date and the waiting counts are the amber band from the start (shared/sync.js, android/web/update.js), and \"Checking for changes\" is gone. Vacation never says No Wi-Fi (a timed-out sync set it with Wi-Fi up), Been to tiles say the days spent there, photos with no place count on a trip's days when one of My cameras took them (Langkawi), pin maps drawn from the next zoom's tiles at half size, Where next? darker behind its words. Asked: \"I want to remove pills from all apps btw it should only be the banner\", \"idk why I'm still getting the no wifi pill sometimes remove it\", \"Instead of saying x trips y hotels say y days instead\", \"Add the langkawi photos too\", \"The map in where next looks blurry\", \"Make the where next more clear\".",
-    "built": "2026-11-19T16:32:35.417Z",
-    "src": "ccae3101ef4da702087042ef725dce25eb3fb90ed1013bca967ad31a0914ebb2"
+    "sha256": "4f3d1c5af581e1e4f9a264f68016a2f9497b27b94d532ba10fe8c13437ceb441",
+    "size": 128868,
+    "commit": "b80af21",
+    "subject": "Every phone app uses the tablet's width (design C). Asked: \"fix the other apps on the tablet too claude design them to make sure theyre properly spaced\", picked C of the Tablet spacing page (Use the room).",
+    "built": "2026-11-25T14:42:16.518Z",
+    "src": "65d05225889751217b9a8e000ab1611b5ad605a4417bf58ea58d0ce2c6f87a88"
   },
   "adblock": {
     "label": "Ad Block",
