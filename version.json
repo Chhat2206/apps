@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 353,
+    "code": 354,
     "file": "stocks.apk",
-    "sha256": "c3847e5b95bb0e3efedddc3382b2ab5f0a8fbb85bb7bab06a9145104d6dead01",
-    "size": 8974091,
-    "commit": "032ee2d",
-    "subject": "Ledger: Auto reads the order's discounts and shows what it read on top; Jobs' status menu no longer flashes or gets cut off; One-time is now Project. Auto: a scroll capture of the whole order is read by its width (a tall one shrunk by its height read as mush), and the Order Summary is read: the Order Total wins (never the Subtotal), else subtotal or price × Qty + delivery − discounts and vouchers, with \"฿156 × 2 + ฿39 delivery − ฿59 off\" under the amount and the card from \"Paid by Visa **** 0134\". Each reading's own line is cut from the screenshot into a strip on top of the form, numbered, the summary rows under the total's line; the amount stays where it always is; no scan animation (the button only dims while it reads). Jobs: a tap opens or shuts the menu on its own row instead of redrawing Settings (the flash), it opens upward when the sheet's foot leaves no room (it was cut off under \"2 more\"), and a pick changes only its row. One-time and Project are one status, Project; a \"One-time\" already on the sheet reads as Project, and a Project counts as current while never paid or paid in the last six months. Proof: shoporder 14/14 (a 6028 px capture read at 1080 wide: ฿292 = ฿312 + ฿39 − ฿59, card 0134); ledger-auto-e2e passes with both screenshots; jobstatus-e2e passes on the real sheet with new checks (the page is not redrawn, the last row's menu opens upward whole on a short screen, nothing over it); 8 mutants red; addcard, namepop, ledger, upcoming-line e2e pass. ledger-boss-e2e fails the same way on the code before this. Asked: \"I didn't give the entire image so it didn't include the discount… put the image on top for easy comparison\", \"I don't know why it flashes when I click it and clips… one time and project are both the same things\".",
-    "built": "2026-11-25T12:19:13.974Z",
-    "src": "1c718ec36e9b472d327bf766a4028b503196af05b15f33a117d6681fa05e56fe"
+    "sha256": "c738663369983b86d5b579e972302da1f55996665c51a5d87e9f7cd4103b5346",
+    "size": 8979915,
+    "commit": "bb0d832",
+    "subject": "Ledger: select many lines and change them together, with their total. Hold a line, Select, then a tap picks or drops more lines of the same list (Home's Recent, the full ledger, or Upcoming) instead of opening them. A bar at the foot says how many and what they come to in baht, with Date (each keeps its own time), Account, Category and Delete for all of them; the picks stay after a change so date and bank can both be changed. Transfers are never picked. Money deletes keep Undo; deleting upcoming lines asks first. Proof: bulk.mocked 4/4; ledger-bulk-e2e passes twice on the demo at phone width with real presses (pick, total, date, account, category, transfer refused, drop, close, delete + Undo, then Upcoming: total, date, delete); 6 mutants red (time not kept, transfer guard gone, unchanged account rewritten, a tap opens the line, total unsigned, picks dropped after a change); money 12/12, upcomingedit 5/5. ledger-boss-e2e fails the same way on the code before this. Asked: \"Allow me to bulk select here so I can bulk change date bank etc\", \"And see how much money total they are. Including in smth like upcoming too\".",
+    "built": "2026-11-25T13:52:32.765Z",
+    "src": "1c4d5909371e1281ae610b8628940c6f824acba817e6efc774ddfd7532ac9a88"
   },
   "papa": {
     "label": "Papa's book",
