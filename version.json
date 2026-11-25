@@ -121,14 +121,14 @@
   },
   "deal": {
     "label": "Better Deal",
-    "code": 58,
+    "code": 59,
     "file": "deal.apk",
-    "sha256": "837824df05b86b57987941692f5a7579d89a055d7260c14f4ef7f4facb0ab52a",
-    "size": 14998151,
-    "commit": "69ff6dd",
-    "subject": "No pills in any app: No Wi-Fi, Not up to date and the waiting counts are the amber band from the start (shared/sync.js, android/web/update.js), and \"Checking for changes\" is gone. Vacation never says No Wi-Fi (a timed-out sync set it with Wi-Fi up), Been to tiles say the days spent there, photos with no place count on a trip's days when one of My cameras took them (Langkawi), pin maps drawn from the next zoom's tiles at half size, Where next? darker behind its words. Asked: \"I want to remove pills from all apps btw it should only be the banner\", \"idk why I'm still getting the no wifi pill sometimes remove it\", \"Instead of saying x trips y hotels say y days instead\", \"Add the langkawi photos too\", \"The map in where next looks blurry\", \"Make the where next more clear\".",
-    "built": "2026-11-19T16:31:54.328Z",
-    "src": "4111d2373a5edd4eaeba8ca8d74a07668cb554c3bef5ab352b64aab2ff518f19"
+    "sha256": "a9b06f014dad1abb160bb5dba9c988a216318af84ab8b8d733e52db892a4883d",
+    "size": 14996527,
+    "commit": "b80af21",
+    "subject": "Every phone app uses the tablet's width (design C). Asked: \"fix the other apps on the tablet too claude design them to make sure theyre properly spaced\", picked C of the Tablet spacing page (Use the room).",
+    "built": "2026-11-25T14:48:37.896Z",
+    "src": "4e76e0bf5e92cdd48a42f6964875ab4f06b2d56baedb509677a8a8a4cf2e2279"
   },
   "birthdays": {
     "label": "Birthdays",
