@@ -176,14 +176,14 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 37,
+    "code": 38,
     "file": "weight.apk",
-    "sha256": "b02a27ae5901f1afc5167f7f0bb999d4dce3f3b037be4c1ca870b156473b3f06",
-    "size": 450762,
-    "commit": "c702b99",
-    "subject": "Weight: a home-screen widget, design B with Home's whole chart. The last weigh-in big with Home's chip beside it (kg a day, or the change in N days), the kg to go top right, and under them the eight weeks as Home draws them: the kg over every point with room, the first day, the goal on its date with its kg and day, and today's pace carried to that date, blue on track and red not. Drawn natively to whatever size it is given, in Manrope and the person's own colour on AMOLED black; a tap opens Weight. The page hands over whoever Home shows (colour, weigh-ins, goals) and Java does Home's sums again at every draw (WidgetPlan), so it moves on by itself with the app closed and turns light blue when Home switches to Mummy. Home's chip words moved into plan.js (chipOf), used by both.",
-    "built": "2026-11-24T09:45:47.812Z",
-    "src": "2dede4817299012ec89f329b30cbae09e0f9e2f2c93252d52eb9c4227fa2b483"
+    "sha256": "16828aca141cfffe98f7eed26fd2001a5111a2d80de8516b35337a7c23669b95",
+    "size": 451718,
+    "commit": "282bb57",
+    "subject": "Weight e2e: the two older weigh-ins are dated at this time of day, so the pace no longer reads 0.14 instead of 0.15 when the test runs after midday (they were at 08:00, the newest at the moment of the run). It held back the tablet build of Weight on the Pi. Proof: page.mjs all ok (384) at 21:45; it failed the 3 pace checks the same way before.",
+    "built": "2026-11-25T15:18:10.296Z",
+    "src": "3147e5041ab2bf723cd284274eba5e1c43f0bace6daf5ad4f77728eed1a9de7d"
   },
   "friends": {
     "label": "Friends Launcher",
