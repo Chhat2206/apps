@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 351,
+    "code": 352,
     "file": "stocks.apk",
-    "sha256": "7a9ccca8af254f19cb517a5ed0df7016ada6462ea698f2a11d077b8004483934",
-    "size": 8964003,
-    "commit": "ab721be",
-    "subject": "Ledger Add: a photo is read quietly. \"Reading…\" under the photo is gone. It was never the photo loading: it was the order reader looking for a shop order's text for up to 20 s. A photo with no order on it (a card slip) now says nothing either, with no \"No order found\" or \"took too long\" toast. An order that is found still fills the empty boxes and says so. Proof: ledger-addcard-e2e passes with two new checks (no Reading… while the draft reads, and a slip leaves the form unchanged and says nothing). Putting Reading… back turns it red, and so does putting the toast back. shoporder tests pass 6/6. Asked: \"why it says Reading when the photo loaded immediately. Please fix this issue\".",
-    "built": "2026-11-25T06:55:01.906Z",
-    "src": "6e1495e9cf17f2c7d1ecc783f3b92d105ad635b03a5d61976aeb511b7ddbb4b4"
+    "sha256": "f1d256448d7f5072b3edf36037ad4365879e9faee8c31dfaf3db9603c2b9e496",
+    "size": 8971659,
+    "commit": "bcea32f",
+    "subject": "Ledger Add: Auto fills the form from a shop's order screenshot (design C), and Upcoming's \"coming in\" stays on one line. A round scan button beside Expense | Income (new lines only) opens the gallery; the picture is read on the phone (no AI) and fills the name, what was paid (Lazada's order page has no Total, so the item price times its Qty: ฿156 × 2 = ฿312), the day it was ordered, when it arrives, and how it was paid (a card's last four = that card, QR or a bank = Bank, cash on delivery = Cash, nothing said = the card tagged with the shop, BBL 0134 for Lazada). The screenshot stays beside the amount with each reading lit and numbered 1-4, the same numbers on what it filled (a number goes when that part is typed over); a tap opens it big with each reading named, Remove there. The screenshot is the bill's photo, not shown twice. Upcoming's \"+฿1,020 coming in\" no longer wraps. Proof: ledger-auto-e2e drives the real button with the user's real screenshot through the real reader (read in ~4 s) and passes; shoporder 11/11 on the real read (5 new); ledger-upcoming-line-e2e passes at the phone's tile width with ฿1,020 and ฿12,450; 7 mutants red (no item × qty, no shop card, numbers kept after typing, photo twice, Auto on old lines, silent on a picture with no order, the one-line fix taken out); addcard, namepop and ledger e2e still pass. Asked: \"C\" and \"Also fix upcoming its on two lines not one\".",
+    "built": "2026-11-25T11:50:53.021Z",
+    "src": "59f0eeb10377ba042e5fc01489a361b2b2772ee36adff233283c13385da18921"
   },
   "papa": {
     "label": "Papa's book",
