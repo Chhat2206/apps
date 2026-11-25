@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 41,
+    "code": 42,
     "file": "reddit.apk",
-    "sha256": "9a00028f2716f2947b4e87646df521c808334d10d95d2394417edc66a7859e92",
-    "size": 247553,
-    "commit": "e20ef59",
-    "subject": "Reddit Snoo: the picture viewer's top no longer squeezes the title. The post's title now has its own line under ✕ and the buttons, the whole width, two lines at most and cut off cleanly (padding had let the top of a third line peek out under it); the gallery count (\"7 / 7\") stays on one line beside ✕ instead of standing in a column between the title and Download. Proof: page e2e 3 new checks pass (title on its own full-width line under the buttons; the count on one line beside ✕, clear of the buttons; a long title exactly two lines high); the old page fails all three; the one other red check (\"the full picture is fetched to replace it\") was red at HEAD as well. Asked: \"Fix the weird spacing at the title Claude design then implement a fix pls\".",
-    "built": "2026-11-24T17:08:41.035Z",
-    "src": "afc7a9af41c3624fc591d753f753a46bbfea643684d0ed5a067eea7903d80d06"
+    "sha256": "ae511c2e368f9628894fbf078db140b3ebe9c7093fb8cd2e131a1ef8c0a4913e",
+    "size": 247309,
+    "commit": "59dfc2f",
+    "subject": "Reddit: You is the third tab, not Search. The footer is Home / All / You, and swiping across the tabs follows the same order. Search opens from the magnifier at the top of Home, All and a community (with a back arrow, no footer). Your picture at the top of Home and All is gone now that You is a tab, and You has no back arrow: back from it goes Home. Proof: e2e 316/316 checks pass, with new checks that the footer reads Home, All, You, that no picture sits at the top, that You's tab is lit on You, and that a swipe left on All lands on You. Putting Search back in the footer turns them red. Asked: \"Instead of a search, the third for the Reddit app snoo should be you.\"",
+    "built": "2026-11-25T07:37:34.506Z",
+    "src": "c368fd991532fd49daea7c27d793eecc1b4c6f79f5a1ac044ba1aae79707ad54"
   },
   "morphe": {
     "label": "YouTube+",
