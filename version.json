@@ -200,14 +200,14 @@
   },
   "restaurants": {
     "label": "Restaurants",
-    "code": 1,
+    "code": 2,
     "file": "restaurants.apk",
-    "sha256": "f6e8d4b647a71d3e7fd77cbe8a3f7f440f1f4113112811ab490841f22b012167",
-    "size": 245619,
-    "commit": "df9b64a",
-    "subject": "Restaurants: a new phone app for every place we ate, home A of restaurants/design/home-2026-11-21 with C's Always get row and E Stamps for the times, in Weight's look and motion. The Map tab is the picked country's satellite map with a bubble per city (its best score), country chips over it; under it Always get (every Rainbow dish), the city chips, and Vacation's GO BACK / SKIP / NOT RATED. A city opens on its restaurants as score pins, the tapped one a card. Best (Best | Most eaten at) and Search (names, cities, dishes) tabs. A restaurant: its map (Google Maps on a tap), the stamps card (ten a card), We ate here, its score and every dish with Vacation's stars (halves, ×N, Rainbow); Edit with Where I am or a Google Maps link, Country and City.",
-    "built": "2026-11-22T04:42:54.673Z",
-    "src": "66043a2479a0acda8614cc2bcdb508e4541371ffb7f46365cb84f26595c08d67"
+    "sha256": "90ef11e101f68f8607d84e2f4ab17b6e6051348aee3830628188a6ec4803da0d",
+    "size": 246163,
+    "commit": "b80af21",
+    "subject": "Every phone app uses the tablet's width (design C). Asked: \"fix the other apps on the tablet too claude design them to make sure theyre properly spaced\", picked C of the Tablet spacing page (Use the room).",
+    "built": "2026-11-25T14:50:30.788Z",
+    "src": "b66e6a142340ef18e8ee9755b642c6eae5f69748872263af6a77e1d8ad8773ca"
   },
   "translate": {
     "label": "Translate",
