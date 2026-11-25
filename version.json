@@ -110,14 +110,14 @@
   },
   "control": {
     "label": "Control",
-    "code": 67,
+    "code": 68,
     "file": "control.apk",
-    "sha256": "e7b6706bca8223449b77b97ac58de871b0b4a12f3c10eadb2413000ac90287d5",
-    "size": 180087,
-    "commit": "f55747e",
-    "subject": "Control: Set up a phone's Share is Download. The QR is saved as \"<App> setup QR.png\" in the phone's Downloads (MediaStore, no permission, Android 10+) with \"Saved to Downloads\"; the share-sheet file provider (QrFiles) is gone. The e2e gives Chromium 3 min to start (60 s timed out with the Pi's disk busy). Asked: \"This should say download instead of share\".",
-    "built": "2026-11-23T04:45:56.643Z",
-    "src": "e21c900844bb8afabbe0de73b97c0c54700b0e21a7b8ab313583f15a7ffb2e94"
+    "sha256": "c939c6f1fff46a10dcac190d1001f59ea02930b2825e664ec5b3e449f75346bb",
+    "size": 180403,
+    "commit": "b80af21",
+    "subject": "Every phone app uses the tablet's width (design C). Asked: \"fix the other apps on the tablet too claude design them to make sure theyre properly spaced\", picked C of the Tablet spacing page (Use the room).",
+    "built": "2026-11-25T14:41:33.121Z",
+    "src": "6f727824cf4b21993862506b39cdbf10d9dd02730dd240c7fdd54a2169f5a283"
   },
   "deal": {
     "label": "Better Deal",
