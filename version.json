@@ -33,14 +33,14 @@
   },
   "card-tracker": {
     "label": "Credit Card",
-    "code": 106,
+    "code": 107,
     "file": "card-tracker.apk",
-    "sha256": "09a452248d514244d42ef00f5f622dfbdbb5ec1fe2abd12199e550f4ba4973b9",
-    "size": 252034,
-    "commit": "5427909",
-    "subject": "Credit Card: Add's last step asks What was it?, and Save needs that or a photo. Asked: \"In wallet app add in the last one papa can type what the item was either he types what item is or picture can't continue without one or the other\".",
-    "built": "2026-11-25T13:57:15.979Z",
-    "src": "9d9fd870d47a497ae919105e253615d436bb1167916aee822b56bbbc70fbdfa9"
+    "sha256": "7abc38d7864bd1060b3065a804deca1c1d431e3c6651eee10446a6bf218b29ba",
+    "size": 252422,
+    "commit": "b80af21",
+    "subject": "Every phone app uses the tablet's width (design C). Asked: \"fix the other apps on the tablet too claude design them to make sure theyre properly spaced\", picked C of the Tablet spacing page (Use the room).",
+    "built": "2026-11-25T14:44:16.251Z",
+    "src": "217bd5f104acc056dacce414e34f057234dc2a26bd11bf2013c15158796faf7e"
   },
   "musu": {
     "label": "Work Tracker",
