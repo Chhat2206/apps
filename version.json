@@ -12,14 +12,14 @@
   },
   "papa": {
     "label": "Papa's book",
-    "code": 193,
+    "code": 194,
     "file": "papa.apk",
-    "sha256": "72a774a3a4b283272a51df9c58214d4feddacb23750561c536c491a115b85d5b",
-    "size": 562789,
-    "commit": "779f701",
-    "subject": "papa: Home's stocks say this year's yield under the months they pay. A held stock's row now has \"Yield in 2026 6.0% ›\" under \"Paid in May\": what a share has paid this year as a % of the price on 1 January, the same figure as this year's row on its dividend page, and a tap opens that page; a stock that pays but has paid nothing yet this year says \"none yet\". Proof: tracker-div e2e passes (new: IVL's line reads Yield in 2026 6.0% ›, sits below Paid in, opens IVL dividends); with the line taken out it goes red. Asked: \"Below paid once a year add yield for current year\".",
-    "built": "2026-11-24T17:10:39.517Z",
-    "src": "46a4abbbb8a369c117d56c0042840d24505de498e23ab7bb50260cb9b2ed5cd3"
+    "sha256": "516f9ad9b1bc12e6f1ff67428b7d1e3a6697108b91903a47eeab4cc96713d09d",
+    "size": 563057,
+    "commit": "b80af21",
+    "subject": "Every phone app uses the tablet's width (design C). Asked: \"fix the other apps on the tablet too claude design them to make sure theyre properly spaced\", picked C of the Tablet spacing page (Use the room).",
+    "built": "2026-11-25T14:43:35.986Z",
+    "src": "425f311dcf500465ae34ed0ae37bad5fac3611f9aae8d20024ad2a6f391eeff9"
   },
   "groceries": {
     "label": "Credit Card",
