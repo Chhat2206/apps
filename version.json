@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 115,
+    "code": 116,
     "file": "planner.apk",
-    "sha256": "c17c8de636f92b7591357d3fddc4aa0cf4cc5ee8226bc247d58766f11c39a06b",
-    "size": 451422,
-    "commit": "61892f1",
-    "subject": "Ledger design: a trip's lines under its banner in Earned's list. A the trip's band heads a card of its days, B a slim banner that folds open, C Home's band with its day line and a trail down beside its lines; the Vacation app's carabiner as a climbing trip's icon in each. Drawn into the real page, on an Artifact, waiting for a pick. Asked: \"This is all under GCH trip. Claude design it so it shows it under the trip banner. Also maybe we could use the icon from the vacation for these vacations\".",
-    "built": "2026-11-24T13:44:13.954Z",
-    "src": "59656567b95b9e31caee75a8fe4850396758d8c721f763286705e63a12a7a344"
+    "sha256": "3c708531b2bc96b9ba68d3e342fabd67a7424afbbe26d8b219ed8c1a5e165b2c",
+    "size": 451754,
+    "commit": "ec76bb5",
+    "subject": "Planner: Scan the QR code can be pressed again; Ledger fits a tablet. Asked: \"I'm on tablet fix the spacing of the apps for Samsung s9+ tab and I can't click scan qr code\".",
+    "built": "2026-11-25T13:46:41.790Z",
+    "src": "0c0730a47269d6a8c524fe82e2702bed80516fea3bb138f2647f85f375523cdc"
   },
   "warranty": {
     "label": "Warranty",
