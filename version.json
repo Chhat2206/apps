@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 357,
+    "code": 358,
     "file": "stocks.apk",
-    "sha256": "848ef61c2a376de7e026583c6ea5a2bcedd134c305bc101705b1dc5355a954b2",
-    "size": 8991275,
-    "commit": "afd27ec",
-    "subject": "Ledger: Jobs grouped by status, and each job opens its own page. Settings › Jobs shows Ongoing, Projects and One-time, with Ended folded under \"N ended\". A tap on a name opens its page. A project person (Ponn) lists their projects under them, going first then done, each with its price, start day and what was paid for it; a tap changes the name, price ($ or ฿) or start, marks it Done or takes it off, and + New project adds one. A job (Xavier) shows what it pays a month, Started (a tap changes it), how long so far, earned, and its pay as a line from Started to the newest raise with the change against the one before; each line opens to change its month or amount or take it off, and + Raise works in baht too. Everything is the Projects sheet's Main rows: a project is a Project row with its name in Description; a row taken off is emptied, never deleted, so the \"Counts as a job\" block beside it stays whole; moving or removing a raise gives the rate before it the right end month. Proof: new mocked tests 10/10 and every stocks test passes (292); new e2e ledger-jobpage on the demo passes (groups, a status moving a name into Projects, add / done / remove a project read back from the sheet, Started changed, a raise added and taken off); mutants red: no rate handed back on a removed raise, a project written as a Job, no Projects group on Settings. Asked: \"Jobs here should show ongoing & projects properly please. If it's a project Claude design it so I can categorize all the projects under him. Same with job where I can say when we started all the raises etc. Feel free to Claude design it\".",
-    "built": "2026-11-26T20:10:03.127Z",
-    "src": "e8bfbe38bc2edc6653ca6ea593dfec8a6ee6536157d7589bd56a64e8df96f165"
+    "sha256": "be9d126cae9eafe45490193ed94febdbd8655f16b37307d71d85d5d7f74aa68d",
+    "size": 8991867,
+    "commit": "7c40608",
+    "subject": "Ledger Net worth: All starts when work started, uni kept and marked. The line, its \"since\" and the Earned/Spent/categories under it now begin the month of the earliest job that counts on Earned (Xavier, July 2025): \"+฿560,139 since July 2025\" instead of \"since 2025\" from the uni years. Nothing is deleted: the 644 lines before it stay, and the full ledger shows one Uni card (\"Before work, paid by parents\") where they begin. Proof: ledger-uni-e2e on the real sheet (spare port) passes; two mutants red (no work start; the old start kept). Touch on the chart reads the line in the same run, so the \"can't touch the graph\" report is not reproduced yet. Asked: \"change this graph to only when I started working. In university my parents paid for it… don't delete data… make it obvious it's uni\".",
+    "built": "2026-11-26T20:12:47.992Z",
+    "src": "703a3439aafe82b6659dd2e0c0de0dcd8854c5f908dcb7c43de55046cd4694c2"
   },
   "papa": {
     "label": "Papa's book",
