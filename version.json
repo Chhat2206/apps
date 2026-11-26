@@ -110,14 +110,14 @@
   },
   "control": {
     "label": "Control",
-    "code": 68,
+    "code": 69,
     "file": "control.apk",
-    "sha256": "c939c6f1fff46a10dcac190d1001f59ea02930b2825e664ec5b3e449f75346bb",
-    "size": 180403,
-    "commit": "b80af21",
-    "subject": "Every phone app uses the tablet's width (design C). Asked: \"fix the other apps on the tablet too claude design them to make sure theyre properly spaced\", picked C of the Tablet spacing page (Use the room).",
-    "built": "2026-11-25T14:41:33.121Z",
-    "src": "6f727824cf4b21993862506b39cdbf10d9dd02730dd240c7fdd54a2169f5a283"
+    "sha256": "987699b78392affe5f6539c6b48e071b9e555be2354fdf85cb1460695b41aa25",
+    "size": 184910,
+    "commit": "4962620",
+    "subject": "BlackHole is the monthly backup drive: kept unplugged on purpose, reminded to plug it in.",
+    "built": "2026-11-26T09:31:35.752Z",
+    "src": "a6c2f6878ea3bd755f5f9d815c93de2153cc11dfd8acb18b756705b4e01a8df6"
   },
   "deal": {
     "label": "Better Deal",
