@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 355,
+    "code": 356,
     "file": "stocks.apk",
-    "sha256": "06004a4c9c662d8cac6fa41f293fbb31dc7f887d04de685ebcab8d48da16cab2",
-    "size": 8980167,
-    "commit": "b80af21",
-    "subject": "Every phone app uses the tablet's width (design C). Asked: \"fix the other apps on the tablet too claude design them to make sure theyre properly spaced\", picked C of the Tablet spacing page (Use the room).",
-    "built": "2026-11-25T15:03:53.057Z",
-    "src": "577ae6157cb5402bf7ee96762a71b5a794668fdd9d6f6e7b808da8ab1296103c"
+    "sha256": "f42ddf2e6b372489d27f38a385e53be506987c50e8a92044d2a88eb69089c710",
+    "size": 8980547,
+    "commit": "6e98a47",
+    "subject": "Ledger Earned: each client circle its own colour. Ponn and Pravin both came out teal: each was claimed rank 2 by a different earlier list. A circle whose hue another circle there already has now takes the first free one and keeps it for that name. Checked on the real page (Xavier blue, Ponn teal, Pravin amber, same after a repaint); with the fix taken out Pravin is teal again and the check goes red. Asked: \"Why is Pravin and Ponn the same colour make them different\".",
+    "built": "2026-11-26T18:51:47.671Z",
+    "src": "93a083ea8f9a94eb3c0eee6fd8653218f8187ae67899fecf145a0c59a021fb03"
   },
   "papa": {
     "label": "Papa's book",
