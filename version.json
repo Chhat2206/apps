@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 356,
+    "code": 357,
     "file": "stocks.apk",
-    "sha256": "f42ddf2e6b372489d27f38a385e53be506987c50e8a92044d2a88eb69089c710",
-    "size": 8980547,
-    "commit": "6e98a47",
-    "subject": "Ledger Earned: each client circle its own colour. Ponn and Pravin both came out teal: each was claimed rank 2 by a different earlier list. A circle whose hue another circle there already has now takes the first free one and keeps it for that name. Checked on the real page (Xavier blue, Ponn teal, Pravin amber, same after a repaint); with the fix taken out Pravin is teal again and the check goes red. Asked: \"Why is Pravin and Ponn the same colour make them different\".",
-    "built": "2026-11-26T18:51:47.671Z",
-    "src": "93a083ea8f9a94eb3c0eee6fd8653218f8187ae67899fecf145a0c59a021fb03"
+    "sha256": "848ef61c2a376de7e026583c6ea5a2bcedd134c305bc101705b1dc5355a954b2",
+    "size": 8991275,
+    "commit": "afd27ec",
+    "subject": "Ledger: Jobs grouped by status, and each job opens its own page. Settings › Jobs shows Ongoing, Projects and One-time, with Ended folded under \"N ended\". A tap on a name opens its page. A project person (Ponn) lists their projects under them, going first then done, each with its price, start day and what was paid for it; a tap changes the name, price ($ or ฿) or start, marks it Done or takes it off, and + New project adds one. A job (Xavier) shows what it pays a month, Started (a tap changes it), how long so far, earned, and its pay as a line from Started to the newest raise with the change against the one before; each line opens to change its month or amount or take it off, and + Raise works in baht too. Everything is the Projects sheet's Main rows: a project is a Project row with its name in Description; a row taken off is emptied, never deleted, so the \"Counts as a job\" block beside it stays whole; moving or removing a raise gives the rate before it the right end month. Proof: new mocked tests 10/10 and every stocks test passes (292); new e2e ledger-jobpage on the demo passes (groups, a status moving a name into Projects, add / done / remove a project read back from the sheet, Started changed, a raise added and taken off); mutants red: no rate handed back on a removed raise, a project written as a Job, no Projects group on Settings. Asked: \"Jobs here should show ongoing & projects properly please. If it's a project Claude design it so I can categorize all the projects under him. Same with job where I can say when we started all the raises etc. Feel free to Claude design it\".",
+    "built": "2026-11-26T20:10:03.127Z",
+    "src": "e8bfbe38bc2edc6653ca6ea593dfec8a6ee6536157d7589bd56a64e8df96f165"
   },
   "papa": {
     "label": "Papa's book",
