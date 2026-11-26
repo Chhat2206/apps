@@ -1,105 +1,105 @@
 {
- "total": 2500,
- "week": 353,
+ "total": 2501,
+ "week": 354,
  "since": "2026-08-19",
  "last": "2026-11-26",
- "head": "81ff19f",
- "built": "2026-11-26T00:08:55.306Z",
+ "head": "4962620",
+ "built": "2026-11-26T09:29:56.970Z",
  "apps": [
   {
    "name": "Stocks",
    "version": 399,
-   "share": 0.1596,
+   "share": 0.1595361855257897,
    "last": "2026-11-25"
   },
   {
    "name": "Worktracker",
    "version": 344,
-   "share": 0.1376,
+   "share": 0.13754498200719711,
    "last": "2026-11-24"
   },
   {
    "name": "Games",
    "version": 339,
-   "share": 0.1356,
+   "share": 0.13554578168732506,
    "last": "2026-11-25"
   },
   {
    "name": "Papa",
    "version": 199,
-   "share": 0.0796,
+   "share": 0.07956817273090763,
    "last": "2026-11-26"
   },
   {
    "name": "Vacation",
    "version": 164,
-   "share": 0.0656,
+   "share": 0.06557377049180328,
    "last": "2026-11-25"
   },
   {
    "name": "Papa's Collection",
    "version": 137,
-   "share": 0.0548,
+   "share": 0.0547780887644942,
    "last": "2026-11-25"
   },
   {
    "name": "Planner",
    "version": 123,
-   "share": 0.0492,
+   "share": 0.04918032786885246,
    "last": "2026-11-25"
   },
   {
    "name": "Control",
-   "version": 92,
-   "share": 0.0368,
-   "last": "2026-11-25"
+   "version": 93,
+   "share": 0.03718512594962015,
+   "last": "2026-11-26"
   },
   {
    "name": "Credit Card",
    "version": 89,
-   "share": 0.0356,
+   "share": 0.03558576569372251,
    "last": "2026-11-25"
   },
   {
    "name": "Ad Block",
    "version": 63,
-   "share": 0.0252,
+   "share": 0.025189924030387844,
    "last": "2026-11-25"
   },
   {
    "name": "Better Deal",
    "version": 45,
-   "share": 0.018,
+   "share": 0.01799280287884846,
    "last": "2026-11-25"
   },
   {
    "name": "Hub on the phone",
    "version": 38,
-   "share": 0.0152,
+   "share": 0.015193922431027589,
    "last": "2026-11-25"
   },
   {
    "name": "Work Tracker phone",
    "version": 31,
-   "share": 0.0124,
+   "share": 0.012395041983206718,
    "last": "2026-11-19"
   },
   {
    "name": "Mumma",
    "version": 25,
-   "share": 0.01,
+   "share": 0.009996001599360257,
    "last": "2026-11-25"
   },
   {
    "name": "Trip Money",
    "version": 20,
-   "share": 0.008,
+   "share": 0.007996801279488205,
    "last": "2026-11-25"
   },
   {
    "name": "Birthdays",
    "version": 12,
-   "share": 0.0048,
+   "share": 0.004798080767692923,
    "last": "2026-11-25"
   }
  ]
