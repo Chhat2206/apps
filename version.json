@@ -154,14 +154,14 @@
   },
   "warranty": {
     "label": "Warranty",
-    "code": 40,
+    "code": 41,
     "file": "warranty.apk",
-    "sha256": "1f7b5d73f6eca2a042353fe683e07f47a5a7747a363d82291cd17b713c055b72",
-    "size": 210365,
-    "commit": "b80af21",
-    "subject": "Every phone app uses the tablet's width (design C). Asked: \"fix the other apps on the tablet too claude design them to make sure theyre properly spaced\", picked C of the Tablet spacing page (Use the room).",
-    "built": "2026-11-25T14:36:51.827Z",
-    "src": "622989c1cdd81d925ee2579723ae26b9fa1663e267adceb4de06da5823d728ed"
+    "sha256": "5f22ef9fd00550da55fdc19bb87d75f5b7b17cdb80a1983e1e74cc45f2559882",
+    "size": 211437,
+    "commit": "1001174",
+    "subject": "Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.",
+    "built": "2026-11-27T06:48:39.476Z",
+    "src": "cd0a21e7f3b2d6561eedf701af0391f8fc2642dbe623a3390f7345e9ba2c59e5"
   },
   "mumma": {
     "label": "Mumma",
