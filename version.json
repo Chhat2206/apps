@@ -66,14 +66,14 @@
   },
   "collection": {
     "label": "Papa's Collection",
-    "code": 147,
+    "code": 148,
     "file": "collection.apk",
-    "sha256": "d1780f25f6b5a373bee5c8bf6235fafc1151107a9ba72d1dec15e1a035be89a3",
-    "size": 277820,
-    "commit": "1001174",
-    "subject": "Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.",
-    "built": "2026-11-27T05:49:39.079Z",
-    "src": "ae87d80f060a0527995b57e5024091e37719a4aeacbef217190937cf449e6989"
+    "sha256": "72ab5e0c238a7b9205a74eca0c396b5f92902445a2dd8e8e0ded68990cb47e89",
+    "size": 277972,
+    "commit": "5d813a8",
+    "subject": "Credit Card, Ledger, papa, Collection: No Wi-Fi the moment the phone loses its connection, not only after a read fails.",
+    "built": "2026-11-27T08:11:42.929Z",
+    "src": "1885bf4cf37dbad24691c17802c152b18e073d2c63c33dc006b5826cdbe9d2d9"
   },
   "hub": {
     "label": "Hub",
