@@ -241,5 +241,16 @@
     "subject": "Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.",
     "built": "2026-11-27T06:00:47.466Z",
     "src": "a861737e58a24fb6bc5ea8a37f2fd971467d4ebd25ab23cfd0da40b63563da78"
+  },
+  "nudge": {
+    "label": "Nudge",
+    "code": 1,
+    "file": "nudge.apk",
+    "sha256": "cbb1acf38d37c65399f70f46495ebfbd1e1879d1a949cd47ec1f389930e8c321",
+    "size": 176776,
+    "commit": "4de1d95",
+    "subject": "Nudge: a redraw never takes the words from under the finger. A state from the Pi while typing your name (Who are you?) or someone new in Settings used to redraw the box empty; now the box being typed in keeps its words, the keyboard and the cursor. Proof: the two-phone drive types, gets a state, keeps \"Pa\" and \"Mayu\" with the focus; the mutant without it is red.",
+    "built": "2026-11-27T07:02:55.517Z",
+    "src": "b62782bc5bac1c19c8e2e3012a78363f502384764d674a5497debe31cf40e2fa"
   }
 }
