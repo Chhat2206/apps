@@ -25,6 +25,6 @@ shows "can't display". After that the app updates itself from here.
 - **Translate** — [translate.apk](https://chhat2206.github.io/apps/translate.apk), build 12, 2026-11-27: papa summariser: the priority test follows today's order (Insource, Priyanka, Musuno, Pravin last).
 - **Trip Money** — [trip-money.apk](https://chhat2206.github.io/apps/trip-money.apk), build 52, 2026-11-27: papa summariser: the priority test follows today's order (Insource, Priyanka, Musuno, Pravin last).
 - **Warranty** — [warranty.apk](https://chhat2206.github.io/apps/warranty.apk), build 41, 2026-11-27: Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.
-- **Weight** — [weight.apk](https://chhat2206.github.io/apps/weight.apk), build 39, 2026-11-27: Weight: the new icon, A in aqua.
+- **Weight** — [weight.apk](https://chhat2206.github.io/apps/weight.apk), build 40, 2026-11-27: papa summariser: the priority test follows today's order (Insource, Priyanka, Musuno, Pravin last).
 
 Written by CI. Nothing here is edited by hand, and every publish replaces the whole history.
