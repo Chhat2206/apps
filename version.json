@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 42,
+    "code": 43,
     "file": "reddit.apk",
-    "sha256": "ae511c2e368f9628894fbf078db140b3ebe9c7093fb8cd2e131a1ef8c0a4913e",
-    "size": 247309,
-    "commit": "59dfc2f",
-    "subject": "Reddit: You is the third tab, not Search. The footer is Home / All / You, and swiping across the tabs follows the same order. Search opens from the magnifier at the top of Home, All and a community (with a back arrow, no footer). Your picture at the top of Home and All is gone now that You is a tab, and You has no back arrow: back from it goes Home. Proof: e2e 316/316 checks pass, with new checks that the footer reads Home, All, You, that no picture sits at the top, that You's tab is lit on You, and that a swipe left on All lands on You. Putting Search back in the footer turns them red. Asked: \"Instead of a search, the third for the Reddit app snoo should be you.\"",
-    "built": "2026-11-25T07:37:34.506Z",
-    "src": "c368fd991532fd49daea7c27d793eecc1b4c6f79f5a1ac044ba1aae79707ad54"
+    "sha256": "c204663497a5ea93bd2528887b757922d9f7816af44036607f4e2bc22b565658",
+    "size": 247757,
+    "commit": "1001174",
+    "subject": "Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.",
+    "built": "2026-11-27T06:22:49.817Z",
+    "src": "86798a44b163e201dca5fefe5e7cd985a2e64130b3c61d6e1171d711cc65212d"
   },
   "morphe": {
     "label": "YouTube+",
