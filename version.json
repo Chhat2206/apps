@@ -44,14 +44,14 @@
   },
   "musu": {
     "label": "Work Tracker",
-    "code": 73,
+    "code": 74,
     "file": "musu.apk",
-    "sha256": "5564bf44682704ffeed9ccbc46bedae7e8247ca23cc479c57b7762f70a1adba5",
-    "size": 204693,
-    "commit": "69ff6dd",
-    "subject": "No pills in any app: No Wi-Fi, Not up to date and the waiting counts are the amber band from the start (shared/sync.js, android/web/update.js), and \"Checking for changes\" is gone. Vacation never says No Wi-Fi (a timed-out sync set it with Wi-Fi up), Been to tiles say the days spent there, photos with no place count on a trip's days when one of My cameras took them (Langkawi), pin maps drawn from the next zoom's tiles at half size, Where next? darker behind its words. Asked: \"I want to remove pills from all apps btw it should only be the banner\", \"idk why I'm still getting the no wifi pill sometimes remove it\", \"Instead of saying x trips y hotels say y days instead\", \"Add the langkawi photos too\", \"The map in where next looks blurry\", \"Make the where next more clear\".",
-    "built": "2026-11-19T16:34:01.558Z",
-    "src": "33e6e25d0c6421e75826593a0250a2c6609a002eaafbf0daeab038073f74df1a"
+    "sha256": "ff727142855bb2811b1dbccbb76e18570ee071a4ffac2a1bd12bf17f03fa222d",
+    "size": 203101,
+    "commit": "1001174",
+    "subject": "Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.",
+    "built": "2026-11-27T06:03:27.056Z",
+    "src": "ab42f5d681648858e390457ea5279faaabbe7bef96740f9cc0b1e223bebdc61a"
   },
   "trip-money": {
     "label": "Trip Money",
