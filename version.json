@@ -12,14 +12,14 @@
   },
   "papa": {
     "label": "Papa's book",
-    "code": 195,
+    "code": 196,
     "file": "papa.apk",
-    "sha256": "b632abc77705989bf0ccb0496904e7f455eea9be6c03366c835e923c800a708a",
-    "size": 563565,
-    "commit": "81ff19f",
-    "subject": "papa: Dividends to come is on Trades as a list of every stock and when its next dividend comes. The card sits at the top of Trades on the Stocks side (it leaves the Tracker): the 12-month figure, then one line per stock that pays, soonest first, each with the day of its next payment (\"Paid 11 Dec\" when announced, \"XD <day>\" when announced with no pay day yet, \"Around <day>\" when guessed from last year), what papa gets in baht, and Announced or Like last year. A stock paying twice shows only its next one; every payment month by month stays in the pop-up the card opens. Proof: test/trades-ahead-e2e.mjs (was tracker-ahead) passes: on Trades above the trades, three stocks soonest first with the right words, IVL once although it pays twice, the pop-up with all four payments, not on the Tracker, not on Coins; it goes red with the card back on the Tracker and with the one-line-per-stock rule taken out. tracker-div e2e passes, unit 539/539. Against papa's real sheet and Settrade (spare-port copy, reads only): 14 stocks, 14 lines, IVL Paid 11 Dec announced, the rest guessed from last year. Asked: \"it should be in trades. for papas app. like a list of all dividends and the date to expect the next one\" (picked Trades only, one line per stock).",
-    "built": "2026-11-25T17:05:22.025Z",
-    "src": "f6fb2d6ee48ade935711f0ac452abf2387a74b2a416de942fea6b0f9b73fef0a"
+    "sha256": "8a3cf5580bc20c35a1bc04fba50bd06bcffb57730311466391639f200f03147b",
+    "size": 564597,
+    "commit": "bcdf66d",
+    "subject": "papa summariser: the priority test follows today's order (Insource, Priyanka, Musuno, Pravin last).",
+    "built": "2026-11-27T10:34:00.331Z",
+    "src": "df970ced0281438700ad84a5679203490261cbec110b372137fccaf16dd4062a"
   },
   "groceries": {
     "label": "Credit Card",
