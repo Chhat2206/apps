@@ -33,14 +33,14 @@
   },
   "card-tracker": {
     "label": "Credit Card",
-    "code": 107,
+    "code": 108,
     "file": "card-tracker.apk",
-    "sha256": "7abc38d7864bd1060b3065a804deca1c1d431e3c6651eee10446a6bf218b29ba",
-    "size": 252422,
-    "commit": "b80af21",
-    "subject": "Every phone app uses the tablet's width (design C). Asked: \"fix the other apps on the tablet too claude design them to make sure theyre properly spaced\", picked C of the Tablet spacing page (Use the room).",
-    "built": "2026-11-25T14:44:16.251Z",
-    "src": "217bd5f104acc056dacce414e34f057234dc2a26bd11bf2013c15158796faf7e"
+    "sha256": "56237ff1b4cf1dd3ab9762401932f7b7b9356026355648f816dcf86a65d34d0c",
+    "size": 253110,
+    "commit": "1001174",
+    "subject": "Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.",
+    "built": "2026-11-27T05:48:35.281Z",
+    "src": "45262161a25a80008daae8096d9983ac1bc8828edad60af647e163c838d3163c"
   },
   "musu": {
     "label": "Work Tracker",
