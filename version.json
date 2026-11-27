@@ -121,14 +121,14 @@
   },
   "deal": {
     "label": "Better Deal",
-    "code": 59,
+    "code": 60,
     "file": "deal.apk",
-    "sha256": "a9b06f014dad1abb160bb5dba9c988a216318af84ab8b8d733e52db892a4883d",
-    "size": 14996527,
-    "commit": "b80af21",
-    "subject": "Every phone app uses the tablet's width (design C). Asked: \"fix the other apps on the tablet too claude design them to make sure theyre properly spaced\", picked C of the Tablet spacing page (Use the room).",
-    "built": "2026-11-25T14:48:37.896Z",
-    "src": "4e76e0bf5e92cdd48a42f6964875ab4f06b2d56baedb509677a8a8a4cf2e2279"
+    "sha256": "718efa6c79aca413082f428e3e0ae8376421548777d323e3d39c98993ad1aca2",
+    "size": 14997299,
+    "commit": "1001174",
+    "subject": "Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.",
+    "built": "2026-11-27T05:54:20.113Z",
+    "src": "dfc48d77fc56186892ceeacc73337640e0e5314515deb79e04d953995c7f46c0"
   },
   "birthdays": {
     "label": "Birthdays",
