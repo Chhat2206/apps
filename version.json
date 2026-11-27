@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 364,
+    "code": 365,
     "file": "stocks.apk",
-    "sha256": "c9ebde1048e419d27ec26ca727997d5876600672378a2885bcc4841e43196f37",
-    "size": 8999983,
-    "commit": "a936ef2",
-    "subject": "Ledger charts: a dashed line at ฿0 when the line goes below it (Net worth All starts at about −฿9.7k: the S24 installment bought 7 Jun 2025). Drawn only when the range crosses 0, brighter than the dotted grid. Tests 302/302.",
-    "built": "2026-11-27T10:54:40.306Z",
-    "src": "33c8bf5f9a900c57f870f4930dea021b8ed82c5159af9f3767a514f006228c3f"
+    "sha256": "f400ac2574d69ccd779f42c2b5a4c5e32d56c6f669493dc61b040d8ab1256895",
+    "size": 9001239,
+    "commit": "d1a3a00",
+    "subject": "Ledger Earned: money the boss paid back with a payment is its own step on the split card. Today's Xavier ฿34,187.50 came with ฿1,812.50 paid back (Mummy's Gift, Airasia Carryon) that the card left out; it now reads \"3  Send ฿1,812.50 paid back\", the bills under it, and To Krungthai / To Kasikorn, each writing one transfer of exactly that out of Bangkok Bank. Australia moves to 4. A transfer of that amount ticks it and is never taken for a spending line to the same bank; one sent together with a spending line ticks both. Gifts stay out. Tests 304/304 (two mutants red); e2e on the real sheets (saves caught) passes, red with the button's handler taken out. Asked: \"If work here is being paid for something that's owed, it should show up in this tab if I want to send extra money to either of the banks exactly equivalent to the amount owed\".",
+    "built": "2026-11-27T11:19:47.927Z",
+    "src": "2f238fb434ddc9a53bba2e3a6589ab2423d05e7917120fc6085c2b681d6d806d"
   },
   "papa": {
     "label": "Papa's book",
