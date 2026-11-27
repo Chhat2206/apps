@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 361,
+    "code": 362,
     "file": "stocks.apk",
-    "sha256": "cab4a10a13da154b366f944af0523d626e130c25b4bbf120e6d1865fb36ccaba",
-    "size": 8994927,
-    "commit": "1001174",
-    "subject": "Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.",
-    "built": "2026-11-27T05:45:28.727Z",
-    "src": "1c4e002b07c4b4bf22037719a54fddcf2487087c1f7fdb8537c5bf15e4ed229a"
+    "sha256": "0ef59cd4d7101d045a7ec777d380891b0b39c8acb44569a79707065008bc5024",
+    "size": 8996515,
+    "commit": "d7606d9",
+    "subject": "Changelog: a heading with a file also asks the channel for its last version",
+    "built": "2026-11-27T06:46:32.756Z",
+    "src": "c032846df64d3925a40db030c7223f97b1c42d814f1f366c10963d2e22b27ea6"
   },
   "papa": {
     "label": "Papa's book",
