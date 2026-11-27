@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 365,
+    "code": 366,
     "file": "stocks.apk",
-    "sha256": "f400ac2574d69ccd779f42c2b5a4c5e32d56c6f669493dc61b040d8ab1256895",
-    "size": 9001239,
-    "commit": "d1a3a00",
-    "subject": "Ledger Earned: money the boss paid back with a payment is its own step on the split card. Today's Xavier ฿34,187.50 came with ฿1,812.50 paid back (Mummy's Gift, Airasia Carryon) that the card left out; it now reads \"3  Send ฿1,812.50 paid back\", the bills under it, and To Krungthai / To Kasikorn, each writing one transfer of exactly that out of Bangkok Bank. Australia moves to 4. A transfer of that amount ticks it and is never taken for a spending line to the same bank; one sent together with a spending line ticks both. Gifts stay out. Tests 304/304 (two mutants red); e2e on the real sheets (saves caught) passes, red with the button's handler taken out. Asked: \"If work here is being paid for something that's owed, it should show up in this tab if I want to send extra money to either of the banks exactly equivalent to the amount owed\".",
-    "built": "2026-11-27T11:19:47.927Z",
-    "src": "2f238fb434ddc9a53bba2e3a6589ab2423d05e7917120fc6085c2b681d6d806d"
+    "sha256": "f7c279864bcbb070f65f05c02e0cb99b356d5ed8c31668d00792062d6fa3a5f4",
+    "size": 9002443,
+    "commit": "df9ed32",
+    "subject": "Ledger Earned: money paid back is split per bill. Step 3 is now a line for each bill the boss paid back, read from his Bills tab (the bills ticked Paid off whose names are in the Paid back note): \"Send ฿678.30 for Mummy's Gift\" and \"Send ฿1,134.20 for Airasia Carryon\", each with its own To Krungthai / To Kasikorn, each writing one transfer of exactly that bill out of Bangkok Bank. A transfer of a bill's amount ticks that bill and says where it went; one of all of it ticks every bill; a spending line sent together with a bill (or all of them) ticks both. Bills that do not add up leave a \"The rest\" line; none found = one line as before. Tests 305/305 (four mutants red); e2e on the real sheets (saves caught) passes, red when a button loses which bill it is. Asked: \"Split it per item please\".",
+    "built": "2026-11-27T11:36:39.060Z",
+    "src": "a44b8a3e30d4eec74ca5714a346c5556795d13de04185b80428b16a3b51bc66a"
   },
   "papa": {
     "label": "Papa's book",
