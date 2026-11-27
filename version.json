@@ -110,14 +110,14 @@
   },
   "control": {
     "label": "Control",
-    "code": 70,
+    "code": 71,
     "file": "control.apk",
-    "sha256": "0b3146d302d34b10619d4374a0ba4a9afa43d4ee0425d059e5b4330fdaf8c847",
-    "size": 185466,
-    "commit": "1001174",
-    "subject": "Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.",
-    "built": "2026-11-27T05:51:17.350Z",
-    "src": "0a2fb9760010f897b3111854a2bc7a22e9042180094abd36699732f44816f9ee"
+    "sha256": "e008ba8ca2f2b7af6621cedb9436e31f862c36146ba28376bdaf85c272a1eca9",
+    "size": 185678,
+    "commit": "bcdf66d",
+    "subject": "papa summariser: the priority test follows today's order (Insource, Priyanka, Musuno, Pravin last).",
+    "built": "2026-11-27T10:17:49.325Z",
+    "src": "98295e83acecc5415166fe5b100396a479f1a35dcf4dbb2697ab1603c9fdf88f"
   },
   "deal": {
     "label": "Better Deal",
