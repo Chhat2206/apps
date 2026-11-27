@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 362,
+    "code": 363,
     "file": "stocks.apk",
-    "sha256": "0ef59cd4d7101d045a7ec777d380891b0b39c8acb44569a79707065008bc5024",
-    "size": 8996515,
-    "commit": "d7606d9",
-    "subject": "Changelog: a heading with a file also asks the channel for its last version",
-    "built": "2026-11-27T06:46:32.756Z",
-    "src": "c032846df64d3925a40db030c7223f97b1c42d814f1f366c10963d2e22b27ea6"
+    "sha256": "c82ee5814b4b2becfd2524ca1c7e4c4e3c82a199fec93dffeefc069bf4721189",
+    "size": 8999779,
+    "commit": "bcdf66d",
+    "subject": "papa summariser: the priority test follows today's order (Insource, Priyanka, Musuno, Pravin last).",
+    "built": "2026-11-27T10:13:46.383Z",
+    "src": "4269eca89e1743d5c767cc3ef811240c8bf3bbb6d42e128bb9414f39671c9201"
   },
   "papa": {
     "label": "Papa's book",
