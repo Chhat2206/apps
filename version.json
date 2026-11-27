@@ -165,14 +165,14 @@
   },
   "mumma": {
     "label": "Mumma",
-    "code": 31,
+    "code": 32,
     "file": "mumma.apk",
-    "sha256": "6452ff50adde380813c2f16f22854e6885da96eebb3cecdd43eb264a8be67da1",
-    "size": 249593,
-    "commit": "b80af21",
-    "subject": "Every phone app uses the tablet's width (design C). Asked: \"fix the other apps on the tablet too claude design them to make sure theyre properly spaced\", picked C of the Tablet spacing page (Use the room).",
-    "built": "2026-11-25T14:38:39.575Z",
-    "src": "2ccf69d87e0e4447c7aca8fad0f68670ecd8bb56ddbc8bd430cb04fd5e9053a5"
+    "sha256": "21143320e566cb2257b9a03d4025babf8097ebb63512242cc49e5b3f3db8c33f",
+    "size": 250641,
+    "commit": "1001174",
+    "subject": "Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.",
+    "built": "2026-11-27T06:01:52.611Z",
+    "src": "d4011bc73115fba560c9e1a125b8c48d11f3ab324f020fe69b3321603c4229db"
   },
   "weight": {
     "label": "Weight",
