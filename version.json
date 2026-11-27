@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 366,
+    "code": 367,
     "file": "stocks.apk",
-    "sha256": "f7c279864bcbb070f65f05c02e0cb99b356d5ed8c31668d00792062d6fa3a5f4",
-    "size": 9002443,
-    "commit": "df9ed32",
-    "subject": "Ledger Earned: money paid back is split per bill. Step 3 is now a line for each bill the boss paid back, read from his Bills tab (the bills ticked Paid off whose names are in the Paid back note): \"Send ฿678.30 for Mummy's Gift\" and \"Send ฿1,134.20 for Airasia Carryon\", each with its own To Krungthai / To Kasikorn, each writing one transfer of exactly that bill out of Bangkok Bank. A transfer of a bill's amount ticks that bill and says where it went; one of all of it ticks every bill; a spending line sent together with a bill (or all of them) ticks both. Bills that do not add up leave a \"The rest\" line; none found = one line as before. Tests 305/305 (four mutants red); e2e on the real sheets (saves caught) passes, red when a button loses which bill it is. Asked: \"Split it per item please\".",
-    "built": "2026-11-27T11:36:39.060Z",
-    "src": "a44b8a3e30d4eec74ca5714a346c5556795d13de04185b80428b16a3b51bc66a"
+    "sha256": "8b8ec27d65998001452d16a3e8e1c9c35b3919cd2d3970eb01071b22ce4eceb0",
+    "size": 9003379,
+    "commit": "40a6f4c",
+    "subject": "Ledger Earned: money paid back is Together or Per bill, picked per payment. Step 3 has a Together | Per bill select: Together (unless picked) is one line \"Send ฿1,812.50 paid back\" with the bills under it and one transfer of all of it; Per bill is the line per bill. The pick is kept on the phone for that payment and only shown until something is sent; after that the history says which it was (one transfer for every bill = Together, \"Sent ฿1,812.50 paid back to Kasikorn\"). Tests 305/305; e2e on the real sheets (saves caught) passes, and goes red with the pick not kept, the sent reading taken away, or Together sending a bill instead of all of it. Asked: \"Its a select. Some payments I don't wanna split and some payments I wanna split to be clear\".",
+    "built": "2026-11-27T11:44:15.862Z",
+    "src": "77629c19a98e7870b9235d1ed9f6292d3955efb8a279589f109ab32308333d54"
   },
   "papa": {
     "label": "Papa's book",
