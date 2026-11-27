@@ -23,7 +23,7 @@ shows "can't display". After that the app updates itself from here.
 - **Restaurants** — [restaurants.apk](https://chhat2206.github.io/apps/restaurants.apk), build 3, 2026-11-27: Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.
 - **Ledger** — [stocks.apk](https://chhat2206.github.io/apps/stocks.apk), build 363, 2026-11-27: papa summariser: the priority test follows today's order (Insource, Priyanka, Musuno, Pravin last).
 - **Translate** — [translate.apk](https://chhat2206.github.io/apps/translate.apk), build 12, 2026-11-27: papa summariser: the priority test follows today's order (Insource, Priyanka, Musuno, Pravin last).
-- **Trip Money** — [trip-money.apk](https://chhat2206.github.io/apps/trip-money.apk), build 51, 2026-11-25: Every phone app uses the tablet's width (design C). Asked: "fix the other apps on the tablet too claude design them to make sure theyre properly spaced", picked C of the Tablet spacing page (Use the room).
+- **Trip Money** — [trip-money.apk](https://chhat2206.github.io/apps/trip-money.apk), build 52, 2026-11-27: papa summariser: the priority test follows today's order (Insource, Priyanka, Musuno, Pravin last).
 - **Warranty** — [warranty.apk](https://chhat2206.github.io/apps/warranty.apk), build 41, 2026-11-27: Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.
 - **Weight** — [weight.apk](https://chhat2206.github.io/apps/weight.apk), build 39, 2026-11-27: Weight: the new icon, A in aqua.
 

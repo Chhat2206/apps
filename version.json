@@ -55,14 +55,14 @@
   },
   "trip-money": {
     "label": "Trip Money",
-    "code": 51,
+    "code": 52,
     "file": "trip-money.apk",
-    "sha256": "e5416d6177d40a73b9d4cd6bf24a6cd42ebdd2658ffaf0dfb9a0cf779e49cb35",
-    "size": 160914,
-    "commit": "b80af21",
-    "subject": "Every phone app uses the tablet's width (design C). Asked: \"fix the other apps on the tablet too claude design them to make sure theyre properly spaced\", picked C of the Tablet spacing page (Use the room).",
-    "built": "2026-11-25T14:49:39.855Z",
-    "src": "3b06964f5b0bf884b02066be2e14a60eed2b9827c6d6d0db40d12874d1748e13"
+    "sha256": "6d5536da8ef1a4e0aa44359d3ce7240ba33eaa5281d9bc46914868defbd4cac3",
+    "size": 161958,
+    "commit": "bcdf66d",
+    "subject": "papa summariser: the priority test follows today's order (Insource, Priyanka, Musuno, Pravin last).",
+    "built": "2026-11-27T10:41:21.836Z",
+    "src": "1e5fdd47cff257e3e571917d65550f7c8b3439854f1f1b0494baab9fef8d5eb8"
   },
   "collection": {
     "label": "Papa's Collection",
