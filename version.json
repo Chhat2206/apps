@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 363,
+    "code": 364,
     "file": "stocks.apk",
-    "sha256": "c82ee5814b4b2becfd2524ca1c7e4c4e3c82a199fec93dffeefc069bf4721189",
-    "size": 8999779,
-    "commit": "bcdf66d",
-    "subject": "papa summariser: the priority test follows today's order (Insource, Priyanka, Musuno, Pravin last).",
-    "built": "2026-11-27T10:13:46.383Z",
-    "src": "4269eca89e1743d5c767cc3ef811240c8bf3bbb6d42e128bb9414f39671c9201"
+    "sha256": "c9ebde1048e419d27ec26ca727997d5876600672378a2885bcc4841e43196f37",
+    "size": 8999983,
+    "commit": "a936ef2",
+    "subject": "Ledger charts: a dashed line at ฿0 when the line goes below it (Net worth All starts at about −฿9.7k: the S24 installment bought 7 Jun 2025). Drawn only when the range crosses 0, brighter than the dotted grid. Tests 302/302.",
+    "built": "2026-11-27T10:54:40.306Z",
+    "src": "33c8bf5f9a900c57f870f4930dea021b8ed82c5159af9f3767a514f006228c3f"
   },
   "papa": {
     "label": "Papa's book",
