@@ -3,7 +3,7 @@
 **To install, open https://chhat2206.github.io/apps/ on the phone and tap the app.** Tapping an .apk in the file list above only
 shows "can't display". After that the app updates itself from here.
 
-- **Ad Block** — [adblock.apk](https://chhat2206.github.io/apps/adblock.apk), build 72, 2026-11-25: Every phone app uses the tablet's width (design C). Asked: "fix the other apps on the tablet too claude design them to make sure theyre properly spaced", picked C of the Tablet spacing page (Use the room).
+- **Ad Block** — [adblock.apk](https://chhat2206.github.io/apps/adblock.apk), build 73, 2026-11-27: Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.
 - **Birthdays** — [birthdays.apk](https://chhat2206.github.io/apps/birthdays.apk), build 28, 2026-11-25: Every phone app uses the tablet's width (design C). Asked: "fix the other apps on the tablet too claude design them to make sure theyre properly spaced", picked C of the Tablet spacing page (Use the room).
 - **Credit Card** — [card-tracker.apk](https://chhat2206.github.io/apps/card-tracker.apk), build 107, 2026-11-25: Every phone app uses the tablet's width (design C). Asked: "fix the other apps on the tablet too claude design them to make sure theyre properly spaced", picked C of the Tablet spacing page (Use the room).
 - **Papa's Collection** — [collection.apk](https://chhat2206.github.io/apps/collection.apk), build 146, 2026-11-25: Every phone app uses the tablet's width (design C). Asked: "fix the other apps on the tablet too claude design them to make sure theyre properly spaced", picked C of the Tablet spacing page (Use the room).
