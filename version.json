@@ -233,13 +233,13 @@
   },
   "morphe": {
     "label": "YouTube+",
-    "code": 11,
+    "code": 12,
     "file": "morphe.apk",
-    "sha256": "0f5df03f0166d1c91cbfc59a2fd4055b691c7195c1fe63929eeea40d296de464",
-    "size": 200267,
-    "commit": "ca0de8f",
-    "subject": "YouTube+ Manager: fix the build (a -- inside an XML comment).",
-    "built": "2026-11-23T13:47:59.270Z",
-    "src": "2414aa36ed0e3741659d491bff8924b0e7c9292fc874ee130d7b3fbeb856b563"
+    "sha256": "eb7c011939ccc1c8ac93fd19f9a80ec0b775b78a2b2f268ab2daab78d94b9fbe",
+    "size": 200723,
+    "commit": "1001174",
+    "subject": "Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.",
+    "built": "2026-11-27T06:00:47.466Z",
+    "src": "a861737e58a24fb6bc5ea8a37f2fd971467d4ebd25ab23cfd0da40b63563da78"
   }
 }
