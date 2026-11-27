@@ -211,14 +211,14 @@
   },
   "translate": {
     "label": "Translate",
-    "code": 11,
+    "code": 12,
     "file": "translate.apk",
-    "sha256": "b131193e014c288d47f8c2cf51b6d8ed9f9f112fdf5970f20a0863c762001ef8",
-    "size": 525809,
-    "commit": "4619e9b",
-    "subject": "Translate: English or Thai is found by itself. Whatever you type, the app reads which language it is from the letters: more Thai letters than English ones is Thai (the English comes out), else English (the Thai comes out), so one Thai word in an English line (\"I want to eat ข้าว\") no longer turns the whole line round; numbers alone, or as many of each, go the way the button is set. After each translation the ไทย / EN button, the box's words and the widget's bar follow what you typed, and the keyboard is asked for that language the next time the box opens (not mid-word, which would break the typing). javacheck 35/35 (2 new tests); 2 mutants red (any Thai letter = Thai, a tie ignoring the button). Asked: \"Can translate auto detect if it's eng or Thai please\".",
-    "built": "2026-11-24T12:40:02.487Z",
-    "src": "87847f0ea7babe9004b828d5ba45da6ada7aa5a1e8eb40e9de4359efe1d30dc1"
+    "sha256": "8c823541fa90eaa29ae0d273d53b9b061c5ed1db617a81c0dbdeabd100a285b6",
+    "size": 525131,
+    "commit": "bcdf66d",
+    "subject": "papa summariser: the priority test follows today's order (Insource, Priyanka, Musuno, Pravin last).",
+    "built": "2026-11-27T10:40:36.861Z",
+    "src": "2c232150bb22a81f39dc46054de1b4e1bc0b404fe65af19b6384cf83c391c5fb"
   },
   "reddit": {
     "label": "Reddit Snoo",
