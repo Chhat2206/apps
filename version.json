@@ -132,14 +132,14 @@
   },
   "birthdays": {
     "label": "Birthdays",
-    "code": 28,
+    "code": 29,
     "file": "birthdays.apk",
-    "sha256": "0176ecc3b1158baa63a683c413fc20bea82a670a77cc5691e4c680cee93ec871",
-    "size": 250562,
-    "commit": "b80af21",
-    "subject": "Every phone app uses the tablet's width (design C). Asked: \"fix the other apps on the tablet too claude design them to make sure theyre properly spaced\", picked C of the Tablet spacing page (Use the room).",
-    "built": "2026-11-25T14:37:47.678Z",
-    "src": "db570336392b5ec186bcc67d5f6fb78af9cc29b08133851bbb9ae49549ce86d5"
+    "sha256": "688bc5acc10c58878c83e3cc6ef61bf9849b72de7cf6c9b53a9af3b34722a5fd",
+    "size": 251618,
+    "commit": "1001174",
+    "subject": "Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.",
+    "built": "2026-11-27T05:47:55.425Z",
+    "src": "74cd65f12a32d81bc1c04249be4f4fc30ab85e3f3903b4d457988a9790c180d3"
   },
   "planner": {
     "label": "Planner",
