@@ -66,14 +66,14 @@
   },
   "collection": {
     "label": "Papa's Collection",
-    "code": 146,
+    "code": 147,
     "file": "collection.apk",
-    "sha256": "45f2589ded6af071788ab70882ef51a0897635919026bc0a8c37212dc98f9fb3",
-    "size": 276996,
-    "commit": "b80af21",
-    "subject": "Every phone app uses the tablet's width (design C). Asked: \"fix the other apps on the tablet too claude design them to make sure theyre properly spaced\", picked C of the Tablet spacing page (Use the room).",
-    "built": "2026-11-25T14:46:49.806Z",
-    "src": "2ba7a459b48672a948a10710dca2afe4db49993bf37860f60166655465c7a5da"
+    "sha256": "d1780f25f6b5a373bee5c8bf6235fafc1151107a9ba72d1dec15e1a035be89a3",
+    "size": 277820,
+    "commit": "1001174",
+    "subject": "Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.",
+    "built": "2026-11-27T05:49:39.079Z",
+    "src": "ae87d80f060a0527995b57e5024091e37719a4aeacbef217190937cf449e6989"
   },
   "hub": {
     "label": "Hub",
