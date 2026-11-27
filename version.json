@@ -33,14 +33,14 @@
   },
   "card-tracker": {
     "label": "Credit Card",
-    "code": 108,
+    "code": 109,
     "file": "card-tracker.apk",
-    "sha256": "56237ff1b4cf1dd3ab9762401932f7b7b9356026355648f816dcf86a65d34d0c",
-    "size": 253110,
-    "commit": "1001174",
-    "subject": "Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.",
-    "built": "2026-11-27T05:48:35.281Z",
-    "src": "45262161a25a80008daae8096d9983ac1bc8828edad60af647e163c838d3163c"
+    "sha256": "87bc500c79f0bb1a2a5896ec4bc9d2de8cda1209c5b32d96c6d9992fe43620ba",
+    "size": 253434,
+    "commit": "5d813a8",
+    "subject": "Credit Card, Ledger, papa, Collection: No Wi-Fi the moment the phone loses its connection, not only after a read fails.",
+    "built": "2026-11-27T08:07:36.584Z",
+    "src": "f5d11456cf7d63b98fadde2e67f9d161e1c83ba811a4e15c8166f98ae9fa6d88"
   },
   "musu": {
     "label": "Work Tracker",
