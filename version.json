@@ -244,13 +244,13 @@
   },
   "nudge": {
     "label": "Nudge",
-    "code": 1,
+    "code": 2,
     "file": "nudge.apk",
-    "sha256": "cbb1acf38d37c65399f70f46495ebfbd1e1879d1a949cd47ec1f389930e8c321",
-    "size": 176776,
-    "commit": "4de1d95",
-    "subject": "Nudge: a redraw never takes the words from under the finger. A state from the Pi while typing your name (Who are you?) or someone new in Settings used to redraw the box empty; now the box being typed in keeps its words, the keyboard and the cursor. Proof: the two-phone drive types, gets a state, keeps \"Pa\" and \"Mayu\" with the focus; the mutant without it is red.",
-    "built": "2026-11-27T07:02:55.517Z",
-    "src": "b62782bc5bac1c19c8e2e3012a78363f502384764d674a5497debe31cf40e2fa"
+    "sha256": "0f0e0ab8ee4baca60c67b8bb9ca028adf3dea996791645f2539a3e4c6d73cf4f",
+    "size": 177552,
+    "commit": "388fcaa",
+    "subject": "Nudge: seven fixes from a review of the phone side. A task that came before notifications were allowed (Android 13+ starts with them off) was counted as nudged and never shown; now it rings as soon as they are allowed, also from Settings (the app nudges again on every return). Nudges are alarm clocks, so every 5 minutes holds while the phone dozes (the other kind is let through only every ~9 minutes). An answer from the Pi older than a tick just sent no longer brings the ticked task back. Done on a notification can no longer hold Android's receiver past its limit. A place allowed in Settings is watched at once. A second Save where I am is no longer cut short by the first one's timeout. A send that keeps failing waits longer each time, up to 2 minutes, instead of every 15 s for ever. Proof: compiles against android.jar, unit tests 13/13, the two-phone drive passes.",
+    "built": "2026-11-27T07:17:01.789Z",
+    "src": "6dd10f37891e3782332ace919996d2694fe59be28f60c11bc4db6ae7152b06f0"
   }
 }
