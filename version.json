@@ -99,14 +99,14 @@
   },
   "packing": {
     "label": "Vacation",
-    "code": 142,
+    "code": 143,
     "file": "packing.apk",
-    "sha256": "d7bab60b55112c231c5b6e3db74444df4e5bd85e77fea4adb4aeffa05703f2cd",
-    "size": 951260,
-    "commit": "b80af21",
-    "subject": "Every phone app uses the tablet's width (design C). Asked: \"fix the other apps on the tablet too claude design them to make sure theyre properly spaced\", picked C of the Tablet spacing page (Use the room).",
-    "built": "2026-11-25T15:03:07.567Z",
-    "src": "ab5bd65bd6bd827397a9b656a6bf188cbe0ccb2cfaf10a9fa3c3140d8b5bb7ae"
+    "sha256": "e8b08e467b054cb486b6d8ddb22d10028f9ca5fc4a82d146e474890cffe18aac",
+    "size": 952220,
+    "commit": "1001174",
+    "subject": "Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.",
+    "built": "2026-11-27T06:14:40.485Z",
+    "src": "28f4cf1660d3fb7ef593124b699b9dd92f0b3fdc6dcfad49f6265e47b39d91da"
   },
   "control": {
     "label": "Control",
