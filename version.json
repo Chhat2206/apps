@@ -110,14 +110,14 @@
   },
   "control": {
     "label": "Control",
-    "code": 69,
+    "code": 70,
     "file": "control.apk",
-    "sha256": "987699b78392affe5f6539c6b48e071b9e555be2354fdf85cb1460695b41aa25",
-    "size": 184910,
-    "commit": "4962620",
-    "subject": "BlackHole is the monthly backup drive: kept unplugged on purpose, reminded to plug it in.",
-    "built": "2026-11-26T09:31:35.752Z",
-    "src": "a6c2f6878ea3bd755f5f9d815c93de2153cc11dfd8acb18b756705b4e01a8df6"
+    "sha256": "0b3146d302d34b10619d4374a0ba4a9afa43d4ee0425d059e5b4330fdaf8c847",
+    "size": 185466,
+    "commit": "1001174",
+    "subject": "Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.",
+    "built": "2026-11-27T05:51:17.350Z",
+    "src": "0a2fb9760010f897b3111854a2bc7a22e9042180094abd36699732f44816f9ee"
   },
   "deal": {
     "label": "Better Deal",
