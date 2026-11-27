@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 367,
+    "code": 368,
     "file": "stocks.apk",
-    "sha256": "8b8ec27d65998001452d16a3e8e1c9c35b3919cd2d3970eb01071b22ce4eceb0",
-    "size": 9003379,
-    "commit": "40a6f4c",
-    "subject": "Ledger Earned: money paid back is Together or Per bill, picked per payment. Step 3 has a Together | Per bill select: Together (unless picked) is one line \"Send ฿1,812.50 paid back\" with the bills under it and one transfer of all of it; Per bill is the line per bill. The pick is kept on the phone for that payment and only shown until something is sent; after that the history says which it was (one transfer for every bill = Together, \"Sent ฿1,812.50 paid back to Kasikorn\"). Tests 305/305; e2e on the real sheets (saves caught) passes, and goes red with the pick not kept, the sent reading taken away, or Together sending a bill instead of all of it. Asked: \"Its a select. Some payments I don't wanna split and some payments I wanna split to be clear\".",
-    "built": "2026-11-27T11:44:15.862Z",
-    "src": "77629c19a98e7870b9235d1ed9f6292d3955efb8a279589f109ab32308333d54"
+    "sha256": "5cf49d5038a84d57b4f755f756f06284aba85f88e925a9157c6028752a77a961",
+    "size": 9005555,
+    "commit": "5562531",
+    "subject": "Ledger net worth: stocks start at ฿0, Xavier's 2025 pay is what went in. The past line showed ฿21k of stocks on 8 Jun 2025 because money left Cashew's Investments / Stocks wallet (now SET) in Jul–Sep 2025 before any was recorded going in, so it was taken for shares already held. The Discord DM with Xavier says where it came from: on 1 Jul 2025 Chhat \"just made a bank account for the Thai stocks\", gave him the Bangkok Bank details on 5 Jul, and his pay arrived there on 10–11 Jul ($1,050 sent, $1,007 arrived) and on 20 Aug (\"I got 1100 usd at 35851 baht\"). Those four amounts (฿32,849.93; ฿32,747.03 + ฿790 + ฿2,313.97, as on the Received tab) are now lines on SET on the Money tab, and pastFlows reports a broker line with no bank half (not a balance correction) as money that arrived there (`arrived`). The page counts it in the rebuilt stocks but not in what the bank side is squared against, and the floor is over both. On the real data the floor goes from ฿16,187 to ฿0: stocks are ฿0 on 8 Jun 2025 (net worth about −฿30.8k: the banks less the S24), then rise with the pay on 11 Jul and 20 Aug. Lines on a broker wallet with no pair were already shown nowhere on the page. Asked: \"How did I put money into stocks. I only started when Xavier gave me money\". Tests: pastflows 3/3 (the new one red without `arrived`); suite 307/308, the one failure being shadow.test's Unix file mode check, which cannot pass on Windows.",
+    "built": "2026-11-27T14:14:52.813Z",
+    "src": "0ac8b8e1d852f868101516ef5968636b318531b5d5c1b2797324b9e4ed6945d5"
   },
   "papa": {
     "label": "Papa's book",
