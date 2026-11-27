@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 359,
+    "code": 360,
     "file": "stocks.apk",
-    "sha256": "6b4dad8859eb5e2e8ab5252c749cf0e10665786c3e39c28b089789fdf70c4e14",
-    "size": 8994075,
-    "commit": "b230027",
-    "subject": "Ledger Add: Xavier's pay shows what he paid, what he owes and what is left, and saves through Earned.",
-    "built": "2026-11-27T05:09:15.522Z",
-    "src": "69d410cb127b75ded38dbe48357bd377bf170eabd648bbc7e06724d0a8c1ab6f"
+    "sha256": "dec458fe41d6e69b2a73b7b41cac985ee32be81340efaedb8cdecb0ff2d8d24d",
+    "size": 8994119,
+    "commit": "3b56e8f",
+    "subject": "Ledger Home: the boss tile is \"Boss owes\" (was \"Boss pays back\"). Checked on the real page: the tile reads Boss owes ×2 ฿1,813. Asked: \"Replace boss pays back with boss owes please\".",
+    "built": "2026-11-27T05:12:00.495Z",
+    "src": "74d5214d6678f28cd957b778d46abfd3fb32b173443f647951d4874f7334a74f"
   },
   "papa": {
     "label": "Papa's book",
