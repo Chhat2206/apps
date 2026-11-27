@@ -200,14 +200,14 @@
   },
   "restaurants": {
     "label": "Restaurants",
-    "code": 2,
+    "code": 3,
     "file": "restaurants.apk",
-    "sha256": "90ef11e101f68f8607d84e2f4ab17b6e6051348aee3830628188a6ec4803da0d",
-    "size": 246163,
-    "commit": "b80af21",
-    "subject": "Every phone app uses the tablet's width (design C). Asked: \"fix the other apps on the tablet too claude design them to make sure theyre properly spaced\", picked C of the Tablet spacing page (Use the room).",
-    "built": "2026-11-25T14:50:30.788Z",
-    "src": "b66e6a142340ef18e8ee9755b642c6eae5f69748872263af6a77e1d8ad8773ca"
+    "sha256": "30a5ce05dfdd7e9b3f3233b4eb029ed9d04030adcc3de686d83f3bc6d8fac5bf",
+    "size": 247219,
+    "commit": "1001174",
+    "subject": "Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.",
+    "built": "2026-11-27T06:24:13.793Z",
+    "src": "4baa37428ccd425edc17e167057e81c97fb003e0f4fbd29c1fe1991d5f519422"
   },
   "translate": {
     "label": "Translate",
