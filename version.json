@@ -77,14 +77,14 @@
   },
   "hub": {
     "label": "Hub",
-    "code": 59,
+    "code": 60,
     "file": "hub.apk",
-    "sha256": "4f3d1c5af581e1e4f9a264f68016a2f9497b27b94d532ba10fe8c13437ceb441",
-    "size": 128868,
-    "commit": "b80af21",
-    "subject": "Every phone app uses the tablet's width (design C). Asked: \"fix the other apps on the tablet too claude design them to make sure theyre properly spaced\", picked C of the Tablet spacing page (Use the room).",
-    "built": "2026-11-25T14:42:16.518Z",
-    "src": "65d05225889751217b9a8e000ab1611b5ad605a4417bf58ea58d0ce2c6f87a88"
+    "sha256": "be976582bcc767502ada76825fc34fe1ad08973f0c4adf7f2bc94578138d0cc3",
+    "size": 129316,
+    "commit": "1001174",
+    "subject": "Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.",
+    "built": "2026-11-27T05:59:37.955Z",
+    "src": "37c959d18e5a0c2fbf0fffe815a305d7fa41b516d9007bde6b7ee1cb1e84f7dc"
   },
   "adblock": {
     "label": "Ad Block",
