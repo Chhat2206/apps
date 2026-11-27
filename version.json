@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 358,
+    "code": 359,
     "file": "stocks.apk",
-    "sha256": "be9d126cae9eafe45490193ed94febdbd8655f16b37307d71d85d5d7f74aa68d",
-    "size": 8991867,
-    "commit": "7c40608",
-    "subject": "Ledger Net worth: All starts when work started, uni kept and marked. The line, its \"since\" and the Earned/Spent/categories under it now begin the month of the earliest job that counts on Earned (Xavier, July 2025): \"+฿560,139 since July 2025\" instead of \"since 2025\" from the uni years. Nothing is deleted: the 644 lines before it stay, and the full ledger shows one Uni card (\"Before work, paid by parents\") where they begin. Proof: ledger-uni-e2e on the real sheet (spare port) passes; two mutants red (no work start; the old start kept). Touch on the chart reads the line in the same run, so the \"can't touch the graph\" report is not reproduced yet. Asked: \"change this graph to only when I started working. In university my parents paid for it… don't delete data… make it obvious it's uni\".",
-    "built": "2026-11-26T20:12:47.992Z",
-    "src": "703a3439aafe82b6659dd2e0c0de0dcd8854c5f908dcb7c43de55046cd4694c2"
+    "sha256": "6b4dad8859eb5e2e8ab5252c749cf0e10665786c3e39c28b089789fdf70c4e14",
+    "size": 8994075,
+    "commit": "b230027",
+    "subject": "Ledger Add: Xavier's pay shows what he paid, what he owes and what is left, and saves through Earned.",
+    "built": "2026-11-27T05:09:15.522Z",
+    "src": "69d410cb127b75ded38dbe48357bd377bf170eabd648bbc7e06724d0a8c1ab6f"
   },
   "papa": {
     "label": "Papa's book",
