@@ -176,14 +176,14 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 41,
+    "code": 42,
     "file": "weight.apk",
-    "sha256": "f689b931a7bab9e4c855e966d2e03efc546874fb663ffd063162083086c5a1bc",
-    "size": 487276,
-    "commit": "1d048e8",
-    "subject": "Morphe: the Manager is Family Updater, not YouTube+ Manager",
-    "built": "2026-11-28T07:09:19.690Z",
-    "src": "23c315b0b131131823f65e99ee87ad7d43c20db70586c85ca30e13679aedb45f"
+    "sha256": "6a78d4716388b25456640c17e0a686edbc9f15b188542ed7fe3e73ba6c85b1c7",
+    "size": 629872,
+    "commit": "8e33483",
+    "subject": "Restaurants: the new icon, B The rated plate.",
+    "built": "2026-11-28T07:15:33.256Z",
+    "src": "7f7fb1ea958602d5c82fe88e7ab4088eda0a1729a90fc1902fd2c9b6df98a0d1"
   },
   "friends": {
     "label": "Friends Launcher",
