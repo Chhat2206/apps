@@ -110,14 +110,14 @@
   },
   "control": {
     "label": "Control",
-    "code": 71,
+    "code": 72,
     "file": "control.apk",
-    "sha256": "e008ba8ca2f2b7af6621cedb9436e31f862c36146ba28376bdaf85c272a1eca9",
-    "size": 185678,
-    "commit": "bcdf66d",
-    "subject": "papa summariser: the priority test follows today's order (Insource, Priyanka, Musuno, Pravin last).",
-    "built": "2026-11-27T10:17:49.325Z",
-    "src": "98295e83acecc5415166fe5b100396a479f1a35dcf4dbb2697ab1603c9fdf88f"
+    "sha256": "8d0977edab924ad0a5fb49475f8be531ab4d6224cadfeb6ed079068cfcd9e44a",
+    "size": 185746,
+    "commit": "3f12fcd",
+    "subject": "Reddit: the history follows you between phones on the Reddit Google Sheet. You › History, the posts read (what Unread only leaves out) and the searches go to the sheet's History, Read and Searches tabs and come back from them, merged three ways (reddit/public/hist.js), so what one phone opened, cleared or marked unread reaches the others; something taken off on one phone but opened again on another since stays. Sent a few seconds after a change, at start, when the app comes back to the front and when the internet is back; with no internet it stays on the phone and goes later. Set up under You › Google Sheets with the setup QR (new app `reddit` in adblock/lib/setup.mjs and Control's QR list) or a pasted phone-setup.json. The sheet's requests go out through Warranty's Http bridge (net.js), Reddit's own still through MainActivity; the APK gets the camera for the QR. Asked: \"save reddit history to a google sheet so it saves between devices\". Tests: hist.test.mjs (9, three mutants each red), page.mjs G checks (25) against a stand-in Google that refuses writes past a tab's grid (taking out the grid sizing = 2 red); javacheck 11 unit tests; Ad Block 26. page.mjs's V check (the list's picture copy) was already NOT OK before this change.",
+    "built": "2026-11-28T06:51:59.160Z",
+    "src": "1eb1d25a3fce47457a4fb91127ade279d82998f11e3b33656eaf16edd633410b"
   },
   "deal": {
     "label": "Better Deal",
