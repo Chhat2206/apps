@@ -200,14 +200,14 @@
   },
   "restaurants": {
     "label": "Restaurants",
-    "code": 5,
+    "code": 6,
     "file": "restaurants.apk",
-    "sha256": "ed69d397c5f0d4eda0b715239c6548c59663cb6fa68fb7b66bba7f13bc30e14e",
-    "size": 247592,
-    "commit": "0dfffe1",
-    "subject": "Restaurants: the city and country come from the map pin, and the times are a small pill.",
-    "built": "2026-11-28T08:10:54.930Z",
-    "src": "a7a2cd01ae0d0799e25088a611f0201db53b5670bbe324e899a05711311f59c6"
+    "sha256": "1088be6a6f8d3e1e056852dddbe64b6f3272a505ee2cd0dd1d310e50ee2e8b86",
+    "size": 252492,
+    "commit": "616348a",
+    "subject": "Restaurants: pick the branch by name, the street kept, and every pinned place gets its city.",
+    "built": "2026-11-28T08:29:14.835Z",
+    "src": "92707c6363175e9bcf4509afdbb6c1abf351179851c6aa075eb8f99a0e5285e3"
   },
   "translate": {
     "label": "Translate",
