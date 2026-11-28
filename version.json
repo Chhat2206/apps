@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 373,
+    "code": 374,
     "file": "stocks.apk",
-    "sha256": "29ba585f034f8a384d5bfcac01f10c6404589ef1c45801f684f947165cd572cd",
-    "size": 9013763,
-    "commit": "77f7220",
-    "subject": "Ledger Dividends sheet: Webull's lines say each fact on a line of its own.",
-    "built": "2026-11-28T08:28:04.232Z",
-    "src": "69ad0501fbbe6ea8e4c97c6a86206999c2df93a7b8847a9789fe9343e8c696d9"
+    "sha256": "e71a3c8fba2ce7c02aa8d1fd4b5c5cb57a8207c97e95d6207d29e021f268494a",
+    "size": 9013567,
+    "commit": "3f45b9f",
+    "subject": "Ledger Dividends sheet: one line a dividend (design C).",
+    "built": "2026-11-28T08:45:12.622Z",
+    "src": "9648566aba6ee132182626ae00896ed35595243bd9aa70b2fbb71569da92e676"
   },
   "papa": {
     "label": "Papa's book",
