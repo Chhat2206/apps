@@ -176,14 +176,14 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 40,
+    "code": 41,
     "file": "weight.apk",
-    "sha256": "d80dbfcf36331b587e94989c365d2e5a4eeb2198e0a1781cfd3c2cfab9a992a1",
-    "size": 486736,
-    "commit": "bcdf66d",
-    "subject": "papa summariser: the priority test follows today's order (Insource, Priyanka, Musuno, Pravin last).",
-    "built": "2026-11-27T10:46:09.024Z",
-    "src": "7dcaa822d5043cc9efb9c9a98e77296be6522fceed9ed5f7539404a8619785dc"
+    "sha256": "f689b931a7bab9e4c855e966d2e03efc546874fb663ffd063162083086c5a1bc",
+    "size": 487276,
+    "commit": "1d048e8",
+    "subject": "Morphe: the Manager is Family Updater, not YouTube+ Manager",
+    "built": "2026-11-28T07:09:19.690Z",
+    "src": "23c315b0b131131823f65e99ee87ad7d43c20db70586c85ca30e13679aedb45f"
   },
   "friends": {
     "label": "Friends Launcher",
