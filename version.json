@@ -200,14 +200,14 @@
   },
   "restaurants": {
     "label": "Restaurants",
-    "code": 6,
+    "code": 7,
     "file": "restaurants.apk",
-    "sha256": "1088be6a6f8d3e1e056852dddbe64b6f3272a505ee2cd0dd1d310e50ee2e8b86",
-    "size": 252492,
-    "commit": "616348a",
-    "subject": "Restaurants: pick the branch by name, the street kept, and every pinned place gets its city.",
-    "built": "2026-11-28T08:29:14.835Z",
-    "src": "92707c6363175e9bcf4509afdbb6c1abf351179851c6aa075eb8f99a0e5285e3"
+    "sha256": "87a02bbf7de3cbb7b7c0876822fe26107ee91e5e0b66b41832dcc7bd6ea8a426",
+    "size": 261292,
+    "commit": "4bb9398",
+    "subject": "Restaurants: polish design A, the diary.",
+    "built": "2026-11-28T08:55:07.163Z",
+    "src": "50f95c3067a22224ed8f8887d8f8e747fd0bd9e4d9251147931847df63e6d674"
   },
   "translate": {
     "label": "Translate",
