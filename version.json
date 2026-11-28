@@ -211,14 +211,14 @@
   },
   "translate": {
     "label": "Translate",
-    "code": 13,
+    "code": 14,
     "file": "translate.apk",
-    "sha256": "2662266ac12c59b51ecade02b0a4806d91377ae1ef49ec1e24f94abb2f363a1a",
-    "size": 528179,
-    "commit": "ac00ea1",
-    "subject": "Translate: a Dictionary tab, the user's own words to read, hear and practise. A third icon at the foot (book) opens Words | Practice: Words lists 31 words in four groups (Feelings, People and family, Talking, Money and work), each with its Thai, its reading and its meaning, and a tap says it; Practice is Learn's quiz over them (English to Thai, Thai to English, hear it), a miss coming back a few questions later, and half the time the wrong answers come from the word's own group. The words were written as heard (\"kang bon\", \"tak chai\", \"ka dued rong\"); the Thai is กังวล, ทำใจ, ความเดือดร้อน and so on, and every reading is the app's own word list's (LearnTest). A swipe right from Words goes back to Learn. Asked: \"add these Thai words to the Thai English translation app via a third option called dictionary let me practice them too\". javacheck 37/37 (2 new tests); 3 mutants red (no same-group answers, Words swiping to Translate, a wrong reading).",
-    "built": "2026-11-27T14:23:42.070Z",
-    "src": "742a3d343887d6f71a93d2d7a5a7f83e7872282025c209a3d052f8bf331a1c9c"
+    "sha256": "8f82d88abb832568dfd5c7578d7df1b9b8eec0827832ff6ecfa8154a81420e39",
+    "size": 529380,
+    "commit": "549aa4d",
+    "subject": "Translate widget: one row tall (2x1, 4x1) it is the \"Type in English or Thai\" bar alone, filling the widget, with no black strip under it. Two rows or more is the bar and the lines as before. On Android 12+ the launcher picks between the two as the widget is resized (a size map); older phones go by the height the home screen reports (under 150 dp = the bar). javacheck 38/38 (1 new test), widget press test 4/4 (every tapped view in both layouts ripples); the height rule mutated goes red. Asked: \"fix the typoe in english or thai widget if its a 2x1 since theres just black on the bottom\".",
+    "built": "2026-11-28T07:37:28.283Z",
+    "src": "8252e87c8c31a56d891528dcd580308ce85a3f407c6b4e5c88bc16c8016b1f4f"
   },
   "reddit": {
     "label": "Reddit Snoo",
