@@ -200,14 +200,14 @@
   },
   "restaurants": {
     "label": "Restaurants",
-    "code": 4,
+    "code": 5,
     "file": "restaurants.apk",
-    "sha256": "ab624c5a70d512aeaff74726eb3765867ca6aa4053a880d22d6e71a6e860a996",
-    "size": 247336,
-    "commit": "8e33483",
-    "subject": "Restaurants: the new icon, B The rated plate.",
-    "built": "2026-11-28T07:12:30.766Z",
-    "src": "4c92d3e807947f8cd92f4ff10be8a44d3adb53de991e5a0edd385e5cd6684668"
+    "sha256": "ed69d397c5f0d4eda0b715239c6548c59663cb6fa68fb7b66bba7f13bc30e14e",
+    "size": 247592,
+    "commit": "0dfffe1",
+    "subject": "Restaurants: the city and country come from the map pin, and the times are a small pill.",
+    "built": "2026-11-28T08:10:54.930Z",
+    "src": "a7a2cd01ae0d0799e25088a611f0201db53b5670bbe324e899a05711311f59c6"
   },
   "translate": {
     "label": "Translate",
