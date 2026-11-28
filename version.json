@@ -200,14 +200,14 @@
   },
   "restaurants": {
     "label": "Restaurants",
-    "code": 3,
+    "code": 4,
     "file": "restaurants.apk",
-    "sha256": "30a5ce05dfdd7e9b3f3233b4eb029ed9d04030adcc3de686d83f3bc6d8fac5bf",
-    "size": 247219,
-    "commit": "1001174",
-    "subject": "Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.",
-    "built": "2026-11-27T06:24:13.793Z",
-    "src": "4baa37428ccd425edc17e167057e81c97fb003e0f4fbd29c1fe1991d5f519422"
+    "sha256": "ab624c5a70d512aeaff74726eb3765867ca6aa4053a880d22d6e71a6e860a996",
+    "size": 247336,
+    "commit": "8e33483",
+    "subject": "Restaurants: the new icon, B The rated plate.",
+    "built": "2026-11-28T07:12:30.766Z",
+    "src": "4c92d3e807947f8cd92f4ff10be8a44d3adb53de991e5a0edd385e5cd6684668"
   },
   "translate": {
     "label": "Translate",
