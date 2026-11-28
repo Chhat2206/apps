@@ -211,14 +211,14 @@
   },
   "translate": {
     "label": "Translate",
-    "code": 14,
+    "code": 15,
     "file": "translate.apk",
-    "sha256": "8f82d88abb832568dfd5c7578d7df1b9b8eec0827832ff6ecfa8154a81420e39",
-    "size": 529380,
-    "commit": "549aa4d",
-    "subject": "Translate widget: one row tall (2x1, 4x1) it is the \"Type in English or Thai\" bar alone, filling the widget, with no black strip under it. Two rows or more is the bar and the lines as before. On Android 12+ the launcher picks between the two as the widget is resized (a size map); older phones go by the height the home screen reports (under 150 dp = the bar). javacheck 38/38 (1 new test), widget press test 4/4 (every tapped view in both layouts ripples); the height rule mutated goes red. Asked: \"fix the typoe in english or thai widget if its a 2x1 since theres just black on the bottom\".",
-    "built": "2026-11-28T07:37:28.283Z",
-    "src": "8252e87c8c31a56d891528dcd580308ce85a3f407c6b4e5c88bc16c8016b1f4f"
+    "sha256": "27d9ab5d963d627d43b9346c637a1f405599df4f63a10dfa9bebfa8df00bd691",
+    "size": 529876,
+    "commit": "2c0f205",
+    "subject": "Translate: the widget's pop-up box is the widget's bar. Tapping the bar opened a #141414 box with a 22sp grey hint that wrapped onto two lines; from the widget the box is now the bar's own #1A1A1A pill with the palette-coloured icon at its start and the 17sp hint on one line, so the pop-up looks like what was tapped. The app's own box is unchanged. Asked: \"Match the colour scheme of the other app, make it 1 line not 2\". javacheck 37/37.",
+    "built": "2026-11-28T08:02:04.890Z",
+    "src": "31fdc7fd36ad1dd9d11a338e400c03e5feb89aed9f0d9099757c6ccd6d37b737"
   },
   "reddit": {
     "label": "Reddit Snoo",
