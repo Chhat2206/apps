@@ -176,14 +176,14 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 43,
+    "code": 44,
     "file": "weight.apk",
-    "sha256": "f9b4419755e56cad45bdad00d943de14d13e17c2fff7e5ba936738bfbacf4363",
-    "size": 635852,
-    "commit": "a6f87ce",
-    "subject": "Weight widgets: a tap on Food this month opens Add what you ate, and an arrow on the chart widget flips it to the weight day by day.",
-    "built": "2026-11-28T10:05:55.597Z",
-    "src": "580575ffecc5977e138724eaf83a8491b0abe4e5b6a6aab37deeb8f49bc6d45c"
+    "sha256": "866ee24902b1808755d95feb3336af9c859159cf2e5f0e55493617a424c71807",
+    "size": 636992,
+    "commit": "2318d86",
+    "subject": "Weight: Just check, don't add; the reader knows we are in Bangkok.",
+    "built": "2026-11-28T10:19:12.344Z",
+    "src": "6c9316d42cdb69ad7c0bada221c79465204e53a0bf983ed5888f5a71d1bc2999"
   },
   "friends": {
     "label": "Friends Launcher",
