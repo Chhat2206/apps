@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 369,
+    "code": 370,
     "file": "stocks.apk",
-    "sha256": "f7dd1511a1740ebbb298ff8f74dc0b8d970936a7194396257e21b63e8388fd04",
-    "size": 9006483,
-    "commit": "22bb33b",
-    "subject": "Ledger: net worth takes the card bills off on every device. The tablet read ฿721k and the phone ฿693k: the tablet had not read the Credit Card sheet, and a device without it took ฿0 of card bills off (฿32.5k are owed today). Now a device with no read takes the newer of the bills it last read and the Worth tab's newest line (written only by a device that read them) less today's loans, and Home and the Net worth tab say \"Card bills not read\", or \"Card bills not set up: scan the Ledger QR again\" when the device was set up without the Credit Card sheet. Tests: unit 307/307; e2e on the real sheets (nothing sent) passes on the page and on the APK's own assets, phone and tablet widths reading the same figure, and goes red with the fallback back to ฿0 or with an old copy on the device winning over a newer Worth line. Asked: \"Net worth says 721k in tablet and 693k in phone investigate it and fix both to be accurate please\".",
-    "built": "2026-11-27T14:28:12.097Z",
-    "src": "f496a576fa9666e1b44c8700aa2d437fac9a836b5b187ea8f5145567281aa929"
+    "sha256": "78c1391a7763956075569247fc04e31f7b51b0c34eb74571885cf33166a6561a",
+    "size": 9006783,
+    "commit": "f44f057",
+    "subject": "Ledger net worth: past stocks are what went in on the day, the gains come in gradually. Before the Worth tab's first line (10 Nov 2026) the stocks and the Saving pot were what had been put in by that day times one rate, the first line's figure over what was in by then (×1.17), so Xavier's Jul 2025 pay showed 17% up the day it landed: ฿28,555 for the ฿24,350 that was there. Now the rate grows in a straight line from nothing on the day money first went in to the whole gain on the first line's day. On the real data: 11 Jul 2025 ฿24,350 (exactly what was in), 20 Aug ฿54,970 for ฿54,201, 1 Jan 2026 ฿162,805 for ฿153,343, and 10 Nov 2026 ฿624,156, the first line itself, so the line still ends on the live figures. Today's net worth is not touched. Asked: \"show stocks at exactly what you put in on the day it arrived, and add the gains in gradually\" → \"yes\". Checked by running the page's own mPastRest and mRestOn on the cached sheets with the four Xavier lines; suite 307/308, the one failure being shadow.test's Unix file mode check, which cannot pass on Windows.",
+    "built": "2026-11-28T03:47:39.854Z",
+    "src": "5853627543b641ad318cb861b04f9a12faedb23a6be5c4988c5dc2bfd02fe61f"
   },
   "papa": {
     "label": "Papa's book",
