@@ -143,14 +143,14 @@
   },
   "planner": {
     "label": "Planner",
-    "code": 117,
+    "code": 118,
     "file": "planner.apk",
-    "sha256": "7df5427897e132dba00548b4e8d9c8654d33b5c7394525a5c267146c62e89804",
-    "size": 452534,
-    "commit": "1001174",
-    "subject": "Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.",
-    "built": "2026-11-27T06:17:49.732Z",
-    "src": "b53aa0109bae66c710f1758579e3319aa6d151fba07c66450207e76b22bec01e"
+    "sha256": "3d658df85e14a4021d45a941580eb58ad2a21ee723ee1541c0d7466ac75f50d5",
+    "size": 478518,
+    "commit": "188ec35",
+    "subject": "Planner: a Remind tab of timers (design B, Dial). Type what it is, turn the dial to how long (minutes round once, each lap past the top an hour more, up to three hours), set Again every (Off, 1, 2, 3, 5, 10, 15 or 30 min) and Start: it rings then, and again every so often until it is ticked. Running timers sit as rings across the top counting down (red once rung, \"Rang 3 times\"); a tap on one gives +5 min and Done. The widget's + has To-do | Timer at its top: Timer is the name, a slider of minutes, Again every and Start, without opening the app. Before it rings a quiet notification counts down to it (Done, +5 min); at its moment it rings with Done and In 5 min, on an alarm clock so it is on the second even with the phone asleep. A timer is a to-do with a Ring at moment (Checklist column N), so it syncs, shows on the widget and ticks like any other; timers come first. Proof: javacheck 94/94 (6 new: timer rings and repeats, once, sheet round trip, order, the slider, words); page e2e passes (new: dial drag across laps and held at 1 min and 3 h, Again every, Start, rings counting down and turning red, +5 min, Done, the Checklist line, the form keeps it a timer); real Chromium drags round the dial and it fits a 412 x 860 screen (e2e/remind-chromium.mjs); 10 mutants red. Not seen on a phone yet (no emulator on the Pi). Asked: \"remind me in one minute, five minutes, 10 minutes with constant notification so that I won't forget, or like a custom time frame\", then \"B\".",
+    "built": "2026-11-28T08:31:06.372Z",
+    "src": "0a7ff29bdb58930ec12936500e44bc93aee55c0adf7f7eab81ebc09bfd332a9a"
   },
   "warranty": {
     "label": "Warranty",
