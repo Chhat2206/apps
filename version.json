@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 45,
+    "code": 46,
     "file": "reddit.apk",
-    "sha256": "5010bc5cff9e9f7adc8c1931ca122ccbb5e3b6bddb0652e9fe7f838f98966ad3",
-    "size": 343987,
-    "commit": "0ee3a15",
-    "subject": "Nudge: the app starts again. The page called every Android bridge method with two arguments (ask(name, a, b) passed undefined for the missing ones), and Android's WebView bridge finds a Java method by its name AND its number of arguments, so the very first call, config(undefined, undefined), threw \"Method not found\" and the page stopped on a black screen. Now ask() passes only the arguments given. The jsdom drive's stand-in let any count through, which is how it passed: it now reads each @JavascriptInterface method and its argument count from MainActivity.java and refuses a call with another count, as Android does. Proof: on the emulator (Android 15) the old APK logs \"Uncaught Error: Method not found (nudge.js:41)\" with nothing drawn; the fixed one opens on Scan the QR code, takes a setup, Who are you?, draws home and runs Listen as a foreground service (remoteMessaging). Drive passes; with the old ask() it is red on the same \"Method not found\". Relay 15/15, javacheck 13/13. Asked: \"nudge app isnt booting fix it pls\".",
-    "built": "2026-11-28T07:21:28.084Z",
-    "src": "8ca94c7f284d3f457ddb848546be36e656432e486243beca5bd73760332812c2"
+    "sha256": "123e3b8f8e3be3fdd1982d256009eb1ace553310c7860c2c629d545e7acb327a",
+    "size": 342719,
+    "commit": "e4f4d50",
+    "subject": "Reddit Snoo: only the posts read go to the Google Sheet. You › History and your searches stay on the phone, no longer sent to the Reddit sheet; the Read list (what Unread only leaves out) still follows you between phones. The first sync of this version takes the old History and Searches tabs off the sheet itself, rather than emptying them now by hand: a phone still on the older version would read an emptied tab as \"cleared on another phone\" and empty its own History. Proof: hist.test.mjs 9/9 (with the old hist.js, \"only Read goes to the sheet\" is red); page e2e every G check passes (new: only a Read tab, the old tabs taken off, opening a community writes nothing, History and searches on the phone untouched by a sync); without the tab removal 2 checks go red. The one other red check (V, the list's picture copy) was red before this change. Asked: \"dont save searches haha or no need history actl just read is fine clear it otherwise\".",
+    "built": "2026-11-28T07:45:27.515Z",
+    "src": "2803988d726134d424f71277a2866c29e0d587f02c3821c0f9a35df741f0ec6e"
   },
   "morphe": {
     "label": "Family Updater",
