@@ -232,15 +232,15 @@
     "src": "a3a003c714ed77a73e91e26f964a2ab2022b93e8df89fb8a0eef7acc18291811"
   },
   "morphe": {
-    "label": "YouTube+",
-    "code": 12,
+    "label": "Family Updater",
+    "code": 13,
     "file": "morphe.apk",
-    "sha256": "eb7c011939ccc1c8ac93fd19f9a80ec0b775b78a2b2f268ab2daab78d94b9fbe",
-    "size": 200723,
-    "commit": "1001174",
-    "subject": "Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.",
-    "built": "2026-11-27T06:00:47.466Z",
-    "src": "a861737e58a24fb6bc5ea8a37f2fd971467d4ebd25ab23cfd0da40b63563da78"
+    "sha256": "5e131bfe3a2f1626c649b388364839d443c9e470d8a9c10bc8afd5ee08dc17d7",
+    "size": 200615,
+    "commit": "1d048e8",
+    "subject": "Morphe: the Manager is Family Updater, not YouTube+ Manager",
+    "built": "2026-11-28T07:05:22.616Z",
+    "src": "42104d85e0efab2708d5d3bfe2bfe8347df5b291d5c4d3ac8b52ae2ccd50b786"
   },
   "nudge": {
     "label": "Nudge",
