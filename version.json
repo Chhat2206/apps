@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 370,
+    "code": 371,
     "file": "stocks.apk",
-    "sha256": "78c1391a7763956075569247fc04e31f7b51b0c34eb74571885cf33166a6561a",
-    "size": 9006783,
-    "commit": "f44f057",
-    "subject": "Ledger net worth: past stocks are what went in on the day, the gains come in gradually. Before the Worth tab's first line (10 Nov 2026) the stocks and the Saving pot were what had been put in by that day times one rate, the first line's figure over what was in by then (×1.17), so Xavier's Jul 2025 pay showed 17% up the day it landed: ฿28,555 for the ฿24,350 that was there. Now the rate grows in a straight line from nothing on the day money first went in to the whole gain on the first line's day. On the real data: 11 Jul 2025 ฿24,350 (exactly what was in), 20 Aug ฿54,970 for ฿54,201, 1 Jan 2026 ฿162,805 for ฿153,343, and 10 Nov 2026 ฿624,156, the first line itself, so the line still ends on the live figures. Today's net worth is not touched. Asked: \"show stocks at exactly what you put in on the day it arrived, and add the gains in gradually\" → \"yes\". Checked by running the page's own mPastRest and mRestOn on the cached sheets with the four Xavier lines; suite 307/308, the one failure being shadow.test's Unix file mode check, which cannot pass on Windows.",
-    "built": "2026-11-28T03:47:39.854Z",
-    "src": "5853627543b641ad318cb861b04f9a12faedb23a6be5c4988c5dc2bfd02fe61f"
+    "sha256": "d33a3f946f9858ba3479a31106852540789b0c772e79bc71f73e61484cd45517",
+    "size": 9008095,
+    "commit": "683662c",
+    "subject": "Ledger: a Scan QR button when card bills are not set up, and the past line no longer carries today's card bills back to 2025. The tablet, set up without the Credit Card sheet, said \"Card bills not set up: scan the Ledger QR again\" with no way to do it, and read −฿50,291 on 8 Jun 2025 where the phone read −฿30,769: with no card bills by day it took the first Worth line's (10 Nov 2026) bills off every day before it. Now (1) in the app that line has a Scan QR button, which opens setup.html#scan: the camera starts at once, and a device already set up gets \"Back to the app\" (the laptop's page shows no button: config.json is its fix); (2) every device keeps the card bills by day it last read (localStorage ledger.cardsLog) and uses them when the sheet is not read; (3) a device that never read them counts the first line's bills only for the 60 days before it, since a bill owed then was bought within about two months. The Ledger QR on the Pi does carry the Credit Card sheet, so a rescan fixes the tablet for good. Asked: \"it says on my tab card bills not set up scan the ledger qr again and 8 june 2025 is -50k on tablet\", \"add a button to help rescan the qr if a qr related issue pops up\". Tests: new test/ledger-rescan-e2e.mjs on a spare copy with the real sheets (nothing sent): 8 Jun 2025 reads −฿30,769 read, kept and never read; the weeks before the first line match the read; no button in the browser, Scan QR in the app only when not set up, it lands on setup.html#scan, the camera is asked at once there and not without #scan, Back reaches the app. Red with the bills carried back forever (−฿50,291, the tablet's figure), with the kept history off, with the button gone, with the #scan start gone. Suite 307/308, the one failure being shadow.test's Unix file mode check, which cannot pass on Windows.",
+    "built": "2026-11-28T03:56:49.535Z",
+    "src": "7f2cfebc7952ade9294ccceb922c59176af9585fa2c1cd2a92e1eb3885a57cd5"
   },
   "papa": {
     "label": "Papa's book",
