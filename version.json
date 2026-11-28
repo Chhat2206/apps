@@ -244,13 +244,13 @@
   },
   "nudge": {
     "label": "Nudge",
-    "code": 3,
+    "code": 4,
     "file": "nudge.apk",
-    "sha256": "f307510f3eab8fc6f198618e2ca7c2900fb736fdd3687cf04935be3d7ddd44e0",
-    "size": 177680,
-    "commit": "0ee3a15",
-    "subject": "Nudge: the app starts again. The page called every Android bridge method with two arguments (ask(name, a, b) passed undefined for the missing ones), and Android's WebView bridge finds a Java method by its name AND its number of arguments, so the very first call, config(undefined, undefined), threw \"Method not found\" and the page stopped on a black screen. Now ask() passes only the arguments given. The jsdom drive's stand-in let any count through, which is how it passed: it now reads each @JavascriptInterface method and its argument count from MainActivity.java and refuses a call with another count, as Android does. Proof: on the emulator (Android 15) the old APK logs \"Uncaught Error: Method not found (nudge.js:41)\" with nothing drawn; the fixed one opens on Scan the QR code, takes a setup, Who are you?, draws home and runs Listen as a foreground service (remoteMessaging). Drive passes; with the old ask() it is red on the same \"Method not found\". Relay 15/15, javacheck 13/13. Asked: \"nudge app isnt booting fix it pls\".",
-    "built": "2026-11-28T07:22:22.598Z",
-    "src": "83604a55b4be19303d70b0f728674c7eb48a00fc1b431fb7a8e39bc317624c37"
+    "sha256": "758a5686b7404cbfcb4c4b7311770652b87f48b0861f9a2c39a9044fcc9cade1",
+    "size": 179704,
+    "commit": "54c7229",
+    "subject": "Nudge: nudge every 1, 3, 5 or 10 minutes, or a custom gap in seconds, minutes or hours. New task's Nudge row is Once | 1 min | 3 min | 5 min | 10 min | Custom; Custom opens a number and Seconds | Minutes | Hours, with \"Every 45 sec until it is done\" under it; from 10 seconds to 24 hours, anything else goes red and is not sent; the next new task opens on last time's gap. A task now carries everyS (seconds, tasks.mjs everySOf) and still every in whole minutes, so a phone on the older build nudges every minute for a 30 s task until it updates; tasks from before read every as minutes. Plan.java nudges on everyS, with the early-ring slack at most a quarter of the gap (20 s slack would ring a 10 s task every time); the notification, the cards and the sheet's Nudge every column say it in words (30 sec, 1 h 30 min). Proof: relay 16/16 (new: gaps from seconds to a day, old minutes-only tasks, the sheet's words), javacheck 14/14 (new: seconds between nudges), drive passes (new: the six choices, 5 s refused, 30 s sent and shown on Papa's phone, the sheet, last gap remembered); mutants red: relay ignoring everyS (2 fail), the page sending minutes only (drive), the 20 s slack (PlanTest). On the emulator a task every 15 s rang at +15.003 s and +15.005 s from an exact alarm. Asked: \"add 'mumma' and custom like 1 minute 3 minutes 5 minutes 10 minutes and custom for x seconds minutes hours\".",
+    "built": "2026-11-28T07:39:19.110Z",
+    "src": "f816b5cd4b4ca76a50ec73f24ad62fee12ea1eeb933a8290b01e23fb1e597a8c"
   }
 }
