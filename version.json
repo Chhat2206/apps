@@ -176,14 +176,14 @@
   },
   "weight": {
     "label": "Weight",
-    "code": 42,
+    "code": 43,
     "file": "weight.apk",
-    "sha256": "6a78d4716388b25456640c17e0a686edbc9f15b188542ed7fe3e73ba6c85b1c7",
-    "size": 629872,
-    "commit": "8e33483",
-    "subject": "Restaurants: the new icon, B The rated plate.",
-    "built": "2026-11-28T07:15:33.256Z",
-    "src": "7f7fb1ea958602d5c82fe88e7ab4088eda0a1729a90fc1902fd2c9b6df98a0d1"
+    "sha256": "f9b4419755e56cad45bdad00d943de14d13e17c2fff7e5ba936738bfbacf4363",
+    "size": 635852,
+    "commit": "a6f87ce",
+    "subject": "Weight widgets: a tap on Food this month opens Add what you ate, and an arrow on the chart widget flips it to the weight day by day.",
+    "built": "2026-11-28T10:05:55.597Z",
+    "src": "580575ffecc5977e138724eaf83a8491b0abe4e5b6a6aab37deeb8f49bc6d45c"
   },
   "friends": {
     "label": "Friends Launcher",

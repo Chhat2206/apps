@@ -25,6 +25,6 @@ shows "can't display". After that the app updates itself from here.
 - **Translate** — [translate.apk](https://chhat2206.github.io/apps/translate.apk), build 15, 2026-11-28: Translate: the widget's pop-up box is the widget's bar. Tapping the bar opened a #141414 box with a 22sp grey hint that wrapped onto two lines; from the widget the box is now the bar's own #1A1A1A pill with the palette-coloured icon at its start and the 17sp hint on one line, so the pop-up looks like what was tapped. The app's own box is unchanged. Asked: "Match the colour scheme of the other app, make it 1 line not 2". javacheck 37/37.
 - **Trip Money** — [trip-money.apk](https://chhat2206.github.io/apps/trip-money.apk), build 52, 2026-11-27: papa summariser: the priority test follows today's order (Insource, Priyanka, Musuno, Pravin last).
 - **Warranty** — [warranty.apk](https://chhat2206.github.io/apps/warranty.apk), build 41, 2026-11-27: Every app: Uploading with a spinner while what was kept offline goes up; No Wi-Fi from the phone's own connection.
-- **Weight** — [weight.apk](https://chhat2206.github.io/apps/weight.apk), build 42, 2026-11-28: Restaurants: the new icon, B The rated plate.
+- **Weight** — [weight.apk](https://chhat2206.github.io/apps/weight.apk), build 43, 2026-11-28: Weight widgets: a tap on Food this month opens Add what you ate, and an arrow on the chart widget flips it to the weight day by day.
 
 Written by CI. Nothing here is edited by hand, and every publish replaces the whole history.
