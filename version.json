@@ -222,14 +222,14 @@
   },
   "reddit": {
     "label": "Reddit Snoo",
-    "code": 44,
+    "code": 45,
     "file": "reddit.apk",
-    "sha256": "d1f359d2a96258bfefd121c2691fa6604bac4adb3751bdb6e1efad97f58782b5",
-    "size": 343695,
-    "commit": "3f12fcd",
-    "subject": "Reddit: the history follows you between phones on the Reddit Google Sheet. You › History, the posts read (what Unread only leaves out) and the searches go to the sheet's History, Read and Searches tabs and come back from them, merged three ways (reddit/public/hist.js), so what one phone opened, cleared or marked unread reaches the others; something taken off on one phone but opened again on another since stays. Sent a few seconds after a change, at start, when the app comes back to the front and when the internet is back; with no internet it stays on the phone and goes later. Set up under You › Google Sheets with the setup QR (new app `reddit` in adblock/lib/setup.mjs and Control's QR list) or a pasted phone-setup.json. The sheet's requests go out through Warranty's Http bridge (net.js), Reddit's own still through MainActivity; the APK gets the camera for the QR. Asked: \"save reddit history to a google sheet so it saves between devices\". Tests: hist.test.mjs (9, three mutants each red), page.mjs G checks (25) against a stand-in Google that refuses writes past a tab's grid (taking out the grid sizing = 2 red); javacheck 11 unit tests; Ad Block 26. page.mjs's V check (the list's picture copy) was already NOT OK before this change.",
-    "built": "2026-11-28T06:50:04.632Z",
-    "src": "a3a003c714ed77a73e91e26f964a2ab2022b93e8df89fb8a0eef7acc18291811"
+    "sha256": "5010bc5cff9e9f7adc8c1931ca122ccbb5e3b6bddb0652e9fe7f838f98966ad3",
+    "size": 343987,
+    "commit": "0ee3a15",
+    "subject": "Nudge: the app starts again. The page called every Android bridge method with two arguments (ask(name, a, b) passed undefined for the missing ones), and Android's WebView bridge finds a Java method by its name AND its number of arguments, so the very first call, config(undefined, undefined), threw \"Method not found\" and the page stopped on a black screen. Now ask() passes only the arguments given. The jsdom drive's stand-in let any count through, which is how it passed: it now reads each @JavascriptInterface method and its argument count from MainActivity.java and refuses a call with another count, as Android does. Proof: on the emulator (Android 15) the old APK logs \"Uncaught Error: Method not found (nudge.js:41)\" with nothing drawn; the fixed one opens on Scan the QR code, takes a setup, Who are you?, draws home and runs Listen as a foreground service (remoteMessaging). Drive passes; with the old ask() it is red on the same \"Method not found\". Relay 15/15, javacheck 13/13. Asked: \"nudge app isnt booting fix it pls\".",
+    "built": "2026-11-28T07:21:28.084Z",
+    "src": "8ca94c7f284d3f457ddb848546be36e656432e486243beca5bd73760332812c2"
   },
   "morphe": {
     "label": "Family Updater",
