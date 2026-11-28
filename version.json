@@ -244,13 +244,13 @@
   },
   "nudge": {
     "label": "Nudge",
-    "code": 2,
+    "code": 3,
     "file": "nudge.apk",
-    "sha256": "0f0e0ab8ee4baca60c67b8bb9ca028adf3dea996791645f2539a3e4c6d73cf4f",
-    "size": 177552,
-    "commit": "388fcaa",
-    "subject": "Nudge: seven fixes from a review of the phone side. A task that came before notifications were allowed (Android 13+ starts with them off) was counted as nudged and never shown; now it rings as soon as they are allowed, also from Settings (the app nudges again on every return). Nudges are alarm clocks, so every 5 minutes holds while the phone dozes (the other kind is let through only every ~9 minutes). An answer from the Pi older than a tick just sent no longer brings the ticked task back. Done on a notification can no longer hold Android's receiver past its limit. A place allowed in Settings is watched at once. A second Save where I am is no longer cut short by the first one's timeout. A send that keeps failing waits longer each time, up to 2 minutes, instead of every 15 s for ever. Proof: compiles against android.jar, unit tests 13/13, the two-phone drive passes.",
-    "built": "2026-11-27T07:17:01.789Z",
-    "src": "6dd10f37891e3782332ace919996d2694fe59be28f60c11bc4db6ae7152b06f0"
+    "sha256": "f307510f3eab8fc6f198618e2ca7c2900fb736fdd3687cf04935be3d7ddd44e0",
+    "size": 177680,
+    "commit": "0ee3a15",
+    "subject": "Nudge: the app starts again. The page called every Android bridge method with two arguments (ask(name, a, b) passed undefined for the missing ones), and Android's WebView bridge finds a Java method by its name AND its number of arguments, so the very first call, config(undefined, undefined), threw \"Method not found\" and the page stopped on a black screen. Now ask() passes only the arguments given. The jsdom drive's stand-in let any count through, which is how it passed: it now reads each @JavascriptInterface method and its argument count from MainActivity.java and refuses a call with another count, as Android does. Proof: on the emulator (Android 15) the old APK logs \"Uncaught Error: Method not found (nudge.js:41)\" with nothing drawn; the fixed one opens on Scan the QR code, takes a setup, Who are you?, draws home and runs Listen as a foreground service (remoteMessaging). Drive passes; with the old ask() it is red on the same \"Method not found\". Relay 15/15, javacheck 13/13. Asked: \"nudge app isnt booting fix it pls\".",
+    "built": "2026-11-28T07:22:22.598Z",
+    "src": "83604a55b4be19303d70b0f728674c7eb48a00fc1b431fb7a8e39bc317624c37"
   }
 }
