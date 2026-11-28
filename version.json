@@ -1,14 +1,14 @@
 {
   "stocks": {
     "label": "Ledger",
-    "code": 371,
+    "code": 372,
     "file": "stocks.apk",
-    "sha256": "d33a3f946f9858ba3479a31106852540789b0c772e79bc71f73e61484cd45517",
-    "size": 9008095,
-    "commit": "683662c",
-    "subject": "Ledger: a Scan QR button when card bills are not set up, and the past line no longer carries today's card bills back to 2025. The tablet, set up without the Credit Card sheet, said \"Card bills not set up: scan the Ledger QR again\" with no way to do it, and read −฿50,291 on 8 Jun 2025 where the phone read −฿30,769: with no card bills by day it took the first Worth line's (10 Nov 2026) bills off every day before it. Now (1) in the app that line has a Scan QR button, which opens setup.html#scan: the camera starts at once, and a device already set up gets \"Back to the app\" (the laptop's page shows no button: config.json is its fix); (2) every device keeps the card bills by day it last read (localStorage ledger.cardsLog) and uses them when the sheet is not read; (3) a device that never read them counts the first line's bills only for the 60 days before it, since a bill owed then was bought within about two months. The Ledger QR on the Pi does carry the Credit Card sheet, so a rescan fixes the tablet for good. Asked: \"it says on my tab card bills not set up scan the ledger qr again and 8 june 2025 is -50k on tablet\", \"add a button to help rescan the qr if a qr related issue pops up\". Tests: new test/ledger-rescan-e2e.mjs on a spare copy with the real sheets (nothing sent): 8 Jun 2025 reads −฿30,769 read, kept and never read; the weeks before the first line match the read; no button in the browser, Scan QR in the app only when not set up, it lands on setup.html#scan, the camera is asked at once there and not without #scan, Back reaches the app. Red with the bills carried back forever (−฿50,291, the tablet's figure), with the kept history off, with the button gone, with the #scan start gone. Suite 307/308, the one failure being shadow.test's Unix file mode check, which cannot pass on Windows.",
-    "built": "2026-11-28T03:56:49.535Z",
-    "src": "7f2cfebc7952ade9294ccceb922c59176af9585fa2c1cd2a92e1eb3885a57cd5"
+    "sha256": "2bdee895a772857cb5e80bdbdde4b28535a8ee7c8dbf271d0a65ab774e0fa369",
+    "size": 9013231,
+    "commit": "3f12fcd",
+    "subject": "Reddit: the history follows you between phones on the Reddit Google Sheet. You › History, the posts read (what Unread only leaves out) and the searches go to the sheet's History, Read and Searches tabs and come back from them, merged three ways (reddit/public/hist.js), so what one phone opened, cleared or marked unread reaches the others; something taken off on one phone but opened again on another since stays. Sent a few seconds after a change, at start, when the app comes back to the front and when the internet is back; with no internet it stays on the phone and goes later. Set up under You › Google Sheets with the setup QR (new app `reddit` in adblock/lib/setup.mjs and Control's QR list) or a pasted phone-setup.json. The sheet's requests go out through Warranty's Http bridge (net.js), Reddit's own still through MainActivity; the APK gets the camera for the QR. Asked: \"save reddit history to a google sheet so it saves between devices\". Tests: hist.test.mjs (9, three mutants each red), page.mjs G checks (25) against a stand-in Google that refuses writes past a tab's grid (taking out the grid sizing = 2 red); javacheck 11 unit tests; Ad Block 26. page.mjs's V check (the list's picture copy) was already NOT OK before this change.",
+    "built": "2026-11-28T06:57:40.139Z",
+    "src": "268d0280aaee50299be5ef84cfb74694577b297e676397c663b81faa05058896"
   },
   "papa": {
     "label": "Papa's book",
